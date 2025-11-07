@@ -2,6 +2,11 @@
 
 Comprehensive retrieval accuracy benchmarks comparing PLOON, TOON, JSON, YAML, CSV, and XML formats across multiple LLM models using OpenRouter.
 
+**Learn more about PLOON:**
+- 📦 [PLOON-js Repository](https://github.com/ulpi-io/ploon-js) - JavaScript/TypeScript implementation
+- 🌐 [ploon.ai](https://www.ploon.ai) - Documentation and examples
+- 🔄 [PLOON Converter](https://www.ploon.ai/converter) - Convert between JSON, YAML, CSV, XML, TOON, and PLOON
+
 ## Overview
 
 This benchmark suite evaluates how well LLMs can retrieve information from structured data in different formats. It uses **LLM-as-judge** for semantic answer validation and measures both accuracy and performance.
@@ -19,6 +24,13 @@ This benchmark suite evaluates how well LLMs can retrieve information from struc
 - **Response time**: Model response latency (excluding judge validation)
 
 ## Quick Links
+
+### 📊 Benchmark Results
+
+| Report | Description |
+|--------|-------------|
+| [**Summary Report**](./reports-summaries.md) | Quick overview of all benchmarks with cost, accuracy, and speed comparisons |
+| [**Detailed Reports**](./reports.md) | Full analysis with tables showing token usage, accuracy, cost rankings, and speed rankings for each model/dataset combination |
 
 ### Datasets & Questions
 
@@ -132,6 +144,18 @@ npm run benchmark -- --model "anthropic/claude-sonnet-4.5" --dataset products
 
 Results are saved to `results/{dataset}/{model}.json`.
 
+### 4. Analyze Results
+
+Generate reports from benchmark results:
+
+```bash
+npm run analyze
+```
+
+This creates two report files:
+- **`reports-summaries.md`** - Summary table with cost/accuracy/speed comparisons
+- **`reports.md`** - Detailed analysis with full tables for each model/dataset
+
 ## Directory Structure
 
 ```
@@ -152,6 +176,8 @@ benchmarks/retrieval/
 │   │   ├── openai-gpt-4o.json
 │   │   └── google-gemini-2.0-flash-exp.json
 │   └── ...
+├── reports.md                   - Detailed benchmark reports
+├── reports-summaries.md         - Summary table
 └── src/
     ├── config.ts                - Configuration
     ├── types.ts                 - TypeScript types
@@ -165,7 +191,8 @@ benchmarks/retrieval/
     │   └── error-logs.ts
     ├── generate-data.ts         - Step 1: Generate datasets
     ├── generate-questions.ts    - Step 2: Generate questions
-    └── run-benchmark.ts         - Step 3: Run evaluation
+    ├── run-benchmark.ts         - Step 3: Run evaluation
+    └── analyze-results.ts       - Step 4: Generate reports
 ```
 
 ## Configuration
@@ -363,6 +390,9 @@ npm run generate-questions
 
 # Test one model + one dataset
 npm run benchmark -- --model "openai/gpt-5-chat" --dataset support-tickets
+
+# Generate reports
+npm run analyze
 ```
 
 ### Estimated costs and runtime
