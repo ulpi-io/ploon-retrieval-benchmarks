@@ -49,8 +49,42 @@ function getFormatExplanation(format: FormatName): string {
     'yaml': 'YAML format: indentation-based structure with key: value pairs. Nested objects shown by increased indentation, arrays use dash notation.',
     'csv': 'CSV format (FLATTENED): comma-separated values with headers in first row. Nested data is flattened into dot notation columns (e.g., contact.email).',
     'xml': 'XML format: nested tags with opening/closing pairs. Child elements represent nested objects, attributes show simple properties.',
-    'toon': 'TOON format: indentation-based with key: value pairs. Arrays of objects use tabular format with headers (e.g., items[2]{id,name}:). Primitive arrays are comma-separated inline.',
-    'ploon': 'PLOON format: Header [array#count](field1,field2,...) defines exact field order. Data rows: depth:index|value1|value2|... where values match header order. Depth 1 = top-level items (1:1, 1:2...), depth 2 = nested (2:1, 2:2...). Primitive arrays are comma-separated inline. Example: [users#2](id,name)\\n1:1|1|Alice\\n1:2|2|Bob',
+    'toon': `TOON format: Indentation-based with key: value pairs. 
+
+    Arrays of objects use tabular format with headers (e.g., items[2]{id,name}:). 
+    Primitive arrays are comma-separated inline.`,
+    
+    'ploon': `Pipe-delimited hierarchical data.
+- Arrays: depth:index|values (1:1, 2:1, 3:1)
+- Objects: depth |values (no index, just space)
+
+Example:
+[products#1](id,name|colors#(name|sizes#(size,stock))|specs{weight,width})
+1:1|P001|Shirt
+2:1|Red
+3:1|M|50
+3:2|L|30
+2:2|Blue
+3:1|S|20
+2 |2.5|15.0
+
+Q: Product P001 name?
+A: Shirt
+
+Q: Product weight?
+A: 2.5
+
+Extract exact value only.`,
+// 'ploon': `PLOON: Pipe-delimited format where header field positions map to data value positions.
+
+// [array#count](field1,field2) = header with field positions
+// Array => depth:index|value1|value2 = data values at matching positions
+// Object => depth |value1|value2 = data values at matching positions
+
+// To find by ID: scan ID field position in ALL rows until match found.
+// To count/aggregate: process ALL rows unless question specifies filter. Round averages to integers.
+// Extract exact field values between pipes - no modifications.
+// Output only the final answer, no steps.`,
   }
   return explanations[format]
 }
@@ -68,23 +102,13 @@ async function evaluateQuestion(
 
   const formatExplanation = getFormatExplanation(format)
 
-  const systemPrompt = `You are a data extraction tool. Output ONLY the raw answer value with no explanations.
+  const systemPrompt = `You are a data extraction tool. Output ONLY the raw answer value.
 
-Data format: ${formatExplanation}
+${formatExplanation}
 
-CRITICAL RULES:
-- Output must be a SINGLE SHORT VALUE only (e.g., "12", "/api/orders", "503")
-- NO explanations or descriptions
-- NO "the answer is..." or similar phrases
-- NO markdown, formatting, or code blocks
-- NO reasoning, thinking, or working
-- NO multiple lines or extra words
+Rules: Single value only. No explanations, markdown, or extra text.`
 
-Your entire response must be the raw answer value and nothing more.`
-
-  const userPrompt = `\`\`\`
-${formattedData}
-\`\`\`
+const userPrompt = `${formattedData}
 
 Question: ${question.prompt}
 
@@ -98,7 +122,8 @@ Answer:`
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt }
     ],
-    max_tokens: 10000,
+    max_tokens: 100,
+    temperature: 0,
   })
 
   const responseTimeMs = performance.now() - startTime
