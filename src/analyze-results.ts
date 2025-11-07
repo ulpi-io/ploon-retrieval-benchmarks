@@ -65,6 +65,17 @@ function getRankDisplay(rank: number): string {
 }
 
 /**
+ * Pad string accounting for emoji visual width (emojis take 2 visual spaces)
+ */
+function padWithEmoji(str: string, width: number): string {
+  // Count emojis in string (they take 2 visual spaces but count as 1 char)
+  const emojiCount = (str.match(/[\u{1F300}-\u{1F9FF}]/gu) || []).length
+  // Adjust padding to account for extra visual width of emojis
+  const adjustedWidth = width - emojiCount
+  return str.padStart(adjustedWidth)
+}
+
+/**
  * Format time in seconds
  */
 function formatTime(ms: number): string {
@@ -195,9 +206,9 @@ function generateReport(report: ModelReport): string {
     output += correct.padStart(7) + ' │ '
     output += (accuracy + '%').padStart(8) + ' │ '
     output += savings.padStart(6) + '% │ '
-    output += getRankDisplay(accuracyRank).padStart(12) + ' │ '
-    output += getRankDisplay(speedRank).padStart(10) + ' │ '
-    output += getRankDisplay(costRank).padStart(9) + ' │\n'
+    output += padWithEmoji(getRankDisplay(accuracyRank), 12) + ' │ '
+    output += padWithEmoji(getRankDisplay(speedRank), 10) + ' │ '
+    output += padWithEmoji(getRankDisplay(costRank), 9) + ' │\n'
   })
 
   output += '└────────┴─────────────┴──────────────┴──────────────┴──────────┴─────────┴──────────┴─────────┴──────────────┴────────────┴───────────┘\n'
