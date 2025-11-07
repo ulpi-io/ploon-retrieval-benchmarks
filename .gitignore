@@ -5,9 +5,6 @@ node_modules/
 dist/
 build/
 
-# Generated results
-results/
-
 # Environment variables (contains API keys)
 .env
 .env.local
