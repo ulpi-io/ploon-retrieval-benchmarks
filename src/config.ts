@@ -29,6 +29,8 @@ export const CONFIG = {
    */
   evaluationModels: [
     'openai/gpt-5',
+    'openai/gpt-4o-mini',
+    'openai/gpt-4o',
     'anthropic/claude-sonnet-4.5',
     'google/gemini-2.5-flash',
     'x-ai/grok-4-fast',
@@ -44,6 +46,14 @@ export const CONFIG = {
    * Model pricing (per million tokens)
    */
   pricing: {
+    'openai/gpt-4o': {
+      input: 2.50,  // $ per 1M input tokens
+      output: 10.0, // $ per 1M output tokens
+    },
+    'openai/gpt-4o-mini': {
+      input: 0.15,  // $ per 1M input tokens
+      output: 0.60, // $ per 1M output tokens
+    },
     'openai/gpt-5': {
       input: 1.25,  // $ per 1M input tokens
       output: 10.0, // $ per 1M output tokens

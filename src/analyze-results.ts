@@ -8,6 +8,7 @@ import { CONFIG } from './config'
 import type { EvaluationResult, FormatName } from './types'
 
 const RESULTS_DIR = path.join(process.cwd(), 'results')
+const SUMMARIES_DIR = path.join(RESULTS_DIR, '_summaries')
 
 interface FormatStats {
   format: FormatName
@@ -404,17 +405,71 @@ function main() {
     summaryOutput += `| ${row.dataset} | ${row.model} | ${row.result} |\n`
   }
 
-  // Write to reports.md
-  const reportsPath = path.join(process.cwd(), 'reports.md')
-  fs.writeFileSync(reportsPath, mdOutput, 'utf-8')
+  // Create summaries directory if it doesn't exist
+  if (!fs.existsSync(SUMMARIES_DIR)) {
+    fs.mkdirSync(SUMMARIES_DIR, { recursive: true })
+  }
 
-  // Write to reports-summaries.md
+  // Generate timestamp for this report
+  const timestamp = new Date().toISOString().replace(/:/g, '-').replace(/\..+/, '')
+
+  // Save timestamped versions
+  const timestampedReportPath = path.join(SUMMARIES_DIR, `reports-${timestamp}.md`)
+  const timestampedSummaryPath = path.join(SUMMARIES_DIR, `reports-summaries-${timestamp}.md`)
+
+  fs.writeFileSync(timestampedReportPath, mdOutput, 'utf-8')
+  fs.writeFileSync(timestampedSummaryPath, summaryOutput, 'utf-8')
+
+  // Get all previous reports and summaries, sorted by timestamp (newest first)
+  const allReports = fs.readdirSync(SUMMARIES_DIR)
+    .filter(f => f.startsWith('reports-') && f.endsWith('.md') && !f.includes('summaries'))
+    .sort()
+    .reverse()
+
+  const allSummaries = fs.readdirSync(SUMMARIES_DIR)
+    .filter(f => f.startsWith('reports-summaries-') && f.endsWith('.md'))
+    .sort()
+    .reverse()
+
+  // Build table of contents for reports
+  let reportTOC = '# PLOON Retrieval Benchmarks - Results Analysis\n\n'
+  reportTOC += '## Table of Contents\n\n'
+  reportTOC += '| Date | Report |\n'
+  reportTOC += '|------|--------|\n'
+
+  for (const report of allReports) {
+    const timestamp = report.replace('reports-', '').replace('.md', '')
+    const date = timestamp.replace('T', ' ').replace(/-/g, ':')
+    const link = `results/_summaries/${report}`
+    reportTOC += `| ${date} | [View Report](${link}) |\n`
+  }
+
+  // Build table of contents for summaries
+  let summaryTOC = '# PLOON Retrieval Benchmarks - Summary\n\n'
+  summaryTOC += '## Table of Contents\n\n'
+  summaryTOC += '| Date | Summary |\n'
+  summaryTOC += '|------|--------|\n'
+
+  for (const summary of allSummaries) {
+    const timestamp = summary.replace('reports-summaries-', '').replace('.md', '')
+    const date = timestamp.replace('T', ' ').replace(/-/g, ':')
+    const link = `results/_summaries/${summary}`
+    summaryTOC += `| ${date} | [View Summary](${link}) |\n`
+  }
+
+  // Write to root-level reports.md with TOC
+  const reportsPath = path.join(process.cwd(), 'reports.md')
+  fs.writeFileSync(reportsPath, reportTOC, 'utf-8')
+
+  // Write to root-level reports-summaries.md with TOC
   const summariesPath = path.join(process.cwd(), 'reports-summaries.md')
-  fs.writeFileSync(summariesPath, summaryOutput, 'utf-8')
+  fs.writeFileSync(summariesPath, summaryTOC, 'utf-8')
 
   console.log(`\n✅ Generated ${totalReports} reports`)
-  console.log(`📄 Saved to: ${reportsPath}`)
-  console.log(`📄 Summaries saved to: ${summariesPath}\n`)
+  console.log(`📄 Saved timestamped report to: ${timestampedReportPath}`)
+  console.log(`📄 Saved timestamped summary to: ${timestampedSummaryPath}`)
+  console.log(`📄 Updated TOC in: ${reportsPath}`)
+  console.log(`📄 Updated TOC in: ${summariesPath}\n`)
 }
 
 main()
