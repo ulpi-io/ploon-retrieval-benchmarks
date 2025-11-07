@@ -151,6 +151,17 @@ async function runDatasetBenchmark(datasetName: DatasetName, model: string) {
   const questions = loadQuestions(datasetName)
   console.log(`  Loaded ${questions.length} questions`)
 
+  // Create timestamped results file
+  const timestamp = new Date().toISOString().replace(/:/g, '-').replace(/\..+/, '')
+  const datasetResultsDir = path.join(RESULTS_DIR, datasetName)
+  if (!fs.existsSync(datasetResultsDir)) {
+    fs.mkdirSync(datasetResultsDir, { recursive: true })
+  }
+
+  const modelFileName = model.replace(/\//g, '-')
+  const resultsPath = path.join(datasetResultsDir, `${modelFileName}-${timestamp}.json`)
+  console.log(`  Results will be saved to: ${resultsPath}`)
+
   // Create results for this dataset
   const results: EvaluationResult[] = []
   let completed = 0
@@ -165,9 +176,12 @@ async function runDatasetBenchmark(datasetName: DatasetName, model: string) {
         const result = await evaluateQuestion(question, format, formattedData, model)
         results.push(result)
 
+        // Save incrementally after each question
+        fs.writeFileSync(resultsPath, JSON.stringify(results, null, 2), 'utf-8')
+
         completed++
         const percent = ((completed / (questions.length * CONFIG.formats.length)) * 100).toFixed(1)
-        console.log(`  📊 Progress: ${completed}/${questions.length * CONFIG.formats.length} (${percent}%)`)
+        console.log(`  📊 Progress: ${completed}/${questions.length * CONFIG.formats.length} (${percent}%) - Saved to ${resultsPath}`)
       } catch (error) {
         console.error(`  ❌ Error evaluating ${question.id} with ${format}: ${error}`)
       }
@@ -177,17 +191,7 @@ async function runDatasetBenchmark(datasetName: DatasetName, model: string) {
     }
   }
 
-  // Save results
-  const datasetResultsDir = path.join(RESULTS_DIR, datasetName)
-  if (!fs.existsSync(datasetResultsDir)) {
-    fs.mkdirSync(datasetResultsDir, { recursive: true })
-  }
-
-  const modelFileName = model.replace(/\//g, '-')
-  const resultsPath = path.join(datasetResultsDir, `${modelFileName}.json`)
-  fs.writeFileSync(resultsPath, JSON.stringify(results, null, 2), 'utf-8')
-
-  console.log(`  ✓ Saved results to ${resultsPath}`)
+  console.log(`  ✓ Completed benchmark - Final results saved to ${resultsPath}`)
 
   // Calculate accuracy
   const accuracy = results.filter(r => r.isCorrect).length / results.length
