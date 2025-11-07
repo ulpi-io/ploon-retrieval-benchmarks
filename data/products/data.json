@@ -1,0 +1,1507 @@
+[
+  {
+    "id": "P00001",
+    "name": "Soft Bronze Gloves",
+    "category": "Electronics",
+    "basePrice": 419.29,
+    "rating": 1.6,
+    "reviewCount": 345,
+    "tags": [
+      "bestseller",
+      "on-sale"
+    ],
+    "colors": [
+      {
+        "name": "Gray",
+        "hex": "#808080",
+        "sizes": [
+          {
+            "size": "M",
+            "sku": "SKU-9LZ08Q9X",
+            "inStock": 51,
+            "price": 422.68
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-PNA0LUHS",
+            "inStock": 41,
+            "price": 429.34
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-WWPACAS0",
+            "inStock": 8,
+            "price": 426.89
+          },
+          {
+            "size": "S",
+            "sku": "SKU-9WVP8XYK",
+            "inStock": 27,
+            "price": 428.12
+          }
+        ]
+      },
+      {
+        "name": "Pink",
+        "hex": "#FFC0CB",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-CMTH1HIF",
+            "inStock": 37,
+            "price": 427.76
+          },
+          {
+            "size": "S",
+            "sku": "SKU-30SU8M28",
+            "inStock": 46,
+            "price": 434.85
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-7GZIGNI9",
+            "inStock": 83,
+            "price": 432.54
+          },
+          {
+            "size": "L",
+            "sku": "SKU-66D3ETCV",
+            "inStock": 96,
+            "price": 421.87
+          }
+        ]
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-4MV0A1J6",
+            "inStock": 59,
+            "price": 437.24
+          },
+          {
+            "size": "L",
+            "sku": "SKU-ARVIH1RT",
+            "inStock": 87,
+            "price": 419.39
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-H0CQWA6V",
+            "inStock": 38,
+            "price": 435.83
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-LBNGP57H",
+            "inStock": 50,
+            "price": 431.63
+          },
+          {
+            "size": "M",
+            "sku": "SKU-6ZBUTWQB",
+            "inStock": 2,
+            "price": 434.65
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-Y5R17IGS",
+            "inStock": 12,
+            "price": 430.55
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 82.4,
+      "height": 23.3,
+      "depth": 59.9,
+      "weight": 36.07
+    },
+    "createdAt": "2025-08-03T17:28:08.988Z",
+    "updatedAt": "2025-09-28T12:49:34.865Z"
+  },
+  {
+    "id": "P00002",
+    "name": "Modern Plastic Salad",
+    "category": "Furniture",
+    "basePrice": 242.85,
+    "rating": 4.8,
+    "reviewCount": 442,
+    "tags": [
+      "bestseller",
+      "eco-friendly"
+    ],
+    "colors": [
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "sizes": [
+          {
+            "size": "XS",
+            "sku": "SKU-7EFYXZDY",
+            "inStock": 59,
+            "price": 248.69
+          },
+          {
+            "size": "M",
+            "sku": "SKU-A5GCIJ0A",
+            "inStock": 16,
+            "price": 252.87
+          },
+          {
+            "size": "L",
+            "sku": "SKU-8TPKP7OM",
+            "inStock": 72,
+            "price": 262.02
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-3YENYU4I",
+            "inStock": 18,
+            "price": 245.9
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-W91HSK4D",
+            "inStock": 26,
+            "price": 243.86
+          }
+        ]
+      },
+      {
+        "name": "Brown",
+        "hex": "#A52A2A",
+        "sizes": [
+          {
+            "size": "M",
+            "sku": "SKU-V2E6EUZ0",
+            "inStock": 56,
+            "price": 245.25
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-EBSQSYVL",
+            "inStock": 27,
+            "price": 257.89
+          },
+          {
+            "size": "L",
+            "sku": "SKU-KYFYKXD1",
+            "inStock": 86,
+            "price": 253.23
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-JMUWG3TV",
+            "inStock": 24,
+            "price": 257.79
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-NDBWLV2M",
+            "inStock": 84,
+            "price": 251.84
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 21.1,
+      "height": 69.6,
+      "depth": 8,
+      "weight": 39.55
+    },
+    "createdAt": "2025-09-30T11:38:22.264Z",
+    "updatedAt": "2025-10-20T02:06:06.437Z"
+  },
+  {
+    "id": "P00003",
+    "name": "Elegant Metal Bacon",
+    "category": "Clothing",
+    "basePrice": 407.95,
+    "rating": 2.3,
+    "reviewCount": 191,
+    "tags": [
+      "on-sale",
+      "premium",
+      "limited-edition"
+    ],
+    "colors": [
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-QYJ76PUO",
+            "inStock": 36,
+            "price": 427.48
+          },
+          {
+            "size": "L",
+            "sku": "SKU-M67AQHYN",
+            "inStock": 20,
+            "price": 410.14
+          },
+          {
+            "size": "S",
+            "sku": "SKU-C29EMMZT",
+            "inStock": 32,
+            "price": 413.53
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-RIN1QWO5",
+            "inStock": 26,
+            "price": 409.44
+          },
+          {
+            "size": "M",
+            "sku": "SKU-QKQ3W8CB",
+            "inStock": 32,
+            "price": 417.12
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-EB5QFM3L",
+            "inStock": 20,
+            "price": 424.9
+          }
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "sizes": [
+          {
+            "size": "XS",
+            "sku": "SKU-P8T69BSK",
+            "inStock": 62,
+            "price": 420.75
+          },
+          {
+            "size": "L",
+            "sku": "SKU-YNY7J863",
+            "inStock": 10,
+            "price": 408.59
+          },
+          {
+            "size": "M",
+            "sku": "SKU-CBCD5JXZ",
+            "inStock": 5,
+            "price": 410.8
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-UV870LVT",
+            "inStock": 89,
+            "price": 412.66
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-DW3ODRQX",
+            "inStock": 41,
+            "price": 423.67
+          }
+        ]
+      },
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-40WUP3A6",
+            "inStock": 0,
+            "price": 413.3
+          },
+          {
+            "size": "S",
+            "sku": "SKU-TA1D7GWD",
+            "inStock": 11,
+            "price": 424.28
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-GD3WV91V",
+            "inStock": 15,
+            "price": 419.98
+          },
+          {
+            "size": "M",
+            "sku": "SKU-NIRDQ0P7",
+            "inStock": 20,
+            "price": 420.39
+          }
+        ]
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-K15GRMP9",
+            "inStock": 33,
+            "price": 417.27
+          },
+          {
+            "size": "L",
+            "sku": "SKU-YBP1CXIN",
+            "inStock": 29,
+            "price": 416.46
+          },
+          {
+            "size": "S",
+            "sku": "SKU-YF9JU151",
+            "inStock": 0,
+            "price": 424.13
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-Z6OJA30G",
+            "inStock": 96,
+            "price": 415.53
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-AKNMH06W",
+            "inStock": 45,
+            "price": 419.52
+          },
+          {
+            "size": "M",
+            "sku": "SKU-LJYYL691",
+            "inStock": 44,
+            "price": 413.33
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 33.7,
+      "height": 34.1,
+      "depth": 30.5,
+      "weight": 45.67
+    },
+    "createdAt": "2025-04-22T16:30:26.274Z",
+    "updatedAt": "2025-10-10T13:31:25.449Z"
+  },
+  {
+    "id": "P00004",
+    "name": "Rustic Aluminum Pants",
+    "category": "Books",
+    "basePrice": 193.35,
+    "rating": 5,
+    "reviewCount": 442,
+    "tags": [
+      "clearance"
+    ],
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "sizes": [
+          {
+            "size": "M",
+            "sku": "SKU-TVNN5JDQ",
+            "inStock": 89,
+            "price": 198.5
+          },
+          {
+            "size": "L",
+            "sku": "SKU-9MHD8BVT",
+            "inStock": 46,
+            "price": 197.6
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-VS4K2NFA",
+            "inStock": 47,
+            "price": 210.76
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-P1YV4H0U",
+            "inStock": 13,
+            "price": 212.73
+          },
+          {
+            "size": "S",
+            "sku": "SKU-936AUKKB",
+            "inStock": 94,
+            "price": 203.38
+          }
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-UHB7GXWF",
+            "inStock": 99,
+            "price": 194.17
+          },
+          {
+            "size": "L",
+            "sku": "SKU-JO075LTS",
+            "inStock": 52,
+            "price": 210.76
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-MX307Z2L",
+            "inStock": 85,
+            "price": 210.57
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-GLLW7VKL",
+            "inStock": 97,
+            "price": 196.72
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 55.8,
+      "height": 9.3,
+      "depth": 72.7,
+      "weight": 36.51
+    },
+    "createdAt": "2025-03-31T06:31:55.446Z",
+    "updatedAt": "2025-09-17T10:41:34.742Z"
+  },
+  {
+    "id": "P00005",
+    "name": "Fantastic Granite Ball",
+    "category": "Sports",
+    "basePrice": 57.59,
+    "rating": 2.8,
+    "reviewCount": 58,
+    "tags": [
+      "on-sale",
+      "new-arrival"
+    ],
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "sizes": [
+          {
+            "size": "M",
+            "sku": "SKU-FDUWU41I",
+            "inStock": 66,
+            "price": 59.51
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-6K86L9UV",
+            "inStock": 58,
+            "price": 61.57
+          },
+          {
+            "size": "S",
+            "sku": "SKU-5NAT5M65",
+            "inStock": 96,
+            "price": 64.28
+          }
+        ]
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-H8NG680B",
+            "inStock": 43,
+            "price": 63.54
+          },
+          {
+            "size": "L",
+            "sku": "SKU-OPIBK9J6",
+            "inStock": 24,
+            "price": 58.31
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-F6TEGDNO",
+            "inStock": 68,
+            "price": 57.97
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-28VR1FE2",
+            "inStock": 13,
+            "price": 75.81
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-5VC94REV",
+            "inStock": 84,
+            "price": 63.42
+          },
+          {
+            "size": "M",
+            "sku": "SKU-UM1XIDGH",
+            "inStock": 30,
+            "price": 72.35
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 82,
+      "height": 41.8,
+      "depth": 31.5,
+      "weight": 6.27
+    },
+    "createdAt": "2024-12-14T02:53:08.036Z",
+    "updatedAt": "2025-01-06T18:43:54.080Z"
+  },
+  {
+    "id": "P00006",
+    "name": "Bespoke Cotton Pants",
+    "category": "Home & Garden",
+    "basePrice": 37.59,
+    "rating": 3,
+    "reviewCount": 202,
+    "tags": [
+      "new-arrival",
+      "bestseller",
+      "premium"
+    ],
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#FFC0CB",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-Q06QUWC6",
+            "inStock": 89,
+            "price": 49.46
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-E33URXO7",
+            "inStock": 3,
+            "price": 53.26
+          },
+          {
+            "size": "M",
+            "sku": "SKU-6MSV15PD",
+            "inStock": 21,
+            "price": 39.53
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-NW79O2UO",
+            "inStock": 49,
+            "price": 46.07
+          },
+          {
+            "size": "S",
+            "sku": "SKU-12PLHHZY",
+            "inStock": 49,
+            "price": 50.9
+          },
+          {
+            "size": "L",
+            "sku": "SKU-N3CKHOMS",
+            "inStock": 62,
+            "price": 57.34
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "sizes": [
+          {
+            "size": "XXL",
+            "sku": "SKU-IIIXQDKJ",
+            "inStock": 59,
+            "price": 51.45
+          },
+          {
+            "size": "M",
+            "sku": "SKU-HDEHLH6T",
+            "inStock": 33,
+            "price": 46.69
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-EC5Z91CH",
+            "inStock": 33,
+            "price": 51.59
+          }
+        ]
+      },
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "sizes": [
+          {
+            "size": "XXL",
+            "sku": "SKU-PU7C6CKI",
+            "inStock": 59,
+            "price": 50.13
+          },
+          {
+            "size": "M",
+            "sku": "SKU-K6UGAM5L",
+            "inStock": 72,
+            "price": 44.01
+          },
+          {
+            "size": "L",
+            "sku": "SKU-OCDRUNAY",
+            "inStock": 20,
+            "price": 44.66
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "sizes": [
+          {
+            "size": "L",
+            "sku": "SKU-20D6BPQ8",
+            "inStock": 40,
+            "price": 51.41
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-OJRBV6ML",
+            "inStock": 41,
+            "price": 42.46
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-EZ74PFB2",
+            "inStock": 20,
+            "price": 39.4
+          },
+          {
+            "size": "S",
+            "sku": "SKU-J1GH87PJ",
+            "inStock": 30,
+            "price": 51.91
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-HXW8ML9S",
+            "inStock": 9,
+            "price": 54.41
+          },
+          {
+            "size": "M",
+            "sku": "SKU-WJNO1RSX",
+            "inStock": 47,
+            "price": 40.35
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 15.8,
+      "height": 32,
+      "depth": 98.6,
+      "weight": 31.23
+    },
+    "createdAt": "2024-11-08T09:45:56.898Z",
+    "updatedAt": "2025-08-04T17:00:57.610Z"
+  },
+  {
+    "id": "P00007",
+    "name": "Small Marble Cheese",
+    "category": "Toys",
+    "basePrice": 97.69,
+    "rating": 4.3,
+    "reviewCount": 385,
+    "tags": [
+      "premium",
+      "eco-friendly",
+      "clearance"
+    ],
+    "colors": [
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-P56SQCZJ",
+            "inStock": 63,
+            "price": 113.72
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-E567BFXE",
+            "inStock": 86,
+            "price": 100.22
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-JRC4EOJR",
+            "inStock": 94,
+            "price": 117.35
+          },
+          {
+            "size": "M",
+            "sku": "SKU-YX4Y5QHO",
+            "inStock": 7,
+            "price": 115.74
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-XD02EE31",
+            "inStock": 7,
+            "price": 98.98
+          }
+        ]
+      },
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "sizes": [
+          {
+            "size": "M",
+            "sku": "SKU-FR9NPTPJ",
+            "inStock": 41,
+            "price": 106.93
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-93Q9G9BD",
+            "inStock": 68,
+            "price": 109.53
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-Z4IEZBNE",
+            "inStock": 75,
+            "price": 112.02
+          },
+          {
+            "size": "S",
+            "sku": "SKU-R3R5TYTM",
+            "inStock": 78,
+            "price": 108.47
+          },
+          {
+            "size": "L",
+            "sku": "SKU-2VGK92H5",
+            "inStock": 7,
+            "price": 106.35
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-8RF7VIH0",
+            "inStock": 9,
+            "price": 111.04
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "hex": "#008000",
+        "sizes": [
+          {
+            "size": "XS",
+            "sku": "SKU-HI48QI1Q",
+            "inStock": 26,
+            "price": 111.14
+          },
+          {
+            "size": "M",
+            "sku": "SKU-UN1UE0WW",
+            "inStock": 40,
+            "price": 113.56
+          },
+          {
+            "size": "S",
+            "sku": "SKU-0KYNWETC",
+            "inStock": 61,
+            "price": 116.77
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-4MHYLDKP",
+            "inStock": 7,
+            "price": 110.46
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-0BUBEJEC",
+            "inStock": 52,
+            "price": 101.27
+          }
+        ]
+      },
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "sizes": [
+          {
+            "size": "L",
+            "sku": "SKU-OUO5SGDN",
+            "inStock": 78,
+            "price": 116.18
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-T9WMNN15",
+            "inStock": 41,
+            "price": 109.46
+          },
+          {
+            "size": "M",
+            "sku": "SKU-6CRVOBU0",
+            "inStock": 43,
+            "price": 98.05
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-VHLJYMHH",
+            "inStock": 82,
+            "price": 106.15
+          },
+          {
+            "size": "S",
+            "sku": "SKU-F8RDSBTE",
+            "inStock": 59,
+            "price": 117.09
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-CVLDAMCV",
+            "inStock": 63,
+            "price": 110.07
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 60.5,
+      "height": 35.7,
+      "depth": 39.1,
+      "weight": 2.91
+    },
+    "createdAt": "2025-10-19T09:17:32.773Z",
+    "updatedAt": "2025-11-01T03:16:46.984Z"
+  },
+  {
+    "id": "P00008",
+    "name": "Fresh Silk Computer",
+    "category": "Food & Beverage",
+    "basePrice": 176.9,
+    "rating": 1.5,
+    "reviewCount": 231,
+    "tags": [
+      "bestseller",
+      "clearance",
+      "limited-edition"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "sizes": [
+          {
+            "size": "XXL",
+            "sku": "SKU-YVJKZX2K",
+            "inStock": 2,
+            "price": 191.75
+          },
+          {
+            "size": "M",
+            "sku": "SKU-3RK2H554",
+            "inStock": 74,
+            "price": 178.95
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-GEPTS8ZI",
+            "inStock": 15,
+            "price": 184.62
+          },
+          {
+            "size": "S",
+            "sku": "SKU-KDKB5GLI",
+            "inStock": 64,
+            "price": 191.82
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-FGQDXCE2",
+            "inStock": 71,
+            "price": 177.85
+          },
+          {
+            "size": "L",
+            "sku": "SKU-F6IQKKK0",
+            "inStock": 31,
+            "price": 184.56
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "sizes": [
+          {
+            "size": "L",
+            "sku": "SKU-44YLO6WF",
+            "inStock": 15,
+            "price": 190.92
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-UX1XS7D7",
+            "inStock": 7,
+            "price": 177.95
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-FCLP96C5",
+            "inStock": 94,
+            "price": 189.17
+          },
+          {
+            "size": "S",
+            "sku": "SKU-W1U5DN2P",
+            "inStock": 79,
+            "price": 196.51
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-B2DXS9LB",
+            "inStock": 81,
+            "price": 189.83
+          },
+          {
+            "size": "M",
+            "sku": "SKU-LL3TZ0RY",
+            "inStock": 30,
+            "price": 190.59
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 18.8,
+      "height": 58.3,
+      "depth": 49.2,
+      "weight": 21.78
+    },
+    "createdAt": "2025-10-21T05:35:44.067Z",
+    "updatedAt": "2025-10-27T20:53:42.971Z"
+  },
+  {
+    "id": "P00009",
+    "name": "Small Wooden Chips",
+    "category": "Electronics",
+    "basePrice": 185.06,
+    "rating": 1.1,
+    "reviewCount": 197,
+    "tags": [
+      "limited-edition",
+      "bestseller",
+      "eco-friendly"
+    ],
+    "colors": [
+      {
+        "name": "Pink",
+        "hex": "#FFC0CB",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-ARZHW6FK",
+            "inStock": 72,
+            "price": 189.28
+          },
+          {
+            "size": "L",
+            "sku": "SKU-38VOTY39",
+            "inStock": 81,
+            "price": 194.14
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-M66JBNIG",
+            "inStock": 60,
+            "price": 202.73
+          },
+          {
+            "size": "M",
+            "sku": "SKU-NGGC31D2",
+            "inStock": 56,
+            "price": 201.33
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "hex": "#008000",
+        "sizes": [
+          {
+            "size": "L",
+            "sku": "SKU-HS067SLK",
+            "inStock": 26,
+            "price": 198.57
+          },
+          {
+            "size": "S",
+            "sku": "SKU-UMBTJTIB",
+            "inStock": 69,
+            "price": 188.66
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-XK9KGMPO",
+            "inStock": 3,
+            "price": 204.98
+          }
+        ]
+      },
+      {
+        "name": "Gray",
+        "hex": "#808080",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-H74X75KF",
+            "inStock": 82,
+            "price": 202.08
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-IAR845OX",
+            "inStock": 19,
+            "price": 186.6
+          },
+          {
+            "size": "M",
+            "sku": "SKU-DX60KVVC",
+            "inStock": 31,
+            "price": 194.05
+          },
+          {
+            "size": "S",
+            "sku": "SKU-QUZAGVES",
+            "inStock": 2,
+            "price": 186.15
+          },
+          {
+            "size": "L",
+            "sku": "SKU-1DI2O02B",
+            "inStock": 44,
+            "price": 186.82
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-RJ6FNI1O",
+            "inStock": 69,
+            "price": 189.1
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 69.2,
+      "height": 55.8,
+      "depth": 30.4,
+      "weight": 19.07
+    },
+    "createdAt": "2024-11-24T21:13:44.078Z",
+    "updatedAt": "2025-08-12T00:07:59.738Z"
+  },
+  {
+    "id": "P00010",
+    "name": "Licensed Cotton Mouse",
+    "category": "Furniture",
+    "basePrice": 475.15,
+    "rating": 3.4,
+    "reviewCount": 336,
+    "tags": [
+      "premium",
+      "bestseller"
+    ],
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#000080",
+        "sizes": [
+          {
+            "size": "L",
+            "sku": "SKU-79XQE6XV",
+            "inStock": 40,
+            "price": 492.46
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-YF44U9OO",
+            "inStock": 79,
+            "price": 494.58
+          },
+          {
+            "size": "S",
+            "sku": "SKU-5M8V7NU8",
+            "inStock": 23,
+            "price": 489.31
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-DJR1BBW6",
+            "inStock": 69,
+            "price": 494.81
+          },
+          {
+            "size": "M",
+            "sku": "SKU-KVORS43E",
+            "inStock": 97,
+            "price": 477.65
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-88XUM752",
+            "inStock": 78,
+            "price": 486.68
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-XHPV7OKJ",
+            "inStock": 69,
+            "price": 479.59
+          },
+          {
+            "size": "S",
+            "sku": "SKU-33MBULVI",
+            "inStock": 94,
+            "price": 479.55
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-K9AGGXMO",
+            "inStock": 79,
+            "price": 491.73
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-HBIT60UX",
+            "inStock": 31,
+            "price": 478.75
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "sizes": [
+          {
+            "size": "XS",
+            "sku": "SKU-FNIRAODH",
+            "inStock": 29,
+            "price": 487.15
+          },
+          {
+            "size": "M",
+            "sku": "SKU-UXFTZCN6",
+            "inStock": 12,
+            "price": 475.56
+          },
+          {
+            "size": "S",
+            "sku": "SKU-HOF8VMNF",
+            "inStock": 27,
+            "price": 485.35
+          },
+          {
+            "size": "L",
+            "sku": "SKU-LL5FPAHD",
+            "inStock": 7,
+            "price": 491.25
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 25.9,
+      "height": 21.8,
+      "depth": 73.6,
+      "weight": 31.41
+    },
+    "createdAt": "2025-07-15T19:00:16.711Z",
+    "updatedAt": "2025-09-26T22:08:31.187Z"
+  },
+  {
+    "id": "P00011",
+    "name": "Soft Cotton Pants",
+    "category": "Clothing",
+    "basePrice": 428.39,
+    "rating": 2.4,
+    "reviewCount": 186,
+    "tags": [
+      "clearance",
+      "on-sale",
+      "new-arrival"
+    ],
+    "colors": [
+      {
+        "name": "Brown",
+        "hex": "#A52A2A",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-SKA3YOC1",
+            "inStock": 36,
+            "price": 436.35
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-T961X0K7",
+            "inStock": 66,
+            "price": 438.89
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-S0V6S3A6",
+            "inStock": 89,
+            "price": 443.86
+          }
+        ]
+      },
+      {
+        "name": "Red",
+        "hex": "#FF0000",
+        "sizes": [
+          {
+            "size": "XL",
+            "sku": "SKU-43T5POLE",
+            "inStock": 33,
+            "price": 447.17
+          },
+          {
+            "size": "L",
+            "sku": "SKU-TUAF8SO7",
+            "inStock": 38,
+            "price": 448.24
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-TD4VIB3L",
+            "inStock": 98,
+            "price": 429.61
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-PSVSHH5B",
+            "inStock": 89,
+            "price": 437.81
+          },
+          {
+            "size": "S",
+            "sku": "SKU-J6XLTQ9C",
+            "inStock": 94,
+            "price": 437.63
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 82.1,
+      "height": 76.6,
+      "depth": 26.5,
+      "weight": 45.86
+    },
+    "createdAt": "2025-09-02T12:31:56.481Z",
+    "updatedAt": "2025-09-05T07:03:33.407Z"
+  },
+  {
+    "id": "P00012",
+    "name": "Electronic Gold Salad",
+    "category": "Books",
+    "basePrice": 276.15,
+    "rating": 2.8,
+    "reviewCount": 2,
+    "tags": [
+      "new-arrival",
+      "clearance"
+    ],
+    "colors": [
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-5I0SFY1B",
+            "inStock": 58,
+            "price": 279.76
+          },
+          {
+            "size": "L",
+            "sku": "SKU-C7L0Q3BP",
+            "inStock": 91,
+            "price": 286.49
+          },
+          {
+            "size": "M",
+            "sku": "SKU-PBQ84N8I",
+            "inStock": 38,
+            "price": 290.64
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-FZ58UTYC",
+            "inStock": 58,
+            "price": 292.2
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-WXAY04RH",
+            "inStock": 84,
+            "price": 280.49
+          }
+        ]
+      },
+      {
+        "name": "White",
+        "hex": "#FFFFFF",
+        "sizes": [
+          {
+            "size": "M",
+            "sku": "SKU-2CA3I8B2",
+            "inStock": 92,
+            "price": 292.2
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-JSE2CSBM",
+            "inStock": 27,
+            "price": 281.58
+          },
+          {
+            "size": "S",
+            "sku": "SKU-3QAYBIZR",
+            "inStock": 88,
+            "price": 291.09
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-CS6HQMLT",
+            "inStock": 71,
+            "price": 284.65
+          },
+          {
+            "size": "L",
+            "sku": "SKU-S50E5N68",
+            "inStock": 28,
+            "price": 292.84
+          }
+        ]
+      },
+      {
+        "name": "Blue",
+        "hex": "#0000FF",
+        "sizes": [
+          {
+            "size": "S",
+            "sku": "SKU-JSMPKUAV",
+            "inStock": 100,
+            "price": 289.39
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-R9PP5BSG",
+            "inStock": 17,
+            "price": 281.89
+          },
+          {
+            "size": "M",
+            "sku": "SKU-2DWGWJ6U",
+            "inStock": 56,
+            "price": 288.88
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-2OFHIQDM",
+            "inStock": 31,
+            "price": 295.69
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-YT04NM6B",
+            "inStock": 26,
+            "price": 289.92
+          },
+          {
+            "size": "L",
+            "sku": "SKU-RHR3GJRX",
+            "inStock": 61,
+            "price": 285.04
+          }
+        ]
+      },
+      {
+        "name": "Green",
+        "hex": "#008000",
+        "sizes": [
+          {
+            "size": "L",
+            "sku": "SKU-B5UTU3VI",
+            "inStock": 3,
+            "price": 278.08
+          },
+          {
+            "size": "XL",
+            "sku": "SKU-QZSDBD46",
+            "inStock": 39,
+            "price": 282.13
+          },
+          {
+            "size": "XS",
+            "sku": "SKU-D3X530QO",
+            "inStock": 85,
+            "price": 278.84
+          },
+          {
+            "size": "XXL",
+            "sku": "SKU-SERP251N",
+            "inStock": 44,
+            "price": 290.58
+          },
+          {
+            "size": "M",
+            "sku": "SKU-7AR1ULUM",
+            "inStock": 31,
+            "price": 278.42
+          }
+        ]
+      }
+    ],
+    "dimensions": {
+      "width": 84.4,
+      "height": 20.2,
+      "depth": 30.3,
+      "weight": 6.46
+    },
+    "createdAt": "2025-09-23T01:12:53.588Z",
+    "updatedAt": "2025-10-08T02:14:53.272Z"
+  }
+]

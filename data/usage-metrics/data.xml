@@ -1,0 +1,179 @@
+<data>
+  <date>2025-01-01</date>
+  <userId>1</userId>
+  <sessionCount>2</sessionCount>
+  <activeMinutes>22</activeMinutes>
+  <featuresUsed>integrations</featuresUsed>
+  <featuresUsed>dashboard</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <apiCalls>50</apiCalls>
+  <errors>15</errors>
+  <engagement>40</engagement>
+  <plan>free</plan>
+</data>
+<data>
+  <date>2025-01-02</date>
+  <userId>2</userId>
+  <sessionCount>15</sessionCount>
+  <activeMinutes>75</activeMinutes>
+  <featuresUsed>automation</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <apiCalls>0</apiCalls>
+  <errors>20</errors>
+  <engagement>33</engagement>
+  <plan>starter</plan>
+</data>
+<data>
+  <date>2025-01-03</date>
+  <userId>3</userId>
+  <sessionCount>4</sessionCount>
+  <activeMinutes>28</activeMinutes>
+  <featuresUsed>notifications</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <featuresUsed>api</featuresUsed>
+  <featuresUsed>exports</featuresUsed>
+  <apiCalls>3415</apiCalls>
+  <errors>9</errors>
+  <engagement>27</engagement>
+  <plan>pro</plan>
+</data>
+<data>
+  <date>2025-01-04</date>
+  <userId>4</userId>
+  <sessionCount>27</sessionCount>
+  <activeMinutes>324</activeMinutes>
+  <featuresUsed>analytics</featuresUsed>
+  <featuresUsed>reports</featuresUsed>
+  <featuresUsed>exports</featuresUsed>
+  <featuresUsed>dashboard</featuresUsed>
+  <featuresUsed>api</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <featuresUsed>automation</featuresUsed>
+  <featuresUsed>integrations</featuresUsed>
+  <apiCalls>6211</apiCalls>
+  <errors>2</errors>
+  <engagement>43</engagement>
+  <plan>enterprise</plan>
+</data>
+<data>
+  <date>2025-01-05</date>
+  <userId>5</userId>
+  <sessionCount>2</sessionCount>
+  <activeMinutes>50</activeMinutes>
+  <featuresUsed>dashboard</featuresUsed>
+  <featuresUsed>exports</featuresUsed>
+  <featuresUsed>reports</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <apiCalls>63</apiCalls>
+  <errors>16</errors>
+  <engagement>56</engagement>
+  <plan>free</plan>
+</data>
+<data>
+  <date>2025-01-06</date>
+  <userId>6</userId>
+  <sessionCount>15</sessionCount>
+  <activeMinutes>20</activeMinutes>
+  <featuresUsed>collaboration</featuresUsed>
+  <apiCalls>57</apiCalls>
+  <errors>14</errors>
+  <engagement>60</engagement>
+  <plan>starter</plan>
+</data>
+<data>
+  <date>2025-01-07</date>
+  <userId>7</userId>
+  <sessionCount>14</sessionCount>
+  <activeMinutes>136</activeMinutes>
+  <featuresUsed>notifications</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <featuresUsed>automation</featuresUsed>
+  <featuresUsed>api</featuresUsed>
+  <featuresUsed>analytics</featuresUsed>
+  <featuresUsed>exports</featuresUsed>
+  <apiCalls>2676</apiCalls>
+  <errors>9</errors>
+  <engagement>56</engagement>
+  <plan>pro</plan>
+</data>
+<data>
+  <date>2025-01-08</date>
+  <userId>8</userId>
+  <sessionCount>18</sessionCount>
+  <activeMinutes>90</activeMinutes>
+  <featuresUsed>api</featuresUsed>
+  <featuresUsed>notifications</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <featuresUsed>analytics</featuresUsed>
+  <featuresUsed>automation</featuresUsed>
+  <featuresUsed>exports</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <featuresUsed>integrations</featuresUsed>
+  <apiCalls>6739</apiCalls>
+  <errors>9</errors>
+  <engagement>82</engagement>
+  <plan>enterprise</plan>
+</data>
+<data>
+  <date>2025-01-09</date>
+  <userId>9</userId>
+  <sessionCount>1</sessionCount>
+  <activeMinutes>84</activeMinutes>
+  <featuresUsed>integrations</featuresUsed>
+  <featuresUsed>notifications</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <apiCalls>81</apiCalls>
+  <errors>13</errors>
+  <engagement>85</engagement>
+  <plan>free</plan>
+</data>
+<data>
+  <date>2025-01-10</date>
+  <userId>10</userId>
+  <sessionCount>5</sessionCount>
+  <activeMinutes>141</activeMinutes>
+  <featuresUsed>exports</featuresUsed>
+  <featuresUsed>analytics</featuresUsed>
+  <apiCalls>75</apiCalls>
+  <errors>13</errors>
+  <engagement>57</engagement>
+  <plan>starter</plan>
+</data>
+<data>
+  <date>2025-01-11</date>
+  <userId>11</userId>
+  <sessionCount>4</sessionCount>
+  <activeMinutes>336</activeMinutes>
+  <featuresUsed>dashboard</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <featuresUsed>integrations</featuresUsed>
+  <featuresUsed>api</featuresUsed>
+  <featuresUsed>webhooks</featuresUsed>
+  <featuresUsed>reports</featuresUsed>
+  <featuresUsed>automation</featuresUsed>
+  <apiCalls>9923</apiCalls>
+  <errors>11</errors>
+  <engagement>67</engagement>
+  <plan>pro</plan>
+</data>
+<data>
+  <date>2025-01-12</date>
+  <userId>12</userId>
+  <sessionCount>30</sessionCount>
+  <activeMinutes>96</activeMinutes>
+  <featuresUsed>webhooks</featuresUsed>
+  <featuresUsed>exports</featuresUsed>
+  <featuresUsed>analytics</featuresUsed>
+  <featuresUsed>dashboard</featuresUsed>
+  <featuresUsed>reports</featuresUsed>
+  <featuresUsed>integrations</featuresUsed>
+  <featuresUsed>api</featuresUsed>
+  <featuresUsed>collaboration</featuresUsed>
+  <featuresUsed>automation</featuresUsed>
+  <apiCalls>1394</apiCalls>
+  <errors>17</errors>
+  <engagement>41</engagement>
+  <plan>enterprise</plan>
+</data>

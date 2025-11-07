@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q1",
+    "prompt": "What is the error level for log E000001?",
+    "groundTruth": "error",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q2",
+    "prompt": "What endpoint caused error E000003?",
+    "groundTruth": "/api/orders",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q3",
+    "prompt": "What HTTP method was used for error E000005?",
+    "groundTruth": "PATCH",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q4",
+    "prompt": "What was the status code for error E000007?",
+    "groundTruth": "503",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q5",
+    "prompt": "What is the error level for log E000009?",
+    "groundTruth": "error",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q6",
+    "prompt": "How many error logs are in the dataset?",
+    "groundTruth": "12",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q7",
+    "prompt": "How many errors have level \"error\"?",
+    "groundTruth": "6",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q8",
+    "prompt": "How many errors have level \"critical\"?",
+    "groundTruth": "6",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q9",
+    "prompt": "How many errors have been resolved?",
+    "groundTruth": "7",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q10",
+    "prompt": "How many errors are from GET requests AND have status code 404?",
+    "groundTruth": "1",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q11",
+    "prompt": "How many errors are from POST requests AND have status code 500?",
+    "groundTruth": "1",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q12",
+    "prompt": "How many errors are from PUT requests AND have status code 400?",
+    "groundTruth": "1",
+    "type": "filtering",
+    "dataset": "error-logs"
+  }
+]

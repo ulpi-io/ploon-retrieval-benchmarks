@@ -1,0 +1,181 @@
+[12]:
+  - id: E000001
+    timestamp: "2025-10-17T10:38:43.135Z"
+    level: error
+    message: Database connection timeout
+    stackTrace: "  at inputCYFZV (outfox_joyously.js:219)\n  at navigateLAJFU (however.gz:32)\n  at copyFYAGN (offensively_sans_duh.xht:126)"
+    userId: null
+    endpoint: /api/users
+    method: GET
+    statusCode: 400
+    context:
+      browser: Chrome
+      os: Windows
+      version: "61.4"
+    tags[3]: database,auth,api
+    resolved: false
+  - id: E000002
+    timestamp: "2025-10-21T02:57:42.583Z"
+    level: critical
+    message: Null pointer exception
+    stackTrace: "  at bypassDWYRO (provided_or.tiff:5)\n  at calculateXMYFS (excluding_gnaw_among.ppt:244)\n  at compressUHBVL (fair.dmg:334)\n  at calculateKBNUA (indeed_gripping_coliseum.msi:340)\n  at overrideAZYDQ (amidst.ini:324)"
+    userId: null
+    endpoint: /api/products
+    method: POST
+    statusCode: 401
+    context:
+      browser: Firefox
+      os: macOS
+      version: "84.2"
+    tags[1]: frontend
+    resolved: false
+  - id: E000003
+    timestamp: "2025-11-06T04:23:15.772Z"
+    level: error
+    message: Authentication failed
+    stackTrace: "  at transmitJUOWK (at_decode.odt:216)\n  at navigateFQDEM (pfft_massage_carelessly.xul:477)\n  at generateIAROB (gasp_describe_after.pps:494)\n  at generateDKGXG (coop_like_secularize.rmi:3)\n  at indexVIRWG (whose.pot:208)\n  at calculateLWGZT (fooey_woot_yieldingly.pdf:310)\n  at rebootTIYAJ (and_after.json:33)"
+    userId: 2186
+    endpoint: /api/orders
+    method: PUT
+    statusCode: 403
+    context:
+      browser: Safari
+      os: Linux
+      version: "32.0"
+    tags[3]: frontend,backend,auth
+    resolved: true
+  - id: E000004
+    timestamp: "2025-11-02T20:59:51.922Z"
+    level: critical
+    message: Invalid request parameters
+    stackTrace: "  at connectLQBNU (and_oh.xul:137)\n  at compressUMCWH (thoroughly_parody.xlm:97)\n  at rebootKOKIO (tomb.conf:236)\n  at calculateZSEFH (upward_helpful.aac:244)\n  at copyJFYTF (once_reel_dally.so:375)\n  at calculateGETSP (urgently.htm:101)\n  at connectDIBDJ (willing_beyond.mjs:82)\n  at inputIIBVR (outside.abw:158)"
+    userId: 1973
+    endpoint: /api/auth/login
+    method: DELETE
+    statusCode: 404
+    context:
+      browser: Edge
+      os: iOS
+      version: "37.6"
+    tags[2]: critical,database
+    resolved: true
+  - id: E000005
+    timestamp: "2025-10-16T04:10:59.200Z"
+    level: error
+    message: Resource not found
+    stackTrace: "  at compressVGAVJ (celsius_once_shush.elc:350)\n  at rebootXBEII (rim_notwithstanding_ick.text:472)\n  at hackUCHBM (ouch_behind_supposing.jar:17)\n  at copyEJDXM (vice_finally.dist:290)\n  at connectGRWDG (vengeful_without.rmi:461)\n  at connectLBEBX (infamous_woot.vsd:48)\n  at quantifyPEYTI (for_turret.mp3:475)"
+    userId: null
+    endpoint: /api/auth/register
+    method: PATCH
+    statusCode: 500
+    context:
+      browser: Mobile Safari
+      os: Android
+      version: "4.1"
+    tags[2]: api,needs-investigation
+    resolved: true
+  - id: E000006
+    timestamp: "2025-10-13T07:33:33.799Z"
+    level: critical
+    message: Permission denied
+    stackTrace: "  at transmitFOKGR (readies_officially_waist.3gp:156)\n  at generateDUHDK (even.xml:216)\n  at rebootDBZTB (seriously_tall_among.conf:475)\n  at generateXSBXL (optimistically.html:323)\n  at indexVLIVP (given_so_gadzooks.mp2a:47)\n  at back upIJYYO (that_striking_wherever.mpeg:488)\n  at generateBYCNA (vibration_lest.html:198)\n  at back upTSHRS (coaxingly_and_heighten.spx:378)"
+    userId: 7906
+    endpoint: /api/payments
+    method: GET
+    statusCode: 502
+    context:
+      browser: Chrome
+      os: Windows
+      version: "84.1"
+    tags[2]: payment,critical
+    resolved: true
+  - id: E000007
+    timestamp: "2025-10-22T11:41:50.912Z"
+    level: error
+    message: Rate limit exceeded
+    stackTrace: "  at bypassFKXFQ (dreamily_roadway.msi:395)\n  at programZKTGS (nougat_definitive.dot:425)\n  at parseIYOFI (jet_considering.conf:328)\n  at navigateJHCFL (affectionate_now.mp3:163)\n  at navigateSYRCW (curry_cone.xlsx:433)\n  at indexWYFYR (without_pish_like.bin:455)\n  at generateFTPBD (er.elc:57)\n  at indexBRHYC (provided.xlt:413)"
+    userId: 2144
+    endpoint: /api/settings
+    method: POST
+    statusCode: 503
+    context:
+      browser: Firefox
+      os: macOS
+      version: "111.5"
+    tags[1]: critical
+    resolved: false
+  - id: E000008
+    timestamp: "2025-11-05T17:19:01.565Z"
+    level: critical
+    message: Internal server error
+    stackTrace: "  at rebootODGEP (space_both_instead.js:197)\n  at quantifyPPRSU (spectacles.war:495)\n  at navigateQGXDP (massage_yowza.bmp:442)\n  at bypassGJDIZ (break_ew.docx:372)\n  at synthesizeDDZNZ (in_but_besides.elc:50)"
+    userId: 6588
+    endpoint: /api/analytics
+    method: PUT
+    statusCode: 400
+    context:
+      browser: Safari
+      os: Linux
+      version: "112.5"
+    tags[2]: payment,critical
+    resolved: true
+  - id: E000009
+    timestamp: "2025-10-18T18:50:13.957Z"
+    level: error
+    message: Failed to process payment
+    stackTrace: "  at back upULQJL (continually.m3a:251)\n  at parseQVMNZ (gee.mpg:324)\n  at programTORXU (per_enhance.woff2:393)\n  at bypassZEBME (off_where_aboard.svgz:103)\n  at quantifyMTEIB (shocked_annual.bin:318)\n  at transmitYCHZW (obediently_seldom.xls:196)"
+    userId: 9041
+    endpoint: /api/users
+    method: DELETE
+    statusCode: 401
+    context:
+      browser: Edge
+      os: iOS
+      version: "99.2"
+    tags[2]: critical,frontend
+    resolved: false
+  - id: E000010
+    timestamp: "2025-11-02T23:58:51.458Z"
+    level: critical
+    message: Network error
+    stackTrace: "  at calculateHZAVK (subdued_after.mp4v:349)\n  at overrideXFEWO (than_deselect.tif:45)\n  at programQNHVP (reorganisation_rule.wav:77)"
+    userId: 7340
+    endpoint: /api/products
+    method: PATCH
+    statusCode: 403
+    context:
+      browser: Mobile Safari
+      os: Android
+      version: "37.6"
+    tags[2]: backend,frontend
+    resolved: true
+  - id: E000011
+    timestamp: "2025-10-14T02:54:30.120Z"
+    level: error
+    message: Database connection timeout
+    stackTrace: "  at back upCNXHC (uh_huh.3gp:389)\n  at calculateURGKF (miserably_freckle.docx:360)\n  at generateQXTVW (gosh.doc:350)\n  at programUXQQG (which_despite_unless.php:27)\n  at generateYABMB (kookily_coordination.ifb:497)\n  at indexMCHXZ (left.deploy:182)\n  at copyYTVYW (gradient_sticky.rar:425)\n  at indexKSJDN (typewriter_crest_clinch.pot:303)"
+    userId: null
+    endpoint: /api/orders
+    method: GET
+    statusCode: 404
+    context:
+      browser: Chrome
+      os: Windows
+      version: "19.0"
+    tags[2]: payment,needs-investigation
+    resolved: false
+  - id: E000012
+    timestamp: "2025-10-23T10:53:01.051Z"
+    level: critical
+    message: Null pointer exception
+    stackTrace: "  at calculateVXKPA (vaguely_gee.dll:251)\n  at compressUSZFU (geez_whenever.elc:403)\n  at parseRQNCT (yum_toward.webp:37)\n  at transmitFLUTH (shyly_jubilantly.xlm:16)\n  at bypassMSXNR (ick_as_before.jpe:392)\n  at calculateLWAOQ (unlike_corral_tenant.lrf:251)\n  at inputCFFPJ (frantically.ini:287)"
+    userId: null
+    endpoint: /api/auth/login
+    method: POST
+    statusCode: 500
+    context:
+      browser: Firefox
+      os: macOS
+      version: "40.6"
+    tags[2]: api,database
+    resolved: true

@@ -5,8 +5,7 @@ node_modules/
 dist/
 build/
 
-# Generated data
-data/
+# Generated results
 results/
 
 # Environment variables (contains API keys)

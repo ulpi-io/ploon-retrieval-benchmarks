@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q1",
+    "prompt": "What colors are available for Soft Bronze Gloves?",
+    "groundTruth": "Gray, Pink, Navy",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q2",
+    "prompt": "What is the SKU for Elegant Metal Bacon in Blue, size XL?",
+    "groundTruth": "SKU-QYJ76PUO",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q3",
+    "prompt": "How many units of Fantastic Granite Ball in Beige, size M are in stock?",
+    "groundTruth": "66",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q4",
+    "prompt": "What category is Small Marble Cheese in?",
+    "groundTruth": "Toys",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q5",
+    "prompt": "What is the rating of Small Wooden Chips?",
+    "groundTruth": "1.1",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q6",
+    "prompt": "How many products are in the catalog?",
+    "groundTruth": "12",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q7",
+    "prompt": "What is the average base price across all products?",
+    "groundTruth": "249.83",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q8",
+    "prompt": "What is the total number of color options across all products?",
+    "groundTruth": "35",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q9",
+    "prompt": "How many products are in the Electronics category?",
+    "groundTruth": "2",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q10",
+    "prompt": "How many products have a base price over $100 AND a rating of 3 or higher?",
+    "groundTruth": "3",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q11",
+    "prompt": "How many products have a base price over $200 AND a rating of 3.5 or higher?",
+    "groundTruth": "1",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q12",
+    "prompt": "How many products have a base price over $300 AND a rating of 4 or higher?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "products"
+  }
+]

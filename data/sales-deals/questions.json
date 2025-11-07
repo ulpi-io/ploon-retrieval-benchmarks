@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q1",
+    "prompt": "What is the amount for deal D00001?",
+    "groundTruth": "179799",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q2",
+    "prompt": "What stage is deal D00003 in?",
+    "groundTruth": "proposal",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q3",
+    "prompt": "Who is the contact for deal D00005?",
+    "groundTruth": "Dr. Hugo Bahringer Jr.",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q4",
+    "prompt": "What is the probability of closing deal D00007?",
+    "groundTruth": "19",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q5",
+    "prompt": "What is the amount for deal D00009?",
+    "groundTruth": "12667",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q6",
+    "prompt": "How many sales deals are in the pipeline?",
+    "groundTruth": "12",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q7",
+    "prompt": "What is the total value of all deals?",
+    "groundTruth": "2977636",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q8",
+    "prompt": "What is the average deal amount?",
+    "groundTruth": "248136",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q9",
+    "prompt": "How many deals are in lead stage?",
+    "groundTruth": "2",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q10",
+    "prompt": "How many deals in lead stage are worth more than $50000?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q11",
+    "prompt": "How many deals in qualified stage are worth more than $100000?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q12",
+    "prompt": "How many deals in proposal stage are worth more than $150000?",
+    "groundTruth": "1",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "id": "D00001",
+    "name": "Reichert Inc - Fantastic Rubber Table",
+    "amount": 179799,
+    "stage": "lead",
+    "probability": 11,
+    "closeDate": "2025-11-21",
+    "contact": {
+      "name": "Mr. Brendan Bins",
+      "email": "hiram.langosh@yahoo.com",
+      "phone": "542-863-7344 x1366",
+      "company": "Price LLC",
+      "title": "Internal Brand Orchestrator"
+    },
+    "activities": [
+      {
+        "type": "call",
+        "date": "2025-09-15",
+        "notes": "Tenuis tubineus vapulus traho tepesco utor nulla aurum termes campana."
+      },
+      {
+        "type": "email",
+        "date": "2025-09-05",
+        "notes": "Ventosus excepturi sed voco acsi cattus."
+      }
+    ],
+    "createdAt": "2025-08-26T18:36:44.083Z",
+    "updatedAt": "2025-10-16T09:22:55.370Z"
+  },
+  {
+    "id": "D00002",
+    "name": "Johnson - Powlowski - Gorgeous Rubber Gloves",
+    "amount": 328865,
+    "stage": "qualified",
+    "probability": 38,
+    "closeDate": "2026-01-02",
+    "contact": {
+      "name": "Bonnie Farrell",
+      "email": "myron.schneider9@hotmail.com",
+      "phone": "1-591-326-2827 x3508",
+      "company": "Torphy Inc",
+      "title": "Regional Division Liaison"
+    },
+    "activities": [
+      {
+        "type": "meeting",
+        "date": "2025-07-09",
+        "notes": "Crinis suffoco bonus."
+      },
+      {
+        "type": "email",
+        "date": "2025-07-23",
+        "notes": "Auditor subiungo apud solvo ea alius aurum arguo patrocinor modi."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-07-05",
+        "notes": "Aut capitulus adamo villa thema."
+      }
+    ],
+    "createdAt": "2025-06-28T19:54:34.441Z",
+    "updatedAt": "2025-07-23T12:49:23.628Z"
+  },
+  {
+    "id": "D00003",
+    "name": "Barton - Bayer - Refined Ceramic Computer",
+    "amount": 182945,
+    "stage": "proposal",
+    "probability": 58,
+    "closeDate": "2025-12-16",
+    "contact": {
+      "name": "Wilbert Conroy-Bailey DVM",
+      "email": "joanne.block@hotmail.com",
+      "phone": "378-541-6427 x7856",
+      "company": "Osinski Inc",
+      "title": "International Web Liaison"
+    },
+    "activities": [
+      {
+        "type": "demo",
+        "date": "2025-07-21",
+        "notes": "Volup tot tibi cogo thalassinus."
+      },
+      {
+        "type": "demo",
+        "date": "2025-08-18",
+        "notes": "Debeo verbum vulnus."
+      },
+      {
+        "type": "call",
+        "date": "2025-08-19",
+        "notes": "Colligo copiose conqueror amplitudo."
+      },
+      {
+        "type": "demo",
+        "date": "2025-08-08",
+        "notes": "Comprehendo pectus commodi animi valde admiratio adicio tempore."
+      }
+    ],
+    "createdAt": "2025-07-03T09:47:01.567Z",
+    "updatedAt": "2025-08-24T23:58:03.340Z"
+  },
+  {
+    "id": "D00004",
+    "name": "Bartell, Towne and Prohaska - Handcrafted Bronze Keyboard",
+    "amount": 20515,
+    "stage": "negotiation",
+    "probability": 80,
+    "closeDate": "2026-01-22",
+    "contact": {
+      "name": "Lindsey Paucek",
+      "email": "jefferey58@yahoo.com",
+      "phone": "(659) 884-8844 x13598",
+      "company": "Konopelski and Sons",
+      "title": "National Interactions Administrator"
+    },
+    "activities": [
+      {
+        "type": "call",
+        "date": "2025-09-04",
+        "notes": "Urbs quos carus celo stipes."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-09-01",
+        "notes": "Studio soleo quae cedo deduco auditor calcar tersus uxor."
+      },
+      {
+        "type": "email",
+        "date": "2025-08-24",
+        "notes": "Supplanto delectus synagoga accusantium cicuta."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-08-26",
+        "notes": "Ut damno deporto aestas temporibus caute ea tener venustas."
+      },
+      {
+        "type": "email",
+        "date": "2025-09-14",
+        "notes": "Cetera qui adimpleo cupiditate earum cernuus ocer collum tam omnis."
+      }
+    ],
+    "createdAt": "2025-08-06T23:06:31.666Z",
+    "updatedAt": "2025-09-22T14:55:56.713Z"
+  },
+  {
+    "id": "D00005",
+    "name": "Mante Group - Frozen Steel Shirt",
+    "amount": 44886,
+    "stage": "closed-won",
+    "probability": 100,
+    "closeDate": "2026-01-17",
+    "contact": {
+      "name": "Dr. Hugo Bahringer Jr.",
+      "email": "desmond_romaguera71@yahoo.com",
+      "phone": "1-243-794-6597 x4414",
+      "company": "Ziemann - Erdman",
+      "title": "Corporate Accounts Executive"
+    },
+    "activities": [
+      {
+        "type": "call",
+        "date": "2025-10-31",
+        "notes": "Sollicito terga depromo aestas pecto speculum deprimo admoveo arguo constans."
+      },
+      {
+        "type": "call",
+        "date": "2025-10-18",
+        "notes": "Appono conculco delego alii synagoga illum valeo ventosus volo."
+      },
+      {
+        "type": "email",
+        "date": "2025-10-20",
+        "notes": "Avaritia ab attollo carus reprehenderit spoliatio volva."
+      },
+      {
+        "type": "demo",
+        "date": "2025-10-25",
+        "notes": "Auxilium thesis cursus."
+      },
+      {
+        "type": "call",
+        "date": "2025-10-16",
+        "notes": "Aedificium tristis caput adfectus utpote adimpleo unde cura talus."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-10-26",
+        "notes": "Arceo sollicito conturbo certe ascisco explicabo totam ulterius."
+      }
+    ],
+    "createdAt": "2025-10-12T16:45:02.632Z",
+    "updatedAt": "2025-10-31T07:29:21.686Z"
+  },
+  {
+    "id": "D00006",
+    "name": "Runolfsson, Cassin and Schmitt - Licensed Steel Ball",
+    "amount": 370253,
+    "stage": "closed-lost",
+    "probability": 0,
+    "closeDate": "2025-12-16",
+    "contact": {
+      "name": "Rachael Sanford",
+      "email": "adele56@gmail.com",
+      "phone": "1-711-370-4610",
+      "company": "Braun - Ortiz",
+      "title": "Product Research Facilitator"
+    },
+    "activities": [
+      {
+        "type": "email",
+        "date": "2025-08-28",
+        "notes": "Ambitus nobis toties cado somnus clam bellum."
+      },
+      {
+        "type": "email",
+        "date": "2025-09-03",
+        "notes": "Trans inflammatio tot."
+      },
+      {
+        "type": "call",
+        "date": "2025-07-24",
+        "notes": "Nostrum molestiae tergum terra."
+      },
+      {
+        "type": "call",
+        "date": "2025-07-13",
+        "notes": "Laudantium sol celo triumphus careo ocer verbum."
+      },
+      {
+        "type": "demo",
+        "date": "2025-06-30",
+        "notes": "Suffoco theca defungo aequitas sol spiritus victus cariosus ratione."
+      }
+    ],
+    "createdAt": "2025-06-10T04:26:30.682Z",
+    "updatedAt": "2025-09-20T14:55:39.509Z"
+  },
+  {
+    "id": "D00007",
+    "name": "Zboncak - Jones - Luxurious Bamboo Tuna",
+    "amount": 375905,
+    "stage": "lead",
+    "probability": 19,
+    "closeDate": "2026-02-04",
+    "contact": {
+      "name": "Ruben Reichert-Nienow",
+      "email": "ray_kihn78@yahoo.com",
+      "phone": "(927) 527-0588",
+      "company": "Osinski - Gibson",
+      "title": "Corporate Usability Coordinator"
+    },
+    "activities": [
+      {
+        "type": "call",
+        "date": "2025-08-13",
+        "notes": "Teneo taceo comminor civitas caveo communis verumtamen."
+      },
+      {
+        "type": "email",
+        "date": "2025-08-08",
+        "notes": "Tabesco curiositas decet coruscus exercitationem constans dapifer speculum iste terreo."
+      },
+      {
+        "type": "call",
+        "date": "2025-08-11",
+        "notes": "Defungo libero tredecim benevolentia totidem audax crur benigne."
+      }
+    ],
+    "createdAt": "2025-07-30T18:04:58.849Z",
+    "updatedAt": "2025-10-02T19:04:02.002Z"
+  },
+  {
+    "id": "D00008",
+    "name": "Hammes, Keebler and Connelly - Licensed Bronze Sausages",
+    "amount": 338702,
+    "stage": "qualified",
+    "probability": 34,
+    "closeDate": "2025-11-07",
+    "contact": {
+      "name": "Dr. Chester Raynor",
+      "email": "ellis59@gmail.com",
+      "phone": "826.560.8716 x4199",
+      "company": "Marquardt, O'Keefe and Lesch",
+      "title": "Corporate Applications Executive"
+    },
+    "activities": [
+      {
+        "type": "demo",
+        "date": "2025-10-30",
+        "notes": "Amplitudo pariatur tendo careo casso alii."
+      },
+      {
+        "type": "call",
+        "date": "2025-10-31",
+        "notes": "Creta colo surculus venustas vulgaris."
+      },
+      {
+        "type": "email",
+        "date": "2025-10-31",
+        "notes": "Solutio casus adfectus rem argentum stultus stipes coerceo."
+      }
+    ],
+    "createdAt": "2025-10-30T14:47:27.510Z",
+    "updatedAt": "2025-11-02T00:39:17.552Z"
+  },
+  {
+    "id": "D00009",
+    "name": "Pouros, Jerde and Spencer - Fantastic Aluminum Computer",
+    "amount": 12667,
+    "stage": "proposal",
+    "probability": 40,
+    "closeDate": "2025-11-22",
+    "contact": {
+      "name": "Brad Jenkins I",
+      "email": "beau89@hotmail.com",
+      "phone": "918.768.5283 x03237",
+      "company": "Hayes and Sons",
+      "title": "Product Metrics Coordinator"
+    },
+    "activities": [
+      {
+        "type": "demo",
+        "date": "2025-09-06",
+        "notes": "Trans adhuc ducimus repellendus cerno."
+      },
+      {
+        "type": "demo",
+        "date": "2025-09-06",
+        "notes": "Alius socius iusto asperiores suspendo commodi speciosus bardus apto ex."
+      }
+    ],
+    "createdAt": "2025-09-05T10:27:21.541Z",
+    "updatedAt": "2025-09-06T05:28:09.033Z"
+  },
+  {
+    "id": "D00010",
+    "name": "Williamson, Bartell and Schimmel - Incredible Ceramic Shoes",
+    "amount": 494339,
+    "stage": "negotiation",
+    "probability": 63,
+    "closeDate": "2025-11-21",
+    "contact": {
+      "name": "Minnie Franecki",
+      "email": "mylene.parisian75@gmail.com",
+      "phone": "593.763.6540 x945",
+      "company": "Leuschke Group",
+      "title": "National Quality Supervisor"
+    },
+    "activities": [
+      {
+        "type": "call",
+        "date": "2025-08-29",
+        "notes": "Absens utpote asperiores vos tertius tantum exercitationem thymbra."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-09-04",
+        "notes": "Admoneo necessitatibus ait terminatio cariosus substantia."
+      },
+      {
+        "type": "email",
+        "date": "2025-08-21",
+        "notes": "Vinitor perspiciatis socius aufero auxilium ait vicinus."
+      },
+      {
+        "type": "email",
+        "date": "2025-10-13",
+        "notes": "Uterque vigilo tutis viriliter canto derideo modi beatus."
+      }
+    ],
+    "createdAt": "2025-05-28T02:13:26.968Z",
+    "updatedAt": "2025-11-02T04:58:57.483Z"
+  },
+  {
+    "id": "D00011",
+    "name": "VonRueden - Prohaska - Bespoke Steel Hat",
+    "amount": 241078,
+    "stage": "closed-won",
+    "probability": 100,
+    "closeDate": "2026-01-05",
+    "contact": {
+      "name": "Randall Steuber",
+      "email": "torrey_runolfsdottir@gmail.com",
+      "phone": "1-552-646-4558 x87974",
+      "company": "Hills - Runte",
+      "title": "Global Branding Technician"
+    },
+    "activities": [
+      {
+        "type": "email",
+        "date": "2025-06-25",
+        "notes": "Cerno cotidie abutor tutis alo copia illo officiis cogo."
+      },
+      {
+        "type": "demo",
+        "date": "2025-09-24",
+        "notes": "Curvo tenuis sunt tumultus sto audio argumentum cetera esse umquam."
+      },
+      {
+        "type": "demo",
+        "date": "2025-09-22",
+        "notes": "Approbo amita ad audacia dolores temperantia terminatio."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-07-06",
+        "notes": "Aufero adfectus sollicito claustrum tamen umerus."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-09-14",
+        "notes": "Claustrum vita suffoco aveho complectus uxor."
+      },
+      {
+        "type": "demo",
+        "date": "2025-06-26",
+        "notes": "Claudeo cornu bonus validus tamisium acidus umbra ubi autus constans."
+      }
+    ],
+    "createdAt": "2025-06-15T18:04:58.510Z",
+    "updatedAt": "2025-10-19T07:29:33.721Z"
+  },
+  {
+    "id": "D00012",
+    "name": "Kautzer Group - Tasty Granite Pants",
+    "amount": 387682,
+    "stage": "closed-lost",
+    "probability": 0,
+    "closeDate": "2026-01-13",
+    "contact": {
+      "name": "Courtney Price",
+      "email": "nolan_huels@gmail.com",
+      "phone": "272.588.1101 x03730",
+      "company": "Reichert Group",
+      "title": "Product Branding Planner"
+    },
+    "activities": [
+      {
+        "type": "demo",
+        "date": "2025-08-28",
+        "notes": "Ipsum crepusculum canis."
+      },
+      {
+        "type": "email",
+        "date": "2025-08-24",
+        "notes": "Solum illo acer."
+      },
+      {
+        "type": "demo",
+        "date": "2025-08-08",
+        "notes": "Deripio ter tres."
+      },
+      {
+        "type": "demo",
+        "date": "2025-09-10",
+        "notes": "Vesco supplanto suadeo aequitas uter voro comprehendo repudiandae."
+      },
+      {
+        "type": "call",
+        "date": "2025-08-31",
+        "notes": "Subiungo surgo nobis voveo itaque auditor verumtamen cubicularis vado."
+      },
+      {
+        "type": "call",
+        "date": "2025-09-10",
+        "notes": "Deripio damnatio infit articulus viduo consequuntur."
+      },
+      {
+        "type": "meeting",
+        "date": "2025-08-02",
+        "notes": "Ars terra comprehendo qui aspicio tero tendo tergiversatio adversus."
+      },
+      {
+        "type": "email",
+        "date": "2025-09-12",
+        "notes": "Vero virgo votum ambitus velit aveho artificiose tui."
+      }
+    ],
+    "createdAt": "2025-07-05T00:17:50.710Z",
+    "updatedAt": "2025-09-17T19:07:38.163Z"
+  }
+]

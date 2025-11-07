@@ -1,0 +1,86 @@
+[
+  {
+    "id": "q1",
+    "prompt": "What is the status of ticket T0001?",
+    "groundTruth": "open",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q2",
+    "prompt": "What is the priority of ticket T0003?",
+    "groundTruth": "high",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q3",
+    "prompt": "Who is the customer for ticket T0005?",
+    "groundTruth": "Frankie Braun",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q4",
+    "prompt": "What is the customer email for ticket T0007?",
+    "groundTruth": "carey.walter54@gmail.com",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q5",
+    "prompt": "What company does the customer of ticket T0009 work for?",
+    "groundTruth": "Wintheiser LLC",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q6",
+    "prompt": "How many support tickets are in the dataset?",
+    "groundTruth": "12",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q7",
+    "prompt": "How many tickets have status \"open\"?",
+    "groundTruth": "3",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q8",
+    "prompt": "How many tickets have status \"in-progress\"?",
+    "groundTruth": "3",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q9",
+    "prompt": "How many tickets have status \"resolved\"?",
+    "groundTruth": "3",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q10",
+    "prompt": "How many tickets have status \"open\" AND priority \"low\"?",
+    "groundTruth": "3",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q11",
+    "prompt": "How many tickets have status \"open\" AND priority \"medium\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q12",
+    "prompt": "How many tickets have status \"open\" AND priority \"high\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  }
+]
