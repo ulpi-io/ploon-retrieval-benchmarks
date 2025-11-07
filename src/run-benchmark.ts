@@ -98,7 +98,7 @@ Answer:`
       { role: 'system', content: systemPrompt },
       { role: 'user', content: userPrompt }
     ],
-    max_tokens: 2000,
+    max_tokens: 10000,
   })
 
   const responseTimeMs = performance.now() - startTime
