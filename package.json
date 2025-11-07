@@ -1,0 +1,30 @@
+{
+  "name": "ploon-retrieval-benchmarks",
+  "version": "1.0.0",
+  "description": "Retrieval accuracy benchmarks for PLOON format",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "generate-data": "tsx src/generate-data.ts",
+    "generate-questions": "tsx src/generate-questions.ts",
+    "benchmark": "tsx src/run-benchmark.ts"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.0.0",
+    "@toon-format/toon": "^0.8.0",
+    "csv-stringify": "^6.4.0",
+    "dotenv": "^17.2.3",
+    "fast-xml-parser": "^4.3.5",
+    "json2csv": "^6.0.0-alpha.2",
+    "openai": "^4.75.0",
+    "ploon": "^1.0.6",
+    "tiktoken": "^1.0.22",
+    "toon": "file:../../../toon/packages/toon",
+    "yaml": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
