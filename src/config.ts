@@ -11,8 +11,8 @@ export const CONFIG = {
    * Data generation settings
    */
   dataSize: {
-    recordCount: 100, // How many records to generate per dataset
-    questionCount: 100, // How many questions to generate per dataset
+    recordCount: 60, // How many records to generate per dataset
+    questionCount: 60, // How many questions to generate per dataset
   },
 
   /**
@@ -41,6 +41,28 @@ export const CONFIG = {
   judgeModel: 'openai/gpt-4o-mini',
 
   /**
+   * Model pricing (per million tokens)
+   */
+  pricing: {
+    'openai/gpt-5': {
+      input: 1.25,  // $ per 1M input tokens
+      output: 10.0, // $ per 1M output tokens
+    },
+    'anthropic/claude-sonnet-4.5': {
+      input: 3.0,   // $ per 1M input tokens
+      output: 15.0, // $ per 1M output tokens
+    },
+    'google/gemini-2.5-flash': {
+      input: 0.30,  // $ per 1M input tokens
+      output: 2.50, // $ per 1M output tokens
+    },
+    'x-ai/grok-4-fast': {
+      input: 0.20,  // $ per 1M input tokens
+      output: 0.50, // $ per 1M output tokens
+    },
+  } as Record<string, { input: number; output: number }>,
+
+  /**
    * Datasets to generate and benchmark
    */
   datasets: [
@@ -61,7 +83,6 @@ export const CONFIG = {
     'xml',
     'toon',
     'ploon',
-    'ploon-minified',
   ] as FormatName[],
 
   /**

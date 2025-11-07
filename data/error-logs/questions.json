@@ -36,50 +36,330 @@
   },
   {
     "id": "q6",
+    "prompt": "What endpoint caused error E000011?",
+    "groundTruth": "/api/orders",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q7",
+    "prompt": "What HTTP method was used for error E000013?",
+    "groundTruth": "PUT",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q8",
+    "prompt": "What was the status code for error E000015?",
+    "groundTruth": "400",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q9",
+    "prompt": "What is the error level for log E000017?",
+    "groundTruth": "error",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q10",
+    "prompt": "What endpoint caused error E000019?",
+    "groundTruth": "/api/orders",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q11",
+    "prompt": "What HTTP method was used for error E000021?",
+    "groundTruth": "GET",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q12",
+    "prompt": "What was the status code for error E000023?",
+    "groundTruth": "401",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q13",
+    "prompt": "What is the error level for log E000025?",
+    "groundTruth": "error",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q14",
+    "prompt": "What endpoint caused error E000027?",
+    "groundTruth": "/api/orders",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q15",
+    "prompt": "What HTTP method was used for error E000029?",
+    "groundTruth": "DELETE",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q16",
+    "prompt": "What was the status code for error E000031?",
+    "groundTruth": "403",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q17",
+    "prompt": "What is the error level for log E000033?",
+    "groundTruth": "error",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q18",
+    "prompt": "What endpoint caused error E000035?",
+    "groundTruth": "/api/orders",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q19",
+    "prompt": "What HTTP method was used for error E000037?",
+    "groundTruth": "POST",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q20",
+    "prompt": "What was the status code for error E000039?",
+    "groundTruth": "404",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q21",
+    "prompt": "What is the error level for log E000041?",
+    "groundTruth": "error",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q22",
+    "prompt": "What endpoint caused error E000043?",
+    "groundTruth": "/api/orders",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q23",
+    "prompt": "What HTTP method was used for error E000045?",
+    "groundTruth": "PATCH",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q24",
+    "prompt": "What was the status code for error E000047?",
+    "groundTruth": "500",
+    "type": "field-retrieval",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q25",
     "prompt": "How many error logs are in the dataset?",
+    "groundTruth": "60",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q26",
+    "prompt": "How many errors have level \"error\"?",
+    "groundTruth": "30",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q27",
+    "prompt": "How many errors have level \"critical\"?",
+    "groundTruth": "30",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q28",
+    "prompt": "How many errors have been resolved?",
+    "groundTruth": "23",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q29",
+    "prompt": "How many errors are from GET requests?",
     "groundTruth": "12",
     "type": "aggregation",
     "dataset": "error-logs"
   },
   {
-    "id": "q7",
-    "prompt": "How many errors have level \"error\"?",
-    "groundTruth": "6",
+    "id": "q30",
+    "prompt": "How many errors are from POST requests?",
+    "groundTruth": "12",
     "type": "aggregation",
     "dataset": "error-logs"
   },
   {
-    "id": "q8",
-    "prompt": "How many errors have level \"critical\"?",
-    "groundTruth": "6",
+    "id": "q31",
+    "prompt": "How many errors are from PUT requests?",
+    "groundTruth": "12",
     "type": "aggregation",
     "dataset": "error-logs"
   },
   {
-    "id": "q9",
-    "prompt": "How many errors have been resolved?",
-    "groundTruth": "7",
+    "id": "q32",
+    "prompt": "How many errors are from DELETE requests?",
+    "groundTruth": "12",
     "type": "aggregation",
     "dataset": "error-logs"
   },
   {
-    "id": "q10",
+    "id": "q33",
+    "prompt": "How many errors are from PATCH requests?",
+    "groundTruth": "12",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q34",
+    "prompt": "How many errors have status code 400?",
+    "groundTruth": "9",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q35",
+    "prompt": "How many errors have status code 404?",
+    "groundTruth": "9",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q36",
+    "prompt": "How many errors have status code 500?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q37",
+    "prompt": "How many errors have status code 502?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q38",
+    "prompt": "How many errors have status code 503?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q39",
     "prompt": "How many errors are from GET requests AND have status code 404?",
-    "groundTruth": "1",
+    "groundTruth": "2",
     "type": "filtering",
     "dataset": "error-logs"
   },
   {
-    "id": "q11",
+    "id": "q40",
     "prompt": "How many errors are from POST requests AND have status code 500?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q41",
+    "prompt": "How many errors are from PUT requests AND have status code 400?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q42",
+    "prompt": "How many errors are from DELETE requests AND have status code 403?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q43",
+    "prompt": "How many errors are from GET requests AND have status code 500?",
     "groundTruth": "1",
     "type": "filtering",
     "dataset": "error-logs"
   },
   {
-    "id": "q12",
-    "prompt": "How many errors are from PUT requests AND have status code 400?",
-    "groundTruth": "1",
+    "id": "q44",
+    "prompt": "How many errors are from POST requests AND have status code 400?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q45",
+    "prompt": "How many errors are from PATCH requests AND have status code 500?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q46",
+    "prompt": "How many error errors are unresolved?",
+    "groundTruth": "13",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q47",
+    "prompt": "How many critical errors are unresolved?",
+    "groundTruth": "24",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q48",
+    "prompt": "How many error errors are resolved?",
+    "groundTruth": "17",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q49",
+    "prompt": "How many critical errors are resolved?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q50",
+    "prompt": "How many errors are from GET requests AND have level \"error\"?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q51",
+    "prompt": "How many errors are from POST requests AND have level \"critical\"?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "error-logs"
+  },
+  {
+    "id": "q52",
+    "prompt": "How many errors are from PUT requests AND have level \"error\"?",
+    "groundTruth": "6",
     "type": "filtering",
     "dataset": "error-logs"
   }

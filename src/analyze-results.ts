@@ -55,24 +55,11 @@ function formatCost(cost: number): string {
 }
 
 /**
- * Get rank display with medals
+ * Get rank display without medals
  */
 function getRankDisplay(rank: number): string {
-  const medals = ['🥇', '🥈', '🥉']
   const suffix = ['st', 'nd', 'rd', 'th', 'th', 'th']
-  const medal = rank <= 3 ? ` ${medals[rank - 1]}` : ''
-  return `${rank}${suffix[rank - 1] || 'th'}${medal}`
-}
-
-/**
- * Pad string accounting for emoji visual width (emojis take 2 visual spaces)
- */
-function padWithEmoji(str: string, width: number): string {
-  // Count emojis in string (they take 2 visual spaces but count as 1 char)
-  const emojiCount = (str.match(/[\u{1F300}-\u{1F9FF}]/gu) || []).length
-  // Adjust padding to account for extra visual width of emojis
-  const adjustedWidth = width - emojiCount
-  return str.padStart(adjustedWidth)
+  return `${rank}${suffix[rank - 1] || 'th'}`
 }
 
 /**
@@ -206,9 +193,9 @@ function generateReport(report: ModelReport): string {
     output += correct.padStart(7) + ' │ '
     output += (accuracy + '%').padStart(8) + ' │ '
     output += savings.padStart(6) + '% │ '
-    output += padWithEmoji(getRankDisplay(accuracyRank), 12) + ' │ '
-    output += padWithEmoji(getRankDisplay(speedRank), 10) + ' │ '
-    output += padWithEmoji(getRankDisplay(costRank), 9) + ' │\n'
+    output += getRankDisplay(accuracyRank).padStart(12) + ' │ '
+    output += getRankDisplay(speedRank).padStart(10) + ' │ '
+    output += getRankDisplay(costRank).padStart(9) + ' │\n'
   })
 
   output += '└────────┴─────────────┴──────────────┴──────────────┴──────────┴─────────┴──────────┴─────────┴──────────────┴────────────┴───────────┘\n'
@@ -342,10 +329,12 @@ function main() {
   console.log(`Found ${datasets.length} datasets: ${datasets.join(', ')}\n`)
 
   let totalReports = 0
-  let mdOutput = '# PLOON Retrieval Benchmarks - Results Analysis\n\n'
-  mdOutput += `Generated: ${new Date().toISOString()}\n\n`
+  let totalInputTokens = 0
+  let totalOutputTokens = 0
+  let totalCost = 0
 
   let summaryRows: { dataset: string; model: string; result: string }[] = []
+  let datasetReports = '' // Store dataset reports separately
 
   // Process each dataset
   for (const dataset of datasets) {
@@ -364,7 +353,7 @@ function main() {
     console.log(`📊 ${dataset} (${files.length} result files)`)
     console.log('─'.repeat(80))
 
-    mdOutput += `## ${dataset}\n\n`
+    datasetReports += `## ${dataset}\n\n`
 
     // Process each result file
     for (const file of files) {
@@ -375,10 +364,17 @@ function main() {
         if (report) {
           const reportText = generateReport(report)
           console.log(reportText)
-          mdOutput += '```\n' + reportText + '```\n\n'
+          datasetReports += '```\n' + reportText + '```\n\n'
 
           // Add to summary
           summaryRows.push(generateSummaryRow(report))
+
+          // Accumulate totals
+          for (const stat of report.formatStats) {
+            totalInputTokens += stat.inputTokens
+            totalOutputTokens += stat.outputTokens
+            totalCost += stat.totalCost
+          }
 
           totalReports++
         }
@@ -387,6 +383,16 @@ function main() {
       }
     }
   }
+
+  // Build final report with totals at the top
+  let mdOutput = '# PLOON Retrieval Benchmarks - Results Analysis\n\n'
+  mdOutput += `Generated: ${new Date().toISOString()}\n\n`
+  mdOutput += '## Benchmark Summary\n\n'
+  mdOutput += `**Total Input Tokens:** ${formatNumber(totalInputTokens)}\n\n`
+  mdOutput += `**Total Output Tokens:** ${formatNumber(totalOutputTokens)}\n\n`
+  mdOutput += `**Total Cost:** ${formatCost(totalCost)}\n\n`
+  mdOutput += '---\n\n'
+  mdOutput += datasetReports
 
   // Build summary table
   let summaryOutput = '# PLOON Retrieval Benchmarks - Summary\n\n'

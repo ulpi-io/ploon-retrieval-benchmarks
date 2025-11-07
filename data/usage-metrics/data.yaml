@@ -1,167 +1,800 @@
 - date: 2025-01-01
   userId: 1
-  sessionCount: 2
-  activeMinutes: 22
+  sessionCount: 8
+  activeMinutes: 155
   featuresUsed:
-    - integrations
-    - dashboard
-    - collaboration
     - webhooks
-  apiCalls: 50
-  errors: 15
-  engagement: 40
+    - api
+    - reports
+    - analytics
+  apiCalls: 3
+  errors: 3
+  engagement: 25
   plan: free
 - date: 2025-01-02
   userId: 2
-  sessionCount: 15
-  activeMinutes: 75
+  sessionCount: 6
+  activeMinutes: 156
   featuresUsed:
-    - automation
+    - exports
     - collaboration
-  apiCalls: 0
-  errors: 20
-  engagement: 33
+    - dashboard
+    - analytics
+  apiCalls: 85
+  errors: 13
+  engagement: 20
   plan: starter
 - date: 2025-01-03
   userId: 3
-  sessionCount: 4
-  activeMinutes: 28
+  sessionCount: 8
+  activeMinutes: 60
   featuresUsed:
-    - notifications
-    - webhooks
-    - api
+    - automation
     - exports
-  apiCalls: 3415
-  errors: 9
-  engagement: 27
+    - analytics
+    - dashboard
+  apiCalls: 6309
+  errors: 10
+  engagement: 78
   plan: pro
 - date: 2025-01-04
   userId: 4
-  sessionCount: 27
-  activeMinutes: 324
+  sessionCount: 21
+  activeMinutes: 201
   featuresUsed:
     - analytics
+    - notifications
     - reports
+    - api
     - exports
     - dashboard
-    - api
-    - webhooks
     - automation
+    - webhooks
     - integrations
-  apiCalls: 6211
-  errors: 2
-  engagement: 43
+  apiCalls: 4973
+  errors: 12
+  engagement: 54
   plan: enterprise
 - date: 2025-01-05
   userId: 5
-  sessionCount: 2
-  activeMinutes: 50
+  sessionCount: 5
+  activeMinutes: 144
   featuresUsed:
+    - automation
+    - api
     - dashboard
-    - exports
-    - reports
-    - webhooks
-  apiCalls: 63
-  errors: 16
-  engagement: 56
+  apiCalls: 49
+  errors: 8
+  engagement: 94
   plan: free
 - date: 2025-01-06
   userId: 6
   sessionCount: 15
-  activeMinutes: 20
+  activeMinutes: 93
   featuresUsed:
-    - collaboration
-  apiCalls: 57
-  errors: 14
-  engagement: 60
+    - exports
+    - webhooks
+  apiCalls: 81
+  errors: 9
+  engagement: 31
   plan: starter
 - date: 2025-01-07
   userId: 7
-  sessionCount: 14
-  activeMinutes: 136
+  sessionCount: 6
+  activeMinutes: 280
   featuresUsed:
-    - notifications
-    - webhooks
-    - collaboration
-    - automation
-    - api
+    - reports
     - analytics
+    - notifications
     - exports
-  apiCalls: 2676
-  errors: 9
-  engagement: 56
+    - automation
+    - integrations
+    - dashboard
+  apiCalls: 2525
+  errors: 18
+  engagement: 71
   plan: pro
 - date: 2025-01-08
   userId: 8
-  sessionCount: 18
-  activeMinutes: 90
+  sessionCount: 21
+  activeMinutes: 189
   featuresUsed:
-    - api
-    - notifications
-    - collaboration
-    - analytics
-    - automation
     - exports
+    - reports
     - webhooks
+    - notifications
+    - analytics
+    - collaboration
+    - dashboard
     - integrations
-  apiCalls: 6739
-  errors: 9
-  engagement: 82
+    - automation
+    - api
+  apiCalls: 9147
+  errors: 16
+  engagement: 77
   plan: enterprise
 - date: 2025-01-09
   userId: 9
-  sessionCount: 1
-  activeMinutes: 84
+  sessionCount: 10
+  activeMinutes: 163
   featuresUsed:
-    - integrations
-    - notifications
     - collaboration
-  apiCalls: 81
+    - api
+    - automation
+  apiCalls: 1
   errors: 13
-  engagement: 85
+  engagement: 33
   plan: free
 - date: 2025-01-10
   userId: 10
-  sessionCount: 5
-  activeMinutes: 141
+  sessionCount: 8
+  activeMinutes: 237
   featuresUsed:
-    - exports
-    - analytics
-  apiCalls: 75
-  errors: 13
-  engagement: 57
+    - collaboration
+  apiCalls: 39
+  errors: 20
+  engagement: 30
   plan: starter
 - date: 2025-01-11
   userId: 11
-  sessionCount: 4
-  activeMinutes: 336
+  sessionCount: 12
+  activeMinutes: 98
   featuresUsed:
-    - dashboard
     - collaboration
-    - integrations
-    - api
-    - webhooks
-    - reports
     - automation
-  apiCalls: 9923
-  errors: 11
-  engagement: 67
+    - api
+    - integrations
+    - notifications
+    - reports
+  apiCalls: 4167
+  errors: 6
+  engagement: 85
   plan: pro
 - date: 2025-01-12
   userId: 12
-  sessionCount: 30
-  activeMinutes: 96
+  sessionCount: 6
+  activeMinutes: 408
   featuresUsed:
+    - collaboration
+    - automation
+    - api
+    - analytics
+    - dashboard
+  apiCalls: 2643
+  errors: 19
+  engagement: 68
+  plan: enterprise
+- date: 2025-01-13
+  userId: 13
+  sessionCount: 1
+  activeMinutes: 21
+  featuresUsed:
+    - exports
+  apiCalls: 98
+  errors: 16
+  engagement: 27
+  plan: free
+- date: 2025-01-14
+  userId: 14
+  sessionCount: 3
+  activeMinutes: 237
+  featuresUsed:
+    - collaboration
+    - automation
+  apiCalls: 100
+  errors: 18
+  engagement: 29
+  plan: starter
+- date: 2025-01-15
+  userId: 15
+  sessionCount: 12
+  activeMinutes: 80
+  featuresUsed:
+    - analytics
+    - dashboard
+    - exports
+  apiCalls: 3451
+  errors: 5
+  engagement: 61
+  plan: pro
+- date: 2025-01-16
+  userId: 16
+  sessionCount: 12
+  activeMinutes: 333
+  featuresUsed:
+    - dashboard
+    - webhooks
+    - api
+    - notifications
+    - analytics
+    - integrations
+    - reports
+    - automation
+  apiCalls: 572
+  errors: 1
+  engagement: 72
+  plan: enterprise
+- date: 2025-01-17
+  userId: 17
+  sessionCount: 10
+  activeMinutes: 99
+  featuresUsed:
+    - automation
+    - collaboration
+    - dashboard
+    - notifications
+  apiCalls: 17
+  errors: 10
+  engagement: 26
+  plan: free
+- date: 2025-01-18
+  userId: 18
+  sessionCount: 15
+  activeMinutes: 215
+  featuresUsed:
+    - api
+    - webhooks
+    - automation
+    - reports
+  apiCalls: 26
+  errors: 2
+  engagement: 95
+  plan: starter
+- date: 2025-01-19
+  userId: 19
+  sessionCount: 6
+  activeMinutes: 118
+  featuresUsed:
+    - automation
+    - integrations
+    - analytics
+    - webhooks
+    - collaboration
+  apiCalls: 8815
+  errors: 8
+  engagement: 66
+  plan: pro
+- date: 2025-01-20
+  userId: 20
+  sessionCount: 30
+  activeMinutes: 258
+  featuresUsed:
+    - analytics
+    - collaboration
+    - dashboard
+    - exports
+    - integrations
+    - reports
+    - automation
+  apiCalls: 1289
+  errors: 10
+  engagement: 94
+  plan: enterprise
+- date: 2025-01-21
+  userId: 21
+  sessionCount: 4
+  activeMinutes: 101
+  featuresUsed:
+    - reports
+  apiCalls: 36
+  errors: 17
+  engagement: 92
+  plan: free
+- date: 2025-01-22
+  userId: 22
+  sessionCount: 6
+  activeMinutes: 218
+  featuresUsed:
+    - integrations
+    - analytics
+    - exports
+  apiCalls: 45
+  errors: 12
+  engagement: 39
+  plan: starter
+- date: 2025-01-23
+  userId: 23
+  sessionCount: 20
+  activeMinutes: 78
+  featuresUsed:
+    - dashboard
+    - exports
+    - reports
+    - automation
+  apiCalls: 9005
+  errors: 20
+  engagement: 79
+  plan: pro
+- date: 2025-01-24
+  userId: 24
+  sessionCount: 21
+  activeMinutes: 108
+  featuresUsed:
+    - webhooks
+    - reports
+    - collaboration
+    - api
+    - automation
+    - analytics
+    - exports
+    - notifications
+  apiCalls: 593
+  errors: 5
+  engagement: 53
+  plan: enterprise
+- date: 2025-01-25
+  userId: 25
+  sessionCount: 5
+  activeMinutes: 48
+  featuresUsed:
+    - integrations
+    - automation
+  apiCalls: 51
+  errors: 1
+  engagement: 89
+  plan: free
+- date: 2025-01-26
+  userId: 26
+  sessionCount: 12
+  activeMinutes: 257
+  featuresUsed:
+    - api
+    - reports
+    - webhooks
+    - automation
+  apiCalls: 23
+  errors: 4
+  engagement: 95
+  plan: starter
+- date: 2025-01-27
+  userId: 27
+  sessionCount: 4
+  activeMinutes: 196
+  featuresUsed:
+    - webhooks
+    - api
+    - collaboration
+    - reports
+    - dashboard
+    - automation
+  apiCalls: 7529
+  errors: 1
+  engagement: 71
+  plan: pro
+- date: 2025-01-28
+  userId: 28
+  sessionCount: 3
+  activeMinutes: 441
+  featuresUsed:
+    - exports
+    - webhooks
+    - dashboard
+    - collaboration
+    - automation
+    - analytics
+    - api
+    - notifications
+    - reports
+  apiCalls: 1453
+  errors: 3
+  engagement: 56
+  plan: enterprise
+- date: 2025-01-29
+  userId: 29
+  sessionCount: 5
+  activeMinutes: 138
+  featuresUsed:
+    - exports
+    - api
+  apiCalls: 68
+  errors: 4
+  engagement: 42
+  plan: free
+- date: 2025-01-30
+  userId: 30
+  sessionCount: 9
+  activeMinutes: 189
+  featuresUsed:
+    - dashboard
+    - exports
+  apiCalls: 45
+  errors: 10
+  engagement: 81
+  plan: starter
+- date: 2025-01-31
+  userId: 31
+  sessionCount: 20
+  activeMinutes: 340
+  featuresUsed:
+    - webhooks
+    - notifications
+    - api
+    - analytics
+    - automation
+    - exports
+  apiCalls: 4641
+  errors: 13
+  engagement: 82
+  plan: pro
+- date: 2025-02-01
+  userId: 32
+  sessionCount: 18
+  activeMinutes: 384
+  featuresUsed:
+    - notifications
+    - analytics
+    - integrations
+    - exports
+    - reports
+  apiCalls: 9200
+  errors: 4
+  engagement: 75
+  plan: enterprise
+- date: 2025-02-02
+  userId: 33
+  sessionCount: 1
+  activeMinutes: 59
+  featuresUsed:
+    - collaboration
+    - reports
+    - dashboard
+    - api
+  apiCalls: 15
+  errors: 4
+  engagement: 21
+  plan: free
+- date: 2025-02-03
+  userId: 34
+  sessionCount: 5
+  activeMinutes: 195
+  featuresUsed:
+    - reports
     - webhooks
     - exports
     - analytics
+  apiCalls: 61
+  errors: 3
+  engagement: 81
+  plan: starter
+- date: 2025-02-04
+  userId: 35
+  sessionCount: 2
+  activeMinutes: 360
+  featuresUsed:
+    - dashboard
+    - notifications
+    - analytics
+    - reports
+  apiCalls: 7734
+  errors: 2
+  engagement: 30
+  plan: pro
+- date: 2025-02-05
+  userId: 36
+  sessionCount: 9
+  activeMinutes: 315
+  featuresUsed:
+    - collaboration
+    - analytics
+    - notifications
+    - dashboard
+    - api
+    - exports
+  apiCalls: 6436
+  errors: 8
+  engagement: 89
+  plan: enterprise
+- date: 2025-02-06
+  userId: 37
+  sessionCount: 10
+  activeMinutes: 10
+  featuresUsed:
+    - dashboard
+    - analytics
+    - notifications
+  apiCalls: 65
+  errors: 13
+  engagement: 34
+  plan: free
+- date: 2025-02-07
+  userId: 38
+  sessionCount: 5
+  activeMinutes: 147
+  featuresUsed:
+    - analytics
+    - integrations
+  apiCalls: 53
+  errors: 15
+  engagement: 24
+  plan: starter
+- date: 2025-02-08
+  userId: 39
+  sessionCount: 20
+  activeMinutes: 200
+  featuresUsed:
+    - automation
+    - collaboration
+    - integrations
+    - exports
+    - api
+    - dashboard
+    - analytics
+  apiCalls: 8052
+  errors: 8
+  engagement: 87
+  plan: pro
+- date: 2025-02-09
+  userId: 40
+  sessionCount: 15
+  activeMinutes: 90
+  featuresUsed:
+    - collaboration
+    - integrations
+    - notifications
+    - dashboard
+    - api
+    - reports
+    - webhooks
+    - exports
+  apiCalls: 8114
+  errors: 14
+  engagement: 93
+  plan: enterprise
+- date: 2025-02-10
+  userId: 41
+  sessionCount: 4
+  activeMinutes: 125
+  featuresUsed:
+    - collaboration
+  apiCalls: 28
+  errors: 13
+  engagement: 68
+  plan: free
+- date: 2025-02-11
+  userId: 42
+  sessionCount: 5
+  activeMinutes: 74
+  featuresUsed:
+    - analytics
+    - automation
+  apiCalls: 49
+  errors: 15
+  engagement: 76
+  plan: starter
+- date: 2025-02-12
+  userId: 43
+  sessionCount: 12
+  activeMinutes: 350
+  featuresUsed:
+    - api
     - dashboard
     - reports
-    - integrations
+    - automation
+  apiCalls: 8513
+  errors: 19
+  engagement: 83
+  plan: pro
+- date: 2025-02-13
+  userId: 44
+  sessionCount: 9
+  activeMinutes: 429
+  featuresUsed:
     - api
+    - dashboard
+    - reports
+    - notifications
+    - exports
     - collaboration
     - automation
-  apiCalls: 1394
+    - integrations
+  apiCalls: 6635
+  errors: 2
+  engagement: 90
+  plan: enterprise
+- date: 2025-02-14
+  userId: 45
+  sessionCount: 4
+  activeMinutes: 20
+  featuresUsed:
+    - reports
+  apiCalls: 78
+  errors: 1
+  engagement: 21
+  plan: free
+- date: 2025-02-15
+  userId: 46
+  sessionCount: 14
+  activeMinutes: 159
+  featuresUsed:
+    - analytics
+    - integrations
+  apiCalls: 23
+  errors: 5
+  engagement: 81
+  plan: starter
+- date: 2025-02-16
+  userId: 47
+  sessionCount: 4
+  activeMinutes: 240
+  featuresUsed:
+    - api
+    - webhooks
+    - collaboration
+    - exports
+  apiCalls: 7945
+  errors: 16
+  engagement: 63
+  plan: pro
+- date: 2025-02-17
+  userId: 48
+  sessionCount: 12
+  activeMinutes: 456
+  featuresUsed:
+    - reports
+    - analytics
+    - automation
+    - collaboration
+    - exports
+    - dashboard
+    - api
+    - notifications
+  apiCalls: 1031
   errors: 17
-  engagement: 41
+  engagement: 95
+  plan: enterprise
+- date: 2025-02-18
+  userId: 49
+  sessionCount: 3
+  activeMinutes: 110
+  featuresUsed:
+    - api
+  apiCalls: 4
+  errors: 16
+  engagement: 25
+  plan: free
+- date: 2025-02-19
+  userId: 50
+  sessionCount: 9
+  activeMinutes: 38
+  featuresUsed:
+    - notifications
+  apiCalls: 90
+  errors: 5
+  engagement: 88
+  plan: starter
+- date: 2025-02-20
+  userId: 1
+  sessionCount: 20
+  activeMinutes: 344
+  featuresUsed:
+    - api
+    - analytics
+    - dashboard
+    - collaboration
+    - reports
+    - notifications
+  apiCalls: 5618
+  errors: 6
+  engagement: 76
+  plan: pro
+- date: 2025-02-21
+  userId: 2
+  sessionCount: 9
+  activeMinutes: 192
+  featuresUsed:
+    - webhooks
+    - integrations
+    - collaboration
+    - notifications
+    - exports
+    - analytics
+  apiCalls: 8485
+  errors: 13
+  engagement: 67
+  plan: enterprise
+- date: 2025-02-22
+  userId: 3
+  sessionCount: 9
+  activeMinutes: 45
+  featuresUsed:
+    - analytics
+    - api
+    - automation
+    - collaboration
+  apiCalls: 90
+  errors: 11
+  engagement: 33
+  plan: free
+- date: 2025-02-23
+  userId: 4
+  sessionCount: 15
+  activeMinutes: 108
+  featuresUsed:
+    - webhooks
+    - analytics
+    - integrations
+  apiCalls: 73
+  errors: 10
+  engagement: 69
+  plan: starter
+- date: 2025-02-24
+  userId: 5
+  sessionCount: 10
+  activeMinutes: 164
+  featuresUsed:
+    - dashboard
+    - notifications
+    - integrations
+    - exports
+    - webhooks
+    - reports
+  apiCalls: 4793
+  errors: 20
+  engagement: 81
+  plan: pro
+- date: 2025-02-25
+  userId: 6
+  sessionCount: 30
+  activeMinutes: 348
+  featuresUsed:
+    - integrations
+    - webhooks
+    - notifications
+    - analytics
+    - exports
+    - automation
+    - reports
+    - collaboration
+  apiCalls: 2451
+  errors: 11
+  engagement: 25
+  plan: enterprise
+- date: 2025-02-26
+  userId: 7
+  sessionCount: 6
+  activeMinutes: 53
+  featuresUsed:
+    - notifications
+  apiCalls: 87
+  errors: 16
+  engagement: 20
+  plan: free
+- date: 2025-02-27
+  userId: 8
+  sessionCount: 15
+  activeMinutes: 68
+  featuresUsed:
+    - automation
+    - exports
+  apiCalls: 88
+  errors: 1
+  engagement: 79
+  plan: starter
+- date: 2025-02-28
+  userId: 9
+  sessionCount: 8
+  activeMinutes: 138
+  featuresUsed:
+    - webhooks
+    - notifications
+    - dashboard
+    - collaboration
+  apiCalls: 3175
+  errors: 18
+  engagement: 34
+  plan: pro
+- date: 2025-03-01
+  userId: 10
+  sessionCount: 3
+  activeMinutes: 216
+  featuresUsed:
+    - exports
+    - integrations
+    - notifications
+    - webhooks
+    - dashboard
+    - reports
+  apiCalls: 4567
+  errors: 10
+  engagement: 81
   plan: enterprise

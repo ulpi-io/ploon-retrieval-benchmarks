@@ -16,7 +16,6 @@ export type FormatName =
   | 'xml'
   | 'toon'
   | 'ploon'
-  | 'ploon-minified'
 
 export type QuestionType =
   | 'field-retrieval'

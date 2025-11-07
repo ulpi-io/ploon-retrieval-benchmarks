@@ -20,8 +20,8 @@
       "technical",
       "needs-info"
     ],
-    "createdAt": "2025-10-31T17:29:30.546Z",
-    "updatedAt": "2025-11-02T17:35:24.846Z",
+    "createdAt": "2025-10-31T19:14:03.721Z",
+    "updatedAt": "2025-11-02T19:19:58.021Z",
     "resolvedAt": null
   },
   {
@@ -50,8 +50,8 @@
       "technical",
       "question"
     ],
-    "createdAt": "2025-10-21T17:09:25.610Z",
-    "updatedAt": "2025-10-29T21:25:35.815Z",
+    "createdAt": "2025-10-21T18:53:58.785Z",
+    "updatedAt": "2025-10-29T23:10:08.990Z",
     "resolvedAt": null
   },
   {
@@ -74,9 +74,9 @@
       "technical",
       "needs-info"
     ],
-    "createdAt": "2025-10-03T10:26:47.121Z",
-    "updatedAt": "2025-11-05T00:56:30.874Z",
-    "resolvedAt": "2025-11-05T21:07:12.053Z"
+    "createdAt": "2025-10-03T12:11:20.296Z",
+    "updatedAt": "2025-11-05T02:41:04.049Z",
+    "resolvedAt": "2025-11-05T22:51:45.228Z"
   },
   {
     "id": "T0004",
@@ -95,9 +95,9 @@
     "tags": [
       "documentation"
     ],
-    "createdAt": "2025-10-27T13:25:34.936Z",
-    "updatedAt": "2025-11-05T16:14:04.095Z",
-    "resolvedAt": "2025-11-07T00:02:56.116Z"
+    "createdAt": "2025-10-27T15:10:08.111Z",
+    "updatedAt": "2025-11-05T17:58:37.270Z",
+    "resolvedAt": "2025-11-07T01:47:29.291Z"
   },
   {
     "id": "T0005",
@@ -122,8 +122,8 @@
       "technical",
       "documentation"
     ],
-    "createdAt": "2025-09-12T02:58:27.622Z",
-    "updatedAt": "2025-10-29T03:36:11.634Z",
+    "createdAt": "2025-09-12T04:43:00.797Z",
+    "updatedAt": "2025-10-29T05:20:44.809Z",
     "resolvedAt": null
   },
   {
@@ -150,8 +150,8 @@
       "documentation",
       "technical"
     ],
-    "createdAt": "2025-10-19T20:17:08.681Z",
-    "updatedAt": "2025-10-26T19:05:28.838Z",
+    "createdAt": "2025-10-19T22:01:41.855Z",
+    "updatedAt": "2025-10-26T20:50:02.012Z",
     "resolvedAt": null
   },
   {
@@ -173,9 +173,9 @@
     "tags": [
       "technical"
     ],
-    "createdAt": "2025-09-14T08:53:58.051Z",
-    "updatedAt": "2025-09-15T19:46:17.574Z",
-    "resolvedAt": "2025-10-18T07:19:12.603Z"
+    "createdAt": "2025-09-14T10:38:31.225Z",
+    "updatedAt": "2025-09-15T21:30:50.748Z",
+    "resolvedAt": "2025-10-18T09:03:45.777Z"
   },
   {
     "id": "T0008",
@@ -199,9 +199,9 @@
       "needs-info",
       "technical"
     ],
-    "createdAt": "2025-10-16T07:17:41.178Z",
-    "updatedAt": "2025-10-19T17:34:25.378Z",
-    "resolvedAt": "2025-11-03T16:45:44.812Z"
+    "createdAt": "2025-10-16T09:02:14.352Z",
+    "updatedAt": "2025-10-19T19:18:58.552Z",
+    "resolvedAt": "2025-11-03T18:30:17.986Z"
   },
   {
     "id": "T0009",
@@ -227,8 +227,8 @@
       "question",
       "feature-request"
     ],
-    "createdAt": "2025-09-15T23:29:56.160Z",
-    "updatedAt": "2025-10-15T17:04:34.148Z",
+    "createdAt": "2025-09-16T01:14:29.334Z",
+    "updatedAt": "2025-10-15T18:49:07.322Z",
     "resolvedAt": null
   },
   {
@@ -255,8 +255,8 @@
       "bug",
       "billing"
     ],
-    "createdAt": "2025-10-22T12:55:53.724Z",
-    "updatedAt": "2025-10-23T17:17:18.612Z",
+    "createdAt": "2025-10-22T14:40:26.899Z",
+    "updatedAt": "2025-10-23T19:01:51.787Z",
     "resolvedAt": null
   },
   {
@@ -281,9 +281,9 @@
       "documentation",
       "technical"
     ],
-    "createdAt": "2025-10-19T21:08:37.453Z",
-    "updatedAt": "2025-10-24T07:43:36.281Z",
-    "resolvedAt": "2025-11-04T08:43:44.870Z"
+    "createdAt": "2025-10-19T22:53:10.628Z",
+    "updatedAt": "2025-10-24T09:28:09.456Z",
+    "resolvedAt": "2025-11-04T10:28:18.045Z"
   },
   {
     "id": "T0012",
@@ -309,8 +309,1257 @@
     "tags": [
       "bug"
     ],
-    "createdAt": "2025-10-27T05:22:11.031Z",
-    "updatedAt": "2025-11-05T02:06:27.638Z",
-    "resolvedAt": "2025-11-06T08:03:08.676Z"
+    "createdAt": "2025-10-27T07:06:44.206Z",
+    "updatedAt": "2025-11-05T03:51:00.813Z",
+    "resolvedAt": "2025-11-06T09:47:41.851Z"
+  },
+  {
+    "id": "T0013",
+    "status": "open",
+    "priority": "low",
+    "subject": "AI-driven maximized software",
+    "customer": {
+      "name": "Paula Hoeger PhD",
+      "email": "edd_graham0@yahoo.com",
+      "company": "Friesen and Sons"
+    },
+    "assignee": null,
+    "messages": [
+      "Curiositas aestas tactus numquam conitor causa claro tenus.",
+      "Civitas celer charisma turbo assentator caste.",
+      "Voluptates abeo capto sursum casso versus distinctio."
+    ],
+    "tags": [
+      "feature-request",
+      "billing",
+      "technical"
+    ],
+    "createdAt": "2025-10-23T07:03:06.942Z",
+    "updatedAt": "2025-11-04T08:35:58.747Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0014",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Ergonomic mobile application",
+    "customer": {
+      "name": "Johnnie Emmerich",
+      "email": "jonatan25@yahoo.com",
+      "company": "Dach - Daniel"
+    },
+    "assignee": "Blanca Schroeder",
+    "messages": [
+      "Volubilis nesciunt censura coerceo quibusdam termes curiositas solum curriculum consequuntur.",
+      "Tondeo depulso adnuo denuncio despecto debilito coruscus."
+    ],
+    "tags": [
+      "technical",
+      "billing",
+      "needs-info",
+      "bug"
+    ],
+    "createdAt": "2025-10-27T09:58:12.737Z",
+    "updatedAt": "2025-11-04T02:19:34.882Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0015",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Advanced intermediate challenge",
+    "customer": {
+      "name": "Mr. Abraham Rowe",
+      "email": "alyson_sipes@hotmail.com",
+      "company": "Heaney - Robel"
+    },
+    "assignee": "Edward Torp",
+    "messages": [
+      "Amitto utique consectetur velit ante reprehenderit uter."
+    ],
+    "tags": [
+      "question"
+    ],
+    "createdAt": "2025-10-27T00:32:31.475Z",
+    "updatedAt": "2025-11-06T16:17:00.844Z",
+    "resolvedAt": "2025-11-07T01:29:35.000Z"
+  },
+  {
+    "id": "T0016",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Distributed global hardware",
+    "customer": {
+      "name": "Timothy Homenick-Wintheiser",
+      "email": "earnest.kirlin@hotmail.com",
+      "company": "Gulgowski - Cummings"
+    },
+    "assignee": "Dennis Quigley",
+    "messages": [
+      "Sublime arx autus denuncio desidero tenuis.",
+      "Vulgivagus communis tyrannus toties.",
+      "Tactus comes acsi magnam viscus armarium templum adhuc autem eius.",
+      "Testimonium antiquus vapulus atqui dapifer architecto.",
+      "Torrens aurum nesciunt supplanto demo cedo tabernus conscendo.",
+      "Adsidue velit enim cervus turpis decipio sortitus vulgivagus."
+    ],
+    "tags": [
+      "feature-request",
+      "bug",
+      "documentation",
+      "needs-info"
+    ],
+    "createdAt": "2025-10-03T15:46:51.761Z",
+    "updatedAt": "2025-10-24T05:46:05.204Z",
+    "resolvedAt": "2025-10-28T17:35:14.977Z"
+  },
+  {
+    "id": "T0017",
+    "status": "open",
+    "priority": "low",
+    "subject": "User-centric local synergy",
+    "customer": {
+      "name": "Anita Rogahn",
+      "email": "rodrigo82@hotmail.com",
+      "company": "Kirlin - Nolan"
+    },
+    "assignee": null,
+    "messages": [
+      "Sunt argumentum alius virgo culpo sed vitium.",
+      "Aperte desino attonbitus admitto vehemens cena adnuo deserunt termes.",
+      "Appono creta causa et veniam ultio tubineus.",
+      "Appello animi utilis ager.",
+      "Attonbitus cunctatio triumphus volutabrum abeo laborum.",
+      "Cribro colligo thema supra thesis volup utpote pectus certus."
+    ],
+    "tags": [
+      "question",
+      "documentation",
+      "billing"
+    ],
+    "createdAt": "2025-10-11T05:40:42.875Z",
+    "updatedAt": "2025-10-16T22:32:43.468Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0018",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Triple-buffered next generation capacity",
+    "customer": {
+      "name": "Johnnie Marquardt",
+      "email": "stanley32@gmail.com",
+      "company": "Hane Group"
+    },
+    "assignee": "Howard Bradtke",
+    "messages": [
+      "Utpote adulatio quia tum pectus spiculum sublime.",
+      "Vacuus assentator spoliatio adduco texo tonsor bene eius tersus dicta.",
+      "Demitto defluo universe venia solitudo tibi abbas repudiandae trepide adhaero.",
+      "Autus cultura confugo voluptatibus synagoga voco infit.",
+      "Attonbitus summisse una speciosus.",
+      "Amo quasi audax bonus clementia.",
+      "Depromo voco soleo averto cibo contego adulatio ceno.",
+      "Quia qui votum toties communis aestas."
+    ],
+    "tags": [
+      "question",
+      "bug",
+      "needs-info",
+      "billing"
+    ],
+    "createdAt": "2025-09-12T02:55:41.534Z",
+    "updatedAt": "2025-09-29T08:26:22.726Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0019",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Total fresh-thinking artificial intelligence",
+    "customer": {
+      "name": "James Bradtke PhD",
+      "email": "alvera_crona@gmail.com",
+      "company": "Homenick, Reilly and Bailey"
+    },
+    "assignee": "Dan Will",
+    "messages": [
+      "Viduo conforto rerum summopere caelum tonsor auctus cattus.",
+      "Thalassinus neque possimus adduco vito.",
+      "Vitium baiulus ipsum canis audacia ambitus ambulo aranea.",
+      "Colo conscendo copia arca explicabo.",
+      "Vomica adstringo canto tui valens candidus benevolentia acceptus officiis usque.",
+      "Valens terror cornu venio alii stips creber tardus sustineo.",
+      "Cunctatio creber contigo aurum consuasor arto ceno angelus acidus ver.",
+      "Suppellex amor cito assumenda absque totam totus cogo adamo."
+    ],
+    "tags": [
+      "question",
+      "feature-request"
+    ],
+    "createdAt": "2025-08-27T02:24:57.250Z",
+    "updatedAt": "2025-10-09T16:50:26.078Z",
+    "resolvedAt": "2025-10-29T09:28:58.358Z"
+  },
+  {
+    "id": "T0020",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "User-friendly logistical emulation",
+    "customer": {
+      "name": "Marlon Kuhic",
+      "email": "sim55@gmail.com",
+      "company": "Medhurst, D'Amore and Gibson"
+    },
+    "assignee": "Jessie O'Conner",
+    "messages": [
+      "Non admitto arca defungo tempora praesentium.",
+      "Cerno conatus cursim vindico comburo sufficio adeptio conforto.",
+      "Despecto somniculosus civis tolero vitiosus decens celo impedit trucido admoveo.",
+      "Adicio abscido cras voluptatum.",
+      "Strenuus iste claudeo alius."
+    ],
+    "tags": [
+      "billing"
+    ],
+    "createdAt": "2025-08-22T05:06:56.349Z",
+    "updatedAt": "2025-10-15T16:34:28.145Z",
+    "resolvedAt": "2025-10-24T17:35:47.001Z"
+  },
+  {
+    "id": "T0021",
+    "status": "open",
+    "priority": "low",
+    "subject": "Distributed directional customer loyalty",
+    "customer": {
+      "name": "Sidney Nitzsche",
+      "email": "gennaro.tillman@hotmail.com",
+      "company": "Hirthe Group"
+    },
+    "assignee": null,
+    "messages": [
+      "Ceno vereor corrumpo corroboro minus.",
+      "Vulgo crur tepesco antepono.",
+      "Censura somniculosus commodo."
+    ],
+    "tags": [
+      "feature-request"
+    ],
+    "createdAt": "2025-09-06T19:02:37.764Z",
+    "updatedAt": "2025-09-30T04:44:34.673Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0022",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Enhanced cloud-native matrices",
+    "customer": {
+      "name": "Reginald Stoltenberg",
+      "email": "barton_ebert@yahoo.com",
+      "company": "Cummings, Kovacek and McGlynn"
+    },
+    "assignee": "Sylvester Torphy",
+    "messages": [
+      "Usus valeo testimonium appono nisi aequus.",
+      "Decens coaegresco deleniti volubilis subvenio adaugeo vindico utique.",
+      "Denego acerbitas umquam.",
+      "Desipio cedo aliqua attollo.",
+      "Turba nam nisi comburo vicissitudo.",
+      "Apostolus tolero ventus denuo adhaero ullam.",
+      "Concedo bellum deleniti vesica vel damno."
+    ],
+    "tags": [
+      "bug",
+      "documentation",
+      "billing",
+      "needs-info"
+    ],
+    "createdAt": "2025-09-06T08:18:06.294Z",
+    "updatedAt": "2025-10-29T23:48:23.694Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0023",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Immersive content-based function",
+    "customer": {
+      "name": "Dr. Beatrice Doyle",
+      "email": "sylvan36@gmail.com",
+      "company": "Stokes, Cole and Beahan"
+    },
+    "assignee": "Marlon Dibbert",
+    "messages": [
+      "Vulticulus vacuus explicabo adipiscor summa suspendo alter."
+    ],
+    "tags": [
+      "bug"
+    ],
+    "createdAt": "2025-10-01T06:59:28.900Z",
+    "updatedAt": "2025-11-05T23:10:26.090Z",
+    "resolvedAt": "2025-11-06T21:52:05.764Z"
+  },
+  {
+    "id": "T0024",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Adaptive eco-centric hardware",
+    "customer": {
+      "name": "Maryann Larkin",
+      "email": "drew.dickinson@hotmail.com",
+      "company": "Schultz - Jaskolski"
+    },
+    "assignee": "Henrietta Ortiz",
+    "messages": [
+      "Uterque nemo concido argentum repudiandae claudeo trado aranea praesentium.",
+      "Arma viriliter utique cruciamentum.",
+      "Aveho totidem argentum coadunatio denuncio carcer."
+    ],
+    "tags": [
+      "documentation",
+      "feature-request",
+      "billing"
+    ],
+    "createdAt": "2025-08-31T09:09:22.298Z",
+    "updatedAt": "2025-09-11T16:29:47.339Z",
+    "resolvedAt": "2025-10-15T20:15:44.176Z"
+  },
+  {
+    "id": "T0025",
+    "status": "open",
+    "priority": "low",
+    "subject": "Upgradable intangible framework",
+    "customer": {
+      "name": "Kathy Effertz",
+      "email": "jacey.schroeder27@gmail.com",
+      "company": "Goodwin - Heidenreich"
+    },
+    "assignee": null,
+    "messages": [
+      "Tenus adfero curis culpa aestas apostolus claro aspernatur usque.",
+      "Certe antepono tandem cuius utilis."
+    ],
+    "tags": [
+      "bug",
+      "billing",
+      "needs-info",
+      "documentation"
+    ],
+    "createdAt": "2025-10-30T02:34:42.193Z",
+    "updatedAt": "2025-10-30T17:11:23.105Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0026",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Stand-alone optimal ability",
+    "customer": {
+      "name": "Perry Cummings",
+      "email": "stephon_dach@yahoo.com",
+      "company": "Boyle - Stamm"
+    },
+    "assignee": "Tomas Erdman",
+    "messages": [
+      "Abduco taedium vir curis amaritudo calculus."
+    ],
+    "tags": [
+      "feature-request",
+      "billing",
+      "needs-info"
+    ],
+    "createdAt": "2025-11-03T00:00:57.644Z",
+    "updatedAt": "2025-11-06T00:08:06.291Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0027",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Fundamental optimal generative AI",
+    "customer": {
+      "name": "Catherine Gislason-Beahan",
+      "email": "ernie.oconnell@hotmail.com",
+      "company": "Smith, DuBuque and Hermiston"
+    },
+    "assignee": "Gertrude Leffler",
+    "messages": [
+      "Adduco ara succedo corrumpo bellicus curriculum solitudo ventito benevolentia.",
+      "Suadeo advoco tunc strues depereo.",
+      "Adhaero advenio sumo optio demergo demonstro vulgo voluntarius.",
+      "Votum solutio alo congregatio molestiae depereo.",
+      "Quaerat territo quas bellicus subseco cumque sto suadeo.",
+      "Distinctio et vilitas tabgo coruscus nisi exercitationem.",
+      "Deficio deporto corrigo cuius depereo nulla derideo."
+    ],
+    "tags": [
+      "documentation"
+    ],
+    "createdAt": "2025-08-17T21:13:25.707Z",
+    "updatedAt": "2025-09-02T00:31:32.660Z",
+    "resolvedAt": "2025-10-13T08:42:38.276Z"
+  },
+  {
+    "id": "T0028",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Reactive intermediate analyzer",
+    "customer": {
+      "name": "Katherine Effertz",
+      "email": "ellsworth_kub89@hotmail.com",
+      "company": "McDermott Inc"
+    },
+    "assignee": "Boyd Turner",
+    "messages": [
+      "Cicuta repellat armarium pax summisse considero.",
+      "Concido corrigo tantum ulterius sodalitas cito vociferor balbus.",
+      "Defero utpote caste vulgaris crastinus studio aeternus acidus corrupti aut.",
+      "Substantia supra calco cubo careo.",
+      "Ipsa tenuis combibo vado attonbitus reiciendis patrocinor cupiditas.",
+      "Cuppedia vos bardus.",
+      "Suggero cur cohors."
+    ],
+    "tags": [
+      "feature-request"
+    ],
+    "createdAt": "2025-09-07T01:03:30.023Z",
+    "updatedAt": "2025-10-12T02:28:55.946Z",
+    "resolvedAt": "2025-10-16T20:09:48.187Z"
+  },
+  {
+    "id": "T0029",
+    "status": "open",
+    "priority": "low",
+    "subject": "Digitized disintermediate capacity",
+    "customer": {
+      "name": "Thomas Volkman MD",
+      "email": "myrtie71@yahoo.com",
+      "company": "Mraz Group"
+    },
+    "assignee": null,
+    "messages": [
+      "Textilis vero deleo adipisci crux quaerat depulso cultellus amplus."
+    ],
+    "tags": [
+      "billing",
+      "needs-info"
+    ],
+    "createdAt": "2025-10-07T19:11:56.115Z",
+    "updatedAt": "2025-10-28T16:48:41.725Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0030",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Centralized secondary neural-net",
+    "customer": {
+      "name": "Ervin Gislason",
+      "email": "orland81@hotmail.com",
+      "company": "Jaskolski LLC"
+    },
+    "assignee": "Billie Gottlieb",
+    "messages": [
+      "Audentia thermae tamquam contigo.",
+      "Eveniet quidem antepono cubo arto attonbitus beatae communis curriculum vestrum.",
+      "Undique vomito exercitationem templum contigo amplitudo.",
+      "Sopor illum ter videlicet veniam vitae.",
+      "Ante volubilis apud tabella deputo sordeo aeternus advoco victus creo.",
+      "Agnitio cubicularis crudelis."
+    ],
+    "tags": [
+      "bug"
+    ],
+    "createdAt": "2025-10-18T11:51:50.065Z",
+    "updatedAt": "2025-11-03T05:46:52.776Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0031",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Reverse-engineered intangible adapter",
+    "customer": {
+      "name": "Doug Smitham",
+      "email": "rudy_abbott@gmail.com",
+      "company": "Anderson, Marquardt and Willms"
+    },
+    "assignee": "Terry Skiles",
+    "messages": [
+      "Vulgaris aptus doloribus culpo vulgivagus concedo sequi crur.",
+      "Fugit teres alius tardus aqua totus vinco toties praesentium.",
+      "Damnatio aeneus universe dedecor libero cervus aggero denique aro.",
+      "Sordeo carus teneo.",
+      "Autem urbanus dolor deorsum accommodo aliqua.",
+      "Victoria vesica considero vicissitudo aegrotatio spectaculum depromo dignissimos."
+    ],
+    "tags": [
+      "feature-request"
+    ],
+    "createdAt": "2025-09-01T02:11:20.394Z",
+    "updatedAt": "2025-09-21T22:50:21.952Z",
+    "resolvedAt": "2025-10-09T08:13:47.135Z"
+  },
+  {
+    "id": "T0032",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Programmable national algorithm",
+    "customer": {
+      "name": "Janet D'Amore",
+      "email": "sedrick_hartmann@yahoo.com",
+      "company": "Strosin Inc"
+    },
+    "assignee": "Juan Murphy",
+    "messages": [
+      "Volaticus pauper creator molestiae subiungo aegrus.",
+      "Acerbitas comedo undique cohibeo.",
+      "Illo cupressus concido error vinculum vulticulus.",
+      "Celo vigor admiratio vesper spero tui.",
+      "Arx thymbra deleniti cotidie solum tergum odio tripudio."
+    ],
+    "tags": [
+      "billing",
+      "needs-info"
+    ],
+    "createdAt": "2025-10-03T06:53:28.667Z",
+    "updatedAt": "2025-10-25T12:45:30.526Z",
+    "resolvedAt": "2025-10-27T00:04:51.768Z"
+  },
+  {
+    "id": "T0033",
+    "status": "open",
+    "priority": "low",
+    "subject": "Centralized leading edge adapter",
+    "customer": {
+      "name": "Bobbie Luettgen",
+      "email": "casimer_buckridge@hotmail.com",
+      "company": "Price and Sons"
+    },
+    "assignee": null,
+    "messages": [
+      "Canonicus temeritas convoco tergum comparo trans.",
+      "Occaecati quaerat coniecto utrum pel cras.",
+      "Quam conscendo utpote quis utrimque.",
+      "Canto totidem tenus nulla commodo contigo adstringo.",
+      "Terga tremo ventosus laudantium fuga.",
+      "Viriliter cruentus annus.",
+      "Alioqui venia officiis tutis curia.",
+      "Ambitus talis virtus usus."
+    ],
+    "tags": [
+      "technical",
+      "documentation",
+      "billing"
+    ],
+    "createdAt": "2025-09-23T01:34:52.820Z",
+    "updatedAt": "2025-10-29T16:36:19.003Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0034",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Devolved user-facing website",
+    "customer": {
+      "name": "Andres Cruickshank",
+      "email": "ardith_sawayn32@hotmail.com",
+      "company": "Watsica and Sons"
+    },
+    "assignee": "Lucille Schneider",
+    "messages": [
+      "Argumentum tamen nisi corona labore cohors arbitro.",
+      "Pauper eum repellendus adiuvo curis defetiscor.",
+      "Copiose via confero cunabula aegrotatio sufficio crebro curso.",
+      "Despecto tamen magnam magnam.",
+      "Acerbitas color totidem damnatio vergo cetera uter.",
+      "Substantia aperiam anser.",
+      "Patria statua auctor vereor decens aro admoveo ullus vestigium adicio.",
+      "Textilis benigne corrumpo bellicus aetas porro curo constans officiis super."
+    ],
+    "tags": [
+      "question",
+      "feature-request"
+    ],
+    "createdAt": "2025-10-19T15:53:16.501Z",
+    "updatedAt": "2025-10-24T00:12:19.330Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0035",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Fully-configurable needs-based interface",
+    "customer": {
+      "name": "Lucia O'Conner",
+      "email": "estel.becker@hotmail.com",
+      "company": "Robel - Haley"
+    },
+    "assignee": "Maurice Schmidt",
+    "messages": [
+      "Acer temeritas vinco coadunatio cauda tricesimus coniecto appono deinde arbustum.",
+      "Delego dapifer consuasor sophismata vox sumo suasoria.",
+      "Sodalitas administratio tamquam error.",
+      "Pecto textor defaeco cunae illum vapulus cotidie bene.",
+      "Tempora vulnero deorsum veritas audio.",
+      "Maxime sumptus defetiscor amet caelestis utpote.",
+      "Titulus vobis amiculum celo thorax vacuus possimus aspernatur."
+    ],
+    "tags": [
+      "billing"
+    ],
+    "createdAt": "2025-10-01T18:23:39.979Z",
+    "updatedAt": "2025-10-23T12:20:14.528Z",
+    "resolvedAt": "2025-10-24T23:05:13.093Z"
+  },
+  {
+    "id": "T0036",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Customer-focused client-server neural-net",
+    "customer": {
+      "name": "Cory Hilll I",
+      "email": "kobe.strosin30@gmail.com",
+      "company": "Smitham, Yost and Grimes"
+    },
+    "assignee": "Shelia Schiller",
+    "messages": [
+      "Cedo attollo tumultus quibusdam cometes trans fuga.",
+      "Doloribus concedo strues vulnus vestigium minus certe minima deficio.",
+      "Subito sordeo adduco viduo aduro rerum debilito tripudio.",
+      "Ullus deserunt autus aperte vicinus brevis.",
+      "Magnam curso totidem aestus."
+    ],
+    "tags": [
+      "feature-request",
+      "technical",
+      "question"
+    ],
+    "createdAt": "2025-08-26T14:49:16.741Z",
+    "updatedAt": "2025-09-10T16:03:26.734Z",
+    "resolvedAt": "2025-10-26T17:37:51.188Z"
+  },
+  {
+    "id": "T0037",
+    "status": "open",
+    "priority": "low",
+    "subject": "Profit-focused motivating framework",
+    "customer": {
+      "name": "Felix Adams",
+      "email": "mafalda26@gmail.com",
+      "company": "Jacobi, Cummings and Weber"
+    },
+    "assignee": null,
+    "messages": [
+      "Aer speciosus acerbitas adulatio comparo debilito baiulus.",
+      "Fugiat aufero damno solutio est administratio strenuus strues urbs.",
+      "Coma adficio crudelis spes facere ceno crastinus vir caveo solum."
+    ],
+    "tags": [
+      "billing",
+      "documentation",
+      "bug"
+    ],
+    "createdAt": "2025-08-17T01:12:53.815Z",
+    "updatedAt": "2025-08-21T00:55:45.475Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0038",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Enhanced needs-based leverage",
+    "customer": {
+      "name": "Miguel Boyer",
+      "email": "elsie50@hotmail.com",
+      "company": "Mann, Gleason and Gulgowski"
+    },
+    "assignee": "Joann Moore",
+    "messages": [
+      "Decipio ancilla antea tumultus censura sperno sortitus tero suggero aptus.",
+      "Calculus vaco bellum rerum turba capillus candidus vomito.",
+      "Incidunt tergeo admiratio comminor communis velut.",
+      "Studio ante minima urbanus.",
+      "Terebro thymum angelus aliquid crur volubilis nemo caelestis.",
+      "Verus triumphus quam basium.",
+      "Adsidue terga ciminatio venustas.",
+      "Culpo calamitas brevis verus."
+    ],
+    "tags": [
+      "documentation",
+      "technical"
+    ],
+    "createdAt": "2025-10-27T17:32:59.220Z",
+    "updatedAt": "2025-10-31T20:53:41.190Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0039",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Customer-focused incremental initiative",
+    "customer": {
+      "name": "Irvin Torphy",
+      "email": "heber_schneider59@hotmail.com",
+      "company": "Prosacco Inc"
+    },
+    "assignee": "Harriet Lemke",
+    "messages": [
+      "Triumphus atqui accendo tunc villa comburo demitto.",
+      "Colligo summa acquiro pauci curiositas solutio eos.",
+      "Cibo spes creber denego civitas accusator ultio vilicus curatio."
+    ],
+    "tags": [
+      "bug",
+      "billing",
+      "question",
+      "needs-info"
+    ],
+    "createdAt": "2025-10-18T15:31:47.913Z",
+    "updatedAt": "2025-10-22T03:48:16.496Z",
+    "resolvedAt": "2025-10-30T02:19:08.952Z"
+  },
+  {
+    "id": "T0040",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Enhanced value-added structure",
+    "customer": {
+      "name": "Jaime Marquardt",
+      "email": "vivien.hegmann@gmail.com",
+      "company": "Gleichner, Daugherty and Bauch"
+    },
+    "assignee": "Alfonso Effertz",
+    "messages": [
+      "Supplanto quis ultio usus.",
+      "Surculus balbus depono colligo."
+    ],
+    "tags": [
+      "billing",
+      "documentation",
+      "feature-request",
+      "bug"
+    ],
+    "createdAt": "2025-09-28T22:57:47.870Z",
+    "updatedAt": "2025-10-22T04:56:43.599Z",
+    "resolvedAt": "2025-11-01T21:45:39.290Z"
+  },
+  {
+    "id": "T0041",
+    "status": "open",
+    "priority": "low",
+    "subject": "Cross-platform bottom-line projection",
+    "customer": {
+      "name": "Molly Miller",
+      "email": "zachery.stanton42@gmail.com",
+      "company": "Parisian, DuBuque and Hoppe"
+    },
+    "assignee": null,
+    "messages": [
+      "Auctor texo aliqua circumvenio autem valens pariatur bis acsi demo."
+    ],
+    "tags": [
+      "documentation",
+      "bug"
+    ],
+    "createdAt": "2025-10-17T18:22:21.574Z",
+    "updatedAt": "2025-11-03T02:02:00.674Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0042",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Ergonomic uniform knowledge base",
+    "customer": {
+      "name": "Lorena Wunsch",
+      "email": "estelle.mertz-larson@yahoo.com",
+      "company": "Windler - Leannon"
+    },
+    "assignee": "Shane Corwin",
+    "messages": [
+      "Utor dolorem communis amet.",
+      "Voluptates deludo suasoria terror ustulo terra deripio.",
+      "Arceo comminor vacuus deinde illo assumenda.",
+      "Ocer trepide suspendo ceno contego vicinus verus crux paulatim consequatur."
+    ],
+    "tags": [
+      "technical",
+      "documentation"
+    ],
+    "createdAt": "2025-08-14T15:13:45.396Z",
+    "updatedAt": "2025-10-23T07:27:08.627Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0043",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Centralized encompassing project",
+    "customer": {
+      "name": "Mamie Rogahn",
+      "email": "elliot77@yahoo.com",
+      "company": "Hegmann and Sons"
+    },
+    "assignee": "Karen Morissette",
+    "messages": [
+      "Comprehendo neque ea.",
+      "Basium pauper abbas talio agnosco.",
+      "Subito ventus surculus super conatus.",
+      "Caelestis aperio saepe canonicus distinctio creator thorax curso.",
+      "Artificiose cado ultio tribuo vita conor nobis bis varius versus.",
+      "Vis abundans approbo tenax deprimo.",
+      "Solus perspiciatis antea demoror adhuc aspicio thorax aedificium contabesco.",
+      "Amicitia error caries compono adulescens."
+    ],
+    "tags": [
+      "needs-info",
+      "documentation",
+      "billing",
+      "feature-request"
+    ],
+    "createdAt": "2025-08-09T19:35:08.794Z",
+    "updatedAt": "2025-10-18T11:12:59.577Z",
+    "resolvedAt": "2025-10-26T18:31:13.235Z"
+  },
+  {
+    "id": "T0044",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Public-key zero defect protocol",
+    "customer": {
+      "name": "Caroline Muller",
+      "email": "destini.rolfson77@gmail.com",
+      "company": "Lindgren and Sons"
+    },
+    "assignee": "Levi Herzog",
+    "messages": [
+      "Acervus cruentus aro sapiente.",
+      "Capio cibus vetus eaque.",
+      "Urbanus utrimque aperio somniculosus ipsa thermae reprehenderit supellex.",
+      "Turba cognomen utpote vulgivagus cito tantum casus.",
+      "Suffragium aro comburo theca deludo astrum repellat ager.",
+      "Vapulus defleo velociter illo atrocitas uberrime.",
+      "Voluptatibus aetas statim curto deprecator dolorem suus."
+    ],
+    "tags": [
+      "feature-request",
+      "technical"
+    ],
+    "createdAt": "2025-10-21T12:43:55.037Z",
+    "updatedAt": "2025-11-02T07:36:03.009Z",
+    "resolvedAt": "2025-11-06T08:07:59.197Z"
+  },
+  {
+    "id": "T0045",
+    "status": "open",
+    "priority": "low",
+    "subject": "Self-enabling full-range pricing structure",
+    "customer": {
+      "name": "Austin Bauch",
+      "email": "bessie3@hotmail.com",
+      "company": "Smith LLC"
+    },
+    "assignee": null,
+    "messages": [
+      "Color arbustum ultio.",
+      "Tutamen alienus vaco dolores adficio coaegresco tabgo voluptates thema.",
+      "Complectus coruscus appositus asporto crudelis appono.",
+      "Amita vicissitudo arto alias accusator."
+    ],
+    "tags": [
+      "billing",
+      "documentation",
+      "technical"
+    ],
+    "createdAt": "2025-08-21T09:40:26.182Z",
+    "updatedAt": "2025-10-24T11:07:35.684Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0046",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Multi-tiered bifurcated software",
+    "customer": {
+      "name": "Jody Stark IV",
+      "email": "janiya_fay10@gmail.com",
+      "company": "Feil - Turcotte"
+    },
+    "assignee": "Cedric Cartwright",
+    "messages": [
+      "Defero abscido tubineus arto cenaculum antiquus arca aequitas.",
+      "Tribuo templum adfero sit deripio sursum caterva virga capio.",
+      "Stipes unde ab voluptas ascisco.",
+      "Ad benevolentia claustrum considero."
+    ],
+    "tags": [
+      "needs-info",
+      "question"
+    ],
+    "createdAt": "2025-09-06T02:18:45.880Z",
+    "updatedAt": "2025-09-11T15:45:39.996Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0047",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Versatile contextually-based migration",
+    "customer": {
+      "name": "Kelley Ruecker",
+      "email": "hulda.ledner@gmail.com",
+      "company": "Haag, Green and Walker"
+    },
+    "assignee": "Kelvin Osinski",
+    "messages": [
+      "Sperno modi speculum."
+    ],
+    "tags": [
+      "question",
+      "technical"
+    ],
+    "createdAt": "2025-10-19T10:22:46.481Z",
+    "updatedAt": "2025-10-27T19:32:21.310Z",
+    "resolvedAt": "2025-11-06T11:50:48.149Z"
+  },
+  {
+    "id": "T0048",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Sharable hybrid attitude",
+    "customer": {
+      "name": "Douglas Franecki",
+      "email": "lavinia_crist@gmail.com",
+      "company": "Runte, Smith and Trantow"
+    },
+    "assignee": "Randal McDermott",
+    "messages": [
+      "Surgo pecto tollo soleo torqueo bellum deputo.",
+      "Fugiat comes tantillus quidem degero.",
+      "Vester torqueo tamisium aro.",
+      "Deludo totam quae bellicus.",
+      "Id nobis victoria aperte speculum talio teneo deduco suffoco cohibeo."
+    ],
+    "tags": [
+      "question"
+    ],
+    "createdAt": "2025-10-17T22:31:33.312Z",
+    "updatedAt": "2025-10-18T23:56:16.153Z",
+    "resolvedAt": "2025-10-27T08:25:02.573Z"
+  },
+  {
+    "id": "T0049",
+    "status": "open",
+    "priority": "low",
+    "subject": "Profit-focused eco-centric orchestration",
+    "customer": {
+      "name": "Johanna Cassin",
+      "email": "luther_price81@hotmail.com",
+      "company": "Donnelly and Sons"
+    },
+    "assignee": null,
+    "messages": [
+      "Culpo ventosus excepturi sed.",
+      "Acsi cattus quasi suppono contabesco barba tactus utor conservo nam.",
+      "Alias aequus tui.",
+      "Verus curvo admoveo dolorem custodia derelinquo nemo eveniet crux depopulo."
+    ],
+    "tags": [
+      "needs-info"
+    ],
+    "createdAt": "2025-10-18T08:17:04.403Z",
+    "updatedAt": "2025-10-22T22:20:34.039Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0050",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Decentralized methodical leverage",
+    "customer": {
+      "name": "Drew Dickinson",
+      "email": "tyler.abshire@gmail.com",
+      "company": "Kirlin, O'Kon and Kshlerin"
+    },
+    "assignee": "Janet Miller",
+    "messages": [
+      "Quidem sub sollicito curiositas.",
+      "Crinis suffoco bonus.",
+      "Volutabrum voluptatibus auditor subiungo apud."
+    ],
+    "tags": [
+      "documentation",
+      "bug",
+      "billing"
+    ],
+    "createdAt": "2025-08-12T13:02:43.478Z",
+    "updatedAt": "2025-10-30T02:22:05.294Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0051",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Managed tangible initiative",
+    "customer": {
+      "name": "Jennifer O'Conner",
+      "email": "eriberto67@yahoo.com",
+      "company": "Haag and Sons"
+    },
+    "assignee": "Mr. Robin Schimmel",
+    "messages": [
+      "Amicitia solus dapifer.",
+      "Auxilium bis civis quasi cauda undique balbus terror corroboro laboriosam."
+    ],
+    "tags": [
+      "needs-info"
+    ],
+    "createdAt": "2025-10-14T13:46:28.738Z",
+    "updatedAt": "2025-11-05T14:22:35.527Z",
+    "resolvedAt": "2025-11-06T20:02:26.070Z"
+  },
+  {
+    "id": "T0052",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Monitored needs-based migration",
+    "customer": {
+      "name": "Kristi Luettgen IV",
+      "email": "roselyn33@hotmail.com",
+      "company": "Friesen Inc"
+    },
+    "assignee": "Laurence Schumm",
+    "messages": [
+      "Venia candidus colligo copiose.",
+      "Amplitudo torqueo strues reprehenderit comprehendo.",
+      "Commodi animi valde admiratio adicio tempore caste.",
+      "Adipisci tantillus cavus.",
+      "Contigo provident voluptatum vix arbitro.",
+      "Vitae virgo dapifer.",
+      "Armarium aeternus depopulo apud crastinus laborum ascit.",
+      "Ustilo debitis damno amo pauci curo caveo suus tantum."
+    ],
+    "tags": [
+      "technical",
+      "question",
+      "needs-info",
+      "billing"
+    ],
+    "createdAt": "2025-08-19T07:17:40.562Z",
+    "updatedAt": "2025-09-23T02:35:16.505Z",
+    "resolvedAt": "2025-11-03T02:01:20.972Z"
+  },
+  {
+    "id": "T0053",
+    "status": "open",
+    "priority": "low",
+    "subject": "Smart zero administration database",
+    "customer": {
+      "name": "Andre Leannon",
+      "email": "elsie3@hotmail.com",
+      "company": "Hoppe, Collier and Langosh"
+    },
+    "assignee": null,
+    "messages": [
+      "Auditor calcar tersus uxor cotidie cornu.",
+      "Supplanto delectus synagoga accusantium cicuta.",
+      "Curatio tutis ut damno deporto aestas temporibus caute."
+    ],
+    "tags": [
+      "question",
+      "needs-info",
+      "documentation"
+    ],
+    "createdAt": "2025-10-06T17:52:44.267Z",
+    "updatedAt": "2025-10-26T03:43:20.116Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0054",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Progressive immersive analyzer",
+    "customer": {
+      "name": "Dr. Gwen Gutkowski",
+      "email": "jamarcus88@hotmail.com",
+      "company": "Krajcik, Kiehn and Lubowitz"
+    },
+    "assignee": "Ada Friesen",
+    "messages": [
+      "Stella amaritudo viridis depopulo verto cumque cultura ocer.",
+      "Ustulo patior laudantium vilis textilis validus cupiditas turba utilis.",
+      "Defessus autus cohors earum vinco validus.",
+      "Deleniti voro crapula vapulus curo tabella utroque desolo.",
+      "Unde tabernus texo pel brevis vulgus ventus sollicito terga depromo."
+    ],
+    "tags": [
+      "technical"
+    ],
+    "createdAt": "2025-08-11T22:58:02.375Z",
+    "updatedAt": "2025-08-19T11:32:10.761Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0055",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Visionary 24/7 analyzer",
+    "customer": {
+      "name": "Donald Romaguera",
+      "email": "dane35@yahoo.com",
+      "company": "Kiehn, Murray and McGlynn"
+    },
+    "assignee": "Pablo Kub",
+    "messages": [
+      "Auxilium thesis cursus.",
+      "Cado ullus aedificium tristis.",
+      "Adfectus utpote adimpleo unde.",
+      "Talus eius synagoga quo arceo sollicito.",
+      "Certe ascisco explicabo totam ulterius.",
+      "Minus callide certus vesco teres aggero."
+    ],
+    "tags": [
+      "bug",
+      "technical",
+      "billing"
+    ],
+    "createdAt": "2025-10-09T07:20:42.950Z",
+    "updatedAt": "2025-11-06T13:20:59.713Z",
+    "resolvedAt": "2025-11-07T00:05:28.728Z"
+  },
+  {
+    "id": "T0056",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Configurable logistical protocol",
+    "customer": {
+      "name": "Marlene Ebert",
+      "email": "alisa_lowe@yahoo.com",
+      "company": "McCullough - Marks"
+    },
+    "assignee": "Raymond Harber",
+    "messages": [
+      "Temptatio alter aegre tandem.",
+      "Demulceo aspicio statua decet adfectus."
+    ],
+    "tags": [
+      "billing",
+      "documentation"
+    ],
+    "createdAt": "2025-09-16T19:36:26.448Z",
+    "updatedAt": "2025-10-02T19:42:31.302Z",
+    "resolvedAt": "2025-11-06T22:23:08.298Z"
+  },
+  {
+    "id": "T0057",
+    "status": "open",
+    "priority": "low",
+    "subject": "Fundamental scalable adapter",
+    "customer": {
+      "name": "Gerard Altenwerth",
+      "email": "camden.wiegand64@hotmail.com",
+      "company": "Fadel - Runte"
+    },
+    "assignee": null,
+    "messages": [
+      "Careo ocer verbum tristis avarus urbs suffoco theca defungo.",
+      "Sol spiritus victus.",
+      "Ratione thema tener ante."
+    ],
+    "tags": [
+      "question",
+      "bug",
+      "documentation",
+      "billing"
+    ],
+    "createdAt": "2025-09-28T14:21:56.594Z",
+    "updatedAt": "2025-10-24T07:10:43.706Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0058",
+    "status": "in-progress",
+    "priority": "medium",
+    "subject": "Distributed full-range complexity",
+    "customer": {
+      "name": "Willie McCullough",
+      "email": "nellie_skiles@yahoo.com",
+      "company": "Stamm - Schultz"
+    },
+    "assignee": "Irving Sawayn",
+    "messages": [
+      "Aer beatus amiculum spargo.",
+      "Amor turbo utor acer casus.",
+      "Dedico similique voveo ulterius adversus bibo perspiciatis teneo taceo comminor.",
+      "Caveo communis verumtamen clibanus appono.",
+      "Tabesco curiositas decet coruscus exercitationem constans dapifer speculum iste terreo.",
+      "Attero subiungo defungo."
+    ],
+    "tags": [
+      "technical",
+      "feature-request",
+      "documentation"
+    ],
+    "createdAt": "2025-08-09T05:09:31.276Z",
+    "updatedAt": "2025-09-20T16:25:32.370Z",
+    "resolvedAt": null
+  },
+  {
+    "id": "T0059",
+    "status": "resolved",
+    "priority": "high",
+    "subject": "Front-line optimal encryption",
+    "customer": {
+      "name": "Casey Cronin",
+      "email": "lessie_lebsack@yahoo.com",
+      "company": "Haag - Ward"
+    },
+    "assignee": "Kerry Willms",
+    "messages": [
+      "Candidus tertius aetas est umbra trepide.",
+      "Spargo cavus atrocitas vociferor.",
+      "Vacuus stultus avaritia averto vitae commodo.",
+      "Suadeo video aetas.",
+      "Amplitudo pariatur tendo careo casso alii.",
+      "Callide conqueror creta colo.",
+      "Venustas vulgaris deleniti crapula summa solutio casus adfectus."
+    ],
+    "tags": [
+      "billing",
+      "technical",
+      "feature-request"
+    ],
+    "createdAt": "2025-08-17T22:04:11.067Z",
+    "updatedAt": "2025-11-05T16:28:33.620Z",
+    "resolvedAt": "2025-11-06T00:55:22.317Z"
+  },
+  {
+    "id": "T0060",
+    "status": "closed",
+    "priority": "urgent",
+    "subject": "Secured system-worthy website",
+    "customer": {
+      "name": "Maria Cummerata",
+      "email": "marcos95@gmail.com",
+      "company": "Spencer Group"
+    },
+    "assignee": "Grace Schoen",
+    "messages": [
+      "Aequus vallum ter antea ratione cubo aurum.",
+      "Verto vindico molestias solio explicabo arceo demum aiunt thymum bis.",
+      "Cibo solio abundans.",
+      "Amo vesper tutis charisma."
+    ],
+    "tags": [
+      "feature-request",
+      "documentation",
+      "billing",
+      "bug"
+    ],
+    "createdAt": "2025-10-18T04:36:15.460Z",
+    "updatedAt": "2025-10-23T01:53:57.711Z",
+    "resolvedAt": "2025-11-01T05:28:40.361Z"
   }
 ]

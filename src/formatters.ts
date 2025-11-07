@@ -5,7 +5,7 @@
 import { stringify as stringifyYAML } from 'yaml'
 import { Parser as Json2CsvParser } from 'json2csv'
 import { XMLBuilder } from 'fast-xml-parser'
-import { stringify as stringifyPloon, minify as minifyPloon } from 'ploon'
+import { stringify as stringifyPloon } from 'ploon'
 import { encode as encodeToon } from '@toon-format/toon'
 import type { FormatName } from './types'
 
@@ -162,7 +162,6 @@ export const formatters: Record<FormatName, (data: unknown) => string> = {
   'xml': (data) => toXML(data),
   'toon': (data) => encodeToon(data),
   'ploon': (data) => stringifyPloon(data),
-  'ploon-minified': (data) => minifyPloon(stringifyPloon(data)),
 }
 
 /**
@@ -176,7 +175,6 @@ export function getFileExtension(format: FormatName): string {
     'xml': 'xml',
     'toon': 'toon',
     'ploon': 'ploon',
-    'ploon-minified': 'ploon',
   }
 
   return extensions[format]

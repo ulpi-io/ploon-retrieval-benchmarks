@@ -1,228 +1,829 @@
 [
   {
     "id": "E000001",
-    "timestamp": "2025-10-17T10:38:43.135Z",
+    "timestamp": "2025-10-24T02:00:44.413Z",
     "level": "error",
     "message": "Database connection timeout",
-    "stackTrace": "  at inputCYFZV (outfox_joyously.js:219)\n  at navigateLAJFU (however.gz:32)\n  at copyFYAGN (offensively_sans_duh.xht:126)",
-    "userId": null,
+    "stackTrace": "  at compressTZALH (belabor.ogg:474)\n  at inputAVDZT (primary_if_since.docx:425)\n  at hackMXYPT (trash_afterwards.msm:157)\n  at bypassYZFMA (flawless_given_helplessly.jpg:431)\n  at connectCHULV (well.3gp:337)\n  at compressRROTO (fleck_as.text:67)\n  at transmitWBAYV (overtrain_any.ogx:12)\n  at indexXVOCV (or.ics:322)",
+    "userId": 6188,
     "endpoint": "/api/users",
     "method": "GET",
     "statusCode": 400,
     "context": {
       "browser": "Chrome",
       "os": "Windows",
-      "version": "61.4"
+      "version": "47.5"
     },
     "tags": [
       "database",
-      "auth",
-      "api"
+      "needs-investigation"
     ],
-    "resolved": false
+    "resolved": true
   },
   {
     "id": "E000002",
-    "timestamp": "2025-10-21T02:57:42.583Z",
+    "timestamp": "2025-10-21T12:41:11.740Z",
     "level": "critical",
     "message": "Null pointer exception",
-    "stackTrace": "  at bypassDWYRO (provided_or.tiff:5)\n  at calculateXMYFS (excluding_gnaw_among.ppt:244)\n  at compressUHBVL (fair.dmg:334)\n  at calculateKBNUA (indeed_gripping_coliseum.msi:340)\n  at overrideAZYDQ (amidst.ini:324)",
-    "userId": null,
+    "stackTrace": "  at overrideHKBEK (bashfully_certainly_rebuff.xhtml:433)\n  at copyWAPGV (following.spx:358)\n  at programSKGLK (times_fair.php:20)\n  at inputQMICY (aside.vsd:159)\n  at connectUNAWK (which_thread_daintily.webp:412)",
+    "userId": 4622,
     "endpoint": "/api/products",
     "method": "POST",
     "statusCode": 401,
     "context": {
       "browser": "Firefox",
       "os": "macOS",
-      "version": "84.2"
+      "version": "73.7"
     },
     "tags": [
-      "frontend"
+      "auth",
+      "backend"
     ],
     "resolved": false
   },
   {
     "id": "E000003",
-    "timestamp": "2025-11-06T04:23:15.772Z",
+    "timestamp": "2025-10-17T02:52:34.183Z",
     "level": "error",
     "message": "Authentication failed",
-    "stackTrace": "  at transmitJUOWK (at_decode.odt:216)\n  at navigateFQDEM (pfft_massage_carelessly.xul:477)\n  at generateIAROB (gasp_describe_after.pps:494)\n  at generateDKGXG (coop_like_secularize.rmi:3)\n  at indexVIRWG (whose.pot:208)\n  at calculateLWGZT (fooey_woot_yieldingly.pdf:310)\n  at rebootTIYAJ (and_after.json:33)",
-    "userId": 2186,
+    "stackTrace": "  at navigateKPRAI (loose_ample_shrill.pptx:195)\n  at quantifyZDGAE (since_failing_anti.png:120)\n  at transmitAFCKT (under_dicker.avif:364)\n  at programJZFNT (unless_hotfoot.tar:50)\n  at rebootRKFJJ (sniveling_joint_er.map:289)\n  at hackCCKDZ (quirkily_psst.mp2a:111)",
+    "userId": 9448,
     "endpoint": "/api/orders",
     "method": "PUT",
     "statusCode": 403,
     "context": {
       "browser": "Safari",
       "os": "Linux",
-      "version": "32.0"
+      "version": "59.4"
     },
     "tags": [
-      "frontend",
-      "backend",
-      "auth"
+      "backend"
     ],
     "resolved": true
   },
   {
     "id": "E000004",
-    "timestamp": "2025-11-02T20:59:51.922Z",
+    "timestamp": "2025-10-25T00:13:42.395Z",
     "level": "critical",
     "message": "Invalid request parameters",
-    "stackTrace": "  at connectLQBNU (and_oh.xul:137)\n  at compressUMCWH (thoroughly_parody.xlm:97)\n  at rebootKOKIO (tomb.conf:236)\n  at calculateZSEFH (upward_helpful.aac:244)\n  at copyJFYTF (once_reel_dally.so:375)\n  at calculateGETSP (urgently.htm:101)\n  at connectDIBDJ (willing_beyond.mjs:82)\n  at inputIIBVR (outside.abw:158)",
-    "userId": 1973,
+    "stackTrace": "  at quantifyVUDOT (but_indeed_whoa.ics:386)\n  at parseUOYRT (trash_stealthily.webm:266)\n  at synthesizeXLJAZ (absent.otf:225)\n  at back upFAOKG (besmirch.doc:494)\n  at copyXOFKL (spirited_under.jpeg:176)\n  at inputUYEIG (surprisingly_sweetly_bah.wav:214)",
+    "userId": null,
     "endpoint": "/api/auth/login",
     "method": "DELETE",
     "statusCode": 404,
     "context": {
       "browser": "Edge",
       "os": "iOS",
-      "version": "37.6"
+      "version": "63.9"
     },
     "tags": [
-      "critical",
-      "database"
+      "api",
+      "needs-investigation"
     ],
-    "resolved": true
+    "resolved": false
   },
   {
     "id": "E000005",
-    "timestamp": "2025-10-16T04:10:59.200Z",
+    "timestamp": "2025-10-14T09:55:06.097Z",
     "level": "error",
     "message": "Resource not found",
-    "stackTrace": "  at compressVGAVJ (celsius_once_shush.elc:350)\n  at rebootXBEII (rim_notwithstanding_ick.text:472)\n  at hackUCHBM (ouch_behind_supposing.jar:17)\n  at copyEJDXM (vice_finally.dist:290)\n  at connectGRWDG (vengeful_without.rmi:461)\n  at connectLBEBX (infamous_woot.vsd:48)\n  at quantifyPEYTI (for_turret.mp3:475)",
-    "userId": null,
+    "stackTrace": "  at rebootNAWNH (sans.mpg4:312)\n  at copyXRXCQ (unethically_beside_scared.m1v:157)\n  at inputELSHS (soybean.ini:388)",
+    "userId": 9870,
     "endpoint": "/api/auth/register",
     "method": "PATCH",
     "statusCode": 500,
     "context": {
       "browser": "Mobile Safari",
       "os": "Android",
-      "version": "4.1"
+      "version": "41.7"
     },
     "tags": [
-      "api",
-      "needs-investigation"
+      "database",
+      "backend"
     ],
-    "resolved": true
+    "resolved": false
   },
   {
     "id": "E000006",
-    "timestamp": "2025-10-13T07:33:33.799Z",
+    "timestamp": "2025-10-23T20:49:55.378Z",
     "level": "critical",
     "message": "Permission denied",
-    "stackTrace": "  at transmitFOKGR (readies_officially_waist.3gp:156)\n  at generateDUHDK (even.xml:216)\n  at rebootDBZTB (seriously_tall_among.conf:475)\n  at generateXSBXL (optimistically.html:323)\n  at indexVLIVP (given_so_gadzooks.mp2a:47)\n  at back upIJYYO (that_striking_wherever.mpeg:488)\n  at generateBYCNA (vibration_lest.html:198)\n  at back upTSHRS (coaxingly_and_heighten.spx:378)",
-    "userId": 7906,
+    "stackTrace": "  at hackRZZTY (grubby.vss:209)\n  at transmitLKEYT (ape.rmi:455)\n  at indexIAGVW (failing_whenever_burgeon.rtf:425)\n  at generateBZKSR (tepid_in_phooey.docx:49)",
+    "userId": 5636,
     "endpoint": "/api/payments",
     "method": "GET",
     "statusCode": 502,
     "context": {
       "browser": "Chrome",
       "os": "Windows",
-      "version": "84.1"
+      "version": "32.1"
     },
     "tags": [
-      "payment",
-      "critical"
+      "api"
     ],
-    "resolved": true
+    "resolved": false
   },
   {
     "id": "E000007",
-    "timestamp": "2025-10-22T11:41:50.912Z",
+    "timestamp": "2025-10-19T05:52:00.591Z",
     "level": "error",
     "message": "Rate limit exceeded",
-    "stackTrace": "  at bypassFKXFQ (dreamily_roadway.msi:395)\n  at programZKTGS (nougat_definitive.dot:425)\n  at parseIYOFI (jet_considering.conf:328)\n  at navigateJHCFL (affectionate_now.mp3:163)\n  at navigateSYRCW (curry_cone.xlsx:433)\n  at indexWYFYR (without_pish_like.bin:455)\n  at generateFTPBD (er.elc:57)\n  at indexBRHYC (provided.xlt:413)",
-    "userId": 2144,
+    "stackTrace": "  at rebootNTUFB (geez_hovercraft_deeply.xsl:427)\n  at hackVSEUU (eke.odt:274)\n  at programHUXVG (complete_runny_statement.m2a:429)\n  at indexCLXLE (fax_for_vanish.shtml:45)",
+    "userId": 5834,
     "endpoint": "/api/settings",
     "method": "POST",
     "statusCode": 503,
     "context": {
       "browser": "Firefox",
       "os": "macOS",
-      "version": "111.5"
+      "version": "39.4"
     },
     "tags": [
-      "critical"
+      "critical",
+      "auth"
     ],
     "resolved": false
   },
   {
     "id": "E000008",
-    "timestamp": "2025-11-05T17:19:01.565Z",
+    "timestamp": "2025-10-08T04:55:33.378Z",
     "level": "critical",
     "message": "Internal server error",
-    "stackTrace": "  at rebootODGEP (space_both_instead.js:197)\n  at quantifyPPRSU (spectacles.war:495)\n  at navigateQGXDP (massage_yowza.bmp:442)\n  at bypassGJDIZ (break_ew.docx:372)\n  at synthesizeDDZNZ (in_but_besides.elc:50)",
-    "userId": 6588,
+    "stackTrace": "  at inputOOQUI (ethyl_porter_as.mp4v:331)\n  at calculateCNLFK (so.tar:185)\n  at connectJLIHJ (perp_beside.m3a:491)\n  at synthesizeLYAYW (sediment_fooey_duh.mpkg:293)\n  at synthesizePSGDM (inborn_astride_why.dmg:89)\n  at rebootZHGPM (brand_ick_wasabi.jar:372)",
+    "userId": 4589,
     "endpoint": "/api/analytics",
     "method": "PUT",
     "statusCode": 400,
     "context": {
       "browser": "Safari",
       "os": "Linux",
-      "version": "112.5"
+      "version": "56.5"
     },
     "tags": [
-      "payment",
-      "critical"
+      "critical",
+      "auth",
+      "needs-investigation"
     ],
-    "resolved": true
+    "resolved": false
   },
   {
     "id": "E000009",
-    "timestamp": "2025-10-18T18:50:13.957Z",
+    "timestamp": "2025-11-06T09:09:01.454Z",
     "level": "error",
     "message": "Failed to process payment",
-    "stackTrace": "  at back upULQJL (continually.m3a:251)\n  at parseQVMNZ (gee.mpg:324)\n  at programTORXU (per_enhance.woff2:393)\n  at bypassZEBME (off_where_aboard.svgz:103)\n  at quantifyMTEIB (shocked_annual.bin:318)\n  at transmitYCHZW (obediently_seldom.xls:196)",
-    "userId": 9041,
+    "stackTrace": "  at navigateAGNEH (hard_to_find.ics:263)\n  at programGDPSN (via.xlw:412)\n  at back upLPVTR (minus_curse.dump:318)",
+    "userId": 8966,
     "endpoint": "/api/users",
     "method": "DELETE",
     "statusCode": 401,
     "context": {
       "browser": "Edge",
       "os": "iOS",
-      "version": "99.2"
+      "version": "20.2"
     },
     "tags": [
-      "critical",
-      "frontend"
+      "backend"
     ],
     "resolved": false
   },
   {
     "id": "E000010",
-    "timestamp": "2025-11-02T23:58:51.458Z",
+    "timestamp": "2025-10-19T05:39:42.597Z",
     "level": "critical",
     "message": "Network error",
-    "stackTrace": "  at calculateHZAVK (subdued_after.mp4v:349)\n  at overrideXFEWO (than_deselect.tif:45)\n  at programQNHVP (reorganisation_rule.wav:77)",
-    "userId": 7340,
+    "stackTrace": "  at calculateYJUNQ (sharply.rmi:144)\n  at bypassLADSZ (boo_why.avi:354)\n  at hackDELRH (however.xlt:62)\n  at rebootFGZEA (definitive_boohoo.woff2:148)",
+    "userId": null,
     "endpoint": "/api/products",
     "method": "PATCH",
     "statusCode": 403,
     "context": {
       "browser": "Mobile Safari",
       "os": "Android",
-      "version": "37.6"
+      "version": "87.8"
     },
     "tags": [
-      "backend",
+      "auth",
+      "api",
       "frontend"
     ],
-    "resolved": true
+    "resolved": false
   },
   {
     "id": "E000011",
-    "timestamp": "2025-10-14T02:54:30.120Z",
+    "timestamp": "2025-10-22T20:50:21.335Z",
     "level": "error",
     "message": "Database connection timeout",
-    "stackTrace": "  at back upCNXHC (uh_huh.3gp:389)\n  at calculateURGKF (miserably_freckle.docx:360)\n  at generateQXTVW (gosh.doc:350)\n  at programUXQQG (which_despite_unless.php:27)\n  at generateYABMB (kookily_coordination.ifb:497)\n  at indexMCHXZ (left.deploy:182)\n  at copyYTVYW (gradient_sticky.rar:425)\n  at indexKSJDN (typewriter_crest_clinch.pot:303)",
-    "userId": null,
+    "stackTrace": "  at generateNOGOR (wonderfully_accomplished_following.mp3:90)\n  at programBAGEY (among.ini:469)\n  at inputWPAUV (incomplete_anenst_likely.pot:351)\n  at inputUMVDT (what_inventory.wav:122)\n  at parseACOAN (norm_reference_potable.opus:325)\n  at quantifyPPVLR (next_coagulate_obediently.dll:440)\n  at rebootBZXEO (knickers_shore.otf:60)",
+    "userId": 547,
     "endpoint": "/api/orders",
     "method": "GET",
     "statusCode": 404,
     "context": {
       "browser": "Chrome",
       "os": "Windows",
-      "version": "19.0"
+      "version": "68.4"
+    },
+    "tags": [
+      "critical"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000012",
+    "timestamp": "2025-10-26T20:31:35.664Z",
+    "level": "critical",
+    "message": "Null pointer exception",
+    "stackTrace": "  at programSZCZD (over_gladly.3gp:452)\n  at quantifyCXMDC (ordinary.webp:131)\n  at programHAOSD (pish_unibody_curiously.dll:196)\n  at back upMHHHP (gorgeous.opus:55)\n  at parseKTFQQ (woot.php:8)",
+    "userId": 2020,
+    "endpoint": "/api/auth/login",
+    "method": "POST",
+    "statusCode": 500,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "85.3"
+    },
+    "tags": [
+      "critical"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000013",
+    "timestamp": "2025-11-01T05:52:03.388Z",
+    "level": "error",
+    "message": "Authentication failed",
+    "stackTrace": "  at bypassHWZEW (blissfully.ods:443)\n  at bypassEFRHP (yippee_avaricious_tame.bz:16)\n  at navigateXGCWR (up_subdued.azw:43)\n  at hackHXATZ (overdue_supposing.mp2a:198)\n  at rebootPJOYO (flight_loftily.eot:366)\n  at indexNBVZJ (restaurant_indeed.dmg:190)",
+    "userId": 5086,
+    "endpoint": "/api/auth/register",
+    "method": "PUT",
+    "statusCode": 502,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "23.6"
+    },
+    "tags": [
+      "auth",
+      "api",
+      "backend"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000014",
+    "timestamp": "2025-11-05T08:17:08.029Z",
+    "level": "critical",
+    "message": "Invalid request parameters",
+    "stackTrace": "  at navigateKQZLH (tangible.mid:143)\n  at parseNNZCJ (ostrich.m1v:64)\n  at bypassJLINX (furthermore_shoulder.eot:228)",
+    "userId": 9184,
+    "endpoint": "/api/payments",
+    "method": "DELETE",
+    "statusCode": 503,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "105.0"
+    },
+    "tags": [
+      "needs-investigation",
+      "api"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000015",
+    "timestamp": "2025-10-28T18:35:53.201Z",
+    "level": "error",
+    "message": "Resource not found",
+    "stackTrace": "  at indexOKIDR (brief.avif:29)\n  at navigateVCGYF (suv_faithfully.html:84)\n  at parseFOOSQ (unless.xsd:482)\n  at quantifyVSNPS (hepatitis_impostor_opposite.jsonld:2)\n  at calculateREQPT (utilized_crest.csv:183)\n  at connectERNMP (colonialism_guacamole.jsonld:7)",
+    "userId": 5758,
+    "endpoint": "/api/settings",
+    "method": "PATCH",
+    "statusCode": 400,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "57.8"
+    },
+    "tags": [
+      "needs-investigation",
+      "database"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000016",
+    "timestamp": "2025-10-24T22:20:35.439Z",
+    "level": "critical",
+    "message": "Permission denied",
+    "stackTrace": "  at quantifyOJTBJ (duh.xlc:94)\n  at programWKUSI (when.jpeg:63)\n  at inputEPLMK (like_apud_ostrich.boz:62)\n  at generateCISLG (per_the.webp:393)\n  at quantifyAQIUZ (out.distz:162)\n  at transmitQBIRC (among_calculus.xlsx:104)\n  at compressLTFDG (ruddy.bpk:289)",
+    "userId": null,
+    "endpoint": "/api/analytics",
+    "method": "GET",
+    "statusCode": 401,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "11.8"
+    },
+    "tags": [
+      "database",
+      "frontend",
+      "auth"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000017",
+    "timestamp": "2025-10-23T16:37:14.600Z",
+    "level": "error",
+    "message": "Rate limit exceeded",
+    "stackTrace": "  at connectRVZGH (rarely_dreamily.m3a:59)\n  at calculateTAAPQ (of_far_overdub.vst:462)\n  at compressZNBNU (stale.json:35)\n  at parsePRVWI (ew_sternly.pkg:146)\n  at copyCXWJC (except.kar:205)\n  at transmitLWPDJ (positively.xls:123)\n  at copyTHVAU (provided_tag_subtract.ics:162)",
+    "userId": 9119,
+    "endpoint": "/api/users",
+    "method": "POST",
+    "statusCode": 403,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "17.3"
+    },
+    "tags": [
+      "payment",
+      "frontend",
+      "database"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000018",
+    "timestamp": "2025-11-04T16:42:09.317Z",
+    "level": "critical",
+    "message": "Internal server error",
+    "stackTrace": "  at rebootAXLSM (transplant.pptx:130)\n  at hackDHMCF (lawful_supposing.wav:341)\n  at indexMJGJM (excluding_papa_embarrassment.png:54)\n  at generateNGFXX (bony_ouch.distz:222)\n  at calculatePPEPI (wide_gape_boo.def:367)\n  at parseCIFJQ (oh.xhtml:121)\n  at back upLFUGA (reprove_shrilly.xls:469)\n  at calculateQEOMN (unimpressively_whoever_excluding.epub:100)",
+    "userId": 4150,
+    "endpoint": "/api/products",
+    "method": "PUT",
+    "statusCode": 404,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "120.2"
+    },
+    "tags": [
+      "api"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000019",
+    "timestamp": "2025-10-12T07:00:35.049Z",
+    "level": "error",
+    "message": "Failed to process payment",
+    "stackTrace": "  at transmitSMDWK (now.3gp:122)\n  at copyQYCNR (indeed_aside.jar:179)\n  at generateOCCBN (electrify_drat.xml:61)\n  at bypassCWFLD (selfishly_joyous.deb:281)\n  at programOIWNO (at.otf:166)",
+    "userId": 4194,
+    "endpoint": "/api/orders",
+    "method": "DELETE",
+    "statusCode": 500,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "104.3"
+    },
+    "tags": [
+      "frontend",
+      "backend"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000020",
+    "timestamp": "2025-10-18T07:52:08.994Z",
+    "level": "critical",
+    "message": "Network error",
+    "stackTrace": "  at programMTCMM (sometimes_though_gerbil.xhtml:184)\n  at overridePEHFE (ick.ear:403)\n  at overrideYXIXX (rough.m2a:465)\n  at indexIQLVG (step_yowza.svg:313)\n  at quantifyTYEXY (tame_gee_oh.tar:297)",
+    "userId": 9417,
+    "endpoint": "/api/auth/login",
+    "method": "PATCH",
+    "statusCode": 502,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "118.5"
+    },
+    "tags": [
+      "needs-investigation",
+      "backend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000021",
+    "timestamp": "2025-10-19T10:18:08.298Z",
+    "level": "error",
+    "message": "Database connection timeout",
+    "stackTrace": "  at transmitJBMRH (indeed_quarrel_valuable.m3a:387)\n  at navigateWIBGB (nearly.weba:114)\n  at parseGQXRB (parallel_faint.odt:83)\n  at programRMQKC (yippee_someplace_even.mpkg:198)\n  at quantifyGKSCG (indeed_capsize.avi:164)\n  at rebootEINYQ (daintily_discourse_inspection.msp:420)\n  at navigateTDLUH (between_aw.gif:86)\n  at transmitKNRJA (border_confiscate.mpe:432)",
+    "userId": 3613,
+    "endpoint": "/api/auth/register",
+    "method": "GET",
+    "statusCode": 503,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "110.5"
+    },
+    "tags": [
+      "backend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000022",
+    "timestamp": "2025-11-01T21:20:13.838Z",
+    "level": "critical",
+    "message": "Null pointer exception",
+    "stackTrace": "  at hackWKPIM (vastly_far.ogx:82)\n  at synthesizeYAQJL (innovate_furiously_ugh.xsl:496)\n  at hackTENYR (spectate.ini:279)\n  at back upGPLNK (yippee_whether.odt:380)\n  at generateGKPWN (zealous.deb:462)\n  at bypassBTLAP (aw.text:350)\n  at compressPSHQG (brr.mid:153)",
+    "userId": 8801,
+    "endpoint": "/api/payments",
+    "method": "POST",
+    "statusCode": 400,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "18.9"
+    },
+    "tags": [
+      "frontend",
+      "critical"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000023",
+    "timestamp": "2025-10-26T02:39:11.200Z",
+    "level": "error",
+    "message": "Authentication failed",
+    "stackTrace": "  at compressCWZUL (blaspheme.xlsx:172)\n  at copyNFOQV (why_knowledgeably_challenge.js:469)\n  at generateWGGEG (impossible.xml:209)",
+    "userId": null,
+    "endpoint": "/api/settings",
+    "method": "PUT",
+    "statusCode": 401,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "98.3"
+    },
+    "tags": [
+      "api",
+      "critical",
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000024",
+    "timestamp": "2025-11-06T19:00:16.881Z",
+    "level": "critical",
+    "message": "Invalid request parameters",
+    "stackTrace": "  at indexORXUE (uh_huh_our.boz:168)\n  at connectZFERO (inquisitively_yearningly.sh:116)\n  at connectNIFHY (er.deploy:368)\n  at rebootYDCWY (hype_before.png:250)\n  at transmitYEGUY (hastily_baa.boz:459)",
+    "userId": 5983,
+    "endpoint": "/api/analytics",
+    "method": "DELETE",
+    "statusCode": 403,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "11.8"
+    },
+    "tags": [
+      "auth"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000025",
+    "timestamp": "2025-10-26T11:37:36.981Z",
+    "level": "error",
+    "message": "Resource not found",
+    "stackTrace": "  at compressBICBM (that_ribbon_rise.svg:279)\n  at compressRLRVI (except.php:80)\n  at transmitJEMYV (uh_huh_consequently.csh:285)",
+    "userId": 8730,
+    "endpoint": "/api/users",
+    "method": "PATCH",
+    "statusCode": 404,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "41.3"
+    },
+    "tags": [
+      "frontend",
+      "payment",
+      "backend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000026",
+    "timestamp": "2025-10-27T23:50:37.997Z",
+    "level": "critical",
+    "message": "Permission denied",
+    "stackTrace": "  at connectVWJTN (stunt_likewise_barring.jpe:104)\n  at navigateZLABG (embed_gloom_grim.midi:184)\n  at back upKYMUK (aha_soon.xul:491)",
+    "userId": 133,
+    "endpoint": "/api/products",
+    "method": "GET",
+    "statusCode": 500,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "51.5"
+    },
+    "tags": [
+      "frontend"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000027",
+    "timestamp": "2025-10-23T08:41:55.647Z",
+    "level": "error",
+    "message": "Rate limit exceeded",
+    "stackTrace": "  at indexBWDEY (sparkling_even.mid:49)\n  at connectRUKDO (cauliflower.lrf:348)\n  at inputVNZUW (print_vacantly.mpkg:48)\n  at navigateWPOCV (traffic.mpe:66)\n  at overrideYPIQG (unless_circa.xls:400)\n  at bypassQWXSC (oh.dll:452)\n  at bypassHKVQD (ick_fit.distz:45)\n  at programRTDWJ (frizzy_deceivingly.kar:468)",
+    "userId": null,
+    "endpoint": "/api/orders",
+    "method": "POST",
+    "statusCode": 502,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "72.7"
+    },
+    "tags": [
+      "backend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000028",
+    "timestamp": "2025-10-20T19:39:48.374Z",
+    "level": "critical",
+    "message": "Internal server error",
+    "stackTrace": "  at back upQWQUQ (versus_merge.css:109)\n  at inputEPNAU (foretell_healthily.otf:232)\n  at quantifyCVEWN (once.js:381)",
+    "userId": null,
+    "endpoint": "/api/auth/login",
+    "method": "PUT",
+    "statusCode": 503,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "10.4"
+    },
+    "tags": [
+      "frontend",
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000029",
+    "timestamp": "2025-11-06T11:22:59.103Z",
+    "level": "error",
+    "message": "Failed to process payment",
+    "stackTrace": "  at rebootWEAPI (nautical_phooey.rar:325)\n  at indexATVPO (detective_mid.bin:423)\n  at transmitZJCXM (worthless_afore.bpk:452)\n  at back upRXOIV (foretell.xhtml:479)",
+    "userId": 8429,
+    "endpoint": "/api/auth/register",
+    "method": "DELETE",
+    "statusCode": 400,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "60.1"
+    },
+    "tags": [
+      "backend"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000030",
+    "timestamp": "2025-10-21T21:24:39.428Z",
+    "level": "critical",
+    "message": "Network error",
+    "stackTrace": "  at connectKSPOL (guard_absentmindedly.3gpp:491)\n  at compressNDFBS (fake_hmph.midi:315)\n  at navigateZLEIR (unless_consequently.json:91)\n  at connectEKYLJ (gee.bin:69)",
+    "userId": 2085,
+    "endpoint": "/api/payments",
+    "method": "PATCH",
+    "statusCode": 401,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "17.7"
+    },
+    "tags": [
+      "frontend",
+      "database"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000031",
+    "timestamp": "2025-10-28T09:09:03.053Z",
+    "level": "error",
+    "message": "Database connection timeout",
+    "stackTrace": "  at navigateUZKVA (large.otf:82)\n  at hackRTEYM (upliftingly.xlm:352)\n  at copyIWXKV (unibody_apud.iso:54)",
+    "userId": 3384,
+    "endpoint": "/api/settings",
+    "method": "GET",
+    "statusCode": 403,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "41.8"
+    },
+    "tags": [
+      "needs-investigation",
+      "payment",
+      "auth"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000032",
+    "timestamp": "2025-10-28T18:00:43.280Z",
+    "level": "critical",
+    "message": "Null pointer exception",
+    "stackTrace": "  at compressYQSJY (bah_what.odp:475)\n  at generateWUIJC (anti_brisk.vst:464)\n  at rebootWITPT (tut.dist:49)\n  at rebootTPOSU (married_through_whereas.kar:63)\n  at back upFWPUH (colon_meanwhile.msm:499)\n  at generateTXOJC (flint.xlc:465)",
+    "userId": null,
+    "endpoint": "/api/analytics",
+    "method": "POST",
+    "statusCode": 404,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "4.5"
+    },
+    "tags": [
+      "critical"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000033",
+    "timestamp": "2025-10-31T05:15:04.863Z",
+    "level": "error",
+    "message": "Authentication failed",
+    "stackTrace": "  at parseKXVYC (psst_whereas_sardonic.php:20)\n  at synthesizeDSIVG (provided.eot:207)\n  at programAJGBY (swiftly_mechanically_amongst.rng:209)",
+    "userId": 7330,
+    "endpoint": "/api/users",
+    "method": "PUT",
+    "statusCode": 500,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "90.3"
+    },
+    "tags": [
+      "frontend"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000034",
+    "timestamp": "2025-10-13T14:42:20.722Z",
+    "level": "critical",
+    "message": "Invalid request parameters",
+    "stackTrace": "  at transmitYGMQM (mmm_detain_drag.webm:211)\n  at copyVNQUM (pro.pot:434)\n  at compressIHCHR (witty.boz:223)",
+    "userId": null,
+    "endpoint": "/api/products",
+    "method": "DELETE",
+    "statusCode": 502,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "54.3"
+    },
+    "tags": [
+      "auth"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000035",
+    "timestamp": "2025-10-18T08:57:08.543Z",
+    "level": "error",
+    "message": "Resource not found",
+    "stackTrace": "  at parseYDAYJ (down_black.avi:438)\n  at synthesizeRFLEX (painfully_brand_knowledgeably.mpeg:52)\n  at generateBYUZA (strategy.pdf:300)",
+    "userId": 8599,
+    "endpoint": "/api/orders",
+    "method": "PATCH",
+    "statusCode": 503,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "92.9"
+    },
+    "tags": [
+      "needs-investigation"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000036",
+    "timestamp": "2025-10-11T16:05:00.756Z",
+    "level": "critical",
+    "message": "Permission denied",
+    "stackTrace": "  at hackWYHKK (yowza_which_tributary.xul:59)\n  at parseCPHJV (aboard.ini:140)\n  at programJEPQF (daintily_remark_selfishly.dot:230)\n  at copyYXDBL (tackle_dead_opposite.ics:116)\n  at transmitVQCZR (commandeer_pro_phooey.bin:394)\n  at copyWSBSA (creaking_gigantic_indeed.ogv:262)",
+    "userId": 5075,
+    "endpoint": "/api/auth/login",
+    "method": "GET",
+    "statusCode": 400,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "115.0"
+    },
+    "tags": [
+      "auth",
+      "needs-investigation"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000037",
+    "timestamp": "2025-10-21T23:44:31.659Z",
+    "level": "error",
+    "message": "Rate limit exceeded",
+    "stackTrace": "  at navigateGKMGK (following.xml:50)\n  at compressOTYAU (knowingly_bowed_proper.otf:444)\n  at rebootDQYOX (encouragement_oh_defiantly.ini:304)\n  at compressBYVWK (harangue_schnitzel_indeed.exe:397)\n  at parseYUGII (under_drain.abw:152)\n  at back upSLMPG (rosemary_expense.msp:70)\n  at parseFBAVP (gazebo_about.gz:6)\n  at calculateQBICS (insert_forgery.lrf:344)",
+    "userId": 1015,
+    "endpoint": "/api/auth/register",
+    "method": "POST",
+    "statusCode": 401,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "53.3"
+    },
+    "tags": [
+      "database"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000038",
+    "timestamp": "2025-10-12T11:49:50.699Z",
+    "level": "critical",
+    "message": "Internal server error",
+    "stackTrace": "  at synthesizeDFCJQ (brr_altruistic_queasily.odp:420)\n  at connectEZPNA (outlandish_affiliate.pdf:339)\n  at parseOCGHM (mockingly_soggy_vulgarise.mpkg:262)\n  at hackZBXBC (gee_in_which.iso:157)\n  at transmitLPMUN (whenever_actually_youthfully.ini:417)\n  at synthesizeNOBYT (where.css:392)\n  at calculateZHUZL (excellent_plump_besides.ogx:131)\n  at rebootGGEMO (settle.eot:81)",
+    "userId": 580,
+    "endpoint": "/api/payments",
+    "method": "PUT",
+    "statusCode": 403,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "2.3"
+    },
+    "tags": [
+      "backend",
+      "database",
+      "auth"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000039",
+    "timestamp": "2025-11-03T13:30:08.502Z",
+    "level": "error",
+    "message": "Failed to process payment",
+    "stackTrace": "  at overrideFFIHY (qua.mpg:396)\n  at navigateMQIOD (give_unexpectedly.vsd:87)\n  at connectCAAJD (frantically_randomize_pro.buffer:485)\n  at navigateNSXET (via_serene_vanadyl.ttf:253)\n  at transmitNXDCL (shadowy.txt:203)",
+    "userId": 2485,
+    "endpoint": "/api/settings",
+    "method": "DELETE",
+    "statusCode": 404,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "11.6"
+    },
+    "tags": [
+      "api"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000040",
+    "timestamp": "2025-11-03T00:24:48.574Z",
+    "level": "critical",
+    "message": "Network error",
+    "stackTrace": "  at hackKLYEU (responsibility.7z:399)\n  at rebootUXUYU (than.odt:266)\n  at inputQCYXC (once.css:449)",
+    "userId": null,
+    "endpoint": "/api/analytics",
+    "method": "PATCH",
+    "statusCode": 500,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "79.9"
     },
     "tags": [
       "payment",
@@ -231,24 +832,424 @@
     "resolved": false
   },
   {
-    "id": "E000012",
-    "timestamp": "2025-10-23T10:53:01.051Z",
+    "id": "E000041",
+    "timestamp": "2025-10-13T08:07:59.710Z",
+    "level": "error",
+    "message": "Database connection timeout",
+    "stackTrace": "  at quantifyPSJVF (smuggle_boohoo.oga:365)\n  at indexVANHM (phew.zip:493)\n  at connectTFUES (fellow_squirm.xsl:33)\n  at back upSIZJL (against_hence_whether.rmi:480)\n  at overrideHOAIZ (fooey_underpants_whereas.dump:94)\n  at indexPOXUB (traditionalism_granular_over.woff:481)\n  at programRNIGI (amid_woeful.bz2:308)\n  at quantifyGIUGV (forenenst_pick.xlc:31)",
+    "userId": 4740,
+    "endpoint": "/api/users",
+    "method": "GET",
+    "statusCode": 502,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "12.5"
+    },
+    "tags": [
+      "auth",
+      "payment",
+      "needs-investigation"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000042",
+    "timestamp": "2025-10-28T14:20:59.098Z",
     "level": "critical",
     "message": "Null pointer exception",
-    "stackTrace": "  at calculateVXKPA (vaguely_gee.dll:251)\n  at compressUSZFU (geez_whenever.elc:403)\n  at parseRQNCT (yum_toward.webp:37)\n  at transmitFLUTH (shyly_jubilantly.xlm:16)\n  at bypassMSXNR (ick_as_before.jpe:392)\n  at calculateLWAOQ (unlike_corral_tenant.lrf:251)\n  at inputCFFPJ (frantically.ini:287)",
-    "userId": null,
+    "stackTrace": "  at inputURNMP (woot_but_tut.wav:457)\n  at generateTSUAU (weird_disrespect_annex.oga:232)\n  at programRFTUE (poetry.bpk:431)\n  at parseNPZRV (enormously_insistent.boz:455)\n  at quantifyTHFRB (since_an_unto.odp:55)\n  at calculateGPWRY (emphasize_besides.mpe:89)",
+    "userId": 8817,
+    "endpoint": "/api/products",
+    "method": "POST",
+    "statusCode": 503,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "69.0"
+    },
+    "tags": [
+      "api",
+      "database",
+      "auth"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000043",
+    "timestamp": "2025-10-25T14:35:46.107Z",
+    "level": "error",
+    "message": "Authentication failed",
+    "stackTrace": "  at transmitSUWLY (pleasing_whether.elc:328)\n  at calculateWOLBE (on_retract.msm:83)\n  at hackHLUYF (availability_hence.wav:305)\n  at quantifyZNWJK (wrongly_qua.dll:24)\n  at overrideHMPVA (seemingly.msi:199)",
+    "userId": 9221,
+    "endpoint": "/api/orders",
+    "method": "PUT",
+    "statusCode": 400,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "102.4"
+    },
+    "tags": [
+      "needs-investigation"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000044",
+    "timestamp": "2025-10-16T19:43:55.444Z",
+    "level": "critical",
+    "message": "Invalid request parameters",
+    "stackTrace": "  at synthesizeTYQHZ (thankfully_toothbrush_that.avif:166)\n  at synthesizeODLSG (quaver.tiff:149)\n  at rebootOAXKQ (throughout.mpga:379)\n  at calculateBAFYU (outside_revitalise.xht:73)\n  at back upEHLHX (concerning_marksman.otf:163)\n  at navigateXBBNF (bad_questionably_ragged.map:429)\n  at overrideKNVCY (woot_until.abw:14)",
+    "userId": 724,
     "endpoint": "/api/auth/login",
+    "method": "DELETE",
+    "statusCode": 401,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "36.8"
+    },
+    "tags": [
+      "database",
+      "payment",
+      "critical"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000045",
+    "timestamp": "2025-10-25T04:14:33.118Z",
+    "level": "error",
+    "message": "Resource not found",
+    "stackTrace": "  at synthesizeGPGXA (austere.mpkg:357)\n  at transmitDLDSP (retract.m3a:228)\n  at navigateUYEPN (puzzled.jsonld:418)",
+    "userId": 7738,
+    "endpoint": "/api/auth/register",
+    "method": "PATCH",
+    "statusCode": 403,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "14.1"
+    },
+    "tags": [
+      "auth",
+      "backend"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000046",
+    "timestamp": "2025-10-09T18:51:24.799Z",
+    "level": "critical",
+    "message": "Permission denied",
+    "stackTrace": "  at generateSCCBL (harangue_jive_pillory.jar:244)\n  at inputBESZX (seemingly_beside.mar:361)\n  at calculateGLLWK (climb_slowly.jar:279)\n  at synthesizeIQKVV (hm_redress_subtle.xlm:279)\n  at connectHTEKA (substantiate.m2v:214)\n  at generateOWSEM (ouch.aac:440)\n  at calculateDMOSI (of_self_confidence.webm:343)",
+    "userId": null,
+    "endpoint": "/api/payments",
+    "method": "GET",
+    "statusCode": 404,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "38.6"
+    },
+    "tags": [
+      "critical",
+      "api"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000047",
+    "timestamp": "2025-10-20T20:08:33.373Z",
+    "level": "error",
+    "message": "Rate limit exceeded",
+    "stackTrace": "  at programLBRCN (fat_babushka_unblinking.xsl:331)\n  at navigateGZACE (kinase_aha_amid.html:421)\n  at bypassXNEQY (bad_horde.mp4:267)\n  at rebootRDERN (hotfoot_denitrify_pace.vsd:58)\n  at transmitAXYYI (blah.ppt:410)\n  at hackUSHLE (apud_around.weba:432)\n  at compressGFDJS (tut_overwork_joyously.webp:412)\n  at compressQXQTS (neglect_innocently.mp4:103)",
+    "userId": 2946,
+    "endpoint": "/api/settings",
     "method": "POST",
     "statusCode": 500,
     "context": {
       "browser": "Firefox",
       "os": "macOS",
-      "version": "40.6"
+      "version": "20.3"
     },
     "tags": [
-      "api",
-      "database"
+      "backend"
     ],
     "resolved": true
+  },
+  {
+    "id": "E000048",
+    "timestamp": "2025-11-06T21:49:35.463Z",
+    "level": "critical",
+    "message": "Internal server error",
+    "stackTrace": "  at transmitXWORK (plastic_pro_jovially.wav:179)\n  at generateDEZVU (emphasise_while.jsonld:25)\n  at parseMIDBR (mid_uh_huh.xlw:72)\n  at generateAZZNF (vice.xsl:473)",
+    "userId": 9870,
+    "endpoint": "/api/analytics",
+    "method": "PUT",
+    "statusCode": 502,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "27.6"
+    },
+    "tags": [
+      "frontend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000049",
+    "timestamp": "2025-11-02T01:21:20.816Z",
+    "level": "error",
+    "message": "Failed to process payment",
+    "stackTrace": "  at hackOQWLY (athwart_considering.map:452)\n  at back upUSLEX (godparent_fit.jpe:197)\n  at generateHNXMK (ack_entire_indeed.tar:474)\n  at quantifyICOQQ (what_immense.xsl:29)\n  at overrideIVZHU (forenenst_veto_hm.vss:117)\n  at indexXPLCC (puritan_pink_yowza.oga:369)\n  at rebootNJYCC (which_psst.htm:310)",
+    "userId": 6990,
+    "endpoint": "/api/users",
+    "method": "DELETE",
+    "statusCode": 503,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "38.9"
+    },
+    "tags": [
+      "frontend",
+      "backend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000050",
+    "timestamp": "2025-10-24T19:03:31.351Z",
+    "level": "critical",
+    "message": "Network error",
+    "stackTrace": "  at connectEIOEW (bony_psst_observe.dump:335)\n  at copyNKLTR (through_by_daddy.mpkg:440)\n  at hackYCJZI (nicely_adult_ligate.txt:204)\n  at bypassCBXPJ (entire_along_into.png:437)\n  at bypassNYIKZ (mixture.ttf:209)\n  at calculateZQHUS (oh_quickly.exe:251)\n  at transmitINMWY (ultimate.3gpp:40)",
+    "userId": 8724,
+    "endpoint": "/api/products",
+    "method": "PATCH",
+    "statusCode": 400,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "57.7"
+    },
+    "tags": [
+      "backend",
+      "critical",
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000051",
+    "timestamp": "2025-11-01T06:13:18.187Z",
+    "level": "error",
+    "message": "Database connection timeout",
+    "stackTrace": "  at compressDDPIV (rejoin_boohoo.json:234)\n  at hackWFEUN (than_pleasure_acidic.vst:494)\n  at bypassCMSNW (yahoo_duh.arc:492)",
+    "userId": null,
+    "endpoint": "/api/orders",
+    "method": "GET",
+    "statusCode": 401,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "27.7"
+    },
+    "tags": [
+      "payment",
+      "api"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000052",
+    "timestamp": "2025-10-08T15:34:44.718Z",
+    "level": "critical",
+    "message": "Null pointer exception",
+    "stackTrace": "  at copyDLTJX (lend_yippee.csv:461)\n  at transmitUXNYD (after_worth_diligently.xsd:310)\n  at programEOAKL (best_rout_voluntarily.tif:3)",
+    "userId": 6620,
+    "endpoint": "/api/auth/login",
+    "method": "POST",
+    "statusCode": 403,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "70.2"
+    },
+    "tags": [
+      "database",
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000053",
+    "timestamp": "2025-10-31T09:27:34.944Z",
+    "level": "error",
+    "message": "Authentication failed",
+    "stackTrace": "  at hackVBGJX (chap_per.rmi:121)\n  at bypassBZELS (status_powerfully_intermesh.m2a:111)\n  at parseXNTHD (provided_whoever.css:41)\n  at bypassVTBKO (reorganisation_unaccountably.vsd:45)",
+    "userId": 3749,
+    "endpoint": "/api/auth/register",
+    "method": "PUT",
+    "statusCode": 404,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "53.5"
+    },
+    "tags": [
+      "database",
+      "payment"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000054",
+    "timestamp": "2025-10-26T17:48:51.076Z",
+    "level": "critical",
+    "message": "Invalid request parameters",
+    "stackTrace": "  at calculatePPBED (patiently_though_scent.js:183)\n  at indexSASAE (instantly.avif:446)\n  at bypassQEJED (yahoo_rout_above.msm:404)\n  at synthesizePUQJH (pepper_wherever.msm:269)\n  at synthesizeWOSPG (ferociously_vainly_since.svgz:159)\n  at quantifyCHBPC (dispose_density_gray.pptx:449)",
+    "userId": 3552,
+    "endpoint": "/api/payments",
+    "method": "DELETE",
+    "statusCode": 500,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "100.3"
+    },
+    "tags": [
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000055",
+    "timestamp": "2025-10-27T08:52:05.982Z",
+    "level": "error",
+    "message": "Resource not found",
+    "stackTrace": "  at compressUZXRO (until_dispense.pdf:33)\n  at synthesizeYMRKY (utterly_pace_dulcimer.ico:424)\n  at parseFABHN (charter_unless.odp:30)",
+    "userId": null,
+    "endpoint": "/api/settings",
+    "method": "PATCH",
+    "statusCode": 502,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "75.7"
+    },
+    "tags": [
+      "auth",
+      "needs-investigation",
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000056",
+    "timestamp": "2025-10-24T16:46:31.980Z",
+    "level": "critical",
+    "message": "Permission denied",
+    "stackTrace": "  at quantifyENPOX (instead_baa.jsonld:146)\n  at back upXGQXN (step_mother.conf:364)\n  at copyUSLZH (pfft_uh_huh.iso:384)\n  at generateJFOED (conceptualize_inject.mp4:63)\n  at generateDIOOJ (worthy_mill_sham.pdf:54)\n  at calculateQXQFO (worldly_gosh.xml:434)\n  at bypassYDMOQ (limp_reprove.7z:257)",
+    "userId": 5997,
+    "endpoint": "/api/analytics",
+    "method": "GET",
+    "statusCode": 503,
+    "context": {
+      "browser": "Chrome",
+      "os": "Windows",
+      "version": "56.3"
+    },
+    "tags": [
+      "database",
+      "auth"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000057",
+    "timestamp": "2025-10-26T09:08:00.047Z",
+    "level": "error",
+    "message": "Rate limit exceeded",
+    "stackTrace": "  at bypassOEKOH (likewise.midi:235)\n  at overrideKXNOQ (how.eot:52)\n  at parseOTXPN (gymnast.m1v:299)\n  at calculateXUSKH (barring_whoa_yesterday.abw:232)\n  at hackTYRYG (horst.xhtml:326)\n  at synthesizeSGDFY (that.spx:92)",
+    "userId": 9793,
+    "endpoint": "/api/users",
+    "method": "POST",
+    "statusCode": 400,
+    "context": {
+      "browser": "Firefox",
+      "os": "macOS",
+      "version": "17.3"
+    },
+    "tags": [
+      "database",
+      "frontend",
+      "payment"
+    ],
+    "resolved": false
+  },
+  {
+    "id": "E000058",
+    "timestamp": "2025-10-16T04:00:14.099Z",
+    "level": "critical",
+    "message": "Internal server error",
+    "stackTrace": "  at programMHAKT (knavishly.vst:131)\n  at compressGZUTV (experience_doubtfully_notwithstanding.dms:178)\n  at bypassOBBXH (hm.vst:474)\n  at programABYFR (following.distz:222)\n  at quantifyADNRE (yearningly.kar:496)\n  at quantifyLDEVZ (ill_headline.mpe:94)\n  at connectEYSYB (when_lean.xlsx:68)\n  at programIOKAF (recklessly_promise.ico:162)",
+    "userId": 7277,
+    "endpoint": "/api/products",
+    "method": "PUT",
+    "statusCode": 401,
+    "context": {
+      "browser": "Safari",
+      "os": "Linux",
+      "version": "18.1"
+    },
+    "tags": [
+      "payment"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000059",
+    "timestamp": "2025-10-15T19:14:55.799Z",
+    "level": "error",
+    "message": "Failed to process payment",
+    "stackTrace": "  at bypassNBEYR (among_lieu.mp3:401)\n  at synthesizeXLHDQ (label_ack_instead.log:171)\n  at inputKJYUL (emboss_hoot.php:263)\n  at copyHGZFY (lest_scowl_tidy.csh:198)",
+    "userId": null,
+    "endpoint": "/api/orders",
+    "method": "DELETE",
+    "statusCode": 403,
+    "context": {
+      "browser": "Edge",
+      "os": "iOS",
+      "version": "83.5"
+    },
+    "tags": [
+      "backend",
+      "needs-investigation",
+      "frontend"
+    ],
+    "resolved": true
+  },
+  {
+    "id": "E000060",
+    "timestamp": "2025-11-01T19:54:45.183Z",
+    "level": "critical",
+    "message": "Network error",
+    "stackTrace": "  at bypassBLCPX (flickering_runny_where.dot:369)\n  at inputWTSSA (elver_knavishly_absentmindedly.xla:196)\n  at indexANGHW (atop_notwithstanding_or.pps:52)\n  at synthesizeRVVFO (after_gah.map:57)\n  at quantifyTNSNF (plastic.log:497)\n  at quantifyVSIRO (distinction_since.bpk:11)\n  at compressNHJHR (yippee_whether.msi:207)\n  at hackLFLWM (serve_rear_whenever.aac:280)",
+    "userId": 5837,
+    "endpoint": "/api/auth/login",
+    "method": "PATCH",
+    "statusCode": 404,
+    "context": {
+      "browser": "Mobile Safari",
+      "os": "Android",
+      "version": "111.7"
+    },
+    "tags": [
+      "database"
+    ],
+    "resolved": false
   }
 ]

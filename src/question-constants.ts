@@ -44,6 +44,22 @@ export const QUESTION_THRESHOLDS = {
     // Review count thresholds
     reviewCounts: [50, 100, 200, 300],
 
+    // Category + Price combinations for filtering
+    categoryPriceCombos: [
+      { category: 'Electronics', price: 200 },
+      { category: 'Furniture', price: 150 },
+      { category: 'Clothing', price: 50 },
+      { category: 'Books', price: 30 },
+      { category: 'Sports', price: 100 },
+      { category: 'Home & Garden', price: 75 },
+      { category: 'Toys', price: 50 },
+      { category: 'Food & Beverage', price: 25 },
+      { category: 'Electronics', price: 300 },
+      { category: 'Furniture', price: 250 },
+      { category: 'Clothing', price: 100 },
+      { category: 'Sports', price: 150 },
+    ],
+
     // Price + Rating combinations for filtering
     priceRatingCombos: [
       { price: 100, rating: 3.0 },

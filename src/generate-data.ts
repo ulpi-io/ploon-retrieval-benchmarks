@@ -51,11 +51,7 @@ function generateDataset(datasetName: DatasetName) {
     const formatter = formatters[format]
     const formattedData = formatter(data)
     const extension = getFileExtension(format)
-
-    let fileName = `data.${extension}`
-    if (format === 'ploon-minified') {
-      fileName = 'data-minified.ploon'
-    }
+    const fileName = `data.${extension}`
 
     const filePath = path.join(datasetDir, fileName)
     fs.writeFileSync(filePath, formattedData, 'utf-8')

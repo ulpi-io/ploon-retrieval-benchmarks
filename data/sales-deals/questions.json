@@ -2,7 +2,7 @@
   {
     "id": "q1",
     "prompt": "What is the amount for deal D00001?",
-    "groundTruth": "179799",
+    "groundTruth": "86453",
     "type": "field-retrieval",
     "dataset": "sales-deals"
   },
@@ -16,70 +16,406 @@
   {
     "id": "q3",
     "prompt": "Who is the contact for deal D00005?",
-    "groundTruth": "Dr. Hugo Bahringer Jr.",
+    "groundTruth": "Lillie Ebert",
     "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q4",
     "prompt": "What is the probability of closing deal D00007?",
-    "groundTruth": "19",
+    "groundTruth": "15",
     "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q5",
     "prompt": "What is the amount for deal D00009?",
-    "groundTruth": "12667",
+    "groundTruth": "76852",
     "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q6",
-    "prompt": "How many sales deals are in the pipeline?",
-    "groundTruth": "12",
-    "type": "aggregation",
+    "prompt": "What stage is deal D00011 in?",
+    "groundTruth": "closed-won",
+    "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q7",
-    "prompt": "What is the total value of all deals?",
-    "groundTruth": "2977636",
-    "type": "aggregation",
+    "prompt": "Who is the contact for deal D00013?",
+    "groundTruth": "Patti Turner-Wisozk",
+    "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q8",
-    "prompt": "What is the average deal amount?",
-    "groundTruth": "248136",
-    "type": "aggregation",
+    "prompt": "What is the probability of closing deal D00015?",
+    "groundTruth": "51",
+    "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q9",
-    "prompt": "How many deals are in lead stage?",
-    "groundTruth": "2",
-    "type": "aggregation",
+    "prompt": "What is the amount for deal D00017?",
+    "groundTruth": "356902",
+    "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q10",
-    "prompt": "How many deals in lead stage are worth more than $50000?",
-    "groundTruth": "2",
-    "type": "filtering",
+    "prompt": "What stage is deal D00019 in?",
+    "groundTruth": "lead",
+    "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q11",
-    "prompt": "How many deals in qualified stage are worth more than $100000?",
-    "groundTruth": "2",
-    "type": "filtering",
+    "prompt": "Who is the contact for deal D00021?",
+    "groundTruth": "Timmy Raynor-Hyatt",
+    "type": "field-retrieval",
     "dataset": "sales-deals"
   },
   {
     "id": "q12",
+    "prompt": "What is the probability of closing deal D00023?",
+    "groundTruth": "100",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q13",
+    "prompt": "What is the amount for deal D00025?",
+    "groundTruth": "228362",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q14",
+    "prompt": "What stage is deal D00027 in?",
+    "groundTruth": "proposal",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q15",
+    "prompt": "Who is the contact for deal D00029?",
+    "groundTruth": "Tracey Hermiston",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q16",
+    "prompt": "What is the probability of closing deal D00031?",
+    "groundTruth": "10",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q17",
+    "prompt": "What is the amount for deal D00033?",
+    "groundTruth": "50447",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q18",
+    "prompt": "What stage is deal D00035 in?",
+    "groundTruth": "closed-won",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q19",
+    "prompt": "Who is the contact for deal D00037?",
+    "groundTruth": "Ivan Gulgowski I",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q20",
+    "prompt": "What is the probability of closing deal D00039?",
+    "groundTruth": "54",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q21",
+    "prompt": "What is the amount for deal D00041?",
+    "groundTruth": "110947",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q22",
+    "prompt": "What stage is deal D00043 in?",
+    "groundTruth": "lead",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q23",
+    "prompt": "Who is the contact for deal D00045?",
+    "groundTruth": "Leticia Anderson",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q24",
+    "prompt": "What is the probability of closing deal D00047?",
+    "groundTruth": "100",
+    "type": "field-retrieval",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q25",
+    "prompt": "How many sales deals are in the pipeline?",
+    "groundTruth": "60",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q26",
+    "prompt": "What is the total value of all deals?",
+    "groundTruth": "15274472",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q27",
+    "prompt": "What is the average deal amount?",
+    "groundTruth": "254575",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q28",
+    "prompt": "How many deals are in lead stage?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q29",
+    "prompt": "How many deals are in qualified stage?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q30",
+    "prompt": "How many deals are in proposal stage?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q31",
+    "prompt": "How many deals are in negotiation stage?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q32",
+    "prompt": "How many deals are in closed-won stage?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q33",
+    "prompt": "How many deals are in closed-lost stage?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q34",
+    "prompt": "How many deals are worth more than $50000?",
+    "groundTruth": "55",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q35",
+    "prompt": "How many deals are worth more than $100000?",
+    "groundTruth": "51",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q36",
+    "prompt": "How many deals are worth more than $150000?",
+    "groundTruth": "41",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q37",
+    "prompt": "How many deals are worth more than $200000?",
+    "groundTruth": "35",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q38",
+    "prompt": "How many deals are worth more than $250000?",
+    "groundTruth": "29",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q39",
+    "prompt": "How many deals are worth more than $300000?",
+    "groundTruth": "25",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q40",
+    "prompt": "How many deals are worth more than $400000?",
+    "groundTruth": "13",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q41",
+    "prompt": "How many deals are worth more than $500000?",
+    "groundTruth": "0",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q42",
+    "prompt": "How many deals have probability greater than 20%?",
+    "groundTruth": "40",
+    "type": "aggregation",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q43",
+    "prompt": "How many deals in lead stage are worth more than $50000?",
+    "groundTruth": "9",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q44",
+    "prompt": "How many deals in qualified stage are worth more than $100000?",
+    "groundTruth": "9",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q45",
     "prompt": "How many deals in proposal stage are worth more than $150000?",
-    "groundTruth": "1",
+    "groundTruth": "7",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q46",
+    "prompt": "How many deals in negotiation stage are worth more than $200000?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q47",
+    "prompt": "How many deals in lead stage are worth more than $100000?",
+    "groundTruth": "8",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q48",
+    "prompt": "How many deals in qualified stage are worth more than $200000?",
+    "groundTruth": "7",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q49",
+    "prompt": "How many deals in proposal stage are worth more than $250000?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q50",
+    "prompt": "How many deals worth more than $100000 have probability greater than 50%?",
+    "groundTruth": "23",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q51",
+    "prompt": "How many deals worth more than $150000 have probability greater than 60%?",
+    "groundTruth": "12",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q52",
+    "prompt": "How many deals worth more than $200000 have probability greater than 70%?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q53",
+    "prompt": "How many deals worth more than $250000 have probability greater than 80%?",
+    "groundTruth": "4",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q54",
+    "prompt": "How many deals worth more than $100000 have probability greater than 70%?",
+    "groundTruth": "12",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q55",
+    "prompt": "How many deals in proposal stage have probability greater than 50%?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q56",
+    "prompt": "How many deals in proposal stage have probability greater than 60%?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q57",
+    "prompt": "How many deals in proposal stage have probability greater than 70%?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q58",
+    "prompt": "How many deals in negotiation stage have probability greater than 50%?",
+    "groundTruth": "10",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q59",
+    "prompt": "How many deals in negotiation stage have probability greater than 60%?",
+    "groundTruth": "10",
+    "type": "filtering",
+    "dataset": "sales-deals"
+  },
+  {
+    "id": "q60",
+    "prompt": "How many deals in negotiation stage have probability greater than 70%?",
+    "groundTruth": "4",
     "type": "filtering",
     "dataset": "sales-deals"
   }

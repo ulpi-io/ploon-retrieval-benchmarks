@@ -1,85 +1,421 @@
 [
   {
     "id": "q1",
-    "prompt": "What colors are available for Soft Bronze Gloves?",
-    "groundTruth": "Gray, Pink, Navy",
+    "prompt": "What colors are available for Refined Rubber Salad?",
+    "groundTruth": "Gray, Beige, Red, Green",
     "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q2",
-    "prompt": "What is the SKU for Elegant Metal Bacon in Blue, size XL?",
-    "groundTruth": "SKU-QYJ76PUO",
+    "prompt": "What is the SKU for Elegant Ceramic Computer in Gray, size XS?",
+    "groundTruth": "SKU-7SA2UGZ6",
     "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q3",
-    "prompt": "How many units of Fantastic Granite Ball in Beige, size M are in stock?",
-    "groundTruth": "66",
+    "prompt": "How many units of Electronic Gold Table in Navy, size S are in stock?",
+    "groundTruth": "68",
     "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q4",
-    "prompt": "What category is Small Marble Cheese in?",
+    "prompt": "What category is Sleek Silk Tuna in?",
     "groundTruth": "Toys",
     "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q5",
-    "prompt": "What is the rating of Small Wooden Chips?",
-    "groundTruth": "1.1",
+    "prompt": "What is the rating of Generic Rubber Keyboard?",
+    "groundTruth": "2.2",
     "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q6",
-    "prompt": "How many products are in the catalog?",
-    "groundTruth": "12",
-    "type": "aggregation",
+    "prompt": "What colors are available for Oriental Marble Chicken?",
+    "groundTruth": "White, Beige, Red",
+    "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q7",
-    "prompt": "What is the average base price across all products?",
-    "groundTruth": "249.83",
-    "type": "aggregation",
+    "prompt": "What is the SKU for Practical Wooden Tuna in Red, size S?",
+    "groundTruth": "SKU-AWZJ4JDP",
+    "type": "field-retrieval",
     "dataset": "products"
   },
   {
     "id": "q8",
+    "prompt": "How many units of Tasty Bronze Pants in Black, size XXL are in stock?",
+    "groundTruth": "83",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q9",
+    "prompt": "What category is Electronic Aluminum Car in?",
+    "groundTruth": "Electronics",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q10",
+    "prompt": "What is the rating of Licensed Bamboo Mouse?",
+    "groundTruth": "4.4",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q11",
+    "prompt": "What colors are available for Incredible Concrete Shoes?",
+    "groundTruth": "White, Pink",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q12",
+    "prompt": "What is the SKU for Handmade Bronze Hat in Navy, size XS?",
+    "groundTruth": "SKU-FOA11TEP",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q13",
+    "prompt": "How many units of Frozen Ceramic Tuna in Red, size M are in stock?",
+    "groundTruth": "68",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q14",
+    "prompt": "What category is Unbranded Cotton Chicken in?",
+    "groundTruth": "Clothing",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q15",
+    "prompt": "What is the rating of Elegant Cotton Cheese?",
+    "groundTruth": "4.7",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q16",
+    "prompt": "What colors are available for Bespoke Concrete Gloves?",
+    "groundTruth": "Pink, Green, Navy, Beige",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q17",
+    "prompt": "What is the SKU for Frozen Marble Shoes in Beige, size XXL?",
+    "groundTruth": "SKU-KPVGGH9I",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q18",
+    "prompt": "How many units of Awesome Cotton Shoes in Navy, size XL are in stock?",
+    "groundTruth": "69",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q19",
+    "prompt": "What category is Modern Concrete Fish in?",
+    "groundTruth": "Sports",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q20",
+    "prompt": "What is the rating of Small Ceramic Hat?",
+    "groundTruth": "1.5",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q21",
+    "prompt": "What colors are available for Luxurious Metal Pants?",
+    "groundTruth": "Gray, Navy, White, Blue",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q22",
+    "prompt": "What is the SKU for Generic Cotton Tuna in White, size XXL?",
+    "groundTruth": "SKU-E5OC9B4M",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q23",
+    "prompt": "How many units of Soft Cotton Gloves in White, size XL are in stock?",
+    "groundTruth": "62",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q24",
+    "prompt": "What category is Electronic Cotton Shoes in?",
+    "groundTruth": "Toys",
+    "type": "field-retrieval",
+    "dataset": "products"
+  },
+  {
+    "id": "q25",
+    "prompt": "How many products are in the catalog?",
+    "groundTruth": "60",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q26",
+    "prompt": "What is the average base price across all products?",
+    "groundTruth": "274.18",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q27",
     "prompt": "What is the total number of color options across all products?",
+    "groundTruth": "179",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q28",
+    "prompt": "How many products are in the Electronics category?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q29",
+    "prompt": "How many products are in the Furniture category?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q30",
+    "prompt": "How many products are in the Clothing category?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q31",
+    "prompt": "How many products have a base price over $50?",
+    "groundTruth": "56",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q32",
+    "prompt": "How many products have a base price over $100?",
+    "groundTruth": "53",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q33",
+    "prompt": "How many products have a base price over $150?",
+    "groundTruth": "49",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q34",
+    "prompt": "How many products have a base price over $200?",
+    "groundTruth": "43",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q35",
+    "prompt": "How many products have a base price over $250?",
+    "groundTruth": "31",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q36",
+    "prompt": "How many products have a base price over $300?",
+    "groundTruth": "30",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q37",
+    "prompt": "How many products have a base price over $350?",
+    "groundTruth": "23",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q38",
+    "prompt": "How many products have a base price over $400?",
+    "groundTruth": "11",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q39",
+    "prompt": "How many products have a rating above 2?",
+    "groundTruth": "49",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q40",
+    "prompt": "How many products have a rating above 2.5?",
+    "groundTruth": "41",
+    "type": "aggregation",
+    "dataset": "products"
+  },
+  {
+    "id": "q41",
+    "prompt": "How many products have a rating above 3?",
     "groundTruth": "35",
     "type": "aggregation",
     "dataset": "products"
   },
   {
-    "id": "q9",
-    "prompt": "How many products are in the Electronics category?",
-    "groundTruth": "2",
+    "id": "q42",
+    "prompt": "How many products have a rating above 3.5?",
+    "groundTruth": "26",
     "type": "aggregation",
     "dataset": "products"
   },
   {
-    "id": "q10",
+    "id": "q43",
     "prompt": "How many products have a base price over $100 AND a rating of 3 or higher?",
-    "groundTruth": "3",
+    "groundTruth": "31",
     "type": "filtering",
     "dataset": "products"
   },
   {
-    "id": "q11",
+    "id": "q44",
     "prompt": "How many products have a base price over $200 AND a rating of 3.5 or higher?",
-    "groundTruth": "1",
+    "groundTruth": "19",
     "type": "filtering",
     "dataset": "products"
   },
   {
-    "id": "q12",
+    "id": "q45",
     "prompt": "How many products have a base price over $300 AND a rating of 4 or higher?",
-    "groundTruth": "0",
+    "groundTruth": "13",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q46",
+    "prompt": "How many products have a base price over $150 AND a rating of 2.5 or higher?",
+    "groundTruth": "33",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q47",
+    "prompt": "How many products have a base price over $250 AND a rating of 3.5 or higher?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q48",
+    "prompt": "How many products have a base price over $100 AND a rating of 4 or higher?",
+    "groundTruth": "19",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q49",
+    "prompt": "How many products have a base price over $200 AND a rating of 4.5 or higher?",
+    "groundTruth": "8",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q50",
+    "prompt": "How many Electronics products cost more than $200?",
+    "groundTruth": "5",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q51",
+    "prompt": "How many Furniture products cost more than $150?",
+    "groundTruth": "7",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q52",
+    "prompt": "How many Clothing products cost more than $50?",
+    "groundTruth": "8",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q53",
+    "prompt": "How many Books products cost more than $30?",
+    "groundTruth": "8",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q54",
+    "prompt": "How many Sports products cost more than $100?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q55",
+    "prompt": "How many Home & Garden products cost more than $75?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q56",
+    "prompt": "How many Toys products cost more than $50?",
+    "groundTruth": "5",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q57",
+    "prompt": "How many Food & Beverage products cost more than $25?",
+    "groundTruth": "7",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q58",
+    "prompt": "How many Electronics products cost more than $300?",
+    "groundTruth": "5",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q59",
+    "prompt": "How many Furniture products cost more than $250?",
+    "groundTruth": "2",
+    "type": "filtering",
+    "dataset": "products"
+  },
+  {
+    "id": "q60",
+    "prompt": "How many Clothing products cost more than $100?",
+    "groundTruth": "8",
     "type": "filtering",
     "dataset": "products"
   }

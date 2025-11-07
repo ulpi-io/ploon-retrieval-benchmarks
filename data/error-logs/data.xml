@@ -1,291 +1,1391 @@
 <data>
   <id>E000001</id>
-  <timestamp>2025-10-17T10:38:43.135Z</timestamp>
+  <timestamp>2025-10-24T02:00:44.413Z</timestamp>
   <level>error</level>
   <message>Database connection timeout</message>
-  <stackTrace>  at inputCYFZV (outfox_joyously.js:219)
-  at navigateLAJFU (however.gz:32)
-  at copyFYAGN (offensively_sans_duh.xht:126)</stackTrace>
-  <userId/>
+  <stackTrace>  at compressTZALH (belabor.ogg:474)
+  at inputAVDZT (primary_if_since.docx:425)
+  at hackMXYPT (trash_afterwards.msm:157)
+  at bypassYZFMA (flawless_given_helplessly.jpg:431)
+  at connectCHULV (well.3gp:337)
+  at compressRROTO (fleck_as.text:67)
+  at transmitWBAYV (overtrain_any.ogx:12)
+  at indexXVOCV (or.ics:322)</stackTrace>
+  <userId>6188</userId>
   <endpoint>/api/users</endpoint>
   <method>GET</method>
   <statusCode>400</statusCode>
   <context>
     <browser>Chrome</browser>
     <os>Windows</os>
-    <version>61.4</version>
+    <version>47.5</version>
   </context>
   <tags>database</tags>
-  <tags>auth</tags>
-  <tags>api</tags>
-  <resolved>false</resolved>
+  <tags>needs-investigation</tags>
+  <resolved>true</resolved>
 </data>
 <data>
   <id>E000002</id>
-  <timestamp>2025-10-21T02:57:42.583Z</timestamp>
+  <timestamp>2025-10-21T12:41:11.740Z</timestamp>
   <level>critical</level>
   <message>Null pointer exception</message>
-  <stackTrace>  at bypassDWYRO (provided_or.tiff:5)
-  at calculateXMYFS (excluding_gnaw_among.ppt:244)
-  at compressUHBVL (fair.dmg:334)
-  at calculateKBNUA (indeed_gripping_coliseum.msi:340)
-  at overrideAZYDQ (amidst.ini:324)</stackTrace>
-  <userId/>
+  <stackTrace>  at overrideHKBEK (bashfully_certainly_rebuff.xhtml:433)
+  at copyWAPGV (following.spx:358)
+  at programSKGLK (times_fair.php:20)
+  at inputQMICY (aside.vsd:159)
+  at connectUNAWK (which_thread_daintily.webp:412)</stackTrace>
+  <userId>4622</userId>
   <endpoint>/api/products</endpoint>
   <method>POST</method>
   <statusCode>401</statusCode>
   <context>
     <browser>Firefox</browser>
     <os>macOS</os>
-    <version>84.2</version>
+    <version>73.7</version>
   </context>
-  <tags>frontend</tags>
+  <tags>auth</tags>
+  <tags>backend</tags>
   <resolved>false</resolved>
 </data>
 <data>
   <id>E000003</id>
-  <timestamp>2025-11-06T04:23:15.772Z</timestamp>
+  <timestamp>2025-10-17T02:52:34.183Z</timestamp>
   <level>error</level>
   <message>Authentication failed</message>
-  <stackTrace>  at transmitJUOWK (at_decode.odt:216)
-  at navigateFQDEM (pfft_massage_carelessly.xul:477)
-  at generateIAROB (gasp_describe_after.pps:494)
-  at generateDKGXG (coop_like_secularize.rmi:3)
-  at indexVIRWG (whose.pot:208)
-  at calculateLWGZT (fooey_woot_yieldingly.pdf:310)
-  at rebootTIYAJ (and_after.json:33)</stackTrace>
-  <userId>2186</userId>
+  <stackTrace>  at navigateKPRAI (loose_ample_shrill.pptx:195)
+  at quantifyZDGAE (since_failing_anti.png:120)
+  at transmitAFCKT (under_dicker.avif:364)
+  at programJZFNT (unless_hotfoot.tar:50)
+  at rebootRKFJJ (sniveling_joint_er.map:289)
+  at hackCCKDZ (quirkily_psst.mp2a:111)</stackTrace>
+  <userId>9448</userId>
   <endpoint>/api/orders</endpoint>
   <method>PUT</method>
   <statusCode>403</statusCode>
   <context>
     <browser>Safari</browser>
     <os>Linux</os>
-    <version>32.0</version>
+    <version>59.4</version>
   </context>
-  <tags>frontend</tags>
   <tags>backend</tags>
-  <tags>auth</tags>
   <resolved>true</resolved>
 </data>
 <data>
   <id>E000004</id>
-  <timestamp>2025-11-02T20:59:51.922Z</timestamp>
+  <timestamp>2025-10-25T00:13:42.395Z</timestamp>
   <level>critical</level>
   <message>Invalid request parameters</message>
-  <stackTrace>  at connectLQBNU (and_oh.xul:137)
-  at compressUMCWH (thoroughly_parody.xlm:97)
-  at rebootKOKIO (tomb.conf:236)
-  at calculateZSEFH (upward_helpful.aac:244)
-  at copyJFYTF (once_reel_dally.so:375)
-  at calculateGETSP (urgently.htm:101)
-  at connectDIBDJ (willing_beyond.mjs:82)
-  at inputIIBVR (outside.abw:158)</stackTrace>
-  <userId>1973</userId>
+  <stackTrace>  at quantifyVUDOT (but_indeed_whoa.ics:386)
+  at parseUOYRT (trash_stealthily.webm:266)
+  at synthesizeXLJAZ (absent.otf:225)
+  at back upFAOKG (besmirch.doc:494)
+  at copyXOFKL (spirited_under.jpeg:176)
+  at inputUYEIG (surprisingly_sweetly_bah.wav:214)</stackTrace>
+  <userId/>
   <endpoint>/api/auth/login</endpoint>
   <method>DELETE</method>
   <statusCode>404</statusCode>
   <context>
     <browser>Edge</browser>
     <os>iOS</os>
-    <version>37.6</version>
+    <version>63.9</version>
   </context>
-  <tags>critical</tags>
-  <tags>database</tags>
-  <resolved>true</resolved>
+  <tags>api</tags>
+  <tags>needs-investigation</tags>
+  <resolved>false</resolved>
 </data>
 <data>
   <id>E000005</id>
-  <timestamp>2025-10-16T04:10:59.200Z</timestamp>
+  <timestamp>2025-10-14T09:55:06.097Z</timestamp>
   <level>error</level>
   <message>Resource not found</message>
-  <stackTrace>  at compressVGAVJ (celsius_once_shush.elc:350)
-  at rebootXBEII (rim_notwithstanding_ick.text:472)
-  at hackUCHBM (ouch_behind_supposing.jar:17)
-  at copyEJDXM (vice_finally.dist:290)
-  at connectGRWDG (vengeful_without.rmi:461)
-  at connectLBEBX (infamous_woot.vsd:48)
-  at quantifyPEYTI (for_turret.mp3:475)</stackTrace>
-  <userId/>
+  <stackTrace>  at rebootNAWNH (sans.mpg4:312)
+  at copyXRXCQ (unethically_beside_scared.m1v:157)
+  at inputELSHS (soybean.ini:388)</stackTrace>
+  <userId>9870</userId>
   <endpoint>/api/auth/register</endpoint>
   <method>PATCH</method>
   <statusCode>500</statusCode>
   <context>
     <browser>Mobile Safari</browser>
     <os>Android</os>
-    <version>4.1</version>
+    <version>41.7</version>
   </context>
-  <tags>api</tags>
-  <tags>needs-investigation</tags>
-  <resolved>true</resolved>
+  <tags>database</tags>
+  <tags>backend</tags>
+  <resolved>false</resolved>
 </data>
 <data>
   <id>E000006</id>
-  <timestamp>2025-10-13T07:33:33.799Z</timestamp>
+  <timestamp>2025-10-23T20:49:55.378Z</timestamp>
   <level>critical</level>
   <message>Permission denied</message>
-  <stackTrace>  at transmitFOKGR (readies_officially_waist.3gp:156)
-  at generateDUHDK (even.xml:216)
-  at rebootDBZTB (seriously_tall_among.conf:475)
-  at generateXSBXL (optimistically.html:323)
-  at indexVLIVP (given_so_gadzooks.mp2a:47)
-  at back upIJYYO (that_striking_wherever.mpeg:488)
-  at generateBYCNA (vibration_lest.html:198)
-  at back upTSHRS (coaxingly_and_heighten.spx:378)</stackTrace>
-  <userId>7906</userId>
+  <stackTrace>  at hackRZZTY (grubby.vss:209)
+  at transmitLKEYT (ape.rmi:455)
+  at indexIAGVW (failing_whenever_burgeon.rtf:425)
+  at generateBZKSR (tepid_in_phooey.docx:49)</stackTrace>
+  <userId>5636</userId>
   <endpoint>/api/payments</endpoint>
   <method>GET</method>
   <statusCode>502</statusCode>
   <context>
     <browser>Chrome</browser>
     <os>Windows</os>
-    <version>84.1</version>
+    <version>32.1</version>
   </context>
-  <tags>payment</tags>
-  <tags>critical</tags>
-  <resolved>true</resolved>
+  <tags>api</tags>
+  <resolved>false</resolved>
 </data>
 <data>
   <id>E000007</id>
-  <timestamp>2025-10-22T11:41:50.912Z</timestamp>
+  <timestamp>2025-10-19T05:52:00.591Z</timestamp>
   <level>error</level>
   <message>Rate limit exceeded</message>
-  <stackTrace>  at bypassFKXFQ (dreamily_roadway.msi:395)
-  at programZKTGS (nougat_definitive.dot:425)
-  at parseIYOFI (jet_considering.conf:328)
-  at navigateJHCFL (affectionate_now.mp3:163)
-  at navigateSYRCW (curry_cone.xlsx:433)
-  at indexWYFYR (without_pish_like.bin:455)
-  at generateFTPBD (er.elc:57)
-  at indexBRHYC (provided.xlt:413)</stackTrace>
-  <userId>2144</userId>
+  <stackTrace>  at rebootNTUFB (geez_hovercraft_deeply.xsl:427)
+  at hackVSEUU (eke.odt:274)
+  at programHUXVG (complete_runny_statement.m2a:429)
+  at indexCLXLE (fax_for_vanish.shtml:45)</stackTrace>
+  <userId>5834</userId>
   <endpoint>/api/settings</endpoint>
   <method>POST</method>
   <statusCode>503</statusCode>
   <context>
     <browser>Firefox</browser>
     <os>macOS</os>
-    <version>111.5</version>
+    <version>39.4</version>
   </context>
   <tags>critical</tags>
+  <tags>auth</tags>
   <resolved>false</resolved>
 </data>
 <data>
   <id>E000008</id>
-  <timestamp>2025-11-05T17:19:01.565Z</timestamp>
+  <timestamp>2025-10-08T04:55:33.378Z</timestamp>
   <level>critical</level>
   <message>Internal server error</message>
-  <stackTrace>  at rebootODGEP (space_both_instead.js:197)
-  at quantifyPPRSU (spectacles.war:495)
-  at navigateQGXDP (massage_yowza.bmp:442)
-  at bypassGJDIZ (break_ew.docx:372)
-  at synthesizeDDZNZ (in_but_besides.elc:50)</stackTrace>
-  <userId>6588</userId>
+  <stackTrace>  at inputOOQUI (ethyl_porter_as.mp4v:331)
+  at calculateCNLFK (so.tar:185)
+  at connectJLIHJ (perp_beside.m3a:491)
+  at synthesizeLYAYW (sediment_fooey_duh.mpkg:293)
+  at synthesizePSGDM (inborn_astride_why.dmg:89)
+  at rebootZHGPM (brand_ick_wasabi.jar:372)</stackTrace>
+  <userId>4589</userId>
   <endpoint>/api/analytics</endpoint>
   <method>PUT</method>
   <statusCode>400</statusCode>
   <context>
     <browser>Safari</browser>
     <os>Linux</os>
-    <version>112.5</version>
+    <version>56.5</version>
   </context>
-  <tags>payment</tags>
   <tags>critical</tags>
-  <resolved>true</resolved>
+  <tags>auth</tags>
+  <tags>needs-investigation</tags>
+  <resolved>false</resolved>
 </data>
 <data>
   <id>E000009</id>
-  <timestamp>2025-10-18T18:50:13.957Z</timestamp>
+  <timestamp>2025-11-06T09:09:01.454Z</timestamp>
   <level>error</level>
   <message>Failed to process payment</message>
-  <stackTrace>  at back upULQJL (continually.m3a:251)
-  at parseQVMNZ (gee.mpg:324)
-  at programTORXU (per_enhance.woff2:393)
-  at bypassZEBME (off_where_aboard.svgz:103)
-  at quantifyMTEIB (shocked_annual.bin:318)
-  at transmitYCHZW (obediently_seldom.xls:196)</stackTrace>
-  <userId>9041</userId>
+  <stackTrace>  at navigateAGNEH (hard_to_find.ics:263)
+  at programGDPSN (via.xlw:412)
+  at back upLPVTR (minus_curse.dump:318)</stackTrace>
+  <userId>8966</userId>
   <endpoint>/api/users</endpoint>
   <method>DELETE</method>
   <statusCode>401</statusCode>
   <context>
     <browser>Edge</browser>
     <os>iOS</os>
-    <version>99.2</version>
+    <version>20.2</version>
   </context>
-  <tags>critical</tags>
-  <tags>frontend</tags>
+  <tags>backend</tags>
   <resolved>false</resolved>
 </data>
 <data>
   <id>E000010</id>
-  <timestamp>2025-11-02T23:58:51.458Z</timestamp>
+  <timestamp>2025-10-19T05:39:42.597Z</timestamp>
   <level>critical</level>
   <message>Network error</message>
-  <stackTrace>  at calculateHZAVK (subdued_after.mp4v:349)
-  at overrideXFEWO (than_deselect.tif:45)
-  at programQNHVP (reorganisation_rule.wav:77)</stackTrace>
-  <userId>7340</userId>
+  <stackTrace>  at calculateYJUNQ (sharply.rmi:144)
+  at bypassLADSZ (boo_why.avi:354)
+  at hackDELRH (however.xlt:62)
+  at rebootFGZEA (definitive_boohoo.woff2:148)</stackTrace>
+  <userId/>
   <endpoint>/api/products</endpoint>
   <method>PATCH</method>
   <statusCode>403</statusCode>
   <context>
     <browser>Mobile Safari</browser>
     <os>Android</os>
-    <version>37.6</version>
+    <version>87.8</version>
   </context>
-  <tags>backend</tags>
+  <tags>auth</tags>
+  <tags>api</tags>
   <tags>frontend</tags>
-  <resolved>true</resolved>
+  <resolved>false</resolved>
 </data>
 <data>
   <id>E000011</id>
-  <timestamp>2025-10-14T02:54:30.120Z</timestamp>
+  <timestamp>2025-10-22T20:50:21.335Z</timestamp>
   <level>error</level>
   <message>Database connection timeout</message>
-  <stackTrace>  at back upCNXHC (uh_huh.3gp:389)
-  at calculateURGKF (miserably_freckle.docx:360)
-  at generateQXTVW (gosh.doc:350)
-  at programUXQQG (which_despite_unless.php:27)
-  at generateYABMB (kookily_coordination.ifb:497)
-  at indexMCHXZ (left.deploy:182)
-  at copyYTVYW (gradient_sticky.rar:425)
-  at indexKSJDN (typewriter_crest_clinch.pot:303)</stackTrace>
-  <userId/>
+  <stackTrace>  at generateNOGOR (wonderfully_accomplished_following.mp3:90)
+  at programBAGEY (among.ini:469)
+  at inputWPAUV (incomplete_anenst_likely.pot:351)
+  at inputUMVDT (what_inventory.wav:122)
+  at parseACOAN (norm_reference_potable.opus:325)
+  at quantifyPPVLR (next_coagulate_obediently.dll:440)
+  at rebootBZXEO (knickers_shore.otf:60)</stackTrace>
+  <userId>547</userId>
   <endpoint>/api/orders</endpoint>
   <method>GET</method>
   <statusCode>404</statusCode>
   <context>
     <browser>Chrome</browser>
     <os>Windows</os>
-    <version>19.0</version>
+    <version>68.4</version>
   </context>
-  <tags>payment</tags>
-  <tags>needs-investigation</tags>
-  <resolved>false</resolved>
+  <tags>critical</tags>
+  <resolved>true</resolved>
 </data>
 <data>
   <id>E000012</id>
-  <timestamp>2025-10-23T10:53:01.051Z</timestamp>
+  <timestamp>2025-10-26T20:31:35.664Z</timestamp>
   <level>critical</level>
   <message>Null pointer exception</message>
-  <stackTrace>  at calculateVXKPA (vaguely_gee.dll:251)
-  at compressUSZFU (geez_whenever.elc:403)
-  at parseRQNCT (yum_toward.webp:37)
-  at transmitFLUTH (shyly_jubilantly.xlm:16)
-  at bypassMSXNR (ick_as_before.jpe:392)
-  at calculateLWAOQ (unlike_corral_tenant.lrf:251)
-  at inputCFFPJ (frantically.ini:287)</stackTrace>
-  <userId/>
+  <stackTrace>  at programSZCZD (over_gladly.3gp:452)
+  at quantifyCXMDC (ordinary.webp:131)
+  at programHAOSD (pish_unibody_curiously.dll:196)
+  at back upMHHHP (gorgeous.opus:55)
+  at parseKTFQQ (woot.php:8)</stackTrace>
+  <userId>2020</userId>
   <endpoint>/api/auth/login</endpoint>
   <method>POST</method>
   <statusCode>500</statusCode>
   <context>
     <browser>Firefox</browser>
     <os>macOS</os>
-    <version>40.6</version>
+    <version>85.3</version>
+  </context>
+  <tags>critical</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000013</id>
+  <timestamp>2025-11-01T05:52:03.388Z</timestamp>
+  <level>error</level>
+  <message>Authentication failed</message>
+  <stackTrace>  at bypassHWZEW (blissfully.ods:443)
+  at bypassEFRHP (yippee_avaricious_tame.bz:16)
+  at navigateXGCWR (up_subdued.azw:43)
+  at hackHXATZ (overdue_supposing.mp2a:198)
+  at rebootPJOYO (flight_loftily.eot:366)
+  at indexNBVZJ (restaurant_indeed.dmg:190)</stackTrace>
+  <userId>5086</userId>
+  <endpoint>/api/auth/register</endpoint>
+  <method>PUT</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>23.6</version>
+  </context>
+  <tags>auth</tags>
+  <tags>api</tags>
+  <tags>backend</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000014</id>
+  <timestamp>2025-11-05T08:17:08.029Z</timestamp>
+  <level>critical</level>
+  <message>Invalid request parameters</message>
+  <stackTrace>  at navigateKQZLH (tangible.mid:143)
+  at parseNNZCJ (ostrich.m1v:64)
+  at bypassJLINX (furthermore_shoulder.eot:228)</stackTrace>
+  <userId>9184</userId>
+  <endpoint>/api/payments</endpoint>
+  <method>DELETE</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>105.0</version>
+  </context>
+  <tags>needs-investigation</tags>
+  <tags>api</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000015</id>
+  <timestamp>2025-10-28T18:35:53.201Z</timestamp>
+  <level>error</level>
+  <message>Resource not found</message>
+  <stackTrace>  at indexOKIDR (brief.avif:29)
+  at navigateVCGYF (suv_faithfully.html:84)
+  at parseFOOSQ (unless.xsd:482)
+  at quantifyVSNPS (hepatitis_impostor_opposite.jsonld:2)
+  at calculateREQPT (utilized_crest.csv:183)
+  at connectERNMP (colonialism_guacamole.jsonld:7)</stackTrace>
+  <userId>5758</userId>
+  <endpoint>/api/settings</endpoint>
+  <method>PATCH</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>57.8</version>
+  </context>
+  <tags>needs-investigation</tags>
+  <tags>database</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000016</id>
+  <timestamp>2025-10-24T22:20:35.439Z</timestamp>
+  <level>critical</level>
+  <message>Permission denied</message>
+  <stackTrace>  at quantifyOJTBJ (duh.xlc:94)
+  at programWKUSI (when.jpeg:63)
+  at inputEPLMK (like_apud_ostrich.boz:62)
+  at generateCISLG (per_the.webp:393)
+  at quantifyAQIUZ (out.distz:162)
+  at transmitQBIRC (among_calculus.xlsx:104)
+  at compressLTFDG (ruddy.bpk:289)</stackTrace>
+  <userId/>
+  <endpoint>/api/analytics</endpoint>
+  <method>GET</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>11.8</version>
+  </context>
+  <tags>database</tags>
+  <tags>frontend</tags>
+  <tags>auth</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000017</id>
+  <timestamp>2025-10-23T16:37:14.600Z</timestamp>
+  <level>error</level>
+  <message>Rate limit exceeded</message>
+  <stackTrace>  at connectRVZGH (rarely_dreamily.m3a:59)
+  at calculateTAAPQ (of_far_overdub.vst:462)
+  at compressZNBNU (stale.json:35)
+  at parsePRVWI (ew_sternly.pkg:146)
+  at copyCXWJC (except.kar:205)
+  at transmitLWPDJ (positively.xls:123)
+  at copyTHVAU (provided_tag_subtract.ics:162)</stackTrace>
+  <userId>9119</userId>
+  <endpoint>/api/users</endpoint>
+  <method>POST</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>17.3</version>
+  </context>
+  <tags>payment</tags>
+  <tags>frontend</tags>
+  <tags>database</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000018</id>
+  <timestamp>2025-11-04T16:42:09.317Z</timestamp>
+  <level>critical</level>
+  <message>Internal server error</message>
+  <stackTrace>  at rebootAXLSM (transplant.pptx:130)
+  at hackDHMCF (lawful_supposing.wav:341)
+  at indexMJGJM (excluding_papa_embarrassment.png:54)
+  at generateNGFXX (bony_ouch.distz:222)
+  at calculatePPEPI (wide_gape_boo.def:367)
+  at parseCIFJQ (oh.xhtml:121)
+  at back upLFUGA (reprove_shrilly.xls:469)
+  at calculateQEOMN (unimpressively_whoever_excluding.epub:100)</stackTrace>
+  <userId>4150</userId>
+  <endpoint>/api/products</endpoint>
+  <method>PUT</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>120.2</version>
+  </context>
+  <tags>api</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000019</id>
+  <timestamp>2025-10-12T07:00:35.049Z</timestamp>
+  <level>error</level>
+  <message>Failed to process payment</message>
+  <stackTrace>  at transmitSMDWK (now.3gp:122)
+  at copyQYCNR (indeed_aside.jar:179)
+  at generateOCCBN (electrify_drat.xml:61)
+  at bypassCWFLD (selfishly_joyous.deb:281)
+  at programOIWNO (at.otf:166)</stackTrace>
+  <userId>4194</userId>
+  <endpoint>/api/orders</endpoint>
+  <method>DELETE</method>
+  <statusCode>500</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>104.3</version>
+  </context>
+  <tags>frontend</tags>
+  <tags>backend</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000020</id>
+  <timestamp>2025-10-18T07:52:08.994Z</timestamp>
+  <level>critical</level>
+  <message>Network error</message>
+  <stackTrace>  at programMTCMM (sometimes_though_gerbil.xhtml:184)
+  at overridePEHFE (ick.ear:403)
+  at overrideYXIXX (rough.m2a:465)
+  at indexIQLVG (step_yowza.svg:313)
+  at quantifyTYEXY (tame_gee_oh.tar:297)</stackTrace>
+  <userId>9417</userId>
+  <endpoint>/api/auth/login</endpoint>
+  <method>PATCH</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>118.5</version>
+  </context>
+  <tags>needs-investigation</tags>
+  <tags>backend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000021</id>
+  <timestamp>2025-10-19T10:18:08.298Z</timestamp>
+  <level>error</level>
+  <message>Database connection timeout</message>
+  <stackTrace>  at transmitJBMRH (indeed_quarrel_valuable.m3a:387)
+  at navigateWIBGB (nearly.weba:114)
+  at parseGQXRB (parallel_faint.odt:83)
+  at programRMQKC (yippee_someplace_even.mpkg:198)
+  at quantifyGKSCG (indeed_capsize.avi:164)
+  at rebootEINYQ (daintily_discourse_inspection.msp:420)
+  at navigateTDLUH (between_aw.gif:86)
+  at transmitKNRJA (border_confiscate.mpe:432)</stackTrace>
+  <userId>3613</userId>
+  <endpoint>/api/auth/register</endpoint>
+  <method>GET</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>110.5</version>
+  </context>
+  <tags>backend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000022</id>
+  <timestamp>2025-11-01T21:20:13.838Z</timestamp>
+  <level>critical</level>
+  <message>Null pointer exception</message>
+  <stackTrace>  at hackWKPIM (vastly_far.ogx:82)
+  at synthesizeYAQJL (innovate_furiously_ugh.xsl:496)
+  at hackTENYR (spectate.ini:279)
+  at back upGPLNK (yippee_whether.odt:380)
+  at generateGKPWN (zealous.deb:462)
+  at bypassBTLAP (aw.text:350)
+  at compressPSHQG (brr.mid:153)</stackTrace>
+  <userId>8801</userId>
+  <endpoint>/api/payments</endpoint>
+  <method>POST</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>18.9</version>
+  </context>
+  <tags>frontend</tags>
+  <tags>critical</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000023</id>
+  <timestamp>2025-10-26T02:39:11.200Z</timestamp>
+  <level>error</level>
+  <message>Authentication failed</message>
+  <stackTrace>  at compressCWZUL (blaspheme.xlsx:172)
+  at copyNFOQV (why_knowledgeably_challenge.js:469)
+  at generateWGGEG (impossible.xml:209)</stackTrace>
+  <userId/>
+  <endpoint>/api/settings</endpoint>
+  <method>PUT</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>98.3</version>
+  </context>
+  <tags>api</tags>
+  <tags>critical</tags>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000024</id>
+  <timestamp>2025-11-06T19:00:16.881Z</timestamp>
+  <level>critical</level>
+  <message>Invalid request parameters</message>
+  <stackTrace>  at indexORXUE (uh_huh_our.boz:168)
+  at connectZFERO (inquisitively_yearningly.sh:116)
+  at connectNIFHY (er.deploy:368)
+  at rebootYDCWY (hype_before.png:250)
+  at transmitYEGUY (hastily_baa.boz:459)</stackTrace>
+  <userId>5983</userId>
+  <endpoint>/api/analytics</endpoint>
+  <method>DELETE</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>11.8</version>
+  </context>
+  <tags>auth</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000025</id>
+  <timestamp>2025-10-26T11:37:36.981Z</timestamp>
+  <level>error</level>
+  <message>Resource not found</message>
+  <stackTrace>  at compressBICBM (that_ribbon_rise.svg:279)
+  at compressRLRVI (except.php:80)
+  at transmitJEMYV (uh_huh_consequently.csh:285)</stackTrace>
+  <userId>8730</userId>
+  <endpoint>/api/users</endpoint>
+  <method>PATCH</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>41.3</version>
+  </context>
+  <tags>frontend</tags>
+  <tags>payment</tags>
+  <tags>backend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000026</id>
+  <timestamp>2025-10-27T23:50:37.997Z</timestamp>
+  <level>critical</level>
+  <message>Permission denied</message>
+  <stackTrace>  at connectVWJTN (stunt_likewise_barring.jpe:104)
+  at navigateZLABG (embed_gloom_grim.midi:184)
+  at back upKYMUK (aha_soon.xul:491)</stackTrace>
+  <userId>133</userId>
+  <endpoint>/api/products</endpoint>
+  <method>GET</method>
+  <statusCode>500</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>51.5</version>
+  </context>
+  <tags>frontend</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000027</id>
+  <timestamp>2025-10-23T08:41:55.647Z</timestamp>
+  <level>error</level>
+  <message>Rate limit exceeded</message>
+  <stackTrace>  at indexBWDEY (sparkling_even.mid:49)
+  at connectRUKDO (cauliflower.lrf:348)
+  at inputVNZUW (print_vacantly.mpkg:48)
+  at navigateWPOCV (traffic.mpe:66)
+  at overrideYPIQG (unless_circa.xls:400)
+  at bypassQWXSC (oh.dll:452)
+  at bypassHKVQD (ick_fit.distz:45)
+  at programRTDWJ (frizzy_deceivingly.kar:468)</stackTrace>
+  <userId/>
+  <endpoint>/api/orders</endpoint>
+  <method>POST</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>72.7</version>
+  </context>
+  <tags>backend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000028</id>
+  <timestamp>2025-10-20T19:39:48.374Z</timestamp>
+  <level>critical</level>
+  <message>Internal server error</message>
+  <stackTrace>  at back upQWQUQ (versus_merge.css:109)
+  at inputEPNAU (foretell_healthily.otf:232)
+  at quantifyCVEWN (once.js:381)</stackTrace>
+  <userId/>
+  <endpoint>/api/auth/login</endpoint>
+  <method>PUT</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>10.4</version>
+  </context>
+  <tags>frontend</tags>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000029</id>
+  <timestamp>2025-11-06T11:22:59.103Z</timestamp>
+  <level>error</level>
+  <message>Failed to process payment</message>
+  <stackTrace>  at rebootWEAPI (nautical_phooey.rar:325)
+  at indexATVPO (detective_mid.bin:423)
+  at transmitZJCXM (worthless_afore.bpk:452)
+  at back upRXOIV (foretell.xhtml:479)</stackTrace>
+  <userId>8429</userId>
+  <endpoint>/api/auth/register</endpoint>
+  <method>DELETE</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>60.1</version>
+  </context>
+  <tags>backend</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000030</id>
+  <timestamp>2025-10-21T21:24:39.428Z</timestamp>
+  <level>critical</level>
+  <message>Network error</message>
+  <stackTrace>  at connectKSPOL (guard_absentmindedly.3gpp:491)
+  at compressNDFBS (fake_hmph.midi:315)
+  at navigateZLEIR (unless_consequently.json:91)
+  at connectEKYLJ (gee.bin:69)</stackTrace>
+  <userId>2085</userId>
+  <endpoint>/api/payments</endpoint>
+  <method>PATCH</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>17.7</version>
+  </context>
+  <tags>frontend</tags>
+  <tags>database</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000031</id>
+  <timestamp>2025-10-28T09:09:03.053Z</timestamp>
+  <level>error</level>
+  <message>Database connection timeout</message>
+  <stackTrace>  at navigateUZKVA (large.otf:82)
+  at hackRTEYM (upliftingly.xlm:352)
+  at copyIWXKV (unibody_apud.iso:54)</stackTrace>
+  <userId>3384</userId>
+  <endpoint>/api/settings</endpoint>
+  <method>GET</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>41.8</version>
+  </context>
+  <tags>needs-investigation</tags>
+  <tags>payment</tags>
+  <tags>auth</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000032</id>
+  <timestamp>2025-10-28T18:00:43.280Z</timestamp>
+  <level>critical</level>
+  <message>Null pointer exception</message>
+  <stackTrace>  at compressYQSJY (bah_what.odp:475)
+  at generateWUIJC (anti_brisk.vst:464)
+  at rebootWITPT (tut.dist:49)
+  at rebootTPOSU (married_through_whereas.kar:63)
+  at back upFWPUH (colon_meanwhile.msm:499)
+  at generateTXOJC (flint.xlc:465)</stackTrace>
+  <userId/>
+  <endpoint>/api/analytics</endpoint>
+  <method>POST</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>4.5</version>
+  </context>
+  <tags>critical</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000033</id>
+  <timestamp>2025-10-31T05:15:04.863Z</timestamp>
+  <level>error</level>
+  <message>Authentication failed</message>
+  <stackTrace>  at parseKXVYC (psst_whereas_sardonic.php:20)
+  at synthesizeDSIVG (provided.eot:207)
+  at programAJGBY (swiftly_mechanically_amongst.rng:209)</stackTrace>
+  <userId>7330</userId>
+  <endpoint>/api/users</endpoint>
+  <method>PUT</method>
+  <statusCode>500</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>90.3</version>
+  </context>
+  <tags>frontend</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000034</id>
+  <timestamp>2025-10-13T14:42:20.722Z</timestamp>
+  <level>critical</level>
+  <message>Invalid request parameters</message>
+  <stackTrace>  at transmitYGMQM (mmm_detain_drag.webm:211)
+  at copyVNQUM (pro.pot:434)
+  at compressIHCHR (witty.boz:223)</stackTrace>
+  <userId/>
+  <endpoint>/api/products</endpoint>
+  <method>DELETE</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>54.3</version>
+  </context>
+  <tags>auth</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000035</id>
+  <timestamp>2025-10-18T08:57:08.543Z</timestamp>
+  <level>error</level>
+  <message>Resource not found</message>
+  <stackTrace>  at parseYDAYJ (down_black.avi:438)
+  at synthesizeRFLEX (painfully_brand_knowledgeably.mpeg:52)
+  at generateBYUZA (strategy.pdf:300)</stackTrace>
+  <userId>8599</userId>
+  <endpoint>/api/orders</endpoint>
+  <method>PATCH</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>92.9</version>
+  </context>
+  <tags>needs-investigation</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000036</id>
+  <timestamp>2025-10-11T16:05:00.756Z</timestamp>
+  <level>critical</level>
+  <message>Permission denied</message>
+  <stackTrace>  at hackWYHKK (yowza_which_tributary.xul:59)
+  at parseCPHJV (aboard.ini:140)
+  at programJEPQF (daintily_remark_selfishly.dot:230)
+  at copyYXDBL (tackle_dead_opposite.ics:116)
+  at transmitVQCZR (commandeer_pro_phooey.bin:394)
+  at copyWSBSA (creaking_gigantic_indeed.ogv:262)</stackTrace>
+  <userId>5075</userId>
+  <endpoint>/api/auth/login</endpoint>
+  <method>GET</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>115.0</version>
+  </context>
+  <tags>auth</tags>
+  <tags>needs-investigation</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000037</id>
+  <timestamp>2025-10-21T23:44:31.659Z</timestamp>
+  <level>error</level>
+  <message>Rate limit exceeded</message>
+  <stackTrace>  at navigateGKMGK (following.xml:50)
+  at compressOTYAU (knowingly_bowed_proper.otf:444)
+  at rebootDQYOX (encouragement_oh_defiantly.ini:304)
+  at compressBYVWK (harangue_schnitzel_indeed.exe:397)
+  at parseYUGII (under_drain.abw:152)
+  at back upSLMPG (rosemary_expense.msp:70)
+  at parseFBAVP (gazebo_about.gz:6)
+  at calculateQBICS (insert_forgery.lrf:344)</stackTrace>
+  <userId>1015</userId>
+  <endpoint>/api/auth/register</endpoint>
+  <method>POST</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>53.3</version>
+  </context>
+  <tags>database</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000038</id>
+  <timestamp>2025-10-12T11:49:50.699Z</timestamp>
+  <level>critical</level>
+  <message>Internal server error</message>
+  <stackTrace>  at synthesizeDFCJQ (brr_altruistic_queasily.odp:420)
+  at connectEZPNA (outlandish_affiliate.pdf:339)
+  at parseOCGHM (mockingly_soggy_vulgarise.mpkg:262)
+  at hackZBXBC (gee_in_which.iso:157)
+  at transmitLPMUN (whenever_actually_youthfully.ini:417)
+  at synthesizeNOBYT (where.css:392)
+  at calculateZHUZL (excellent_plump_besides.ogx:131)
+  at rebootGGEMO (settle.eot:81)</stackTrace>
+  <userId>580</userId>
+  <endpoint>/api/payments</endpoint>
+  <method>PUT</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>2.3</version>
+  </context>
+  <tags>backend</tags>
+  <tags>database</tags>
+  <tags>auth</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000039</id>
+  <timestamp>2025-11-03T13:30:08.502Z</timestamp>
+  <level>error</level>
+  <message>Failed to process payment</message>
+  <stackTrace>  at overrideFFIHY (qua.mpg:396)
+  at navigateMQIOD (give_unexpectedly.vsd:87)
+  at connectCAAJD (frantically_randomize_pro.buffer:485)
+  at navigateNSXET (via_serene_vanadyl.ttf:253)
+  at transmitNXDCL (shadowy.txt:203)</stackTrace>
+  <userId>2485</userId>
+  <endpoint>/api/settings</endpoint>
+  <method>DELETE</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>11.6</version>
+  </context>
+  <tags>api</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000040</id>
+  <timestamp>2025-11-03T00:24:48.574Z</timestamp>
+  <level>critical</level>
+  <message>Network error</message>
+  <stackTrace>  at hackKLYEU (responsibility.7z:399)
+  at rebootUXUYU (than.odt:266)
+  at inputQCYXC (once.css:449)</stackTrace>
+  <userId/>
+  <endpoint>/api/analytics</endpoint>
+  <method>PATCH</method>
+  <statusCode>500</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>79.9</version>
+  </context>
+  <tags>payment</tags>
+  <tags>needs-investigation</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000041</id>
+  <timestamp>2025-10-13T08:07:59.710Z</timestamp>
+  <level>error</level>
+  <message>Database connection timeout</message>
+  <stackTrace>  at quantifyPSJVF (smuggle_boohoo.oga:365)
+  at indexVANHM (phew.zip:493)
+  at connectTFUES (fellow_squirm.xsl:33)
+  at back upSIZJL (against_hence_whether.rmi:480)
+  at overrideHOAIZ (fooey_underpants_whereas.dump:94)
+  at indexPOXUB (traditionalism_granular_over.woff:481)
+  at programRNIGI (amid_woeful.bz2:308)
+  at quantifyGIUGV (forenenst_pick.xlc:31)</stackTrace>
+  <userId>4740</userId>
+  <endpoint>/api/users</endpoint>
+  <method>GET</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>12.5</version>
+  </context>
+  <tags>auth</tags>
+  <tags>payment</tags>
+  <tags>needs-investigation</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000042</id>
+  <timestamp>2025-10-28T14:20:59.098Z</timestamp>
+  <level>critical</level>
+  <message>Null pointer exception</message>
+  <stackTrace>  at inputURNMP (woot_but_tut.wav:457)
+  at generateTSUAU (weird_disrespect_annex.oga:232)
+  at programRFTUE (poetry.bpk:431)
+  at parseNPZRV (enormously_insistent.boz:455)
+  at quantifyTHFRB (since_an_unto.odp:55)
+  at calculateGPWRY (emphasize_besides.mpe:89)</stackTrace>
+  <userId>8817</userId>
+  <endpoint>/api/products</endpoint>
+  <method>POST</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>69.0</version>
   </context>
   <tags>api</tags>
   <tags>database</tags>
+  <tags>auth</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000043</id>
+  <timestamp>2025-10-25T14:35:46.107Z</timestamp>
+  <level>error</level>
+  <message>Authentication failed</message>
+  <stackTrace>  at transmitSUWLY (pleasing_whether.elc:328)
+  at calculateWOLBE (on_retract.msm:83)
+  at hackHLUYF (availability_hence.wav:305)
+  at quantifyZNWJK (wrongly_qua.dll:24)
+  at overrideHMPVA (seemingly.msi:199)</stackTrace>
+  <userId>9221</userId>
+  <endpoint>/api/orders</endpoint>
+  <method>PUT</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>102.4</version>
+  </context>
+  <tags>needs-investigation</tags>
   <resolved>true</resolved>
+</data>
+<data>
+  <id>E000044</id>
+  <timestamp>2025-10-16T19:43:55.444Z</timestamp>
+  <level>critical</level>
+  <message>Invalid request parameters</message>
+  <stackTrace>  at synthesizeTYQHZ (thankfully_toothbrush_that.avif:166)
+  at synthesizeODLSG (quaver.tiff:149)
+  at rebootOAXKQ (throughout.mpga:379)
+  at calculateBAFYU (outside_revitalise.xht:73)
+  at back upEHLHX (concerning_marksman.otf:163)
+  at navigateXBBNF (bad_questionably_ragged.map:429)
+  at overrideKNVCY (woot_until.abw:14)</stackTrace>
+  <userId>724</userId>
+  <endpoint>/api/auth/login</endpoint>
+  <method>DELETE</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>36.8</version>
+  </context>
+  <tags>database</tags>
+  <tags>payment</tags>
+  <tags>critical</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000045</id>
+  <timestamp>2025-10-25T04:14:33.118Z</timestamp>
+  <level>error</level>
+  <message>Resource not found</message>
+  <stackTrace>  at synthesizeGPGXA (austere.mpkg:357)
+  at transmitDLDSP (retract.m3a:228)
+  at navigateUYEPN (puzzled.jsonld:418)</stackTrace>
+  <userId>7738</userId>
+  <endpoint>/api/auth/register</endpoint>
+  <method>PATCH</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>14.1</version>
+  </context>
+  <tags>auth</tags>
+  <tags>backend</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000046</id>
+  <timestamp>2025-10-09T18:51:24.799Z</timestamp>
+  <level>critical</level>
+  <message>Permission denied</message>
+  <stackTrace>  at generateSCCBL (harangue_jive_pillory.jar:244)
+  at inputBESZX (seemingly_beside.mar:361)
+  at calculateGLLWK (climb_slowly.jar:279)
+  at synthesizeIQKVV (hm_redress_subtle.xlm:279)
+  at connectHTEKA (substantiate.m2v:214)
+  at generateOWSEM (ouch.aac:440)
+  at calculateDMOSI (of_self_confidence.webm:343)</stackTrace>
+  <userId/>
+  <endpoint>/api/payments</endpoint>
+  <method>GET</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>38.6</version>
+  </context>
+  <tags>critical</tags>
+  <tags>api</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000047</id>
+  <timestamp>2025-10-20T20:08:33.373Z</timestamp>
+  <level>error</level>
+  <message>Rate limit exceeded</message>
+  <stackTrace>  at programLBRCN (fat_babushka_unblinking.xsl:331)
+  at navigateGZACE (kinase_aha_amid.html:421)
+  at bypassXNEQY (bad_horde.mp4:267)
+  at rebootRDERN (hotfoot_denitrify_pace.vsd:58)
+  at transmitAXYYI (blah.ppt:410)
+  at hackUSHLE (apud_around.weba:432)
+  at compressGFDJS (tut_overwork_joyously.webp:412)
+  at compressQXQTS (neglect_innocently.mp4:103)</stackTrace>
+  <userId>2946</userId>
+  <endpoint>/api/settings</endpoint>
+  <method>POST</method>
+  <statusCode>500</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>20.3</version>
+  </context>
+  <tags>backend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000048</id>
+  <timestamp>2025-11-06T21:49:35.463Z</timestamp>
+  <level>critical</level>
+  <message>Internal server error</message>
+  <stackTrace>  at transmitXWORK (plastic_pro_jovially.wav:179)
+  at generateDEZVU (emphasise_while.jsonld:25)
+  at parseMIDBR (mid_uh_huh.xlw:72)
+  at generateAZZNF (vice.xsl:473)</stackTrace>
+  <userId>9870</userId>
+  <endpoint>/api/analytics</endpoint>
+  <method>PUT</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>27.6</version>
+  </context>
+  <tags>frontend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000049</id>
+  <timestamp>2025-11-02T01:21:20.816Z</timestamp>
+  <level>error</level>
+  <message>Failed to process payment</message>
+  <stackTrace>  at hackOQWLY (athwart_considering.map:452)
+  at back upUSLEX (godparent_fit.jpe:197)
+  at generateHNXMK (ack_entire_indeed.tar:474)
+  at quantifyICOQQ (what_immense.xsl:29)
+  at overrideIVZHU (forenenst_veto_hm.vss:117)
+  at indexXPLCC (puritan_pink_yowza.oga:369)
+  at rebootNJYCC (which_psst.htm:310)</stackTrace>
+  <userId>6990</userId>
+  <endpoint>/api/users</endpoint>
+  <method>DELETE</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>38.9</version>
+  </context>
+  <tags>frontend</tags>
+  <tags>backend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000050</id>
+  <timestamp>2025-10-24T19:03:31.351Z</timestamp>
+  <level>critical</level>
+  <message>Network error</message>
+  <stackTrace>  at connectEIOEW (bony_psst_observe.dump:335)
+  at copyNKLTR (through_by_daddy.mpkg:440)
+  at hackYCJZI (nicely_adult_ligate.txt:204)
+  at bypassCBXPJ (entire_along_into.png:437)
+  at bypassNYIKZ (mixture.ttf:209)
+  at calculateZQHUS (oh_quickly.exe:251)
+  at transmitINMWY (ultimate.3gpp:40)</stackTrace>
+  <userId>8724</userId>
+  <endpoint>/api/products</endpoint>
+  <method>PATCH</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>57.7</version>
+  </context>
+  <tags>backend</tags>
+  <tags>critical</tags>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000051</id>
+  <timestamp>2025-11-01T06:13:18.187Z</timestamp>
+  <level>error</level>
+  <message>Database connection timeout</message>
+  <stackTrace>  at compressDDPIV (rejoin_boohoo.json:234)
+  at hackWFEUN (than_pleasure_acidic.vst:494)
+  at bypassCMSNW (yahoo_duh.arc:492)</stackTrace>
+  <userId/>
+  <endpoint>/api/orders</endpoint>
+  <method>GET</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>27.7</version>
+  </context>
+  <tags>payment</tags>
+  <tags>api</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000052</id>
+  <timestamp>2025-10-08T15:34:44.718Z</timestamp>
+  <level>critical</level>
+  <message>Null pointer exception</message>
+  <stackTrace>  at copyDLTJX (lend_yippee.csv:461)
+  at transmitUXNYD (after_worth_diligently.xsd:310)
+  at programEOAKL (best_rout_voluntarily.tif:3)</stackTrace>
+  <userId>6620</userId>
+  <endpoint>/api/auth/login</endpoint>
+  <method>POST</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>70.2</version>
+  </context>
+  <tags>database</tags>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000053</id>
+  <timestamp>2025-10-31T09:27:34.944Z</timestamp>
+  <level>error</level>
+  <message>Authentication failed</message>
+  <stackTrace>  at hackVBGJX (chap_per.rmi:121)
+  at bypassBZELS (status_powerfully_intermesh.m2a:111)
+  at parseXNTHD (provided_whoever.css:41)
+  at bypassVTBKO (reorganisation_unaccountably.vsd:45)</stackTrace>
+  <userId>3749</userId>
+  <endpoint>/api/auth/register</endpoint>
+  <method>PUT</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>53.5</version>
+  </context>
+  <tags>database</tags>
+  <tags>payment</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000054</id>
+  <timestamp>2025-10-26T17:48:51.076Z</timestamp>
+  <level>critical</level>
+  <message>Invalid request parameters</message>
+  <stackTrace>  at calculatePPBED (patiently_though_scent.js:183)
+  at indexSASAE (instantly.avif:446)
+  at bypassQEJED (yahoo_rout_above.msm:404)
+  at synthesizePUQJH (pepper_wherever.msm:269)
+  at synthesizeWOSPG (ferociously_vainly_since.svgz:159)
+  at quantifyCHBPC (dispose_density_gray.pptx:449)</stackTrace>
+  <userId>3552</userId>
+  <endpoint>/api/payments</endpoint>
+  <method>DELETE</method>
+  <statusCode>500</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>100.3</version>
+  </context>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000055</id>
+  <timestamp>2025-10-27T08:52:05.982Z</timestamp>
+  <level>error</level>
+  <message>Resource not found</message>
+  <stackTrace>  at compressUZXRO (until_dispense.pdf:33)
+  at synthesizeYMRKY (utterly_pace_dulcimer.ico:424)
+  at parseFABHN (charter_unless.odp:30)</stackTrace>
+  <userId/>
+  <endpoint>/api/settings</endpoint>
+  <method>PATCH</method>
+  <statusCode>502</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>75.7</version>
+  </context>
+  <tags>auth</tags>
+  <tags>needs-investigation</tags>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000056</id>
+  <timestamp>2025-10-24T16:46:31.980Z</timestamp>
+  <level>critical</level>
+  <message>Permission denied</message>
+  <stackTrace>  at quantifyENPOX (instead_baa.jsonld:146)
+  at back upXGQXN (step_mother.conf:364)
+  at copyUSLZH (pfft_uh_huh.iso:384)
+  at generateJFOED (conceptualize_inject.mp4:63)
+  at generateDIOOJ (worthy_mill_sham.pdf:54)
+  at calculateQXQFO (worldly_gosh.xml:434)
+  at bypassYDMOQ (limp_reprove.7z:257)</stackTrace>
+  <userId>5997</userId>
+  <endpoint>/api/analytics</endpoint>
+  <method>GET</method>
+  <statusCode>503</statusCode>
+  <context>
+    <browser>Chrome</browser>
+    <os>Windows</os>
+    <version>56.3</version>
+  </context>
+  <tags>database</tags>
+  <tags>auth</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000057</id>
+  <timestamp>2025-10-26T09:08:00.047Z</timestamp>
+  <level>error</level>
+  <message>Rate limit exceeded</message>
+  <stackTrace>  at bypassOEKOH (likewise.midi:235)
+  at overrideKXNOQ (how.eot:52)
+  at parseOTXPN (gymnast.m1v:299)
+  at calculateXUSKH (barring_whoa_yesterday.abw:232)
+  at hackTYRYG (horst.xhtml:326)
+  at synthesizeSGDFY (that.spx:92)</stackTrace>
+  <userId>9793</userId>
+  <endpoint>/api/users</endpoint>
+  <method>POST</method>
+  <statusCode>400</statusCode>
+  <context>
+    <browser>Firefox</browser>
+    <os>macOS</os>
+    <version>17.3</version>
+  </context>
+  <tags>database</tags>
+  <tags>frontend</tags>
+  <tags>payment</tags>
+  <resolved>false</resolved>
+</data>
+<data>
+  <id>E000058</id>
+  <timestamp>2025-10-16T04:00:14.099Z</timestamp>
+  <level>critical</level>
+  <message>Internal server error</message>
+  <stackTrace>  at programMHAKT (knavishly.vst:131)
+  at compressGZUTV (experience_doubtfully_notwithstanding.dms:178)
+  at bypassOBBXH (hm.vst:474)
+  at programABYFR (following.distz:222)
+  at quantifyADNRE (yearningly.kar:496)
+  at quantifyLDEVZ (ill_headline.mpe:94)
+  at connectEYSYB (when_lean.xlsx:68)
+  at programIOKAF (recklessly_promise.ico:162)</stackTrace>
+  <userId>7277</userId>
+  <endpoint>/api/products</endpoint>
+  <method>PUT</method>
+  <statusCode>401</statusCode>
+  <context>
+    <browser>Safari</browser>
+    <os>Linux</os>
+    <version>18.1</version>
+  </context>
+  <tags>payment</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000059</id>
+  <timestamp>2025-10-15T19:14:55.799Z</timestamp>
+  <level>error</level>
+  <message>Failed to process payment</message>
+  <stackTrace>  at bypassNBEYR (among_lieu.mp3:401)
+  at synthesizeXLHDQ (label_ack_instead.log:171)
+  at inputKJYUL (emboss_hoot.php:263)
+  at copyHGZFY (lest_scowl_tidy.csh:198)</stackTrace>
+  <userId/>
+  <endpoint>/api/orders</endpoint>
+  <method>DELETE</method>
+  <statusCode>403</statusCode>
+  <context>
+    <browser>Edge</browser>
+    <os>iOS</os>
+    <version>83.5</version>
+  </context>
+  <tags>backend</tags>
+  <tags>needs-investigation</tags>
+  <tags>frontend</tags>
+  <resolved>true</resolved>
+</data>
+<data>
+  <id>E000060</id>
+  <timestamp>2025-11-01T19:54:45.183Z</timestamp>
+  <level>critical</level>
+  <message>Network error</message>
+  <stackTrace>  at bypassBLCPX (flickering_runny_where.dot:369)
+  at inputWTSSA (elver_knavishly_absentmindedly.xla:196)
+  at indexANGHW (atop_notwithstanding_or.pps:52)
+  at synthesizeRVVFO (after_gah.map:57)
+  at quantifyTNSNF (plastic.log:497)
+  at quantifyVSIRO (distinction_since.bpk:11)
+  at compressNHJHR (yippee_whether.msi:207)
+  at hackLFLWM (serve_rear_whenever.aac:280)</stackTrace>
+  <userId>5837</userId>
+  <endpoint>/api/auth/login</endpoint>
+  <method>PATCH</method>
+  <statusCode>404</statusCode>
+  <context>
+    <browser>Mobile Safari</browser>
+    <os>Android</os>
+    <version>111.7</version>
+  </context>
+  <tags>database</tags>
+  <resolved>false</resolved>
 </data>

@@ -26,10 +26,7 @@ const openrouter = new OpenAI({
  */
 function loadFormattedData(datasetName: DatasetName, format: FormatName): string {
   const extension = getFileExtension(format)
-  let fileName = `data.${extension}`
-  if (format === 'ploon-minified') {
-    fileName = 'data-minified.ploon'
-  }
+  const fileName = `data.${extension}`
 
   const filePath = path.join(DATA_DIR, datasetName, fileName)
   return fs.readFileSync(filePath, 'utf-8')
@@ -44,6 +41,21 @@ function loadQuestions(datasetName: DatasetName): Question[] {
 }
 
 /**
+ * Get format-specific explanation
+ */
+function getFormatExplanation(format: FormatName): string {
+  const explanations: Record<FormatName, string> = {
+    'json': 'JSON format: nested objects use curly braces {}, arrays use square brackets []. Access nested values with dot notation.',
+    'yaml': 'YAML format: indentation-based structure with key: value pairs. Nested objects shown by increased indentation, arrays use dash notation.',
+    'csv': 'CSV format (FLATTENED): comma-separated values with headers in first row. Nested data is flattened into dot notation columns (e.g., contact.email).',
+    'xml': 'XML format: nested tags with opening/closing pairs. Child elements represent nested objects, attributes show simple properties.',
+    'toon': 'TOON format: indentation-based with key: value pairs. Arrays of objects use tabular format with headers (e.g., items[2]{id,name}:). Primitive arrays are comma-separated inline.',
+    'ploon': 'PLOON format: Header [array#count](field1,field2,...) defines exact field order. Data rows: depth:index|value1|value2|... where values match header order. Depth 1 = top-level items (1:1, 1:2...), depth 2 = nested (2:1, 2:2...). Primitive arrays are comma-separated inline. Example: [users#2](id,name)\\n1:1|1|Alice\\n1:2|2|Bob',
+  }
+  return explanations[format]
+}
+
+/**
  * Evaluate a single question with a model
  */
 async function evaluateQuestion(
@@ -54,21 +66,39 @@ async function evaluateQuestion(
 ): Promise<EvaluationResult> {
   console.log(`  🔵 [${question.id}] Sending to ${model} (${format})...`)
 
-  const prompt = `Given the following data in ${format} format:
+  const formatExplanation = getFormatExplanation(format)
 
-\`\`\`
+  const systemPrompt = `You are a data extraction tool. Output ONLY the raw answer value with no explanations.
+
+Data format: ${formatExplanation}
+
+CRITICAL RULES:
+- Output must be a SINGLE SHORT VALUE only (e.g., "12", "/api/orders", "503")
+- NO explanations or descriptions
+- NO "the answer is..." or similar phrases
+- NO markdown, formatting, or code blocks
+- NO reasoning, thinking, or working
+- NO multiple lines or extra words
+
+Your entire response must be the raw answer value and nothing more.`
+
+  const userPrompt = `\`\`\`
 ${formattedData}
 \`\`\`
 
 Question: ${question.prompt}
 
-IMPORTANT: Provide ONLY the direct answer as a single value (number, string, etc.). Do NOT include any explanations, reasoning, markdown formatting, or additional text. Just the answer.`
+Answer:`
 
   const startTime = performance.now()
 
   const response = await openrouter.chat.completions.create({
     model,
-    messages: [{ role: 'user', content: prompt }],
+    messages: [
+      { role: 'system', content: systemPrompt },
+      { role: 'user', content: userPrompt }
+    ],
+    max_tokens: 200,
   })
 
   const responseTimeMs = performance.now() - startTime

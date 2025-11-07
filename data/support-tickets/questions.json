@@ -36,50 +36,386 @@
   },
   {
     "id": "q6",
-    "prompt": "How many support tickets are in the dataset?",
-    "groundTruth": "12",
-    "type": "aggregation",
+    "prompt": "What is the status of ticket T0011?",
+    "groundTruth": "resolved",
+    "type": "field-retrieval",
     "dataset": "support-tickets"
   },
   {
     "id": "q7",
-    "prompt": "How many tickets have status \"open\"?",
-    "groundTruth": "3",
-    "type": "aggregation",
+    "prompt": "What is the priority of ticket T0013?",
+    "groundTruth": "low",
+    "type": "field-retrieval",
     "dataset": "support-tickets"
   },
   {
     "id": "q8",
-    "prompt": "How many tickets have status \"in-progress\"?",
-    "groundTruth": "3",
-    "type": "aggregation",
+    "prompt": "Who is the customer for ticket T0015?",
+    "groundTruth": "Mr. Abraham Rowe",
+    "type": "field-retrieval",
     "dataset": "support-tickets"
   },
   {
     "id": "q9",
-    "prompt": "How many tickets have status \"resolved\"?",
-    "groundTruth": "3",
-    "type": "aggregation",
+    "prompt": "What is the customer email for ticket T0017?",
+    "groundTruth": "rodrigo82@hotmail.com",
+    "type": "field-retrieval",
     "dataset": "support-tickets"
   },
   {
     "id": "q10",
-    "prompt": "How many tickets have status \"open\" AND priority \"low\"?",
-    "groundTruth": "3",
-    "type": "filtering",
+    "prompt": "What company does the customer of ticket T0019 work for?",
+    "groundTruth": "Homenick, Reilly and Bailey",
+    "type": "field-retrieval",
     "dataset": "support-tickets"
   },
   {
     "id": "q11",
+    "prompt": "What is the status of ticket T0021?",
+    "groundTruth": "open",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q12",
+    "prompt": "What is the priority of ticket T0023?",
+    "groundTruth": "high",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q13",
+    "prompt": "Who is the customer for ticket T0025?",
+    "groundTruth": "Kathy Effertz",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q14",
+    "prompt": "What is the customer email for ticket T0027?",
+    "groundTruth": "ernie.oconnell@hotmail.com",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q15",
+    "prompt": "What company does the customer of ticket T0029 work for?",
+    "groundTruth": "Mraz Group",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q16",
+    "prompt": "What is the status of ticket T0031?",
+    "groundTruth": "resolved",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q17",
+    "prompt": "What is the priority of ticket T0033?",
+    "groundTruth": "low",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q18",
+    "prompt": "Who is the customer for ticket T0035?",
+    "groundTruth": "Lucia O'Conner",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q19",
+    "prompt": "What is the customer email for ticket T0037?",
+    "groundTruth": "mafalda26@gmail.com",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q20",
+    "prompt": "What company does the customer of ticket T0039 work for?",
+    "groundTruth": "Prosacco Inc",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q21",
+    "prompt": "What is the status of ticket T0041?",
+    "groundTruth": "open",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q22",
+    "prompt": "What is the priority of ticket T0043?",
+    "groundTruth": "high",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q23",
+    "prompt": "Who is the customer for ticket T0045?",
+    "groundTruth": "Austin Bauch",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q24",
+    "prompt": "What is the customer email for ticket T0047?",
+    "groundTruth": "hulda.ledner@gmail.com",
+    "type": "field-retrieval",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q25",
+    "prompt": "How many support tickets are in the dataset?",
+    "groundTruth": "60",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q26",
+    "prompt": "How many tickets have status \"open\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q27",
+    "prompt": "How many tickets have status \"in-progress\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q28",
+    "prompt": "How many tickets have status \"resolved\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q29",
+    "prompt": "How many tickets have status \"closed\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q30",
+    "prompt": "How many tickets have priority \"low\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q31",
+    "prompt": "How many tickets have priority \"medium\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q32",
+    "prompt": "How many tickets have priority \"high\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q33",
+    "prompt": "How many tickets have priority \"urgent\"?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q34",
+    "prompt": "How many tickets have more than 1 messages?",
+    "groundTruth": "53",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q35",
+    "prompt": "How many tickets have more than 2 messages?",
+    "groundTruth": "47",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q36",
+    "prompt": "How many tickets have more than 3 messages?",
+    "groundTruth": "36",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q37",
+    "prompt": "How many tickets have more than 4 messages?",
+    "groundTruth": "30",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q38",
+    "prompt": "How many tickets have more than 5 messages?",
+    "groundTruth": "23",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q39",
+    "prompt": "How many tickets have more than 6 messages?",
+    "groundTruth": "16",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q40",
+    "prompt": "How many tickets have more than 7 messages?",
+    "groundTruth": "8",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q41",
+    "prompt": "How many tickets have more than 8 messages?",
+    "groundTruth": "0",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q42",
+    "prompt": "How many tickets have an assignee?",
+    "groundTruth": "45",
+    "type": "aggregation",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q43",
+    "prompt": "How many tickets have status \"open\" AND priority \"low\"?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q44",
     "prompt": "How many tickets have status \"open\" AND priority \"medium\"?",
     "groundTruth": "0",
     "type": "filtering",
     "dataset": "support-tickets"
   },
   {
-    "id": "q12",
+    "id": "q45",
     "prompt": "How many tickets have status \"open\" AND priority \"high\"?",
     "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q46",
+    "prompt": "How many tickets have status \"open\" AND priority \"urgent\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q47",
+    "prompt": "How many tickets have status \"in-progress\" AND priority \"low\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q48",
+    "prompt": "How many tickets have status \"in-progress\" AND priority \"medium\"?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q49",
+    "prompt": "How many tickets have status \"in-progress\" AND priority \"high\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q50",
+    "prompt": "How many tickets have status \"in-progress\" AND priority \"urgent\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q51",
+    "prompt": "How many tickets have status \"resolved\" AND priority \"low\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q52",
+    "prompt": "How many tickets have status \"resolved\" AND priority \"medium\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q53",
+    "prompt": "How many tickets have status \"resolved\" AND priority \"high\"?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q54",
+    "prompt": "How many tickets have status \"resolved\" AND priority \"urgent\"?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q55",
+    "prompt": "How many low priority tickets have an assignee?",
+    "groundTruth": "0",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q56",
+    "prompt": "How many medium priority tickets have an assignee?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q57",
+    "prompt": "How many high priority tickets have an assignee?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q58",
+    "prompt": "How many urgent priority tickets have an assignee?",
+    "groundTruth": "15",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q59",
+    "prompt": "How many open tickets have more than 3 messages?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "support-tickets"
+  },
+  {
+    "id": "q60",
+    "prompt": "How many open tickets have more than 5 messages?",
+    "groundTruth": "3",
     "type": "filtering",
     "dataset": "support-tickets"
   }

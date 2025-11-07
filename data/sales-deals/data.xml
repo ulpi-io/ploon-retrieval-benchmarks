@@ -1,459 +1,2260 @@
 <data>
   <id>D00001</id>
-  <name>Reichert Inc - Fantastic Rubber Table</name>
-  <amount>179799</amount>
+  <name>Witting Group - Gorgeous Granite Towels</name>
+  <amount>86453</amount>
   <stage>lead</stage>
-  <probability>11</probability>
-  <closeDate>2025-11-21</closeDate>
+  <probability>13</probability>
+  <closeDate>2025-11-25</closeDate>
   <contact>
-    <name>Mr. Brendan Bins</name>
-    <email>hiram.langosh@yahoo.com</email>
-    <phone>542-863-7344 x1366</phone>
-    <company>Price LLC</company>
-    <title>Internal Brand Orchestrator</title>
-  </contact>
-  <activities>
-    <type>call</type>
-    <date>2025-09-15</date>
-    <notes>Tenuis tubineus vapulus traho tepesco utor nulla aurum termes campana.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-09-05</date>
-    <notes>Ventosus excepturi sed voco acsi cattus.</notes>
-  </activities>
-  <createdAt>2025-08-26T18:36:44.083Z</createdAt>
-  <updatedAt>2025-10-16T09:22:55.370Z</updatedAt>
-</data>
-<data>
-  <id>D00002</id>
-  <name>Johnson - Powlowski - Gorgeous Rubber Gloves</name>
-  <amount>328865</amount>
-  <stage>qualified</stage>
-  <probability>38</probability>
-  <closeDate>2026-01-02</closeDate>
-  <contact>
-    <name>Bonnie Farrell</name>
-    <email>myron.schneider9@hotmail.com</email>
-    <phone>1-591-326-2827 x3508</phone>
-    <company>Torphy Inc</company>
-    <title>Regional Division Liaison</title>
-  </contact>
-  <activities>
-    <type>meeting</type>
-    <date>2025-07-09</date>
-    <notes>Crinis suffoco bonus.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-07-23</date>
-    <notes>Auditor subiungo apud solvo ea alius aurum arguo patrocinor modi.</notes>
-  </activities>
-  <activities>
-    <type>meeting</type>
-    <date>2025-07-05</date>
-    <notes>Aut capitulus adamo villa thema.</notes>
-  </activities>
-  <createdAt>2025-06-28T19:54:34.441Z</createdAt>
-  <updatedAt>2025-07-23T12:49:23.628Z</updatedAt>
-</data>
-<data>
-  <id>D00003</id>
-  <name>Barton - Bayer - Refined Ceramic Computer</name>
-  <amount>182945</amount>
-  <stage>proposal</stage>
-  <probability>58</probability>
-  <closeDate>2025-12-16</closeDate>
-  <contact>
-    <name>Wilbert Conroy-Bailey DVM</name>
-    <email>joanne.block@hotmail.com</email>
-    <phone>378-541-6427 x7856</phone>
-    <company>Osinski Inc</company>
-    <title>International Web Liaison</title>
-  </contact>
-  <activities>
-    <type>demo</type>
-    <date>2025-07-21</date>
-    <notes>Volup tot tibi cogo thalassinus.</notes>
-  </activities>
-  <activities>
-    <type>demo</type>
-    <date>2025-08-18</date>
-    <notes>Debeo verbum vulnus.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-08-19</date>
-    <notes>Colligo copiose conqueror amplitudo.</notes>
-  </activities>
-  <activities>
-    <type>demo</type>
-    <date>2025-08-08</date>
-    <notes>Comprehendo pectus commodi animi valde admiratio adicio tempore.</notes>
-  </activities>
-  <createdAt>2025-07-03T09:47:01.567Z</createdAt>
-  <updatedAt>2025-08-24T23:58:03.340Z</updatedAt>
-</data>
-<data>
-  <id>D00004</id>
-  <name>Bartell, Towne and Prohaska - Handcrafted Bronze Keyboard</name>
-  <amount>20515</amount>
-  <stage>negotiation</stage>
-  <probability>80</probability>
-  <closeDate>2026-01-22</closeDate>
-  <contact>
-    <name>Lindsey Paucek</name>
-    <email>jefferey58@yahoo.com</email>
-    <phone>(659) 884-8844 x13598</phone>
-    <company>Konopelski and Sons</company>
-    <title>National Interactions Administrator</title>
-  </contact>
-  <activities>
-    <type>call</type>
-    <date>2025-09-04</date>
-    <notes>Urbs quos carus celo stipes.</notes>
-  </activities>
-  <activities>
-    <type>meeting</type>
-    <date>2025-09-01</date>
-    <notes>Studio soleo quae cedo deduco auditor calcar tersus uxor.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-08-24</date>
-    <notes>Supplanto delectus synagoga accusantium cicuta.</notes>
-  </activities>
-  <activities>
-    <type>meeting</type>
-    <date>2025-08-26</date>
-    <notes>Ut damno deporto aestas temporibus caute ea tener venustas.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-09-14</date>
-    <notes>Cetera qui adimpleo cupiditate earum cernuus ocer collum tam omnis.</notes>
-  </activities>
-  <createdAt>2025-08-06T23:06:31.666Z</createdAt>
-  <updatedAt>2025-09-22T14:55:56.713Z</updatedAt>
-</data>
-<data>
-  <id>D00005</id>
-  <name>Mante Group - Frozen Steel Shirt</name>
-  <amount>44886</amount>
-  <stage>closed-won</stage>
-  <probability>100</probability>
-  <closeDate>2026-01-17</closeDate>
-  <contact>
-    <name>Dr. Hugo Bahringer Jr.</name>
-    <email>desmond_romaguera71@yahoo.com</email>
-    <phone>1-243-794-6597 x4414</phone>
-    <company>Ziemann - Erdman</company>
-    <title>Corporate Accounts Executive</title>
-  </contact>
-  <activities>
-    <type>call</type>
-    <date>2025-10-31</date>
-    <notes>Sollicito terga depromo aestas pecto speculum deprimo admoveo arguo constans.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-10-18</date>
-    <notes>Appono conculco delego alii synagoga illum valeo ventosus volo.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-10-20</date>
-    <notes>Avaritia ab attollo carus reprehenderit spoliatio volva.</notes>
-  </activities>
-  <activities>
-    <type>demo</type>
-    <date>2025-10-25</date>
-    <notes>Auxilium thesis cursus.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-10-16</date>
-    <notes>Aedificium tristis caput adfectus utpote adimpleo unde cura talus.</notes>
-  </activities>
-  <activities>
-    <type>meeting</type>
-    <date>2025-10-26</date>
-    <notes>Arceo sollicito conturbo certe ascisco explicabo totam ulterius.</notes>
-  </activities>
-  <createdAt>2025-10-12T16:45:02.632Z</createdAt>
-  <updatedAt>2025-10-31T07:29:21.686Z</updatedAt>
-</data>
-<data>
-  <id>D00006</id>
-  <name>Runolfsson, Cassin and Schmitt - Licensed Steel Ball</name>
-  <amount>370253</amount>
-  <stage>closed-lost</stage>
-  <probability>0</probability>
-  <closeDate>2025-12-16</closeDate>
-  <contact>
-    <name>Rachael Sanford</name>
-    <email>adele56@gmail.com</email>
-    <phone>1-711-370-4610</phone>
-    <company>Braun - Ortiz</company>
-    <title>Product Research Facilitator</title>
-  </contact>
-  <activities>
-    <type>email</type>
-    <date>2025-08-28</date>
-    <notes>Ambitus nobis toties cado somnus clam bellum.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-09-03</date>
-    <notes>Trans inflammatio tot.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-07-24</date>
-    <notes>Nostrum molestiae tergum terra.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-07-13</date>
-    <notes>Laudantium sol celo triumphus careo ocer verbum.</notes>
-  </activities>
-  <activities>
-    <type>demo</type>
-    <date>2025-06-30</date>
-    <notes>Suffoco theca defungo aequitas sol spiritus victus cariosus ratione.</notes>
-  </activities>
-  <createdAt>2025-06-10T04:26:30.682Z</createdAt>
-  <updatedAt>2025-09-20T14:55:39.509Z</updatedAt>
-</data>
-<data>
-  <id>D00007</id>
-  <name>Zboncak - Jones - Luxurious Bamboo Tuna</name>
-  <amount>375905</amount>
-  <stage>lead</stage>
-  <probability>19</probability>
-  <closeDate>2026-02-04</closeDate>
-  <contact>
-    <name>Ruben Reichert-Nienow</name>
-    <email>ray_kihn78@yahoo.com</email>
-    <phone>(927) 527-0588</phone>
-    <company>Osinski - Gibson</company>
-    <title>Corporate Usability Coordinator</title>
+    <name>Josefina Welch</name>
+    <email>cleo8@yahoo.com</email>
+    <phone>614.299.8218 x279</phone>
+    <company>Kovacek, Schmidt and Mohr</company>
+    <title>Customer Response Executive</title>
   </contact>
   <activities>
     <type>call</type>
     <date>2025-08-13</date>
-    <notes>Teneo taceo comminor civitas caveo communis verumtamen.</notes>
+    <notes>Aduro tubineus vulgus dolorum cupressus textilis suasoria provident.</notes>
   </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-08-08</date>
-    <notes>Tabesco curiositas decet coruscus exercitationem constans dapifer speculum iste terreo.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-08-11</date>
-    <notes>Defungo libero tredecim benevolentia totidem audax crur benigne.</notes>
-  </activities>
-  <createdAt>2025-07-30T18:04:58.849Z</createdAt>
-  <updatedAt>2025-10-02T19:04:02.002Z</updatedAt>
+  <createdAt>2025-07-20T01:03:31.451Z</createdAt>
+  <updatedAt>2025-09-01T06:51:28.339Z</updatedAt>
 </data>
 <data>
-  <id>D00008</id>
-  <name>Hammes, Keebler and Connelly - Licensed Bronze Sausages</name>
-  <amount>338702</amount>
+  <id>D00002</id>
+  <name>Beier - Gottlieb - Bespoke Bronze Car</name>
+  <amount>474824</amount>
   <stage>qualified</stage>
-  <probability>34</probability>
-  <closeDate>2025-11-07</closeDate>
+  <probability>21</probability>
+  <closeDate>2025-11-16</closeDate>
   <contact>
-    <name>Dr. Chester Raynor</name>
-    <email>ellis59@gmail.com</email>
-    <phone>826.560.8716 x4199</phone>
-    <company>Marquardt, O&apos;Keefe and Lesch</company>
-    <title>Corporate Applications Executive</title>
+    <name>Bernard Terry</name>
+    <email>mafalda.satterfield@yahoo.com</email>
+    <phone>818.267.8169 x392</phone>
+    <company>Hintz Group</company>
+    <title>National Integration Executive</title>
   </contact>
   <activities>
-    <type>demo</type>
-    <date>2025-10-30</date>
-    <notes>Amplitudo pariatur tendo careo casso alii.</notes>
+    <type>call</type>
+    <date>2025-05-30</date>
+    <notes>Damnatio vinum timidus sum terminatio corona.</notes>
+  </activities>
+  <createdAt>2025-05-30T02:16:42.288Z</createdAt>
+  <updatedAt>2025-05-30T19:54:03.062Z</updatedAt>
+</data>
+<data>
+  <id>D00003</id>
+  <name>Hammes, Predovic and Leannon - Licensed Plastic Soap</name>
+  <amount>255738</amount>
+  <stage>proposal</stage>
+  <probability>41</probability>
+  <closeDate>2026-01-19</closeDate>
+  <contact>
+    <name>Sandy Pouros</name>
+    <email>caroline_fisher22@hotmail.com</email>
+    <phone>1-337-442-1574</phone>
+    <company>Padberg Group</company>
+    <title>Direct Accountability Agent</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-23</date>
+    <notes>Veniam patria suadeo.</notes>
   </activities>
   <activities>
     <type>call</type>
-    <date>2025-10-31</date>
-    <notes>Creta colo surculus venustas vulgaris.</notes>
+    <date>2025-10-23</date>
+    <notes>Amicitia vero bellum tener vulgo abstergo abundans.</notes>
   </activities>
   <activities>
     <type>email</type>
-    <date>2025-10-31</date>
-    <notes>Solutio casus adfectus rem argentum stultus stipes coerceo.</notes>
-  </activities>
-  <createdAt>2025-10-30T14:47:27.510Z</createdAt>
-  <updatedAt>2025-11-02T00:39:17.552Z</updatedAt>
-</data>
-<data>
-  <id>D00009</id>
-  <name>Pouros, Jerde and Spencer - Fantastic Aluminum Computer</name>
-  <amount>12667</amount>
-  <stage>proposal</stage>
-  <probability>40</probability>
-  <closeDate>2025-11-22</closeDate>
-  <contact>
-    <name>Brad Jenkins I</name>
-    <email>beau89@hotmail.com</email>
-    <phone>918.768.5283 x03237</phone>
-    <company>Hayes and Sons</company>
-    <title>Product Metrics Coordinator</title>
-  </contact>
-  <activities>
-    <type>demo</type>
-    <date>2025-09-06</date>
-    <notes>Trans adhuc ducimus repellendus cerno.</notes>
+    <date>2025-10-23</date>
+    <notes>Damnatio odio aufero sponte vaco calamitas dens.</notes>
   </activities>
   <activities>
-    <type>demo</type>
-    <date>2025-09-06</date>
-    <notes>Alius socius iusto asperiores suspendo commodi speciosus bardus apto ex.</notes>
+    <type>call</type>
+    <date>2025-10-25</date>
+    <notes>Patior argentum cilicium quaerat abscido uredo.</notes>
   </activities>
-  <createdAt>2025-09-05T10:27:21.541Z</createdAt>
-  <updatedAt>2025-09-06T05:28:09.033Z</updatedAt>
+  <createdAt>2025-10-23T00:28:20.748Z</createdAt>
+  <updatedAt>2025-10-26T12:59:17.404Z</updatedAt>
 </data>
 <data>
-  <id>D00010</id>
-  <name>Williamson, Bartell and Schimmel - Incredible Ceramic Shoes</name>
-  <amount>494339</amount>
+  <id>D00004</id>
+  <name>King - Brown - Frozen Marble Chips</name>
+  <amount>132363</amount>
   <stage>negotiation</stage>
-  <probability>63</probability>
-  <closeDate>2025-11-21</closeDate>
+  <probability>79</probability>
+  <closeDate>2025-12-05</closeDate>
   <contact>
-    <name>Minnie Franecki</name>
-    <email>mylene.parisian75@gmail.com</email>
-    <phone>593.763.6540 x945</phone>
-    <company>Leuschke Group</company>
-    <title>National Quality Supervisor</title>
+    <name>Mr. Max Kerluke-Hodkiewicz</name>
+    <email>ethel_macgyver95@yahoo.com</email>
+    <phone>314-935-0469 x3752</phone>
+    <company>Pfannerstill, Huel and Brekke</company>
+    <title>International Operations Supervisor</title>
   </contact>
   <activities>
     <type>call</type>
-    <date>2025-08-29</date>
-    <notes>Absens utpote asperiores vos tertius tantum exercitationem thymbra.</notes>
+    <date>2025-06-22</date>
+    <notes>Conduco odio suppellex velit creo vehemens.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-11</date>
+    <notes>Stipes clementia adsum.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-14</date>
+    <notes>Conduco arguo libero.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-07</date>
+    <notes>Desidero videlicet vix debilito.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-05-25</date>
+    <notes>Xiphias subiungo infit decumbo.</notes>
+  </activities>
+  <createdAt>2025-05-22T18:39:53.624Z</createdAt>
+  <updatedAt>2025-06-27T20:16:44.781Z</updatedAt>
+</data>
+<data>
+  <id>D00005</id>
+  <name>Corwin LLC - Incredible Bronze Salad</name>
+  <amount>274169</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-12-11</closeDate>
+  <contact>
+    <name>Lillie Ebert</name>
+    <email>daniela.auer26@hotmail.com</email>
+    <phone>975-421-4671 x36061</phone>
+    <company>Treutel, Schaden and Gerlach</company>
+    <title>Corporate Interactions Agent</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-10-07</date>
+    <notes>Possimus amo debeo trans despecto coniuratio cur volva catena.</notes>
   </activities>
   <activities>
     <type>meeting</type>
-    <date>2025-09-04</date>
-    <notes>Admoneo necessitatibus ait terminatio cariosus substantia.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-08-21</date>
-    <notes>Vinitor perspiciatis socius aufero auxilium ait vicinus.</notes>
-  </activities>
-  <activities>
-    <type>email</type>
-    <date>2025-10-13</date>
-    <notes>Uterque vigilo tutis viriliter canto derideo modi beatus.</notes>
-  </activities>
-  <createdAt>2025-05-28T02:13:26.968Z</createdAt>
-  <updatedAt>2025-11-02T04:58:57.483Z</updatedAt>
-</data>
-<data>
-  <id>D00011</id>
-  <name>VonRueden - Prohaska - Bespoke Steel Hat</name>
-  <amount>241078</amount>
-  <stage>closed-won</stage>
-  <probability>100</probability>
-  <closeDate>2026-01-05</closeDate>
-  <contact>
-    <name>Randall Steuber</name>
-    <email>torrey_runolfsdottir@gmail.com</email>
-    <phone>1-552-646-4558 x87974</phone>
-    <company>Hills - Runte</company>
-    <title>Global Branding Technician</title>
-  </contact>
-  <activities>
-    <type>email</type>
-    <date>2025-06-25</date>
-    <notes>Cerno cotidie abutor tutis alo copia illo officiis cogo.</notes>
+    <date>2025-10-08</date>
+    <notes>Tandem hic aufero attollo.</notes>
   </activities>
   <activities>
     <type>demo</type>
+    <date>2025-09-18</date>
+    <notes>Recusandae solus termes super ullam aestus creo eaque teneo tunc.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-21</date>
+    <notes>Sono quasi votum.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-19</date>
+    <notes>Cresco utrimque tamen vos denique perspiciatis stabilis.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-13</date>
+    <notes>Cibus cultura appello timor pauper admoveo tergum reprehenderit.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-07</date>
+    <notes>Deputo solitudo delectatio animi sapiente viridis utor damno clam.</notes>
+  </activities>
+  <createdAt>2025-09-13T02:23:20.897Z</createdAt>
+  <updatedAt>2025-10-13T23:35:55.531Z</updatedAt>
+</data>
+<data>
+  <id>D00006</id>
+  <name>Hane - Wilderman - Soft Wooden Cheese</name>
+  <amount>123444</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2025-11-30</closeDate>
+  <contact>
+    <name>Dr. Geoffrey Balistreri</name>
+    <email>kadin_fadel@hotmail.com</email>
+    <phone>(330) 887-6608 x3371</phone>
+    <company>Vandervort, Goldner and Muller</company>
+    <title>Central Assurance Associate</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-10-01</date>
+    <notes>Est viscus desipio dicta clementia candidus ventito chirographum apparatus.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-09-28</date>
+    <notes>Vulariter conatus suffragium auctor tametsi quam claro.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
     <date>2025-09-24</date>
-    <notes>Curvo tenuis sunt tumultus sto audio argumentum cetera esse umquam.</notes>
+    <notes>Arceo deleniti aedificium virga distinctio speciosus bonus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-12</date>
+    <notes>Quos sulum magnam.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-11</date>
+    <notes>Fugiat deripio vereor speciosus amor comitatus conqueror utpote sunt.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-24</date>
+    <notes>Agnitio delectus coniuratio decumbo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-11</date>
+    <notes>Carcer valeo adopto neque somniculosus.</notes>
+  </activities>
+  <createdAt>2025-09-17T07:07:38.789Z</createdAt>
+  <updatedAt>2025-10-14T14:21:32.845Z</updatedAt>
+</data>
+<data>
+  <id>D00007</id>
+  <name>Purdy, Macejkovic and Hoppe - Recycled Rubber Shoes</name>
+  <amount>420758</amount>
+  <stage>lead</stage>
+  <probability>15</probability>
+  <closeDate>2025-11-27</closeDate>
+  <contact>
+    <name>Lynne Mayer</name>
+    <email>jedidiah_ratke@yahoo.com</email>
+    <phone>411.224.1977</phone>
+    <company>O&apos;Keefe - Conn</company>
+    <title>Lead Infrastructure Designer</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-08-04</date>
+    <notes>Acquiro utrimque theca.</notes>
+  </activities>
+  <createdAt>2025-05-19T09:54:40.515Z</createdAt>
+  <updatedAt>2025-11-06T12:49:17.337Z</updatedAt>
+</data>
+<data>
+  <id>D00008</id>
+  <name>Bosco, Parisian and Baumbach - Recycled Steel Shoes</name>
+  <amount>324000</amount>
+  <stage>qualified</stage>
+  <probability>38</probability>
+  <closeDate>2026-01-13</closeDate>
+  <contact>
+    <name>Clark Ryan</name>
+    <email>eli_metz-fadel@gmail.com</email>
+    <phone>275-224-3239 x18122</phone>
+    <company>Quigley and Sons</company>
+    <title>Internal Response Analyst</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-31</date>
+    <notes>Delicate magni tabernus accedo creo argumentum decor victus.</notes>
+  </activities>
+  <createdAt>2025-10-30T11:16:47.063Z</createdAt>
+  <updatedAt>2025-10-31T23:52:51.888Z</updatedAt>
+</data>
+<data>
+  <id>D00009</id>
+  <name>Kshlerin Inc - Soft Metal Soap</name>
+  <amount>76852</amount>
+  <stage>proposal</stage>
+  <probability>43</probability>
+  <closeDate>2026-01-30</closeDate>
+  <contact>
+    <name>Clyde Yundt</name>
+    <email>hazle_herzog@yahoo.com</email>
+    <phone>447-815-4630 x495</phone>
+    <company>Dietrich - McGlynn</company>
+    <title>Chief Optimization Manager</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-07-12</date>
+    <notes>Blandior deporto laudantium tergum amplexus enim corrigo ter.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-05</date>
+    <notes>Curia aperte ago.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-07-07</date>
+    <notes>Teres cetera texo sui speciosus certe validus.</notes>
+  </activities>
+  <createdAt>2025-07-03T04:52:22.241Z</createdAt>
+  <updatedAt>2025-07-15T19:04:41.226Z</updatedAt>
+</data>
+<data>
+  <id>D00010</id>
+  <name>Turcotte Inc - Bespoke Ceramic Shirt</name>
+  <amount>442969</amount>
+  <stage>negotiation</stage>
+  <probability>69</probability>
+  <closeDate>2025-11-15</closeDate>
+  <contact>
+    <name>Lela Moore</name>
+    <email>brittany_weissnat@gmail.com</email>
+    <phone>1-993-360-9969 x3651</phone>
+    <company>Weber LLC</company>
+    <title>Lead Communications Director</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-08-03</date>
+    <notes>Vobis omnis comptus infit.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-18</date>
+    <notes>Centum est cito pecco occaecati tamen.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-10</date>
+    <notes>Candidus enim blanditiis succedo nisi pecus tamen.</notes>
+  </activities>
+  <createdAt>2025-07-16T20:49:49.766Z</createdAt>
+  <updatedAt>2025-08-22T17:35:22.283Z</updatedAt>
+</data>
+<data>
+  <id>D00011</id>
+  <name>Prohaska Inc - Refined Aluminum Bike</name>
+  <amount>24071</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-11-09</closeDate>
+  <contact>
+    <name>Kurt Prosacco III</name>
+    <email>isaias.cummerata97@hotmail.com</email>
+    <phone>711.798.3758 x61243</phone>
+    <company>Reinger, Romaguera and Ebert</company>
+    <title>Corporate Marketing Specialist</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-11-04</date>
+    <notes>Trado odit quas tollo curtus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-03</date>
+    <notes>Cenaculum vero infit tres statim thesaurus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-06</date>
+    <notes>Utroque aqua amissio vulariter omnis pax verus.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-11-03</date>
+    <notes>Est solvo volup calculus cupiditas rem canis.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-03</date>
+    <notes>Ustulo cariosus convoco turbo valde.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-11-05</date>
+    <notes>Constans minus vesica repellat deorsum creber argumentum damnatio.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-03</date>
+    <notes>Totus summa cauda patior voluptatem thesis.</notes>
+  </activities>
+  <createdAt>2025-11-02T22:24:06.810Z</createdAt>
+  <updatedAt>2025-11-06T12:19:07.043Z</updatedAt>
+</data>
+<data>
+  <id>D00012</id>
+  <name>Koss Group - Unbranded Aluminum Sausages</name>
+  <amount>152452</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2025-11-27</closeDate>
+  <contact>
+    <name>Charles McLaughlin</name>
+    <email>alexane88@hotmail.com</email>
+    <phone>1-345-321-5133</phone>
+    <company>Marvin - Lakin</company>
+    <title>Central Tactics Agent</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-09-02</date>
+    <notes>Reprehenderit demergo repellat supplanto similique approbo vomica tenuis.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-08-07</date>
+    <notes>Caecus blanditiis adipisci vero altus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-14</date>
+    <notes>Abstergo animi compello.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-14</date>
+    <notes>Acidus dedico vinculum armarium tergiversatio conicio dolorum.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-01</date>
+    <notes>Vallum adipiscor texo labore conduco.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-19</date>
+    <notes>Ventito repellendus vaco verumtamen id decumbo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-20</date>
+    <notes>Confero voluptatum commemoro.</notes>
+  </activities>
+  <createdAt>2025-07-13T12:37:39.333Z</createdAt>
+  <updatedAt>2025-11-02T20:08:11.657Z</updatedAt>
+</data>
+<data>
+  <id>D00013</id>
+  <name>Murazik, Baumbach and Marquardt - Soft Bronze Soap</name>
+  <amount>474375</amount>
+  <stage>lead</stage>
+  <probability>18</probability>
+  <closeDate>2025-11-20</closeDate>
+  <contact>
+    <name>Patti Turner-Wisozk</name>
+    <email>helga_russel@gmail.com</email>
+    <phone>866-977-3971 x83825</phone>
+    <company>Kunze, Predovic and Okuneva</company>
+    <title>Chief Division Administrator</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-07-16</date>
+    <notes>Caelestis villa crux ultra valeo supellex depulso ventosus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-07-18</date>
+    <notes>Sperno stabilis tactus voluptatum votum.</notes>
+  </activities>
+  <createdAt>2025-07-10T02:34:25.675Z</createdAt>
+  <updatedAt>2025-07-20T20:48:25.845Z</updatedAt>
+</data>
+<data>
+  <id>D00014</id>
+  <name>Streich - Corkery - Fresh Rubber Hat</name>
+  <amount>163376</amount>
+  <stage>qualified</stage>
+  <probability>37</probability>
+  <closeDate>2026-02-05</closeDate>
+  <contact>
+    <name>Fredrick Goldner</name>
+    <email>ora.stroman95@gmail.com</email>
+    <phone>308-327-8017 x904</phone>
+    <company>Pouros, Rodriguez and Okuneva</company>
+    <title>Senior Creative Associate</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-11-01</date>
+    <notes>Campana solutio peior benevolentia comes adimpleo ustulo volo textus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-31</date>
+    <notes>Tricesimus villa cubitum ubi deduco dolorum tabella maiores deprimo facere.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-31</date>
+    <notes>Cribro patruus amissio angustus.</notes>
+  </activities>
+  <createdAt>2025-10-28T07:14:58.724Z</createdAt>
+  <updatedAt>2025-11-06T16:58:39.199Z</updatedAt>
+</data>
+<data>
+  <id>D00015</id>
+  <name>Bergnaum, Nader and Moore - Soft Ceramic Towels</name>
+  <amount>236415</amount>
+  <stage>proposal</stage>
+  <probability>51</probability>
+  <closeDate>2025-12-22</closeDate>
+  <contact>
+    <name>Ann Fritsch</name>
+    <email>zander_nolan@gmail.com</email>
+    <phone>(906) 884-9296 x9116</phone>
+    <company>Greenholt, Wuckert and Connelly</company>
+    <title>Dynamic Accounts Supervisor</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-08-27</date>
+    <notes>Thorax illum exercitationem cedo consequatur vito defendo deorsum utrum cohaero.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-08-14</date>
+    <notes>Combibo tardus terra viridis termes aut.</notes>
+  </activities>
+  <createdAt>2025-06-30T22:36:45.927Z</createdAt>
+  <updatedAt>2025-09-05T04:48:52.611Z</updatedAt>
+</data>
+<data>
+  <id>D00016</id>
+  <name>Heathcote, Grant and Rolfson - Elegant Cotton Computer</name>
+  <amount>395651</amount>
+  <stage>negotiation</stage>
+  <probability>61</probability>
+  <closeDate>2026-01-09</closeDate>
+  <contact>
+    <name>Pat Waelchi</name>
+    <email>daniela37@hotmail.com</email>
+    <phone>752.287.3447 x87448</phone>
+    <company>Schultz, Sporer and Rutherford</company>
+    <title>Corporate Intranet Coordinator</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-11</date>
+    <notes>Tersus comes vesco xiphias tremo vitae quidem uredo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-02</date>
+    <notes>Vilitas placeat pectus talio.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-02</date>
+    <notes>Textor venio abstergo consectetur sollicito atrox.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-06</date>
+    <notes>Vita cupio derelinquo desino tres conitor degusto delinquo sufficio.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-10</date>
+    <notes>Titulus commemoro aspernatur accusamus soleo aureus repellendus paens celebrer amitto.</notes>
+  </activities>
+  <createdAt>2025-05-22T06:29:24.418Z</createdAt>
+  <updatedAt>2025-06-16T09:15:01.654Z</updatedAt>
+</data>
+<data>
+  <id>D00017</id>
+  <name>Sauer, O&apos;Conner and Hansen - Sleek Bronze Bike</name>
+  <amount>356902</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-12-29</closeDate>
+  <contact>
+    <name>Felipe Lind V</name>
+    <email>litzy.raynor71@hotmail.com</email>
+    <phone>461.305.9474 x8064</phone>
+    <company>Dach LLC</company>
+    <title>Internal Implementation Specialist</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-18</date>
+    <notes>Vulticulus bibo quos contego carcer conicio corroboro argentum uxor.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-30</date>
+    <notes>Degero amissio vociferor vinitor sunt qui tergum velociter curso.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-11-04</date>
+    <notes>Suffoco damno porro consequatur amet spoliatio umquam ait.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-10</date>
+    <notes>Vir comptus solvo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-19</date>
+    <notes>Derelinquo arcus suffragium cornu congregatio suadeo corrupti approbo contra desino.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-20</date>
+    <notes>Animi versus cultura alo truculenter.</notes>
+  </activities>
+  <createdAt>2025-10-09T01:26:25.863Z</createdAt>
+  <updatedAt>2025-11-06T22:24:41.297Z</updatedAt>
+</data>
+<data>
+  <id>D00018</id>
+  <name>Waters and Sons - Elegant Marble Shoes</name>
+  <amount>304337</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2025-12-16</closeDate>
+  <contact>
+    <name>Erik Dibbert</name>
+    <email>jessica.abernathy73@yahoo.com</email>
+    <phone>(798) 843-3692 x15242</phone>
+    <company>Lang, Hills and Dickinson</company>
+    <title>Direct Group Analyst</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-04</date>
+    <notes>Sopor curatio civitas stabilis.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-07-18</date>
+    <notes>Ambulo spiculum valde annus cito cetera stultus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-07-05</date>
+    <notes>Voveo quaerat praesentium delectatio.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-01</date>
+    <notes>Argumentum iste tunc suppono exercitationem ante assumenda demergo valeo succurro.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-30</date>
+    <notes>Conspergo autus autem suppellex textus quidem bene conforto voluptatibus absconditus.</notes>
+  </activities>
+  <createdAt>2025-05-25T05:22:15.203Z</createdAt>
+  <updatedAt>2025-09-15T18:49:46.685Z</updatedAt>
+</data>
+<data>
+  <id>D00019</id>
+  <name>Waters Inc - Small Bamboo Chair</name>
+  <amount>211168</amount>
+  <stage>lead</stage>
+  <probability>15</probability>
+  <closeDate>2025-12-26</closeDate>
+  <contact>
+    <name>Ron Quigley</name>
+    <email>allen_leuschke@hotmail.com</email>
+    <phone>796-958-9605 x47965</phone>
+    <company>Hamill - Ledner</company>
+    <title>Principal Accounts Manager</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-08-21</date>
+    <notes>Articulus terga civitas tum debilito defungo sollicito.</notes>
+  </activities>
+  <createdAt>2025-06-11T05:26:16.877Z</createdAt>
+  <updatedAt>2025-09-12T14:31:18.496Z</updatedAt>
+</data>
+<data>
+  <id>D00020</id>
+  <name>Ernser, Emard and Balistreri - Small Marble Chicken</name>
+  <amount>398408</amount>
+  <stage>qualified</stage>
+  <probability>40</probability>
+  <closeDate>2025-12-22</closeDate>
+  <contact>
+    <name>Devin Cormier</name>
+    <email>daija.bashirian49@yahoo.com</email>
+    <phone>1-651-419-9328 x704</phone>
+    <company>Hane Group</company>
+    <title>Investor Factors Assistant</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-30</date>
+    <notes>Tepidus similique civitas vetus curvo spiculum curvo aggredior color sit.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-25</date>
+    <notes>Vesco occaecati turpis aperte voluptates.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-17</date>
+    <notes>Cariosus strenuus urbanus error cum agnosco utpote impedit ara volo.</notes>
+  </activities>
+  <createdAt>2025-08-10T06:42:39.046Z</createdAt>
+  <updatedAt>2025-10-15T03:07:59.471Z</updatedAt>
+</data>
+<data>
+  <id>D00021</id>
+  <name>Schroeder LLC - Fresh Gold Salad</name>
+  <amount>149580</amount>
+  <stage>proposal</stage>
+  <probability>53</probability>
+  <closeDate>2025-12-11</closeDate>
+  <contact>
+    <name>Timmy Raynor-Hyatt</name>
+    <email>jeanette85@hotmail.com</email>
+    <phone>(221) 638-1536 x21191</phone>
+    <company>Kirlin and Sons</company>
+    <title>Dynamic Program Technician</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-09-13</date>
+    <notes>Argentum thymbra cito enim dedecor.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-19</date>
+    <notes>Cui vulgo pauci adhaero facere vinco tenax venustas.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-25</date>
+    <notes>Atqui cumque administratio decens consequatur urbanus umerus degusto crapula.</notes>
+  </activities>
+  <createdAt>2025-09-10T03:11:02.193Z</createdAt>
+  <updatedAt>2025-11-04T17:00:32.411Z</updatedAt>
+</data>
+<data>
+  <id>D00022</id>
+  <name>Oberbrunner - Veum - Handmade Marble Car</name>
+  <amount>251488</amount>
+  <stage>negotiation</stage>
+  <probability>63</probability>
+  <closeDate>2025-11-15</closeDate>
+  <contact>
+    <name>Jaime Keebler</name>
+    <email>ahmad.leuschke-rosenbaum@yahoo.com</email>
+    <phone>1-614-864-5054 x41615</phone>
+    <company>Hermiston LLC</company>
+    <title>Direct Integration Engineer</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-10-10</date>
+    <notes>Cupiditate ademptio carcer supplanto ipsam creptio benevolentia consequuntur delego curatio.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-29</date>
+    <notes>Sol sollers vehemens eveniet.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-18</date>
+    <notes>Alioqui culpo aliquam dolor cruentus speciosus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-15</date>
+    <notes>Corroboro votum animus cetera suppellex thalassinus conicio.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-10</date>
+    <notes>Versus paens carcer desolo allatus demonstro.</notes>
+  </activities>
+  <createdAt>2025-10-05T06:55:29.808Z</createdAt>
+  <updatedAt>2025-10-31T17:39:42.635Z</updatedAt>
+</data>
+<data>
+  <id>D00023</id>
+  <name>Sporer - Hammes - Frozen Silk Shirt</name>
+  <amount>147314</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-11-10</closeDate>
+  <contact>
+    <name>Peter Lang</name>
+    <email>eusebio_wolff@yahoo.com</email>
+    <phone>(948) 703-8636 x6499</phone>
+    <company>Wilderman - Hills</company>
+    <title>Lead Assurance Liaison</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-10-12</date>
+    <notes>Cogo accusator verbum vesper stips cado deporto cras auctor.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-17</date>
+    <notes>Stipes explicabo verus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-12</date>
+    <notes>Cilicium aegrus facilis vulgo ipsum accedo tristis.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-03</date>
+    <notes>Amoveo a conforto.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-17</date>
+    <notes>Explicabo conturbo valetudo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-24</date>
+    <notes>Vinculum arx attonbitus depereo tepesco aperio earum deleo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-10</date>
+    <notes>Culpo depulso ager.</notes>
+  </activities>
+  <createdAt>2025-09-09T13:01:42.593Z</createdAt>
+  <updatedAt>2025-11-06T00:07:15.125Z</updatedAt>
+</data>
+<data>
+  <id>D00024</id>
+  <name>Altenwerth - Emard - Sleek Marble Hat</name>
+  <amount>102725</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2025-12-24</closeDate>
+  <contact>
+    <name>Madeline Cole</name>
+    <email>bridget_cummings@gmail.com</email>
+    <phone>290.900.6946</phone>
+    <company>Sauer, Dickinson and Jakubowski</company>
+    <title>Dynamic Web Analyst</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-09</date>
+    <notes>Vinum tracto blanditiis appono undique callide iure dolorem.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-10</date>
+    <notes>Coaegresco adfero decretum stabilis aureus aggredior caelestis arma.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-01</date>
+    <notes>Allatus aegre velum angelus defluo charisma.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-30</date>
+    <notes>Atque ambulo acceptus sui carcer.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-21</date>
+    <notes>Bibo cogito ducimus deficio tum caveo tardus curso suspendo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-24</date>
+    <notes>Accendo aperiam voluptatum sperno autus decet.</notes>
+  </activities>
+  <createdAt>2025-09-06T14:00:26.906Z</createdAt>
+  <updatedAt>2025-10-02T17:57:32.129Z</updatedAt>
+</data>
+<data>
+  <id>D00025</id>
+  <name>Collins, Baumbach and Emard - Incredible Granite Shirt</name>
+  <amount>228362</amount>
+  <stage>lead</stage>
+  <probability>13</probability>
+  <closeDate>2026-02-02</closeDate>
+  <contact>
+    <name>Conrad O&apos;Hara</name>
+    <email>ross_reichert@gmail.com</email>
+    <phone>407-921-2106</phone>
+    <company>Champlin and Sons</company>
+    <title>Chief Implementation Liaison</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-08-03</date>
+    <notes>Illo verecundia veniam vitae carmen thesaurus aperte callide casus.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-20</date>
+    <notes>Incidunt cometes xiphias corrigo valens curo unde volutabrum curis vomer.</notes>
+  </activities>
+  <createdAt>2025-07-20T07:32:49.848Z</createdAt>
+  <updatedAt>2025-10-13T08:12:55.045Z</updatedAt>
+</data>
+<data>
+  <id>D00026</id>
+  <name>Stiedemann - Stamm - Elegant Gold Shoes</name>
+  <amount>485387</amount>
+  <stage>qualified</stage>
+  <probability>23</probability>
+  <closeDate>2025-12-23</closeDate>
+  <contact>
+    <name>Christian Gorczany</name>
+    <email>magali.hermann@hotmail.com</email>
+    <phone>771.659.4789 x1421</phone>
+    <company>Hyatt Group</company>
+    <title>National Response Coordinator</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-09-29</date>
+    <notes>Cicuta absconditus pauci repellendus creber absorbeo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-21</date>
+    <notes>Versus coaegresco stella vinitor auctus defungo.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-25</date>
+    <notes>Deprimo traho libero ustilo cura adficio.</notes>
   </activities>
   <activities>
     <type>demo</type>
     <date>2025-09-22</date>
-    <notes>Approbo amita ad audacia dolores temperantia terminatio.</notes>
+    <notes>Dolorum theca tempore approbo sophismata appositus.</notes>
+  </activities>
+  <createdAt>2025-09-10T23:34:27.813Z</createdAt>
+  <updatedAt>2025-10-03T17:49:56.559Z</updatedAt>
+</data>
+<data>
+  <id>D00027</id>
+  <name>Jacobs, Strosin and Kohler - Fantastic Marble Cheese</name>
+  <amount>366649</amount>
+  <stage>proposal</stage>
+  <probability>40</probability>
+  <closeDate>2026-02-04</closeDate>
+  <contact>
+    <name>Eileen Grimes</name>
+    <email>lizeth.bechtelar@yahoo.com</email>
+    <phone>610.499.0376</phone>
+    <company>O&apos;Connell and Sons</company>
+    <title>Central Configuration Liaison</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-23</date>
+    <notes>Inventore calculus itaque adulatio vulariter.</notes>
   </activities>
   <activities>
     <type>meeting</type>
-    <date>2025-07-06</date>
-    <notes>Aufero adfectus sollicito claustrum tamen umerus.</notes>
-  </activities>
-  <activities>
-    <type>meeting</type>
-    <date>2025-09-14</date>
-    <notes>Claustrum vita suffoco aveho complectus uxor.</notes>
+    <date>2025-06-24</date>
+    <notes>Uter debilito vesica.</notes>
   </activities>
   <activities>
     <type>demo</type>
-    <date>2025-06-26</date>
-    <notes>Claudeo cornu bonus validus tamisium acidus umbra ubi autus constans.</notes>
+    <date>2025-06-23</date>
+    <notes>Spes magni terebro stillicidium concedo dolore.</notes>
   </activities>
-  <createdAt>2025-06-15T18:04:58.510Z</createdAt>
-  <updatedAt>2025-10-19T07:29:33.721Z</updatedAt>
+  <activities>
+    <type>call</type>
+    <date>2025-06-24</date>
+    <notes>Suggero nam vado cum tubineus vix corporis terror cornu condico.</notes>
+  </activities>
+  <createdAt>2025-06-22T15:03:44.823Z</createdAt>
+  <updatedAt>2025-06-25T01:32:43.635Z</updatedAt>
 </data>
 <data>
-  <id>D00012</id>
-  <name>Kautzer Group - Tasty Granite Pants</name>
-  <amount>387682</amount>
+  <id>D00028</id>
+  <name>Cummings, Murphy and Padberg - Fresh Ceramic Gloves</name>
+  <amount>136164</amount>
+  <stage>negotiation</stage>
+  <probability>72</probability>
+  <closeDate>2025-11-14</closeDate>
+  <contact>
+    <name>Lori Zemlak Jr.</name>
+    <email>nickolas36@gmail.com</email>
+    <phone>389-670-6687</phone>
+    <company>Howell, Rohan and Powlowski</company>
+    <title>Dynamic Assurance Supervisor</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-25</date>
+    <notes>Cubicularis thorax terra caries cervus accommodo reprehenderit.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-16</date>
+    <notes>Truculenter curriculum angelus ultra conitor conduco victoria aurum voluntarius conspergo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-24</date>
+    <notes>Attero paens terreo volo cursus aperio.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-17</date>
+    <notes>Enim bardus caecus deduco defero sponte triduana ancilla adeo sequi.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-18</date>
+    <notes>Bis adeptio substantia sto tubineus aegre cohibeo custodia terebro nostrum.</notes>
+  </activities>
+  <createdAt>2025-10-05T05:18:06.698Z</createdAt>
+  <updatedAt>2025-11-04T02:04:12.447Z</updatedAt>
+</data>
+<data>
+  <id>D00029</id>
+  <name>Larkin, Purdy and Hyatt - Fresh Bamboo Hat</name>
+  <amount>309707</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-12-03</closeDate>
+  <contact>
+    <name>Tracey Hermiston</name>
+    <email>genesis_kshlerin91@gmail.com</email>
+    <phone>(559) 222-7109 x084</phone>
+    <company>Grady and Sons</company>
+    <title>Central Markets Technician</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-14</date>
+    <notes>Bestia patior debitis confugo vulgaris.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-07-08</date>
+    <notes>Vito celer beneficium.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-19</date>
+    <notes>Enim asporto abutor vilis denuncio traho.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-07-09</date>
+    <notes>Calcar deleniti tutamen.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-10</date>
+    <notes>Desolo cimentarius ocer solitudo accusamus tutis volup vinco atrocitas.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-07</date>
+    <notes>Stella demergo coepi.</notes>
+  </activities>
+  <createdAt>2025-05-23T22:44:29.702Z</createdAt>
+  <updatedAt>2025-07-10T09:23:12.834Z</updatedAt>
+</data>
+<data>
+  <id>D00030</id>
+  <name>Littel and Sons - Luxurious Concrete Ball</name>
+  <amount>340713</amount>
   <stage>closed-lost</stage>
   <probability>0</probability>
-  <closeDate>2026-01-13</closeDate>
+  <closeDate>2025-12-17</closeDate>
   <contact>
-    <name>Courtney Price</name>
-    <email>nolan_huels@gmail.com</email>
-    <phone>272.588.1101 x03730</phone>
-    <company>Reichert Group</company>
-    <title>Product Branding Planner</title>
+    <name>Andrew Williamson</name>
+    <email>kay.padberg25@yahoo.com</email>
+    <phone>800-589-1901 x147</phone>
+    <company>Dicki Inc</company>
+    <title>Direct Markets Architect</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-08-18</date>
+    <notes>Deficio vigilo cunae depono acervus.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-27</date>
+    <notes>Tabesco caste utroque studio velut defleo aetas cognatus vorago.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-16</date>
+    <notes>Amiculum velit arx creo viridis callide depromo decretum est commodo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-26</date>
+    <notes>Debitis uxor coniuratio comedo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-01</date>
+    <notes>Dolores comedo armarium.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-13</date>
+    <notes>Audeo consequuntur spero victoria candidus vitae suffragium.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-08-07</date>
+    <notes>Bibo quos vis aetas altus tener.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-08-31</date>
+    <notes>Vindico attero tubineus compello thalassinus velociter.</notes>
+  </activities>
+  <createdAt>2025-07-25T06:35:29.453Z</createdAt>
+  <updatedAt>2025-09-03T23:38:49.322Z</updatedAt>
+</data>
+<data>
+  <id>D00031</id>
+  <name>Botsford - Berge - Sleek Marble Pants</name>
+  <amount>11535</amount>
+  <stage>lead</stage>
+  <probability>10</probability>
+  <closeDate>2025-12-23</closeDate>
+  <contact>
+    <name>Joseph Hayes</name>
+    <email>lucius.schaden45@hotmail.com</email>
+    <phone>296.632.1897</phone>
+    <company>Marquardt LLC</company>
+    <title>Corporate Infrastructure Director</title>
   </contact>
   <activities>
     <type>demo</type>
     <date>2025-08-28</date>
-    <notes>Ipsum crepusculum canis.</notes>
+    <notes>Consectetur tendo bellum perspiciatis thesaurus carpo defero tenax tripudio chirographum.</notes>
   </activities>
   <activities>
     <type>email</type>
+    <date>2025-09-17</date>
+    <notes>Ter distinctio asper ademptio vir solus attollo vinco.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-08-10</date>
+    <notes>Stella vacuus denego vindico.</notes>
+  </activities>
+  <createdAt>2025-08-10T01:21:56.090Z</createdAt>
+  <updatedAt>2025-09-24T19:06:08.179Z</updatedAt>
+</data>
+<data>
+  <id>D00032</id>
+  <name>O&apos;Connell - Runolfsdottir - Handmade Silk Cheese</name>
+  <amount>475824</amount>
+  <stage>qualified</stage>
+  <probability>36</probability>
+  <closeDate>2026-01-04</closeDate>
+  <contact>
+    <name>Jeannette Konopelski</name>
+    <email>willie_russel@gmail.com</email>
+    <phone>715-935-9545 x9745</phone>
+    <company>Gutmann - Daniel</company>
+    <title>Corporate Usability Executive</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-19</date>
+    <notes>Ubi aperio valde subiungo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-03</date>
+    <notes>Circumvenio terebro dolorum caries agnosco molestias temporibus curriculum nihil combibo.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-16</date>
+    <notes>Audacia adamo solio deserunt quo demitto antiquus adfero.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-05-29</date>
+    <notes>Aeger adhaero ventosus textilis appositus ratione corrumpo.</notes>
+  </activities>
+  <createdAt>2025-05-29T01:32:36.344Z</createdAt>
+  <updatedAt>2025-06-20T04:41:02.345Z</updatedAt>
+</data>
+<data>
+  <id>D00033</id>
+  <name>Hirthe and Sons - Practical Granite Pants</name>
+  <amount>50447</amount>
+  <stage>proposal</stage>
+  <probability>44</probability>
+  <closeDate>2025-11-28</closeDate>
+  <contact>
+    <name>Charlene Schamberger</name>
+    <email>estel_rodriguez99@yahoo.com</email>
+    <phone>1-509-987-9281</phone>
+    <company>Monahan Group</company>
+    <title>International Integration Facilitator</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-08-01</date>
+    <notes>Corporis laboriosam voluptatum adinventitias tum arceo textor accommodo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-07-26</date>
+    <notes>Confero totus tres tardus vesica vicissitudo aestus quisquam soluta vigilo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-24</date>
+    <notes>Adulatio volutabrum cura considero demergo viscus audeo utilis pectus creo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-30</date>
+    <notes>Natus tutis cornu conspergo armarium conculco.</notes>
+  </activities>
+  <createdAt>2025-07-18T01:10:00.216Z</createdAt>
+  <updatedAt>2025-10-02T18:42:24.338Z</updatedAt>
+</data>
+<data>
+  <id>D00034</id>
+  <name>Bashirian - Berge - Gorgeous Granite Cheese</name>
+  <amount>26083</amount>
+  <stage>negotiation</stage>
+  <probability>61</probability>
+  <closeDate>2025-11-25</closeDate>
+  <contact>
+    <name>Terrance McLaughlin</name>
+    <email>william_roob@yahoo.com</email>
+    <phone>(355) 919-6831 x927</phone>
+    <company>Boehm, Lemke and Bogan</company>
+    <title>Forward Markets Planner</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-09-30</date>
+    <notes>Adhuc confugo ancilla volutabrum aut argumentum tergo aliquid.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-07</date>
+    <notes>Aer quod thema.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-06</date>
+    <notes>Benigne cumque brevis cum tametsi rem cur decens.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-03</date>
+    <notes>Cura anser vorago perferendis colligo ubi.</notes>
+  </activities>
+  <createdAt>2025-09-30T04:15:40.229Z</createdAt>
+  <updatedAt>2025-10-08T02:42:32.341Z</updatedAt>
+</data>
+<data>
+  <id>D00035</id>
+  <name>Orn - Schimmel - Bespoke Plastic Chair</name>
+  <amount>135182</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-12-26</closeDate>
+  <contact>
+    <name>Ella Pouros</name>
+    <email>maximillia.collier6@gmail.com</email>
+    <phone>718.931.5622</phone>
+    <company>Daugherty Inc</company>
+    <title>Customer Identity Strategist</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-11-05</date>
+    <notes>Amissio considero occaecati natus adopto.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-11-05</date>
+    <notes>Quod theologus odio aequitas utpote ancilla conturbo admitto aufero omnis.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-11-05</date>
+    <notes>Expedita crastinus aestivus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-05</date>
+    <notes>Valde xiphias adsum.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-11-05</date>
+    <notes>Ubi acer crapula veritatis dignissimos.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-05</date>
+    <notes>Video deduco asper suus socius corrupti neque surgo.</notes>
+  </activities>
+  <createdAt>2025-11-04T21:05:50.869Z</createdAt>
+  <updatedAt>2025-11-06T05:04:59.274Z</updatedAt>
+</data>
+<data>
+  <id>D00036</id>
+  <name>Kirlin LLC - Awesome Cotton Computer</name>
+  <amount>293398</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2026-01-27</closeDate>
+  <contact>
+    <name>Jesse McDermott</name>
+    <email>talia_kautzer90@hotmail.com</email>
+    <phone>229.810.3053 x9497</phone>
+    <company>Hauck, Mraz and Rau</company>
+    <title>Central Paradigm Producer</title>
+  </contact>
+  <activities>
+    <type>call</type>
     <date>2025-08-24</date>
-    <notes>Solum illo acer.</notes>
-  </activities>
-  <activities>
-    <type>demo</type>
-    <date>2025-08-08</date>
-    <notes>Deripio ter tres.</notes>
-  </activities>
-  <activities>
-    <type>demo</type>
-    <date>2025-09-10</date>
-    <notes>Vesco supplanto suadeo aequitas uter voro comprehendo repudiandae.</notes>
+    <notes>Adipiscor comitatus ater theca adnuo stillicidium crebro trans vulpes nostrum.</notes>
   </activities>
   <activities>
     <type>call</type>
-    <date>2025-08-31</date>
-    <notes>Subiungo surgo nobis voveo itaque auditor verumtamen cubicularis vado.</notes>
-  </activities>
-  <activities>
-    <type>call</type>
-    <date>2025-09-10</date>
-    <notes>Deripio damnatio infit articulus viduo consequuntur.</notes>
+    <date>2025-06-09</date>
+    <notes>Vitiosus theca acerbitas ago derelinquo.</notes>
   </activities>
   <activities>
     <type>meeting</type>
-    <date>2025-08-02</date>
-    <notes>Ars terra comprehendo qui aspicio tero tendo tergiversatio adversus.</notes>
+    <date>2025-07-21</date>
+    <notes>Vel saepe adflicto laborum illum deleo beatus thesis.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-09</date>
+    <notes>Suffragium sufficio cerno sub aetas.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-17</date>
+    <notes>Tergeo subiungo demoror supellex tamisium aequitas venia admitto tepidus.</notes>
   </activities>
   <activities>
     <type>email</type>
-    <date>2025-09-12</date>
-    <notes>Vero virgo votum ambitus velit aveho artificiose tui.</notes>
+    <date>2025-09-29</date>
+    <notes>Sollers comes soleo vinco baiulus tenuis solus.</notes>
   </activities>
-  <createdAt>2025-07-05T00:17:50.710Z</createdAt>
-  <updatedAt>2025-09-17T19:07:38.163Z</updatedAt>
+  <createdAt>2025-06-04T21:34:42.118Z</createdAt>
+  <updatedAt>2025-09-30T15:43:18.774Z</updatedAt>
+</data>
+<data>
+  <id>D00037</id>
+  <name>Johnston, Hahn and Casper - Bespoke Concrete Pizza</name>
+  <amount>482923</amount>
+  <stage>lead</stage>
+  <probability>5</probability>
+  <closeDate>2025-11-12</closeDate>
+  <contact>
+    <name>Ivan Gulgowski I</name>
+    <email>jillian_feest@yahoo.com</email>
+    <phone>(603) 407-2370</phone>
+    <company>Buckridge - Haley</company>
+    <title>National Security Administrator</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-03</date>
+    <notes>Virgo contabesco carus super vulpes canonicus.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-17</date>
+    <notes>Spero abscido velut vero audio infit sufficio urbs.</notes>
+  </activities>
+  <createdAt>2025-05-20T05:18:14.184Z</createdAt>
+  <updatedAt>2025-10-16T20:32:25.677Z</updatedAt>
+</data>
+<data>
+  <id>D00038</id>
+  <name>Kuvalis Group - Soft Marble Soap</name>
+  <amount>493956</amount>
+  <stage>qualified</stage>
+  <probability>39</probability>
+  <closeDate>2025-11-08</closeDate>
+  <contact>
+    <name>Jackie Kerluke</name>
+    <email>adrien55@hotmail.com</email>
+    <phone>551.593.5842</phone>
+    <company>Lehner - Considine</company>
+    <title>Forward Paradigm Liaison</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-08-18</date>
+    <notes>Vulticulus verto nesciunt.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-03</date>
+    <notes>Degusto iste aegrus demo talus currus ter crapula trans.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-09-13</date>
+    <notes>Advoco sono cenaculum comprehendo similique astrum volup.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-14</date>
+    <notes>Vinum cras auctor.</notes>
+  </activities>
+  <createdAt>2025-08-13T01:07:09.243Z</createdAt>
+  <updatedAt>2025-09-22T05:44:17.008Z</updatedAt>
+</data>
+<data>
+  <id>D00039</id>
+  <name>Lakin and Sons - Elegant Granite Chicken</name>
+  <amount>403714</amount>
+  <stage>proposal</stage>
+  <probability>54</probability>
+  <closeDate>2025-12-30</closeDate>
+  <contact>
+    <name>Jessica Powlowski</name>
+    <email>tillman11@gmail.com</email>
+    <phone>1-434-309-7406 x09246</phone>
+    <company>Simonis - Konopelski</company>
+    <title>Corporate Interactions Administrator</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-11-04</date>
+    <notes>Subseco beatae provident acer ad torqueo vir.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-11-02</date>
+    <notes>Universe via brevis.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-04</date>
+    <notes>Alter arcesso vulnero terminatio comburo armarium impedit defessus inventore depopulo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-04</date>
+    <notes>Centum suus calcar succedo.</notes>
+  </activities>
+  <createdAt>2025-11-02T11:43:01.533Z</createdAt>
+  <updatedAt>2025-11-04T23:48:27.675Z</updatedAt>
+</data>
+<data>
+  <id>D00040</id>
+  <name>Beatty Group - Frozen Granite Gloves</name>
+  <amount>189516</amount>
+  <stage>negotiation</stage>
+  <probability>71</probability>
+  <closeDate>2026-01-25</closeDate>
+  <contact>
+    <name>Fredrick Langworth</name>
+    <email>koby_becker66@gmail.com</email>
+    <phone>216.724.9493 x5633</phone>
+    <company>Waelchi - Lockman</company>
+    <title>Corporate Data Associate</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-21</date>
+    <notes>Utrimque aggero similique depraedor coma sodalitas aureus consuasor aspicio cornu.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-08-17</date>
+    <notes>Earum vix candidus earum suppellex.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-07-14</date>
+    <notes>Capto repudiandae hic recusandae auctus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-29</date>
+    <notes>Molestias advenio vestrum appono currus tamisium suffoco rerum verto.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-08-07</date>
+    <notes>Talus suggero demens facere solutio tandem clam victus amet.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-08-26</date>
+    <notes>Aetas vel confido cruentus verbum at tabula usque statim tolero.</notes>
+  </activities>
+  <createdAt>2025-07-13T15:06:58.069Z</createdAt>
+  <updatedAt>2025-09-20T10:58:06.109Z</updatedAt>
+</data>
+<data>
+  <id>D00041</id>
+  <name>Stark - Crona - Frozen Cotton Ball</name>
+  <amount>110947</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-12-02</closeDate>
+  <contact>
+    <name>Elvira Gerlach</name>
+    <email>flavio.terry55@hotmail.com</email>
+    <phone>716.790.4299 x6381</phone>
+    <company>Funk, Kerluke and Conn</company>
+    <title>Corporate Communications Representative</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-06-24</date>
+    <notes>Ad damnatio summisse totidem spiritus alius.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-09</date>
+    <notes>Bellicus tenus vox spiculum villa territo iste conspergo tener.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-19</date>
+    <notes>Defetiscor apostolus crastinus ater via.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-27</date>
+    <notes>Patria clibanus victus substantia rem speciosus cupiditas.</notes>
+  </activities>
+  <createdAt>2025-06-18T05:06:21.726Z</createdAt>
+  <updatedAt>2025-08-11T10:56:01.722Z</updatedAt>
+</data>
+<data>
+  <id>D00042</id>
+  <name>Wunsch, Huels and Bosco - Oriental Bronze Car</name>
+  <amount>238003</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2026-01-09</closeDate>
+  <contact>
+    <name>Ms. Barbara Johns</name>
+    <email>tyshawn93@gmail.com</email>
+    <phone>359.323.0048 x5600</phone>
+    <company>Reinger - Balistreri</company>
+    <title>Chief Markets Specialist</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-06-15</date>
+    <notes>Delectus barba sortitus molestias nulla thesaurus vapulus ipsum.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-21</date>
+    <notes>Suscipio crustulum vilicus corporis patruus traho spes soleo.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-15</date>
+    <notes>Terminatio doloremque tredecim cotidie absens vere vigor censura.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-06-19</date>
+    <notes>Sollers carbo abundans voluptatibus pax abundans adfero adulatio tonsor pecco.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-15</date>
+    <notes>Neque aranea cribro.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-20</date>
+    <notes>Cerno laborum balbus volubilis defero basium vilicus ducimus.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-06-22</date>
+    <notes>Absque aduro comparo.</notes>
+  </activities>
+  <createdAt>2025-06-14T15:53:49.222Z</createdAt>
+  <updatedAt>2025-06-30T08:01:02.756Z</updatedAt>
+</data>
+<data>
+  <id>D00043</id>
+  <name>Turner, Kovacek and McGlynn - Licensed Bamboo Chips</name>
+  <amount>188661</amount>
+  <stage>lead</stage>
+  <probability>11</probability>
+  <closeDate>2026-02-01</closeDate>
+  <contact>
+    <name>Sherry Daugherty DDS</name>
+    <email>ian_cassin-dickens11@hotmail.com</email>
+    <phone>(917) 341-9642 x553</phone>
+    <company>Bradtke, Johnson and Johnston</company>
+    <title>Lead Creative Supervisor</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-08-22</date>
+    <notes>Autem terminatio solus delinquo.</notes>
+  </activities>
+  <createdAt>2025-08-13T10:28:44.176Z</createdAt>
+  <updatedAt>2025-08-26T18:40:56.959Z</updatedAt>
+</data>
+<data>
+  <id>D00044</id>
+  <name>Lind - Wehner - Licensed Silk Chips</name>
+  <amount>178288</amount>
+  <stage>qualified</stage>
+  <probability>31</probability>
+  <closeDate>2025-11-25</closeDate>
+  <contact>
+    <name>Mr. Tim Wehner</name>
+    <email>nya_marvin@yahoo.com</email>
+    <phone>634-542-2481 x389</phone>
+    <company>Franecki - Wisoky</company>
+    <title>Central Security Engineer</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-08-01</date>
+    <notes>Occaecati agnosco peior architecto vicinus vestrum velum super vehemens.</notes>
+  </activities>
+  <createdAt>2025-07-26T13:34:39.216Z</createdAt>
+  <updatedAt>2025-09-13T15:51:07.978Z</updatedAt>
+</data>
+<data>
+  <id>D00045</id>
+  <name>Harvey - Haley - Small Rubber Hat</name>
+  <amount>419064</amount>
+  <stage>proposal</stage>
+  <probability>56</probability>
+  <closeDate>2026-01-08</closeDate>
+  <contact>
+    <name>Leticia Anderson</name>
+    <email>roxanne.jacobi79@gmail.com</email>
+    <phone>(402) 334-7527 x919</phone>
+    <company>Friesen and Sons</company>
+    <title>Customer Creative Developer</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-07-27</date>
+    <notes>Admiratio aeneus statim ex utor.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-29</date>
+    <notes>Adopto vicinus arguo vox ante tam.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-06</date>
+    <notes>Autus subnecto cubo video audio.</notes>
+  </activities>
+  <createdAt>2025-07-06T09:20:19.924Z</createdAt>
+  <updatedAt>2025-08-15T13:03:58.189Z</updatedAt>
+</data>
+<data>
+  <id>D00046</id>
+  <name>Considine, Hermiston and Ortiz - Handcrafted Bronze Computer</name>
+  <amount>313107</amount>
+  <stage>negotiation</stage>
+  <probability>65</probability>
+  <closeDate>2026-01-09</closeDate>
+  <contact>
+    <name>Dr. Rosemarie Toy</name>
+    <email>theresia19@gmail.com</email>
+    <phone>268.614.5817 x8555</phone>
+    <company>Rogahn - Jast</company>
+    <title>District Markets Strategist</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-10-23</date>
+    <notes>Excepturi beneficium summa canonicus comburo aut delego.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-11</date>
+    <notes>Deorsum undique expedita aestivus teres libero vomica traho.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-18</date>
+    <notes>Dapifer adimpleo acsi.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-07</date>
+    <notes>Patruus amicitia magni comes vomer confero bos iure alter numquam.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-06</date>
+    <notes>Curis absconditus collum approbo agnitio voluptas spiritus vaco suscipio.</notes>
+  </activities>
+  <createdAt>2025-10-02T14:03:08.531Z</createdAt>
+  <updatedAt>2025-10-26T11:58:40.219Z</updatedAt>
+</data>
+<data>
+  <id>D00047</id>
+  <name>Streich - Wunsch - Gorgeous Cotton Cheese</name>
+  <amount>360470</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-11-13</closeDate>
+  <contact>
+    <name>Darryl Hagenes-Larkin</name>
+    <email>kelley_williamson82@gmail.com</email>
+    <phone>1-288-512-3168 x05696</phone>
+    <company>Carroll, Bechtelar and Hayes</company>
+    <title>Regional Brand Designer</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-08-05</date>
+    <notes>Accusamus vis talis contra.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-07-22</date>
+    <notes>Tolero accommodo catena antepono causa accusator tribuo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-05-31</date>
+    <notes>Decens supplanto advoco truculenter.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-14</date>
+    <notes>Decerno voluntarius dicta labore utique conforto cariosus utilis.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-01</date>
+    <notes>Substantia conicio auctor.</notes>
+  </activities>
+  <createdAt>2025-05-30T15:45:50.237Z</createdAt>
+  <updatedAt>2025-10-21T10:08:30.565Z</updatedAt>
+</data>
+<data>
+  <id>D00048</id>
+  <name>Koss, Heathcote and Vandervort - Intelligent Metal Shoes</name>
+  <amount>30433</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2026-02-01</closeDate>
+  <contact>
+    <name>Sheldon Lemke</name>
+    <email>giovani6@yahoo.com</email>
+    <phone>975.925.4219 x797</phone>
+    <company>Mosciski - Schamberger</company>
+    <title>Forward Solutions Designer</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-11-06</date>
+    <notes>Constans vomer antepono alii bardus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-11-06</date>
+    <notes>Vulpes casus denuncio cernuus ustilo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-11-06</date>
+    <notes>Acceptus vilicus tribuo impedit.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-06</date>
+    <notes>Umerus theologus comminor tempora antea deputo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-06</date>
+    <notes>Vicinus curiositas teneo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-11-06</date>
+    <notes>Cursim vita arto assumenda vesica ventus amita.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-06</date>
+    <notes>Illo abundans timidus amplexus antiquus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-11-06</date>
+    <notes>Astrum tantum doloremque benigne utroque eaque minima asporto creber sui.</notes>
+  </activities>
+  <createdAt>2025-11-06T05:34:45.659Z</createdAt>
+  <updatedAt>2025-11-07T00:38:07.959Z</updatedAt>
+</data>
+<data>
+  <id>D00049</id>
+  <name>Kemmer - Shields - Refined Ceramic Car</name>
+  <amount>470371</amount>
+  <stage>lead</stage>
+  <probability>18</probability>
+  <closeDate>2026-01-14</closeDate>
+  <contact>
+    <name>Delia Wuckert</name>
+    <email>riley.koepp@yahoo.com</email>
+    <phone>1-907-788-2991 x6684</phone>
+    <company>Howell LLC</company>
+    <title>Customer Metrics Supervisor</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-08-13</date>
+    <notes>Audentia distinctio cibus subiungo culpo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-26</date>
+    <notes>Reprehenderit caries earum coruscus vomer varietas bestia universe.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-08-18</date>
+    <notes>Cuppedia textor vicissitudo.</notes>
+  </activities>
+  <createdAt>2025-07-15T15:55:17.494Z</createdAt>
+  <updatedAt>2025-09-14T12:38:59.838Z</updatedAt>
+</data>
+<data>
+  <id>D00050</id>
+  <name>Beahan Group - Rustic Metal Table</name>
+  <amount>321415</amount>
+  <stage>qualified</stage>
+  <probability>30</probability>
+  <closeDate>2026-01-06</closeDate>
+  <contact>
+    <name>Wendell O&apos;Hara</name>
+    <email>waino18@yahoo.com</email>
+    <phone>(423) 445-1701</phone>
+    <company>Kutch Group</company>
+    <title>National Division Representative</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-07-21</date>
+    <notes>Utpote conservo suasoria teneo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-09</date>
+    <notes>Sufficio vitium theologus demitto atavus abstergo sufficio error.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-07</date>
+    <notes>Corpus suus thorax cresco animi veritas admitto solus adstringo.</notes>
+  </activities>
+  <createdAt>2025-05-30T11:24:32.761Z</createdAt>
+  <updatedAt>2025-10-22T23:25:31.769Z</updatedAt>
+</data>
+<data>
+  <id>D00051</id>
+  <name>Hagenes - Hermiston - Soft Ceramic Shoes</name>
+  <amount>352681</amount>
+  <stage>proposal</stage>
+  <probability>59</probability>
+  <closeDate>2026-01-01</closeDate>
+  <contact>
+    <name>Marian Hodkiewicz PhD</name>
+    <email>carter_west24@yahoo.com</email>
+    <phone>(952) 880-8468 x395</phone>
+    <company>Krajcik - Kling</company>
+    <title>National Operations Coordinator</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-11-05</date>
+    <notes>Balbus demoror ut taedium terreo spargo magnam cenaculum denuo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-15</date>
+    <notes>Dicta comis claudeo tibi thymbra sui volutabrum velit pecco adeo.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-07</date>
+    <notes>Sollers confido aestivus capio thorax thesaurus substantia utroque.</notes>
+  </activities>
+  <createdAt>2025-09-08T21:39:58.681Z</createdAt>
+  <updatedAt>2025-11-06T00:39:53.394Z</updatedAt>
+</data>
+<data>
+  <id>D00052</id>
+  <name>Jenkins, Larson and Herzog - Handmade Metal Cheese</name>
+  <amount>236268</amount>
+  <stage>negotiation</stage>
+  <probability>68</probability>
+  <closeDate>2025-11-22</closeDate>
+  <contact>
+    <name>Hope Heidenreich Sr.</name>
+    <email>okey89@hotmail.com</email>
+    <phone>(312) 725-6211 x20962</phone>
+    <company>Koelpin - Runolfsdottir</company>
+    <title>National Factors Consultant</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-09-27</date>
+    <notes>Turbo adduco creptio.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-19</date>
+    <notes>Utrum desolo patria claro illo deprimo.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-24</date>
+    <notes>Curto sint circumvenio.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-02</date>
+    <notes>Apud summisse coaegresco beatus valde alias cohibeo calculus depromo reprehenderit.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-19</date>
+    <notes>Suppellex terror sponte templum timor talis.</notes>
+  </activities>
+  <createdAt>2025-09-15T07:17:09.431Z</createdAt>
+  <updatedAt>2025-10-07T15:38:02.010Z</updatedAt>
+</data>
+<data>
+  <id>D00053</id>
+  <name>Lueilwitz, Lehner and Kling - Fresh Aluminum Fish</name>
+  <amount>246131</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2026-01-28</closeDate>
+  <contact>
+    <name>Carmen Macejkovic</name>
+    <email>omari11@gmail.com</email>
+    <phone>(618) 945-3748 x3376</phone>
+    <company>Turcotte and Sons</company>
+    <title>Investor Solutions Planner</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-20</date>
+    <notes>Sopor celo thymum taceo omnis angulus.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-02</date>
+    <notes>Alo sulum articulus pauci alias pectus tum.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-07</date>
+    <notes>Civitas surgo coerceo aliquid capitulus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-11</date>
+    <notes>Uxor absum torrens tabernus aspernatur.</notes>
+  </activities>
+  <createdAt>2025-05-20T18:05:33.505Z</createdAt>
+  <updatedAt>2025-06-25T04:13:55.977Z</updatedAt>
+</data>
+<data>
+  <id>D00054</id>
+  <name>Towne, Weimann and Dach - Awesome Rubber Computer</name>
+  <amount>128709</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2026-01-27</closeDate>
+  <contact>
+    <name>Josephine Wisozk</name>
+    <email>meaghan.friesen@gmail.com</email>
+    <phone>476-675-3599 x9098</phone>
+    <company>Bahringer Inc</company>
+    <title>Internal Solutions Administrator</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-09-24</date>
+    <notes>Beatae utor laborum non tolero utique magnam caveo stultus.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-28</date>
+    <notes>Approbo aestivus vociferor trucido amicitia bis ad suppellex crinis deporto.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-08-07</date>
+    <notes>Audentia viridis atrox depraedor arma statua officiis civis qui audax.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-07</date>
+    <notes>Ustulo qui clarus summopere tenax utrimque curiositas vester solutio.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-06-18</date>
+    <notes>Vindico cur carmen velum arbitro vestrum vitae cometes voro auxilium.</notes>
+  </activities>
+  <createdAt>2025-05-11T22:57:38.051Z</createdAt>
+  <updatedAt>2025-10-23T09:12:09.561Z</updatedAt>
+</data>
+<data>
+  <id>D00055</id>
+  <name>Fahey - Wolff - Licensed Wooden Table</name>
+  <amount>166664</amount>
+  <stage>lead</stage>
+  <probability>10</probability>
+  <closeDate>2025-12-26</closeDate>
+  <contact>
+    <name>Heidi Ward</name>
+    <email>madalyn49@gmail.com</email>
+    <phone>769.437.4703</phone>
+    <company>Goldner and Sons</company>
+    <title>Direct Web Officer</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-09-08</date>
+    <notes>Caecus aequus suscipio pax.</notes>
+  </activities>
+  <createdAt>2025-06-02T04:35:12.024Z</createdAt>
+  <updatedAt>2025-10-28T01:10:40.176Z</updatedAt>
+</data>
+<data>
+  <id>D00056</id>
+  <name>Dach, Spencer and Bruen - Ergonomic Metal Hat</name>
+  <amount>21374</amount>
+  <stage>qualified</stage>
+  <probability>27</probability>
+  <closeDate>2026-01-21</closeDate>
+  <contact>
+    <name>Iris Keebler II</name>
+    <email>josefa35@hotmail.com</email>
+    <phone>(228) 554-2040</phone>
+    <company>Howe and Sons</company>
+    <title>Product Infrastructure Producer</title>
+  </contact>
+  <activities>
+    <type>call</type>
+    <date>2025-05-21</date>
+    <notes>Comedo tristis abundans subiungo sono aureus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-05-17</date>
+    <notes>Vado cedo traho volva thesaurus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-05-24</date>
+    <notes>Antea quisquam vulgo labore stultus consequatur expedita callide ducimus.</notes>
+  </activities>
+  <createdAt>2025-05-13T17:29:37.958Z</createdAt>
+  <updatedAt>2025-09-10T04:19:12.875Z</updatedAt>
+</data>
+<data>
+  <id>D00057</id>
+  <name>Schaefer, Gusikowski and Kuvalis - Incredible Bamboo Fish</name>
+  <amount>478084</amount>
+  <stage>proposal</stage>
+  <probability>60</probability>
+  <closeDate>2025-11-15</closeDate>
+  <contact>
+    <name>Lance Powlowski</name>
+    <email>raina.mckenzie@hotmail.com</email>
+    <phone>1-315-626-0979 x95218</phone>
+    <company>Champlin and Sons</company>
+    <title>International Metrics Supervisor</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-07-21</date>
+    <notes>Solum aveho utrum conculco.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-14</date>
+    <notes>Cariosus corrumpo adflicto pecus ater amplus suadeo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-07-06</date>
+    <notes>Solvo modi adfectus cursus unde.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-08-23</date>
+    <notes>Utilis crur colo.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-06-21</date>
+    <notes>Aveho dolorum coepi aspernatur defluo eveniet vinco.</notes>
+  </activities>
+  <createdAt>2025-06-01T04:03:45.318Z</createdAt>
+  <updatedAt>2025-11-04T10:25:07.498Z</updatedAt>
+</data>
+<data>
+  <id>D00058</id>
+  <name>Feil, Cruickshank and Marquardt - Incredible Metal Cheese</name>
+  <amount>400795</amount>
+  <stage>negotiation</stage>
+  <probability>73</probability>
+  <closeDate>2026-01-19</closeDate>
+  <contact>
+    <name>Brenda Deckow</name>
+    <email>charles.kovacek@hotmail.com</email>
+    <phone>1-534-403-6567</phone>
+    <company>Hansen, Nicolas and Feil</company>
+    <title>Central Metrics Developer</title>
+  </contact>
+  <activities>
+    <type>demo</type>
+    <date>2025-09-23</date>
+    <notes>Conspergo versus annus suppellex deprecator audacia.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-09-26</date>
+    <notes>Vigor vulariter tredecim viduo vigor adulescens thalassinus barba.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-09-29</date>
+    <notes>Corrupti sub demo quod nihil.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-09-28</date>
+    <notes>Decimus curtus stultus.</notes>
+  </activities>
+  <createdAt>2025-09-09T15:41:07.798Z</createdAt>
+  <updatedAt>2025-09-30T18:15:23.038Z</updatedAt>
+</data>
+<data>
+  <id>D00059</id>
+  <name>Brakus - Wuckert - Bespoke Plastic Salad</name>
+  <amount>85600</amount>
+  <stage>closed-won</stage>
+  <probability>100</probability>
+  <closeDate>2025-12-06</closeDate>
+  <contact>
+    <name>Miss Martha Green</name>
+    <email>june67@yahoo.com</email>
+    <phone>(919) 649-3029 x5226</phone>
+    <company>Pfeffer, Pfeffer and Kub</company>
+    <title>Senior Tactics Administrator</title>
+  </contact>
+  <activities>
+    <type>email</type>
+    <date>2025-09-16</date>
+    <notes>Campana credo strenuus placeat supellex hic antiquus solio.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-28</date>
+    <notes>Volo amplitudo vinculum audio capio talus.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-09-24</date>
+    <notes>Quo abbas vindico.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-19</date>
+    <notes>Tabella virtus taedium accusator veniam curo a coepi bellicus.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-09-19</date>
+    <notes>Speculum agnosco cubicularis communis vero volutabrum necessitatibus astrum succedo.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-14</date>
+    <notes>Taedium ubi acervus aveho.</notes>
+  </activities>
+  <createdAt>2025-09-13T09:17:20.643Z</createdAt>
+  <updatedAt>2025-10-30T08:49:54.789Z</updatedAt>
+</data>
+<data>
+  <id>D00060</id>
+  <name>Koelpin Group - Unbranded Metal Salad</name>
+  <amount>118015</amount>
+  <stage>closed-lost</stage>
+  <probability>0</probability>
+  <closeDate>2025-11-20</closeDate>
+  <contact>
+    <name>Julius Corwin</name>
+    <email>darren_fay@yahoo.com</email>
+    <phone>(643) 596-1418 x0666</phone>
+    <company>Koss, Mayer and Schamberger</company>
+    <title>Corporate Operations Producer</title>
+  </contact>
+  <activities>
+    <type>meeting</type>
+    <date>2025-10-02</date>
+    <notes>Appello comminor animi.</notes>
+  </activities>
+  <activities>
+    <type>call</type>
+    <date>2025-10-01</date>
+    <notes>Adficio adeo celebrer adipisci.</notes>
+  </activities>
+  <activities>
+    <type>meeting</type>
+    <date>2025-09-30</date>
+    <notes>Carcer tantum ustulo.</notes>
+  </activities>
+  <activities>
+    <type>email</type>
+    <date>2025-10-01</date>
+    <notes>Facilis cultellus sollicito aurum speciosus tristis clementia.</notes>
+  </activities>
+  <activities>
+    <type>demo</type>
+    <date>2025-10-01</date>
+    <notes>Angelus vinitor canonicus temporibus demoror curriculum deripio.</notes>
+  </activities>
+  <createdAt>2025-09-29T21:55:47.507Z</createdAt>
+  <updatedAt>2025-10-03T19:59:56.478Z</updatedAt>
 </data>

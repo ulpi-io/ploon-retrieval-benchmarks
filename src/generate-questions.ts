@@ -420,19 +420,16 @@ function generateProductsQuestions(data: Product[]): Question[] {
   }
 
   // 2. Category + Price combinations
-  for (const category of categories.slice(0, Math.min(3, filteringCount - filterCount))) {
-    for (const combo of QUESTION_THRESHOLDS['products'].categoryPriceCombos.slice(0, Math.min(3, filteringCount - filterCount))) {
-      const count = data.filter(p => p.category === category && p.basePrice > combo.price).length
-      questions.push({
-        id: `q${idCounter++}`,
-        prompt: `How many ${category} products cost more than $${combo.price}?`,
-        groundTruth: String(count),
-        type: 'filtering',
-        dataset: 'products',
-      })
-      filterCount++
-      if (filterCount >= filteringCount) break
-    }
+  for (const combo of QUESTION_THRESHOLDS['products'].categoryPriceCombos.slice(0, filteringCount - filterCount)) {
+    const count = data.filter(p => p.category === combo.category && p.basePrice > combo.price).length
+    questions.push({
+      id: `q${idCounter++}`,
+      prompt: `How many ${combo.category} products cost more than $${combo.price}?`,
+      groundTruth: String(count),
+      type: 'filtering',
+      dataset: 'products',
+    })
+    filterCount++
     if (filterCount >= filteringCount) break
   }
 

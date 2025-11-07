@@ -1,77 +1,370 @@
-[root#12](amount|closeDate|createdAt|id|name|probability|stage|updatedAt|activities#2(date|notes|type)|contact{company|email|name|phone|title})
+[root#60](amount|closeDate|createdAt|id|name|probability|stage|updatedAt|activities#1(date|notes|type)|contact{company|email|name|phone|title})
 
-1:1|179799|2025-11-21|2025-08-26T18:36:44.083Z|D00001|Reichert Inc - Fantastic Rubber Table|11|lead|2025-10-16T09:22:55.370Z
-2:1|2025-09-15|Tenuis tubineus vapulus traho tepesco utor nulla aurum termes campana.|call
-2:2|2025-09-05|Ventosus excepturi sed voco acsi cattus.|email
-2 |Price LLC|hiram.langosh@yahoo.com|Mr. Brendan Bins|542-863-7344 x1366|Internal Brand Orchestrator
-1:2|328865|2026-01-02|2025-06-28T19:54:34.441Z|D00002|Johnson - Powlowski - Gorgeous Rubber Gloves|38|qualified|2025-07-23T12:49:23.628Z
-2:1|2025-07-09|Crinis suffoco bonus.|meeting
-2:2|2025-07-23|Auditor subiungo apud solvo ea alius aurum arguo patrocinor modi.|email
-2:3|2025-07-05|Aut capitulus adamo villa thema.|meeting
-2 |Torphy Inc|myron.schneider9@hotmail.com|Bonnie Farrell|1-591-326-2827 x3508|Regional Division Liaison
-1:3|182945|2025-12-16|2025-07-03T09:47:01.567Z|D00003|Barton - Bayer - Refined Ceramic Computer|58|proposal|2025-08-24T23:58:03.340Z
-2:1|2025-07-21|Volup tot tibi cogo thalassinus.|demo
-2:2|2025-08-18|Debeo verbum vulnus.|demo
-2:3|2025-08-19|Colligo copiose conqueror amplitudo.|call
-2:4|2025-08-08|Comprehendo pectus commodi animi valde admiratio adicio tempore.|demo
-2 |Osinski Inc|joanne.block@hotmail.com|Wilbert Conroy-Bailey DVM|378-541-6427 x7856|International Web Liaison
-1:4|20515|2026-01-22|2025-08-06T23:06:31.666Z|D00004|Bartell\, Towne and Prohaska - Handcrafted Bronze Keyboard|80|negotiation|2025-09-22T14:55:56.713Z
-2:1|2025-09-04|Urbs quos carus celo stipes.|call
-2:2|2025-09-01|Studio soleo quae cedo deduco auditor calcar tersus uxor.|meeting
-2:3|2025-08-24|Supplanto delectus synagoga accusantium cicuta.|email
-2:4|2025-08-26|Ut damno deporto aestas temporibus caute ea tener venustas.|meeting
-2:5|2025-09-14|Cetera qui adimpleo cupiditate earum cernuus ocer collum tam omnis.|email
-2 |Konopelski and Sons|jefferey58@yahoo.com|Lindsey Paucek|(659) 884-8844 x13598|National Interactions Administrator
-1:5|44886|2026-01-17|2025-10-12T16:45:02.632Z|D00005|Mante Group - Frozen Steel Shirt|100|closed-won|2025-10-31T07:29:21.686Z
-2:1|2025-10-31|Sollicito terga depromo aestas pecto speculum deprimo admoveo arguo constans.|call
-2:2|2025-10-18|Appono conculco delego alii synagoga illum valeo ventosus volo.|call
-2:3|2025-10-20|Avaritia ab attollo carus reprehenderit spoliatio volva.|email
-2:4|2025-10-25|Auxilium thesis cursus.|demo
-2:5|2025-10-16|Aedificium tristis caput adfectus utpote adimpleo unde cura talus.|call
-2:6|2025-10-26|Arceo sollicito conturbo certe ascisco explicabo totam ulterius.|meeting
-2 |Ziemann - Erdman|desmond_romaguera71@yahoo.com|Dr. Hugo Bahringer Jr.|1-243-794-6597 x4414|Corporate Accounts Executive
-1:6|370253|2025-12-16|2025-06-10T04:26:30.682Z|D00006|Runolfsson\, Cassin and Schmitt - Licensed Steel Ball|0|closed-lost|2025-09-20T14:55:39.509Z
-2:1|2025-08-28|Ambitus nobis toties cado somnus clam bellum.|email
-2:2|2025-09-03|Trans inflammatio tot.|email
-2:3|2025-07-24|Nostrum molestiae tergum terra.|call
-2:4|2025-07-13|Laudantium sol celo triumphus careo ocer verbum.|call
-2:5|2025-06-30|Suffoco theca defungo aequitas sol spiritus victus cariosus ratione.|demo
-2 |Braun - Ortiz|adele56@gmail.com|Rachael Sanford|1-711-370-4610|Product Research Facilitator
-1:7|375905|2026-02-04|2025-07-30T18:04:58.849Z|D00007|Zboncak - Jones - Luxurious Bamboo Tuna|19|lead|2025-10-02T19:04:02.002Z
-2:1|2025-08-13|Teneo taceo comminor civitas caveo communis verumtamen.|call
-2:2|2025-08-08|Tabesco curiositas decet coruscus exercitationem constans dapifer speculum iste terreo.|email
-2:3|2025-08-11|Defungo libero tredecim benevolentia totidem audax crur benigne.|call
-2 |Osinski - Gibson|ray_kihn78@yahoo.com|Ruben Reichert-Nienow|(927) 527-0588|Corporate Usability Coordinator
-1:8|338702|2025-11-07|2025-10-30T14:47:27.510Z|D00008|Hammes\, Keebler and Connelly - Licensed Bronze Sausages|34|qualified|2025-11-02T00:39:17.552Z
-2:1|2025-10-30|Amplitudo pariatur tendo careo casso alii.|demo
-2:2|2025-10-31|Creta colo surculus venustas vulgaris.|call
-2:3|2025-10-31|Solutio casus adfectus rem argentum stultus stipes coerceo.|email
-2 |Marquardt\, O'Keefe and Lesch|ellis59@gmail.com|Dr. Chester Raynor|826.560.8716 x4199|Corporate Applications Executive
-1:9|12667|2025-11-22|2025-09-05T10:27:21.541Z|D00009|Pouros\, Jerde and Spencer - Fantastic Aluminum Computer|40|proposal|2025-09-06T05:28:09.033Z
-2:1|2025-09-06|Trans adhuc ducimus repellendus cerno.|demo
-2:2|2025-09-06|Alius socius iusto asperiores suspendo commodi speciosus bardus apto ex.|demo
-2 |Hayes and Sons|beau89@hotmail.com|Brad Jenkins I|918.768.5283 x03237|Product Metrics Coordinator
-1:10|494339|2025-11-21|2025-05-28T02:13:26.968Z|D00010|Williamson\, Bartell and Schimmel - Incredible Ceramic Shoes|63|negotiation|2025-11-02T04:58:57.483Z
-2:1|2025-08-29|Absens utpote asperiores vos tertius tantum exercitationem thymbra.|call
-2:2|2025-09-04|Admoneo necessitatibus ait terminatio cariosus substantia.|meeting
-2:3|2025-08-21|Vinitor perspiciatis socius aufero auxilium ait vicinus.|email
-2:4|2025-10-13|Uterque vigilo tutis viriliter canto derideo modi beatus.|email
-2 |Leuschke Group|mylene.parisian75@gmail.com|Minnie Franecki|593.763.6540 x945|National Quality Supervisor
-1:11|241078|2026-01-05|2025-06-15T18:04:58.510Z|D00011|VonRueden - Prohaska - Bespoke Steel Hat|100|closed-won|2025-10-19T07:29:33.721Z
-2:1|2025-06-25|Cerno cotidie abutor tutis alo copia illo officiis cogo.|email
-2:2|2025-09-24|Curvo tenuis sunt tumultus sto audio argumentum cetera esse umquam.|demo
-2:3|2025-09-22|Approbo amita ad audacia dolores temperantia terminatio.|demo
-2:4|2025-07-06|Aufero adfectus sollicito claustrum tamen umerus.|meeting
-2:5|2025-09-14|Claustrum vita suffoco aveho complectus uxor.|meeting
-2:6|2025-06-26|Claudeo cornu bonus validus tamisium acidus umbra ubi autus constans.|demo
-2 |Hills - Runte|torrey_runolfsdottir@gmail.com|Randall Steuber|1-552-646-4558 x87974|Global Branding Technician
-1:12|387682|2026-01-13|2025-07-05T00:17:50.710Z|D00012|Kautzer Group - Tasty Granite Pants|0|closed-lost|2025-09-17T19:07:38.163Z
-2:1|2025-08-28|Ipsum crepusculum canis.|demo
-2:2|2025-08-24|Solum illo acer.|email
-2:3|2025-08-08|Deripio ter tres.|demo
-2:4|2025-09-10|Vesco supplanto suadeo aequitas uter voro comprehendo repudiandae.|demo
-2:5|2025-08-31|Subiungo surgo nobis voveo itaque auditor verumtamen cubicularis vado.|call
-2:6|2025-09-10|Deripio damnatio infit articulus viduo consequuntur.|call
-2:7|2025-08-02|Ars terra comprehendo qui aspicio tero tendo tergiversatio adversus.|meeting
-2:8|2025-09-12|Vero virgo votum ambitus velit aveho artificiose tui.|email
-2 |Reichert Group|nolan_huels@gmail.com|Courtney Price|272.588.1101 x03730|Product Branding Planner
+1:1|86453|2025-11-25|2025-07-20T01:03:31.451Z|D00001|Witting Group - Gorgeous Granite Towels|13|lead|2025-09-01T06:51:28.339Z
+2:1|2025-08-13|Aduro tubineus vulgus dolorum cupressus textilis suasoria provident.|call
+2 |Kovacek\, Schmidt and Mohr|cleo8@yahoo.com|Josefina Welch|614.299.8218 x279|Customer Response Executive
+1:2|474824|2025-11-16|2025-05-30T02:16:42.288Z|D00002|Beier - Gottlieb - Bespoke Bronze Car|21|qualified|2025-05-30T19:54:03.062Z
+2:1|2025-05-30|Damnatio vinum timidus sum terminatio corona.|call
+2 |Hintz Group|mafalda.satterfield@yahoo.com|Bernard Terry|818.267.8169 x392|National Integration Executive
+1:3|255738|2026-01-19|2025-10-23T00:28:20.748Z|D00003|Hammes\, Predovic and Leannon - Licensed Plastic Soap|41|proposal|2025-10-26T12:59:17.404Z
+2:1|2025-10-23|Veniam patria suadeo.|meeting
+2:2|2025-10-23|Amicitia vero bellum tener vulgo abstergo abundans.|call
+2:3|2025-10-23|Damnatio odio aufero sponte vaco calamitas dens.|email
+2:4|2025-10-25|Patior argentum cilicium quaerat abscido uredo.|call
+2 |Padberg Group|caroline_fisher22@hotmail.com|Sandy Pouros|1-337-442-1574|Direct Accountability Agent
+1:4|132363|2025-12-05|2025-05-22T18:39:53.624Z|D00004|King - Brown - Frozen Marble Chips|79|negotiation|2025-06-27T20:16:44.781Z
+2:1|2025-06-22|Conduco odio suppellex velit creo vehemens.|call
+2:2|2025-06-11|Stipes clementia adsum.|call
+2:3|2025-06-14|Conduco arguo libero.|email
+2:4|2025-06-07|Desidero videlicet vix debilito.|call
+2:5|2025-05-25|Xiphias subiungo infit decumbo.|demo
+2 |Pfannerstill\, Huel and Brekke|ethel_macgyver95@yahoo.com|Mr. Max Kerluke-Hodkiewicz|314-935-0469 x3752|International Operations Supervisor
+1:5|274169|2025-12-11|2025-09-13T02:23:20.897Z|D00005|Corwin LLC - Incredible Bronze Salad|100|closed-won|2025-10-13T23:35:55.531Z
+2:1|2025-10-07|Possimus amo debeo trans despecto coniuratio cur volva catena.|call
+2:2|2025-10-08|Tandem hic aufero attollo.|meeting
+2:3|2025-09-18|Recusandae solus termes super ullam aestus creo eaque teneo tunc.|demo
+2:4|2025-09-21|Sono quasi votum.|meeting
+2:5|2025-09-19|Cresco utrimque tamen vos denique perspiciatis stabilis.|call
+2:6|2025-09-13|Cibus cultura appello timor pauper admoveo tergum reprehenderit.|meeting
+2:7|2025-10-07|Deputo solitudo delectatio animi sapiente viridis utor damno clam.|demo
+2 |Treutel\, Schaden and Gerlach|daniela.auer26@hotmail.com|Lillie Ebert|975-421-4671 x36061|Corporate Interactions Agent
+1:6|123444|2025-11-30|2025-09-17T07:07:38.789Z|D00006|Hane - Wilderman - Soft Wooden Cheese|0|closed-lost|2025-10-14T14:21:32.845Z
+2:1|2025-10-01|Est viscus desipio dicta clementia candidus ventito chirographum apparatus.|call
+2:2|2025-09-28|Vulariter conatus suffragium auctor tametsi quam claro.|email
+2:3|2025-09-24|Arceo deleniti aedificium virga distinctio speciosus bonus.|call
+2:4|2025-10-12|Quos sulum magnam.|call
+2:5|2025-10-11|Fugiat deripio vereor speciosus amor comitatus conqueror utpote sunt.|meeting
+2:6|2025-09-24|Agnitio delectus coniuratio decumbo.|meeting
+2:7|2025-10-11|Carcer valeo adopto neque somniculosus.|email
+2 |Vandervort\, Goldner and Muller|kadin_fadel@hotmail.com|Dr. Geoffrey Balistreri|(330) 887-6608 x3371|Central Assurance Associate
+1:7|420758|2025-11-27|2025-05-19T09:54:40.515Z|D00007|Purdy\, Macejkovic and Hoppe - Recycled Rubber Shoes|15|lead|2025-11-06T12:49:17.337Z
+2:1|2025-08-04|Acquiro utrimque theca.|demo
+2 |O'Keefe - Conn|jedidiah_ratke@yahoo.com|Lynne Mayer|411.224.1977|Lead Infrastructure Designer
+1:8|324000|2026-01-13|2025-10-30T11:16:47.063Z|D00008|Bosco\, Parisian and Baumbach - Recycled Steel Shoes|38|qualified|2025-10-31T23:52:51.888Z
+2:1|2025-10-31|Delicate magni tabernus accedo creo argumentum decor victus.|demo
+2 |Quigley and Sons|eli_metz-fadel@gmail.com|Clark Ryan|275-224-3239 x18122|Internal Response Analyst
+1:9|76852|2026-01-30|2025-07-03T04:52:22.241Z|D00009|Kshlerin Inc - Soft Metal Soap|43|proposal|2025-07-15T19:04:41.226Z
+2:1|2025-07-12|Blandior deporto laudantium tergum amplexus enim corrigo ter.|call
+2:2|2025-07-05|Curia aperte ago.|email
+2:3|2025-07-07|Teres cetera texo sui speciosus certe validus.|meeting
+2 |Dietrich - McGlynn|hazle_herzog@yahoo.com|Clyde Yundt|447-815-4630 x495|Chief Optimization Manager
+1:10|442969|2025-11-15|2025-07-16T20:49:49.766Z|D00010|Turcotte Inc - Bespoke Ceramic Shirt|69|negotiation|2025-08-22T17:35:22.283Z
+2:1|2025-08-03|Vobis omnis comptus infit.|demo
+2:2|2025-08-18|Centum est cito pecco occaecati tamen.|meeting
+2:3|2025-08-10|Candidus enim blanditiis succedo nisi pecus tamen.|meeting
+2 |Weber LLC|brittany_weissnat@gmail.com|Lela Moore|1-993-360-9969 x3651|Lead Communications Director
+1:11|24071|2025-11-09|2025-11-02T22:24:06.810Z|D00011|Prohaska Inc - Refined Aluminum Bike|100|closed-won|2025-11-06T12:19:07.043Z
+2:1|2025-11-04|Trado odit quas tollo curtus.|meeting
+2:2|2025-11-03|Cenaculum vero infit tres statim thesaurus.|call
+2:3|2025-11-06|Utroque aqua amissio vulariter omnis pax verus.|call
+2:4|2025-11-03|Est solvo volup calculus cupiditas rem canis.|email
+2:5|2025-11-03|Ustulo cariosus convoco turbo valde.|call
+2:6|2025-11-05|Constans minus vesica repellat deorsum creber argumentum damnatio.|email
+2:7|2025-11-03|Totus summa cauda patior voluptatem thesis.|call
+2 |Reinger\, Romaguera and Ebert|isaias.cummerata97@hotmail.com|Kurt Prosacco III|711.798.3758 x61243|Corporate Marketing Specialist
+1:12|152452|2025-11-27|2025-07-13T12:37:39.333Z|D00012|Koss Group - Unbranded Aluminum Sausages|0|closed-lost|2025-11-02T20:08:11.657Z
+2:1|2025-09-02|Reprehenderit demergo repellat supplanto similique approbo vomica tenuis.|call
+2:2|2025-08-07|Caecus blanditiis adipisci vero altus.|call
+2:3|2025-10-14|Abstergo animi compello.|meeting
+2:4|2025-09-14|Acidus dedico vinculum armarium tergiversatio conicio dolorum.|call
+2:5|2025-09-01|Vallum adipiscor texo labore conduco.|demo
+2:6|2025-10-19|Ventito repellendus vaco verumtamen id decumbo.|meeting
+2:7|2025-10-20|Confero voluptatum commemoro.|email
+2 |Marvin - Lakin|alexane88@hotmail.com|Charles McLaughlin|1-345-321-5133|Central Tactics Agent
+1:13|474375|2025-11-20|2025-07-10T02:34:25.675Z|D00013|Murazik\, Baumbach and Marquardt - Soft Bronze Soap|18|lead|2025-07-20T20:48:25.845Z
+2:1|2025-07-16|Caelestis villa crux ultra valeo supellex depulso ventosus.|call
+2:2|2025-07-18|Sperno stabilis tactus voluptatum votum.|call
+2 |Kunze\, Predovic and Okuneva|helga_russel@gmail.com|Patti Turner-Wisozk|866-977-3971 x83825|Chief Division Administrator
+1:14|163376|2026-02-05|2025-10-28T07:14:58.724Z|D00014|Streich - Corkery - Fresh Rubber Hat|37|qualified|2025-11-06T16:58:39.199Z
+2:1|2025-11-01|Campana solutio peior benevolentia comes adimpleo ustulo volo textus.|call
+2:2|2025-10-31|Tricesimus villa cubitum ubi deduco dolorum tabella maiores deprimo facere.|call
+2:3|2025-10-31|Cribro patruus amissio angustus.|meeting
+2 |Pouros\, Rodriguez and Okuneva|ora.stroman95@gmail.com|Fredrick Goldner|308-327-8017 x904|Senior Creative Associate
+1:15|236415|2025-12-22|2025-06-30T22:36:45.927Z|D00015|Bergnaum\, Nader and Moore - Soft Ceramic Towels|51|proposal|2025-09-05T04:48:52.611Z
+2:1|2025-08-27|Thorax illum exercitationem cedo consequatur vito defendo deorsum utrum cohaero.|demo
+2:2|2025-08-14|Combibo tardus terra viridis termes aut.|demo
+2 |Greenholt\, Wuckert and Connelly|zander_nolan@gmail.com|Ann Fritsch|(906) 884-9296 x9116|Dynamic Accounts Supervisor
+1:16|395651|2026-01-09|2025-05-22T06:29:24.418Z|D00016|Heathcote\, Grant and Rolfson - Elegant Cotton Computer|61|negotiation|2025-06-16T09:15:01.654Z
+2:1|2025-06-11|Tersus comes vesco xiphias tremo vitae quidem uredo.|meeting
+2:2|2025-06-02|Vilitas placeat pectus talio.|email
+2:3|2025-06-02|Textor venio abstergo consectetur sollicito atrox.|email
+2:4|2025-06-06|Vita cupio derelinquo desino tres conitor degusto delinquo sufficio.|call
+2:5|2025-06-10|Titulus commemoro aspernatur accusamus soleo aureus repellendus paens celebrer amitto.|call
+2 |Schultz\, Sporer and Rutherford|daniela37@hotmail.com|Pat Waelchi|752.287.3447 x87448|Corporate Intranet Coordinator
+1:17|356902|2025-12-29|2025-10-09T01:26:25.863Z|D00017|Sauer\, O'Conner and Hansen - Sleek Bronze Bike|100|closed-won|2025-11-06T22:24:41.297Z
+2:1|2025-10-18|Vulticulus bibo quos contego carcer conicio corroboro argentum uxor.|meeting
+2:2|2025-10-30|Degero amissio vociferor vinitor sunt qui tergum velociter curso.|demo
+2:3|2025-11-04|Suffoco damno porro consequatur amet spoliatio umquam ait.|demo
+2:4|2025-10-10|Vir comptus solvo.|call
+2:5|2025-10-19|Derelinquo arcus suffragium cornu congregatio suadeo corrupti approbo contra desino.|call
+2:6|2025-10-20|Animi versus cultura alo truculenter.|meeting
+2 |Dach LLC|litzy.raynor71@hotmail.com|Felipe Lind V|461.305.9474 x8064|Internal Implementation Specialist
+1:18|304337|2025-12-16|2025-05-25T05:22:15.203Z|D00018|Waters and Sons - Elegant Marble Shoes|0|closed-lost|2025-09-15T18:49:46.685Z
+2:1|2025-08-04|Sopor curatio civitas stabilis.|meeting
+2:2|2025-07-18|Ambulo spiculum valde annus cito cetera stultus.|meeting
+2:3|2025-07-05|Voveo quaerat praesentium delectatio.|call
+2:4|2025-06-01|Argumentum iste tunc suppono exercitationem ante assumenda demergo valeo succurro.|meeting
+2:5|2025-06-30|Conspergo autus autem suppellex textus quidem bene conforto voluptatibus absconditus.|email
+2 |Lang\, Hills and Dickinson|jessica.abernathy73@yahoo.com|Erik Dibbert|(798) 843-3692 x15242|Direct Group Analyst
+1:19|211168|2025-12-26|2025-06-11T05:26:16.877Z|D00019|Waters Inc - Small Bamboo Chair|15|lead|2025-09-12T14:31:18.496Z
+2:1|2025-08-21|Articulus terga civitas tum debilito defungo sollicito.|call
+2 |Hamill - Ledner|allen_leuschke@hotmail.com|Ron Quigley|796-958-9605 x47965|Principal Accounts Manager
+1:20|398408|2025-12-22|2025-08-10T06:42:39.046Z|D00020|Ernser\, Emard and Balistreri - Small Marble Chicken|40|qualified|2025-10-15T03:07:59.471Z
+2:1|2025-09-30|Tepidus similique civitas vetus curvo spiculum curvo aggredior color sit.|meeting
+2:2|2025-09-25|Vesco occaecati turpis aperte voluptates.|demo
+2:3|2025-09-17|Cariosus strenuus urbanus error cum agnosco utpote impedit ara volo.|demo
+2 |Hane Group|daija.bashirian49@yahoo.com|Devin Cormier|1-651-419-9328 x704|Investor Factors Assistant
+1:21|149580|2025-12-11|2025-09-10T03:11:02.193Z|D00021|Schroeder LLC - Fresh Gold Salad|53|proposal|2025-11-04T17:00:32.411Z
+2:1|2025-09-13|Argentum thymbra cito enim dedecor.|call
+2:2|2025-10-19|Cui vulgo pauci adhaero facere vinco tenax venustas.|meeting
+2:3|2025-10-25|Atqui cumque administratio decens consequatur urbanus umerus degusto crapula.|meeting
+2 |Kirlin and Sons|jeanette85@hotmail.com|Timmy Raynor-Hyatt|(221) 638-1536 x21191|Dynamic Program Technician
+1:22|251488|2025-11-15|2025-10-05T06:55:29.808Z|D00022|Oberbrunner - Veum - Handmade Marble Car|63|negotiation|2025-10-31T17:39:42.635Z
+2:1|2025-10-10|Cupiditate ademptio carcer supplanto ipsam creptio benevolentia consequuntur delego curatio.|call
+2:2|2025-10-29|Sol sollers vehemens eveniet.|email
+2:3|2025-10-18|Alioqui culpo aliquam dolor cruentus speciosus.|meeting
+2:4|2025-10-15|Corroboro votum animus cetera suppellex thalassinus conicio.|meeting
+2:5|2025-10-10|Versus paens carcer desolo allatus demonstro.|email
+2 |Hermiston LLC|ahmad.leuschke-rosenbaum@yahoo.com|Jaime Keebler|1-614-864-5054 x41615|Direct Integration Engineer
+1:23|147314|2025-11-10|2025-09-09T13:01:42.593Z|D00023|Sporer - Hammes - Frozen Silk Shirt|100|closed-won|2025-11-06T00:07:15.125Z
+2:1|2025-10-12|Cogo accusator verbum vesper stips cado deporto cras auctor.|call
+2:2|2025-09-17|Stipes explicabo verus.|demo
+2:3|2025-09-12|Cilicium aegrus facilis vulgo ipsum accedo tristis.|meeting
+2:4|2025-10-03|Amoveo a conforto.|email
+2:5|2025-10-17|Explicabo conturbo valetudo.|meeting
+2:6|2025-09-24|Vinculum arx attonbitus depereo tepesco aperio earum deleo.|call
+2:7|2025-09-10|Culpo depulso ager.|call
+2 |Wilderman - Hills|eusebio_wolff@yahoo.com|Peter Lang|(948) 703-8636 x6499|Lead Assurance Liaison
+1:24|102725|2025-12-24|2025-09-06T14:00:26.906Z|D00024|Altenwerth - Emard - Sleek Marble Hat|0|closed-lost|2025-10-02T17:57:32.129Z
+2:1|2025-09-09|Vinum tracto blanditiis appono undique callide iure dolorem.|demo
+2:2|2025-09-10|Coaegresco adfero decretum stabilis aureus aggredior caelestis arma.|demo
+2:3|2025-10-01|Allatus aegre velum angelus defluo charisma.|call
+2:4|2025-09-30|Atque ambulo acceptus sui carcer.|demo
+2:5|2025-09-21|Bibo cogito ducimus deficio tum caveo tardus curso suspendo.|demo
+2:6|2025-09-24|Accendo aperiam voluptatum sperno autus decet.|meeting
+2 |Sauer\, Dickinson and Jakubowski|bridget_cummings@gmail.com|Madeline Cole|290.900.6946|Dynamic Web Analyst
+1:25|228362|2026-02-02|2025-07-20T07:32:49.848Z|D00025|Collins\, Baumbach and Emard - Incredible Granite Shirt|13|lead|2025-10-13T08:12:55.045Z
+2:1|2025-08-03|Illo verecundia veniam vitae carmen thesaurus aperte callide casus.|email
+2:2|2025-09-20|Incidunt cometes xiphias corrigo valens curo unde volutabrum curis vomer.|demo
+2 |Champlin and Sons|ross_reichert@gmail.com|Conrad O'Hara|407-921-2106|Chief Implementation Liaison
+1:26|485387|2025-12-23|2025-09-10T23:34:27.813Z|D00026|Stiedemann - Stamm - Elegant Gold Shoes|23|qualified|2025-10-03T17:49:56.559Z
+2:1|2025-09-29|Cicuta absconditus pauci repellendus creber absorbeo.|call
+2:2|2025-09-21|Versus coaegresco stella vinitor auctus defungo.|meeting
+2:3|2025-09-25|Deprimo traho libero ustilo cura adficio.|demo
+2:4|2025-09-22|Dolorum theca tempore approbo sophismata appositus.|demo
+2 |Hyatt Group|magali.hermann@hotmail.com|Christian Gorczany|771.659.4789 x1421|National Response Coordinator
+1:27|366649|2026-02-04|2025-06-22T15:03:44.823Z|D00027|Jacobs\, Strosin and Kohler - Fantastic Marble Cheese|40|proposal|2025-06-25T01:32:43.635Z
+2:1|2025-06-23|Inventore calculus itaque adulatio vulariter.|demo
+2:2|2025-06-24|Uter debilito vesica.|meeting
+2:3|2025-06-23|Spes magni terebro stillicidium concedo dolore.|demo
+2:4|2025-06-24|Suggero nam vado cum tubineus vix corporis terror cornu condico.|call
+2 |O'Connell and Sons|lizeth.bechtelar@yahoo.com|Eileen Grimes|610.499.0376|Central Configuration Liaison
+1:28|136164|2025-11-14|2025-10-05T05:18:06.698Z|D00028|Cummings\, Murphy and Padberg - Fresh Ceramic Gloves|72|negotiation|2025-11-04T02:04:12.447Z
+2:1|2025-10-25|Cubicularis thorax terra caries cervus accommodo reprehenderit.|demo
+2:2|2025-10-16|Truculenter curriculum angelus ultra conitor conduco victoria aurum voluntarius conspergo.|demo
+2:3|2025-10-24|Attero paens terreo volo cursus aperio.|call
+2:4|2025-10-17|Enim bardus caecus deduco defero sponte triduana ancilla adeo sequi.|demo
+2:5|2025-10-18|Bis adeptio substantia sto tubineus aegre cohibeo custodia terebro nostrum.|demo
+2 |Howell\, Rohan and Powlowski|nickolas36@gmail.com|Lori Zemlak Jr.|389-670-6687|Dynamic Assurance Supervisor
+1:29|309707|2025-12-03|2025-05-23T22:44:29.702Z|D00029|Larkin\, Purdy and Hyatt - Fresh Bamboo Hat|100|closed-won|2025-07-10T09:23:12.834Z
+2:1|2025-06-14|Bestia patior debitis confugo vulgaris.|demo
+2:2|2025-07-08|Vito celer beneficium.|meeting
+2:3|2025-06-19|Enim asporto abutor vilis denuncio traho.|call
+2:4|2025-07-09|Calcar deleniti tutamen.|demo
+2:5|2025-06-10|Desolo cimentarius ocer solitudo accusamus tutis volup vinco atrocitas.|demo
+2:6|2025-06-07|Stella demergo coepi.|demo
+2 |Grady and Sons|genesis_kshlerin91@gmail.com|Tracey Hermiston|(559) 222-7109 x084|Central Markets Technician
+1:30|340713|2025-12-17|2025-07-25T06:35:29.453Z|D00030|Littel and Sons - Luxurious Concrete Ball|0|closed-lost|2025-09-03T23:38:49.322Z
+2:1|2025-08-18|Deficio vigilo cunae depono acervus.|email
+2:2|2025-07-27|Tabesco caste utroque studio velut defleo aetas cognatus vorago.|email
+2:3|2025-08-16|Amiculum velit arx creo viridis callide depromo decretum est commodo.|meeting
+2:4|2025-07-26|Debitis uxor coniuratio comedo.|email
+2:5|2025-08-01|Dolores comedo armarium.|meeting
+2:6|2025-08-13|Audeo consequuntur spero victoria candidus vitae suffragium.|meeting
+2:7|2025-08-07|Bibo quos vis aetas altus tener.|call
+2:8|2025-08-31|Vindico attero tubineus compello thalassinus velociter.|demo
+2 |Dicki Inc|kay.padberg25@yahoo.com|Andrew Williamson|800-589-1901 x147|Direct Markets Architect
+1:31|11535|2025-12-23|2025-08-10T01:21:56.090Z|D00031|Botsford - Berge - Sleek Marble Pants|10|lead|2025-09-24T19:06:08.179Z
+2:1|2025-08-28|Consectetur tendo bellum perspiciatis thesaurus carpo defero tenax tripudio chirographum.|demo
+2:2|2025-09-17|Ter distinctio asper ademptio vir solus attollo vinco.|email
+2:3|2025-08-10|Stella vacuus denego vindico.|email
+2 |Marquardt LLC|lucius.schaden45@hotmail.com|Joseph Hayes|296.632.1897|Corporate Infrastructure Director
+1:32|475824|2026-01-04|2025-05-29T01:32:36.344Z|D00032|O'Connell - Runolfsdottir - Handmade Silk Cheese|36|qualified|2025-06-20T04:41:02.345Z
+2:1|2025-06-19|Ubi aperio valde subiungo.|meeting
+2:2|2025-06-03|Circumvenio terebro dolorum caries agnosco molestias temporibus curriculum nihil combibo.|email
+2:3|2025-06-16|Audacia adamo solio deserunt quo demitto antiquus adfero.|demo
+2:4|2025-05-29|Aeger adhaero ventosus textilis appositus ratione corrumpo.|demo
+2 |Gutmann - Daniel|willie_russel@gmail.com|Jeannette Konopelski|715-935-9545 x9745|Corporate Usability Executive
+1:33|50447|2025-11-28|2025-07-18T01:10:00.216Z|D00033|Hirthe and Sons - Practical Granite Pants|44|proposal|2025-10-02T18:42:24.338Z
+2:1|2025-08-01|Corporis laboriosam voluptatum adinventitias tum arceo textor accommodo.|email
+2:2|2025-07-26|Confero totus tres tardus vesica vicissitudo aestus quisquam soluta vigilo.|call
+2:3|2025-09-24|Adulatio volutabrum cura considero demergo viscus audeo utilis pectus creo.|call
+2:4|2025-09-30|Natus tutis cornu conspergo armarium conculco.|call
+2 |Monahan Group|estel_rodriguez99@yahoo.com|Charlene Schamberger|1-509-987-9281|International Integration Facilitator
+1:34|26083|2025-11-25|2025-09-30T04:15:40.229Z|D00034|Bashirian - Berge - Gorgeous Granite Cheese|61|negotiation|2025-10-08T02:42:32.341Z
+2:1|2025-09-30|Adhuc confugo ancilla volutabrum aut argumentum tergo aliquid.|call
+2:2|2025-10-07|Aer quod thema.|email
+2:3|2025-10-06|Benigne cumque brevis cum tametsi rem cur decens.|call
+2:4|2025-10-03|Cura anser vorago perferendis colligo ubi.|email
+2 |Boehm\, Lemke and Bogan|william_roob@yahoo.com|Terrance McLaughlin|(355) 919-6831 x927|Forward Markets Planner
+1:35|135182|2025-12-26|2025-11-04T21:05:50.869Z|D00035|Orn - Schimmel - Bespoke Plastic Chair|100|closed-won|2025-11-06T05:04:59.274Z
+2:1|2025-11-05|Amissio considero occaecati natus adopto.|demo
+2:2|2025-11-05|Quod theologus odio aequitas utpote ancilla conturbo admitto aufero omnis.|demo
+2:3|2025-11-05|Expedita crastinus aestivus.|email
+2:4|2025-11-05|Valde xiphias adsum.|call
+2:5|2025-11-05|Ubi acer crapula veritatis dignissimos.|email
+2:6|2025-11-05|Video deduco asper suus socius corrupti neque surgo.|call
+2 |Daugherty Inc|maximillia.collier6@gmail.com|Ella Pouros|718.931.5622|Customer Identity Strategist
+1:36|293398|2026-01-27|2025-06-04T21:34:42.118Z|D00036|Kirlin LLC - Awesome Cotton Computer|0|closed-lost|2025-09-30T15:43:18.774Z
+2:1|2025-08-24|Adipiscor comitatus ater theca adnuo stillicidium crebro trans vulpes nostrum.|call
+2:2|2025-06-09|Vitiosus theca acerbitas ago derelinquo.|call
+2:3|2025-07-21|Vel saepe adflicto laborum illum deleo beatus thesis.|meeting
+2:4|2025-08-09|Suffragium sufficio cerno sub aetas.|meeting
+2:5|2025-06-17|Tergeo subiungo demoror supellex tamisium aequitas venia admitto tepidus.|meeting
+2:6|2025-09-29|Sollers comes soleo vinco baiulus tenuis solus.|email
+2 |Hauck\, Mraz and Rau|talia_kautzer90@hotmail.com|Jesse McDermott|229.810.3053 x9497|Central Paradigm Producer
+1:37|482923|2025-11-12|2025-05-20T05:18:14.184Z|D00037|Johnston\, Hahn and Casper - Bespoke Concrete Pizza|5|lead|2025-10-16T20:32:25.677Z
+2:1|2025-09-03|Virgo contabesco carus super vulpes canonicus.|demo
+2:2|2025-07-17|Spero abscido velut vero audio infit sufficio urbs.|email
+2 |Buckridge - Haley|jillian_feest@yahoo.com|Ivan Gulgowski I|(603) 407-2370|National Security Administrator
+1:38|493956|2025-11-08|2025-08-13T01:07:09.243Z|D00038|Kuvalis Group - Soft Marble Soap|39|qualified|2025-09-22T05:44:17.008Z
+2:1|2025-08-18|Vulticulus verto nesciunt.|call
+2:2|2025-09-03|Degusto iste aegrus demo talus currus ter crapula trans.|demo
+2:3|2025-09-13|Advoco sono cenaculum comprehendo similique astrum volup.|email
+2:4|2025-08-14|Vinum cras auctor.|meeting
+2 |Lehner - Considine|adrien55@hotmail.com|Jackie Kerluke|551.593.5842|Forward Paradigm Liaison
+1:39|403714|2025-12-30|2025-11-02T11:43:01.533Z|D00039|Lakin and Sons - Elegant Granite Chicken|54|proposal|2025-11-04T23:48:27.675Z
+2:1|2025-11-04|Subseco beatae provident acer ad torqueo vir.|demo
+2:2|2025-11-02|Universe via brevis.|email
+2:3|2025-11-04|Alter arcesso vulnero terminatio comburo armarium impedit defessus inventore depopulo.|call
+2:4|2025-11-04|Centum suus calcar succedo.|call
+2 |Simonis - Konopelski|tillman11@gmail.com|Jessica Powlowski|1-434-309-7406 x09246|Corporate Interactions Administrator
+1:40|189516|2026-01-25|2025-07-13T15:06:58.069Z|D00040|Beatty Group - Frozen Granite Gloves|71|negotiation|2025-09-20T10:58:06.109Z
+2:1|2025-08-21|Utrimque aggero similique depraedor coma sodalitas aureus consuasor aspicio cornu.|meeting
+2:2|2025-08-17|Earum vix candidus earum suppellex.|call
+2:3|2025-07-14|Capto repudiandae hic recusandae auctus.|demo
+2:4|2025-08-29|Molestias advenio vestrum appono currus tamisium suffoco rerum verto.|meeting
+2:5|2025-08-07|Talus suggero demens facere solutio tandem clam victus amet.|email
+2:6|2025-08-26|Aetas vel confido cruentus verbum at tabula usque statim tolero.|email
+2 |Waelchi - Lockman|koby_becker66@gmail.com|Fredrick Langworth|216.724.9493 x5633|Corporate Data Associate
+1:41|110947|2025-12-02|2025-06-18T05:06:21.726Z|D00041|Stark - Crona - Frozen Cotton Ball|100|closed-won|2025-08-11T10:56:01.722Z
+2:1|2025-06-24|Ad damnatio summisse totidem spiritus alius.|call
+2:2|2025-08-09|Bellicus tenus vox spiculum villa territo iste conspergo tener.|meeting
+2:3|2025-06-19|Defetiscor apostolus crastinus ater via.|demo
+2:4|2025-06-27|Patria clibanus victus substantia rem speciosus cupiditas.|call
+2 |Funk\, Kerluke and Conn|flavio.terry55@hotmail.com|Elvira Gerlach|716.790.4299 x6381|Corporate Communications Representative
+1:42|238003|2026-01-09|2025-06-14T15:53:49.222Z|D00042|Wunsch\, Huels and Bosco - Oriental Bronze Car|0|closed-lost|2025-06-30T08:01:02.756Z
+2:1|2025-06-15|Delectus barba sortitus molestias nulla thesaurus vapulus ipsum.|email
+2:2|2025-06-21|Suscipio crustulum vilicus corporis patruus traho spes soleo.|call
+2:3|2025-06-15|Terminatio doloremque tredecim cotidie absens vere vigor censura.|demo
+2:4|2025-06-19|Sollers carbo abundans voluptatibus pax abundans adfero adulatio tonsor pecco.|call
+2:5|2025-06-15|Neque aranea cribro.|email
+2:6|2025-06-20|Cerno laborum balbus volubilis defero basium vilicus ducimus.|email
+2:7|2025-06-22|Absque aduro comparo.|email
+2 |Reinger - Balistreri|tyshawn93@gmail.com|Ms. Barbara Johns|359.323.0048 x5600|Chief Markets Specialist
+1:43|188661|2026-02-01|2025-08-13T10:28:44.176Z|D00043|Turner\, Kovacek and McGlynn - Licensed Bamboo Chips|11|lead|2025-08-26T18:40:56.959Z
+2:1|2025-08-22|Autem terminatio solus delinquo.|email
+2 |Bradtke\, Johnson and Johnston|ian_cassin-dickens11@hotmail.com|Sherry Daugherty DDS|(917) 341-9642 x553|Lead Creative Supervisor
+1:44|178288|2025-11-25|2025-07-26T13:34:39.216Z|D00044|Lind - Wehner - Licensed Silk Chips|31|qualified|2025-09-13T15:51:07.978Z
+2:1|2025-08-01|Occaecati agnosco peior architecto vicinus vestrum velum super vehemens.|email
+2 |Franecki - Wisoky|nya_marvin@yahoo.com|Mr. Tim Wehner|634-542-2481 x389|Central Security Engineer
+1:45|419064|2026-01-08|2025-07-06T09:20:19.924Z|D00045|Harvey - Haley - Small Rubber Hat|56|proposal|2025-08-15T13:03:58.189Z
+2:1|2025-07-27|Admiratio aeneus statim ex utor.|meeting
+2:2|2025-07-29|Adopto vicinus arguo vox ante tam.|email
+2:3|2025-08-06|Autus subnecto cubo video audio.|meeting
+2 |Friesen and Sons|roxanne.jacobi79@gmail.com|Leticia Anderson|(402) 334-7527 x919|Customer Creative Developer
+1:46|313107|2026-01-09|2025-10-02T14:03:08.531Z|D00046|Considine\, Hermiston and Ortiz - Handcrafted Bronze Computer|65|negotiation|2025-10-26T11:58:40.219Z
+2:1|2025-10-23|Excepturi beneficium summa canonicus comburo aut delego.|email
+2:2|2025-10-11|Deorsum undique expedita aestivus teres libero vomica traho.|demo
+2:3|2025-10-18|Dapifer adimpleo acsi.|call
+2:4|2025-10-07|Patruus amicitia magni comes vomer confero bos iure alter numquam.|demo
+2:5|2025-10-06|Curis absconditus collum approbo agnitio voluptas spiritus vaco suscipio.|demo
+2 |Rogahn - Jast|theresia19@gmail.com|Dr. Rosemarie Toy|268.614.5817 x8555|District Markets Strategist
+1:47|360470|2025-11-13|2025-05-30T15:45:50.237Z|D00047|Streich - Wunsch - Gorgeous Cotton Cheese|100|closed-won|2025-10-21T10:08:30.565Z
+2:1|2025-08-05|Accusamus vis talis contra.|call
+2:2|2025-07-22|Tolero accommodo catena antepono causa accusator tribuo.|demo
+2:3|2025-05-31|Decens supplanto advoco truculenter.|call
+2:4|2025-09-14|Decerno voluntarius dicta labore utique conforto cariosus utilis.|meeting
+2:5|2025-09-01|Substantia conicio auctor.|meeting
+2 |Carroll\, Bechtelar and Hayes|kelley_williamson82@gmail.com|Darryl Hagenes-Larkin|1-288-512-3168 x05696|Regional Brand Designer
+1:48|30433|2026-02-01|2025-11-06T05:34:45.659Z|D00048|Koss\, Heathcote and Vandervort - Intelligent Metal Shoes|0|closed-lost|2025-11-07T00:38:07.959Z
+2:1|2025-11-06|Constans vomer antepono alii bardus.|call
+2:2|2025-11-06|Vulpes casus denuncio cernuus ustilo.|meeting
+2:3|2025-11-06|Acceptus vilicus tribuo impedit.|meeting
+2:4|2025-11-06|Umerus theologus comminor tempora antea deputo.|call
+2:5|2025-11-06|Vicinus curiositas teneo.|call
+2:6|2025-11-06|Cursim vita arto assumenda vesica ventus amita.|meeting
+2:7|2025-11-06|Illo abundans timidus amplexus antiquus.|call
+2:8|2025-11-06|Astrum tantum doloremque benigne utroque eaque minima asporto creber sui.|call
+2 |Mosciski - Schamberger|giovani6@yahoo.com|Sheldon Lemke|975.925.4219 x797|Forward Solutions Designer
+1:49|470371|2026-01-14|2025-07-15T15:55:17.494Z|D00049|Kemmer - Shields - Refined Ceramic Car|18|lead|2025-09-14T12:38:59.838Z
+2:1|2025-08-13|Audentia distinctio cibus subiungo culpo.|demo
+2:2|2025-07-26|Reprehenderit caries earum coruscus vomer varietas bestia universe.|email
+2:3|2025-08-18|Cuppedia textor vicissitudo.|call
+2 |Howell LLC|riley.koepp@yahoo.com|Delia Wuckert|1-907-788-2991 x6684|Customer Metrics Supervisor
+1:50|321415|2026-01-06|2025-05-30T11:24:32.761Z|D00050|Beahan Group - Rustic Metal Table|30|qualified|2025-10-22T23:25:31.769Z
+2:1|2025-07-21|Utpote conservo suasoria teneo.|meeting
+2:2|2025-07-09|Sufficio vitium theologus demitto atavus abstergo sufficio error.|email
+2:3|2025-09-07|Corpus suus thorax cresco animi veritas admitto solus adstringo.|call
+2 |Kutch Group|waino18@yahoo.com|Wendell O'Hara|(423) 445-1701|National Division Representative
+1:51|352681|2026-01-01|2025-09-08T21:39:58.681Z|D00051|Hagenes - Hermiston - Soft Ceramic Shoes|59|proposal|2025-11-06T00:39:53.394Z
+2:1|2025-11-05|Balbus demoror ut taedium terreo spargo magnam cenaculum denuo.|email
+2:2|2025-10-15|Dicta comis claudeo tibi thymbra sui volutabrum velit pecco adeo.|meeting
+2:3|2025-10-07|Sollers confido aestivus capio thorax thesaurus substantia utroque.|meeting
+2 |Krajcik - Kling|carter_west24@yahoo.com|Marian Hodkiewicz PhD|(952) 880-8468 x395|National Operations Coordinator
+1:52|236268|2025-11-22|2025-09-15T07:17:09.431Z|D00052|Jenkins\, Larson and Herzog - Handmade Metal Cheese|68|negotiation|2025-10-07T15:38:02.010Z
+2:1|2025-09-27|Turbo adduco creptio.|call
+2:2|2025-09-19|Utrum desolo patria claro illo deprimo.|meeting
+2:3|2025-09-24|Curto sint circumvenio.|call
+2:4|2025-10-02|Apud summisse coaegresco beatus valde alias cohibeo calculus depromo reprehenderit.|email
+2:5|2025-09-19|Suppellex terror sponte templum timor talis.|call
+2 |Koelpin - Runolfsdottir|okey89@hotmail.com|Hope Heidenreich Sr.|(312) 725-6211 x20962|National Factors Consultant
+1:53|246131|2026-01-28|2025-05-20T18:05:33.505Z|D00053|Lueilwitz\, Lehner and Kling - Fresh Aluminum Fish|100|closed-won|2025-06-25T04:13:55.977Z
+2:1|2025-06-20|Sopor celo thymum taceo omnis angulus.|meeting
+2:2|2025-06-02|Alo sulum articulus pauci alias pectus tum.|demo
+2:3|2025-06-07|Civitas surgo coerceo aliquid capitulus.|demo
+2:4|2025-06-11|Uxor absum torrens tabernus aspernatur.|meeting
+2 |Turcotte and Sons|omari11@gmail.com|Carmen Macejkovic|(618) 945-3748 x3376|Investor Solutions Planner
+1:54|128709|2026-01-27|2025-05-11T22:57:38.051Z|D00054|Towne\, Weimann and Dach - Awesome Rubber Computer|0|closed-lost|2025-10-23T09:12:09.561Z
+2:1|2025-09-24|Beatae utor laborum non tolero utique magnam caveo stultus.|email
+2:2|2025-09-28|Approbo aestivus vociferor trucido amicitia bis ad suppellex crinis deporto.|meeting
+2:3|2025-08-07|Audentia viridis atrox depraedor arma statua officiis civis qui audax.|email
+2:4|2025-08-07|Ustulo qui clarus summopere tenax utrimque curiositas vester solutio.|meeting
+2:5|2025-06-18|Vindico cur carmen velum arbitro vestrum vitae cometes voro auxilium.|meeting
+2 |Bahringer Inc|meaghan.friesen@gmail.com|Josephine Wisozk|476-675-3599 x9098|Internal Solutions Administrator
+1:55|166664|2025-12-26|2025-06-02T04:35:12.024Z|D00055|Fahey - Wolff - Licensed Wooden Table|10|lead|2025-10-28T01:10:40.176Z
+2:1|2025-09-08|Caecus aequus suscipio pax.|email
+2 |Goldner and Sons|madalyn49@gmail.com|Heidi Ward|769.437.4703|Direct Web Officer
+1:56|21374|2026-01-21|2025-05-13T17:29:37.958Z|D00056|Dach\, Spencer and Bruen - Ergonomic Metal Hat|27|qualified|2025-09-10T04:19:12.875Z
+2:1|2025-05-21|Comedo tristis abundans subiungo sono aureus.|call
+2:2|2025-05-17|Vado cedo traho volva thesaurus.|call
+2:3|2025-05-24|Antea quisquam vulgo labore stultus consequatur expedita callide ducimus.|call
+2 |Howe and Sons|josefa35@hotmail.com|Iris Keebler II|(228) 554-2040|Product Infrastructure Producer
+1:57|478084|2025-11-15|2025-06-01T04:03:45.318Z|D00057|Schaefer\, Gusikowski and Kuvalis - Incredible Bamboo Fish|60|proposal|2025-11-04T10:25:07.498Z
+2:1|2025-07-21|Solum aveho utrum conculco.|demo
+2:2|2025-06-14|Cariosus corrumpo adflicto pecus ater amplus suadeo.|demo
+2:3|2025-07-06|Solvo modi adfectus cursus unde.|email
+2:4|2025-08-23|Utilis crur colo.|meeting
+2:5|2025-06-21|Aveho dolorum coepi aspernatur defluo eveniet vinco.|demo
+2 |Champlin and Sons|raina.mckenzie@hotmail.com|Lance Powlowski|1-315-626-0979 x95218|International Metrics Supervisor
+1:58|400795|2026-01-19|2025-09-09T15:41:07.798Z|D00058|Feil\, Cruickshank and Marquardt - Incredible Metal Cheese|73|negotiation|2025-09-30T18:15:23.038Z
+2:1|2025-09-23|Conspergo versus annus suppellex deprecator audacia.|demo
+2:2|2025-09-26|Vigor vulariter tredecim viduo vigor adulescens thalassinus barba.|email
+2:3|2025-09-29|Corrupti sub demo quod nihil.|email
+2:4|2025-09-28|Decimus curtus stultus.|email
+2 |Hansen\, Nicolas and Feil|charles.kovacek@hotmail.com|Brenda Deckow|1-534-403-6567|Central Metrics Developer
+1:59|85600|2025-12-06|2025-09-13T09:17:20.643Z|D00059|Brakus - Wuckert - Bespoke Plastic Salad|100|closed-won|2025-10-30T08:49:54.789Z
+2:1|2025-09-16|Campana credo strenuus placeat supellex hic antiquus solio.|email
+2:2|2025-09-28|Volo amplitudo vinculum audio capio talus.|call
+2:3|2025-09-24|Quo abbas vindico.|email
+2:4|2025-09-19|Tabella virtus taedium accusator veniam curo a coepi bellicus.|call
+2:5|2025-09-19|Speculum agnosco cubicularis communis vero volutabrum necessitatibus astrum succedo.|call
+2:6|2025-10-14|Taedium ubi acervus aveho.|demo
+2 |Pfeffer\, Pfeffer and Kub|june67@yahoo.com|Miss Martha Green|(919) 649-3029 x5226|Senior Tactics Administrator
+1:60|118015|2025-11-20|2025-09-29T21:55:47.507Z|D00060|Koelpin Group - Unbranded Metal Salad|0|closed-lost|2025-10-03T19:59:56.478Z
+2:1|2025-10-02|Appello comminor animi.|meeting
+2:2|2025-10-01|Adficio adeo celebrer adipisci.|call
+2:3|2025-09-30|Carcer tantum ustulo.|meeting
+2:4|2025-10-01|Facilis cultellus sollicito aurum speciosus tristis clementia.|email
+2:5|2025-10-01|Angelus vinitor canonicus temporibus demoror curriculum deripio.|demo
+2 |Koss\, Mayer and Schamberger|darren_fay@yahoo.com|Julius Corwin|(643) 596-1418 x0666|Corporate Operations Producer

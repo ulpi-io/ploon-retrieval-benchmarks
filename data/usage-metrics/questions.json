@@ -2,14 +2,14 @@
   {
     "id": "q1",
     "prompt": "How many sessions did user 1 have on 2025-01-01?",
-    "groundTruth": "2",
+    "groundTruth": "8",
     "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q2",
     "prompt": "What was the engagement score for user 3 on 2025-01-03?",
-    "groundTruth": "27",
+    "groundTruth": "78",
     "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
@@ -23,63 +23,399 @@
   {
     "id": "q4",
     "prompt": "How many sessions did user 7 have on 2025-01-07?",
-    "groundTruth": "14",
+    "groundTruth": "6",
     "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q5",
     "prompt": "What was the engagement score for user 9 on 2025-01-09?",
-    "groundTruth": "85",
+    "groundTruth": "33",
     "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q6",
-    "prompt": "What is the total number of sessions across all records?",
-    "groundTruth": "137",
-    "type": "aggregation",
+    "prompt": "What plan was user 11 on for the session on 2025-01-11?",
+    "groundTruth": "pro",
+    "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q7",
-    "prompt": "What is the average engagement score?",
-    "groundTruth": "54",
-    "type": "aggregation",
+    "prompt": "How many sessions did user 13 have on 2025-01-13?",
+    "groundTruth": "1",
+    "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q8",
-    "prompt": "What is the total number of API calls?",
-    "groundTruth": "30684",
-    "type": "aggregation",
+    "prompt": "What was the engagement score for user 15 on 2025-01-15?",
+    "groundTruth": "61",
+    "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q9",
-    "prompt": "How many records are for free plan users?",
-    "groundTruth": "3",
-    "type": "aggregation",
+    "prompt": "What plan was user 17 on for the session on 2025-01-17?",
+    "groundTruth": "free",
+    "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q10",
-    "prompt": "How many free plan users had engagement scores above 50?",
-    "groundTruth": "2",
-    "type": "filtering",
+    "prompt": "How many sessions did user 19 have on 2025-01-19?",
+    "groundTruth": "6",
+    "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q11",
-    "prompt": "How many starter plan users had engagement scores above 60?",
-    "groundTruth": "0",
-    "type": "filtering",
+    "prompt": "What was the engagement score for user 21 on 2025-01-21?",
+    "groundTruth": "92",
+    "type": "field-retrieval",
     "dataset": "usage-metrics"
   },
   {
     "id": "q12",
+    "prompt": "What plan was user 23 on for the session on 2025-01-23?",
+    "groundTruth": "pro",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q13",
+    "prompt": "How many sessions did user 25 have on 2025-01-25?",
+    "groundTruth": "5",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q14",
+    "prompt": "What was the engagement score for user 27 on 2025-01-27?",
+    "groundTruth": "71",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q15",
+    "prompt": "What plan was user 29 on for the session on 2025-01-29?",
+    "groundTruth": "free",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q16",
+    "prompt": "How many sessions did user 31 have on 2025-01-31?",
+    "groundTruth": "20",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q17",
+    "prompt": "What was the engagement score for user 33 on 2025-02-02?",
+    "groundTruth": "21",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q18",
+    "prompt": "What plan was user 35 on for the session on 2025-02-04?",
+    "groundTruth": "pro",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q19",
+    "prompt": "How many sessions did user 37 have on 2025-02-06?",
+    "groundTruth": "10",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q20",
+    "prompt": "What was the engagement score for user 39 on 2025-02-08?",
+    "groundTruth": "87",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q21",
+    "prompt": "What plan was user 41 on for the session on 2025-02-10?",
+    "groundTruth": "free",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q22",
+    "prompt": "How many sessions did user 43 have on 2025-02-12?",
+    "groundTruth": "12",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q23",
+    "prompt": "What was the engagement score for user 45 on 2025-02-14?",
+    "groundTruth": "21",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q24",
+    "prompt": "What plan was user 47 on for the session on 2025-02-16?",
+    "groundTruth": "pro",
+    "type": "field-retrieval",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q25",
+    "prompt": "What is the total number of sessions across all records?",
+    "groundTruth": "610",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q26",
+    "prompt": "What is the average engagement score?",
+    "groundTruth": "62",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q27",
+    "prompt": "What is the total number of API calls?",
+    "groundTruth": "161432",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q28",
+    "prompt": "How many records are for free plan users?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q29",
+    "prompt": "How many records are for starter plan users?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q30",
+    "prompt": "How many records are for pro plan users?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q31",
+    "prompt": "How many records are for enterprise plan users?",
+    "groundTruth": "15",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q32",
+    "prompt": "How many sessions had more than 1 session count?",
+    "groundTruth": "58",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q33",
+    "prompt": "How many sessions had more than 3 session count?",
+    "groundTruth": "53",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q34",
+    "prompt": "How many sessions had more than 5 session count?",
+    "groundTruth": "42",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q35",
+    "prompt": "How many sessions had more than 7 session count?",
+    "groundTruth": "36",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q36",
+    "prompt": "How many sessions had more than 10 session count?",
+    "groundTruth": "22",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q37",
+    "prompt": "How many sessions had more than 15 session count?",
+    "groundTruth": "10",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q38",
+    "prompt": "How many records had engagement scores above 30?",
+    "groundTruth": "47",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q39",
+    "prompt": "How many records had engagement scores above 40?",
+    "groundTruth": "41",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q40",
+    "prompt": "How many records had engagement scores above 50?",
+    "groundTruth": "40",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q41",
+    "prompt": "How many records had engagement scores above 60?",
+    "groundTruth": "37",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q42",
+    "prompt": "How many records had engagement scores above 70?",
+    "groundTruth": "30",
+    "type": "aggregation",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q43",
+    "prompt": "How many free plan users had engagement scores above 50?",
+    "groundTruth": "4",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q44",
+    "prompt": "How many starter plan users had engagement scores above 60?",
+    "groundTruth": "9",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q45",
     "prompt": "How many pro plan users had engagement scores above 70?",
-    "groundTruth": "0",
+    "groundTruth": "10",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q46",
+    "prompt": "How many enterprise plan users had engagement scores above 80?",
+    "groundTruth": "6",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q47",
+    "prompt": "How many free plan users had engagement scores above 30?",
+    "groundTruth": "8",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q48",
+    "prompt": "How many starter plan users had engagement scores above 50?",
+    "groundTruth": "9",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q49",
+    "prompt": "How many records had engagement above 50 AND more than 10 API calls?",
+    "groundTruth": "40",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q50",
+    "prompt": "How many records had engagement above 60 AND more than 20 API calls?",
+    "groundTruth": "37",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q51",
+    "prompt": "How many records had engagement above 70 AND more than 50 API calls?",
+    "groundTruth": "23",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q52",
+    "prompt": "How many records had engagement above 80 AND more than 100 API calls?",
+    "groundTruth": "11",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q53",
+    "prompt": "How many sessions had engagement below 50 AND more than 1 errors?",
+    "groundTruth": "19",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q54",
+    "prompt": "How many sessions had engagement below 50 AND more than 3 errors?",
+    "groundTruth": "17",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q55",
+    "prompt": "How many sessions had engagement below 60 AND more than 1 errors?",
+    "groundTruth": "22",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q56",
+    "prompt": "How many sessions had engagement below 60 AND more than 3 errors?",
+    "groundTruth": "19",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q57",
+    "prompt": "How many sessions had engagement below 70 AND more than 1 errors?",
+    "groundTruth": "29",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q58",
+    "prompt": "How many sessions had engagement below 70 AND more than 3 errors?",
+    "groundTruth": "26",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q59",
+    "prompt": "How many free plan users had more than 10 API calls?",
+    "groundTruth": "12",
+    "type": "filtering",
+    "dataset": "usage-metrics"
+  },
+  {
+    "id": "q60",
+    "prompt": "How many free plan users had more than 20 API calls?",
+    "groundTruth": "10",
     "type": "filtering",
     "dataset": "usage-metrics"
   }

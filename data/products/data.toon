@@ -1,457 +1,2242 @@
-[12]:
+[60]:
   - id: P00001
-    name: Soft Bronze Gloves
+    name: Refined Rubber Salad
     category: Electronics
-    basePrice: 419.29
-    rating: 1.6
-    reviewCount: 345
-    tags[2]: bestseller,on-sale
-    colors[3]:
+    basePrice: 29.14
+    rating: 3.9
+    reviewCount: 290
+    tags[1]: on-sale
+    colors[4]:
       - name: Gray
         hex: #808080
-        sizes[4]{size,sku,inStock,price}:
-          M,SKU-9LZ08Q9X,51,422.68
-          XL,SKU-PNA0LUHS,41,429.34
-          XXL,SKU-WWPACAS0,8,426.89
-          S,SKU-9WVP8XYK,27,428.12
-      - name: Pink
-        hex: #FFC0CB
-        sizes[4]{size,sku,inStock,price}:
-          XL,SKU-CMTH1HIF,37,427.76
-          S,SKU-30SU8M28,46,434.85
-          XXL,SKU-7GZIGNI9,83,432.54
-          L,SKU-66D3ETCV,96,421.87
-      - name: Navy
-        hex: #000080
         sizes[6]{size,sku,inStock,price}:
-          S,SKU-4MV0A1J6,59,437.24
-          L,SKU-ARVIH1RT,87,419.39
-          XL,SKU-H0CQWA6V,38,435.83
-          XXL,SKU-LBNGP57H,50,431.63
-          M,SKU-6ZBUTWQB,2,434.65
-          XS,SKU-Y5R17IGS,12,430.55
+          XL,SKU-I8UD2B7B,78,46.49
+          S,SKU-CUBZD162,17,38.58
+          M,SKU-Y5A3LN0V,16,31.03
+          L,SKU-SRJSJME1,58,48.87
+          XS,SKU-S8P9JLYM,65,30.85
+          XXL,SKU-73XCVOVX,85,32.95
+      - name: Beige
+        hex: #F5F5DC
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-1SG8SZ9P,59,48.33
+          XXL,SKU-C5Q0O2R3,47,34.05
+          XS,SKU-YBOPBOLE,3,37.83
+          XL,SKU-GICJ8CP0,95,47.77
+          M,SKU-B57VNMD2,83,31.66
+          S,SKU-D0U3DJLA,86,34.56
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-659IUZSJ,13,42.9
+          S,SKU-16IRSK6G,19,31.3
+          XL,SKU-NAQUIQHA,96,29.87
+          L,SKU-7BVR3WAD,22,43.26
+          M,SKU-Q0UU7C8X,70,46.94
+          XXL,SKU-WGHLRUU5,23,30.33
+      - name: Green
+        hex: #008000
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-GLAJHMFL,51,47.64
+          S,SKU-VQYQH2DR,53,45.71
+          XS,SKU-N6Q2TALQ,89,42.53
+          XXL,SKU-Q4JD8EO1,66,46.78
+          L,SKU-0WG1HRTX,91,40
+          XL,SKU-XPO2VZBN,24,43.81
     dimensions:
-      width: 82.4
-      height: 23.3
-      depth: 59.9
-      weight: 36.07
-    createdAt: "2025-08-03T17:28:08.988Z"
-    updatedAt: "2025-09-28T12:49:34.865Z"
+      width: 99
+      height: 57.7
+      depth: 23
+      weight: 46.02
+    createdAt: "2024-12-14T22:10:18.140Z"
+    updatedAt: "2025-10-30T02:52:43.013Z"
   - id: P00002
-    name: Modern Plastic Salad
+    name: Handcrafted Aluminum Cheese
     category: Furniture
-    basePrice: 242.85
-    rating: 4.8
-    reviewCount: 442
-    tags[2]: bestseller,eco-friendly
-    colors[2]:
-      - name: Red
-        hex: #FF0000
-        sizes[5]{size,sku,inStock,price}:
-          XS,SKU-7EFYXZDY,59,248.69
-          M,SKU-A5GCIJ0A,16,252.87
-          L,SKU-8TPKP7OM,72,262.02
-          XL,SKU-3YENYU4I,18,245.9
-          XXL,SKU-W91HSK4D,26,243.86
-      - name: Brown
-        hex: #A52A2A
-        sizes[5]{size,sku,inStock,price}:
-          M,SKU-V2E6EUZ0,56,245.25
-          XS,SKU-EBSQSYVL,27,257.89
-          L,SKU-KYFYKXD1,86,253.23
-          XL,SKU-JMUWG3TV,24,257.79
-          XXL,SKU-NDBWLV2M,84,251.84
-    dimensions:
-      width: 21.1
-      height: 69.6
-      depth: 8
-      weight: 39.55
-    createdAt: "2025-09-30T11:38:22.264Z"
-    updatedAt: "2025-10-20T02:06:06.437Z"
-  - id: P00003
-    name: Elegant Metal Bacon
-    category: Clothing
-    basePrice: 407.95
-    rating: 2.3
-    reviewCount: 191
-    tags[3]: on-sale,premium,limited-edition
-    colors[4]:
-      - name: Blue
-        hex: #0000FF
-        sizes[6]{size,sku,inStock,price}:
-          XL,SKU-QYJ76PUO,36,427.48
-          L,SKU-M67AQHYN,20,410.14
-          S,SKU-C29EMMZT,32,413.53
-          XXL,SKU-RIN1QWO5,26,409.44
-          M,SKU-QKQ3W8CB,32,417.12
-          XS,SKU-EB5QFM3L,20,424.9
-      - name: Black
-        hex: #000000
-        sizes[5]{size,sku,inStock,price}:
-          XS,SKU-P8T69BSK,62,420.75
-          L,SKU-YNY7J863,10,408.59
-          M,SKU-CBCD5JXZ,5,410.8
-          XXL,SKU-UV870LVT,89,412.66
-          XL,SKU-DW3ODRQX,41,423.67
-      - name: Beige
-        hex: #F5F5DC
-        sizes[4]{size,sku,inStock,price}:
-          XL,SKU-40WUP3A6,0,413.3
-          S,SKU-TA1D7GWD,11,424.28
-          XS,SKU-GD3WV91V,15,419.98
-          M,SKU-NIRDQ0P7,20,420.39
-      - name: Gray
-        hex: #808080
-        sizes[6]{size,sku,inStock,price}:
-          XL,SKU-K15GRMP9,33,417.27
-          L,SKU-YBP1CXIN,29,416.46
-          S,SKU-YF9JU151,0,424.13
-          XXL,SKU-Z6OJA30G,96,415.53
-          XS,SKU-AKNMH06W,45,419.52
-          M,SKU-LJYYL691,44,413.33
-    dimensions:
-      width: 33.7
-      height: 34.1
-      depth: 30.5
-      weight: 45.67
-    createdAt: "2025-04-22T16:30:26.274Z"
-    updatedAt: "2025-10-10T13:31:25.449Z"
-  - id: P00004
-    name: Rustic Aluminum Pants
-    category: Books
-    basePrice: 193.35
-    rating: 5
-    reviewCount: 442
-    tags[1]: clearance
-    colors[2]:
-      - name: Navy
-        hex: #000080
-        sizes[5]{size,sku,inStock,price}:
-          M,SKU-TVNN5JDQ,89,198.5
-          L,SKU-9MHD8BVT,46,197.6
-          XL,SKU-VS4K2NFA,47,210.76
-          XS,SKU-P1YV4H0U,13,212.73
-          S,SKU-936AUKKB,94,203.38
-      - name: Black
-        hex: #000000
-        sizes[4]{size,sku,inStock,price}:
-          S,SKU-UHB7GXWF,99,194.17
-          L,SKU-JO075LTS,52,210.76
-          XL,SKU-MX307Z2L,85,210.57
-          XS,SKU-GLLW7VKL,97,196.72
-    dimensions:
-      width: 55.8
-      height: 9.3
-      depth: 72.7
-      weight: 36.51
-    createdAt: "2025-03-31T06:31:55.446Z"
-    updatedAt: "2025-09-17T10:41:34.742Z"
-  - id: P00005
-    name: Fantastic Granite Ball
-    category: Sports
-    basePrice: 57.59
-    rating: 2.8
-    reviewCount: 58
-    tags[2]: on-sale,new-arrival
-    colors[2]:
-      - name: Beige
-        hex: #F5F5DC
-        sizes[3]{size,sku,inStock,price}:
-          M,SKU-FDUWU41I,66,59.51
-          XL,SKU-6K86L9UV,58,61.57
-          S,SKU-5NAT5M65,96,64.28
-      - name: Navy
-        hex: #000080
-        sizes[6]{size,sku,inStock,price}:
-          S,SKU-H8NG680B,43,63.54
-          L,SKU-OPIBK9J6,24,58.31
-          XL,SKU-F6TEGDNO,68,57.97
-          XS,SKU-28VR1FE2,13,75.81
-          XXL,SKU-5VC94REV,84,63.42
-          M,SKU-UM1XIDGH,30,72.35
-    dimensions:
-      width: 82
-      height: 41.8
-      depth: 31.5
-      weight: 6.27
-    createdAt: "2024-12-14T02:53:08.036Z"
-    updatedAt: "2025-01-06T18:43:54.080Z"
-  - id: P00006
-    name: Bespoke Cotton Pants
-    category: Home & Garden
-    basePrice: 37.59
+    basePrice: 205.19
     rating: 3
-    reviewCount: 202
-    tags[3]: new-arrival,bestseller,premium
+    reviewCount: 495
+    tags[3]: premium,on-sale,limited-edition
     colors[4]:
-      - name: Pink
-        hex: #FFC0CB
-        sizes[6]{size,sku,inStock,price}:
-          XL,SKU-Q06QUWC6,89,49.46
-          XS,SKU-E33URXO7,3,53.26
-          M,SKU-6MSV15PD,21,39.53
-          XXL,SKU-NW79O2UO,49,46.07
-          S,SKU-12PLHHZY,49,50.9
-          L,SKU-N3CKHOMS,62,57.34
-      - name: White
-        hex: #FFFFFF
-        sizes[3]{size,sku,inStock,price}:
-          XXL,SKU-IIIXQDKJ,59,51.45
-          M,SKU-HDEHLH6T,33,46.69
-          XL,SKU-EC5Z91CH,33,51.59
-      - name: Black
-        hex: #000000
-        sizes[3]{size,sku,inStock,price}:
-          XXL,SKU-PU7C6CKI,59,50.13
-          M,SKU-K6UGAM5L,72,44.01
-          L,SKU-OCDRUNAY,20,44.66
-      - name: Blue
-        hex: #0000FF
-        sizes[6]{size,sku,inStock,price}:
-          L,SKU-20D6BPQ8,40,51.41
-          XS,SKU-OJRBV6ML,41,42.46
-          XXL,SKU-EZ74PFB2,20,39.4
-          S,SKU-J1GH87PJ,30,51.91
-          XL,SKU-HXW8ML9S,9,54.41
-          M,SKU-WJNO1RSX,47,40.35
-    dimensions:
-      width: 15.8
-      height: 32
-      depth: 98.6
-      weight: 31.23
-    createdAt: "2024-11-08T09:45:56.898Z"
-    updatedAt: "2025-08-04T17:00:57.610Z"
-  - id: P00007
-    name: Small Marble Cheese
-    category: Toys
-    basePrice: 97.69
-    rating: 4.3
-    reviewCount: 385
-    tags[3]: premium,eco-friendly,clearance
-    colors[4]:
-      - name: White
-        hex: #FFFFFF
-        sizes[5]{size,sku,inStock,price}:
-          S,SKU-P56SQCZJ,63,113.72
-          XS,SKU-E567BFXE,86,100.22
-          XXL,SKU-JRC4EOJR,94,117.35
-          M,SKU-YX4Y5QHO,7,115.74
-          XL,SKU-XD02EE31,7,98.98
-      - name: Navy
-        hex: #000080
-        sizes[6]{size,sku,inStock,price}:
-          M,SKU-FR9NPTPJ,41,106.93
-          XS,SKU-93Q9G9BD,68,109.53
-          XXL,SKU-Z4IEZBNE,75,112.02
-          S,SKU-R3R5TYTM,78,108.47
-          L,SKU-2VGK92H5,7,106.35
-          XL,SKU-8RF7VIH0,9,111.04
-      - name: Green
-        hex: #008000
-        sizes[5]{size,sku,inStock,price}:
-          XS,SKU-HI48QI1Q,26,111.14
-          M,SKU-UN1UE0WW,40,113.56
-          S,SKU-0KYNWETC,61,116.77
-          XL,SKU-4MHYLDKP,7,110.46
-          XXL,SKU-0BUBEJEC,52,101.27
-      - name: Beige
-        hex: #F5F5DC
-        sizes[6]{size,sku,inStock,price}:
-          L,SKU-OUO5SGDN,78,116.18
-          XS,SKU-T9WMNN15,41,109.46
-          M,SKU-6CRVOBU0,43,98.05
-          XL,SKU-VHLJYMHH,82,106.15
-          S,SKU-F8RDSBTE,59,117.09
-          XXL,SKU-CVLDAMCV,63,110.07
-    dimensions:
-      width: 60.5
-      height: 35.7
-      depth: 39.1
-      weight: 2.91
-    createdAt: "2025-10-19T09:17:32.773Z"
-    updatedAt: "2025-11-01T03:16:46.984Z"
-  - id: P00008
-    name: Fresh Silk Computer
-    category: Food & Beverage
-    basePrice: 176.9
-    rating: 1.5
-    reviewCount: 231
-    tags[3]: bestseller,clearance,limited-edition
-    colors[2]:
-      - name: Black
-        hex: #000000
-        sizes[6]{size,sku,inStock,price}:
-          XXL,SKU-YVJKZX2K,2,191.75
-          M,SKU-3RK2H554,74,178.95
-          XS,SKU-GEPTS8ZI,15,184.62
-          S,SKU-KDKB5GLI,64,191.82
-          XL,SKU-FGQDXCE2,71,177.85
-          L,SKU-F6IQKKK0,31,184.56
-      - name: Red
-        hex: #FF0000
-        sizes[6]{size,sku,inStock,price}:
-          L,SKU-44YLO6WF,15,190.92
-          XS,SKU-UX1XS7D7,7,177.95
-          XXL,SKU-FCLP96C5,94,189.17
-          S,SKU-W1U5DN2P,79,196.51
-          XL,SKU-B2DXS9LB,81,189.83
-          M,SKU-LL3TZ0RY,30,190.59
-    dimensions:
-      width: 18.8
-      height: 58.3
-      depth: 49.2
-      weight: 21.78
-    createdAt: "2025-10-21T05:35:44.067Z"
-    updatedAt: "2025-10-27T20:53:42.971Z"
-  - id: P00009
-    name: Small Wooden Chips
-    category: Electronics
-    basePrice: 185.06
-    rating: 1.1
-    reviewCount: 197
-    tags[3]: limited-edition,bestseller,eco-friendly
-    colors[3]:
-      - name: Pink
-        hex: #FFC0CB
-        sizes[4]{size,sku,inStock,price}:
-          S,SKU-ARZHW6FK,72,189.28
-          L,SKU-38VOTY39,81,194.14
-          XXL,SKU-M66JBNIG,60,202.73
-          M,SKU-NGGC31D2,56,201.33
-      - name: Green
-        hex: #008000
-        sizes[3]{size,sku,inStock,price}:
-          L,SKU-HS067SLK,26,198.57
-          S,SKU-UMBTJTIB,69,188.66
-          XL,SKU-XK9KGMPO,3,204.98
-      - name: Gray
-        hex: #808080
-        sizes[6]{size,sku,inStock,price}:
-          XL,SKU-H74X75KF,82,202.08
-          XXL,SKU-IAR845OX,19,186.6
-          M,SKU-DX60KVVC,31,194.05
-          S,SKU-QUZAGVES,2,186.15
-          L,SKU-1DI2O02B,44,186.82
-          XS,SKU-RJ6FNI1O,69,189.1
-    dimensions:
-      width: 69.2
-      height: 55.8
-      depth: 30.4
-      weight: 19.07
-    createdAt: "2024-11-24T21:13:44.078Z"
-    updatedAt: "2025-08-12T00:07:59.738Z"
-  - id: P00010
-    name: Licensed Cotton Mouse
-    category: Furniture
-    basePrice: 475.15
-    rating: 3.4
-    reviewCount: 336
-    tags[2]: premium,bestseller
-    colors[3]:
-      - name: Navy
-        hex: #000080
-        sizes[6]{size,sku,inStock,price}:
-          L,SKU-79XQE6XV,40,492.46
-          XL,SKU-YF44U9OO,79,494.58
-          S,SKU-5M8V7NU8,23,489.31
-          XXL,SKU-DJR1BBW6,69,494.81
-          M,SKU-KVORS43E,97,477.65
-          XS,SKU-88XUM752,78,486.68
-      - name: Blue
-        hex: #0000FF
-        sizes[4]{size,sku,inStock,price}:
-          XL,SKU-XHPV7OKJ,69,479.59
-          S,SKU-33MBULVI,94,479.55
-          XS,SKU-K9AGGXMO,79,491.73
-          XXL,SKU-HBIT60UX,31,478.75
-      - name: Red
-        hex: #FF0000
-        sizes[4]{size,sku,inStock,price}:
-          XS,SKU-FNIRAODH,29,487.15
-          M,SKU-UXFTZCN6,12,475.56
-          S,SKU-HOF8VMNF,27,485.35
-          L,SKU-LL5FPAHD,7,491.25
-    dimensions:
-      width: 25.9
-      height: 21.8
-      depth: 73.6
-      weight: 31.41
-    createdAt: "2025-07-15T19:00:16.711Z"
-    updatedAt: "2025-09-26T22:08:31.187Z"
-  - id: P00011
-    name: Soft Cotton Pants
-    category: Clothing
-    basePrice: 428.39
-    rating: 2.4
-    reviewCount: 186
-    tags[3]: clearance,on-sale,new-arrival
-    colors[2]:
       - name: Brown
         hex: #A52A2A
         sizes[3]{size,sku,inStock,price}:
-          S,SKU-SKA3YOC1,36,436.35
-          XL,SKU-T961X0K7,66,438.89
-          XXL,SKU-S0V6S3A6,89,443.86
+          M,SKU-SRR2GXOX,96,208.55
+          S,SKU-3W75UGF7,96,224.93
+          XL,SKU-LRC6GPGA,76,215.01
+      - name: Pink
+        hex: #FFC0CB
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-P8DVV432,11,206.97
+          XL,SKU-DQD3KP7B,67,207.11
+          S,SKU-B5LM4SHU,47,216.76
+          L,SKU-KXGMR9EU,44,216.61
+          XXL,SKU-3X8ZU0PM,7,215.42
+          M,SKU-M6A02KG1,37,210.15
+      - name: Green
+        hex: #008000
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-UN77JOCN,91,211.87
+          XXL,SKU-GR54UQ9V,68,215.61
+          XL,SKU-9A7X19JY,75,215.06
       - name: Red
         hex: #FF0000
-        sizes[5]{size,sku,inStock,price}:
-          XL,SKU-43T5POLE,33,447.17
-          L,SKU-TUAF8SO7,38,448.24
-          XXL,SKU-TD4VIB3L,98,429.61
-          XS,SKU-PSVSHH5B,89,437.81
-          S,SKU-J6XLTQ9C,94,437.63
+        sizes[4]{size,sku,inStock,price}:
+          S,SKU-FGFR4280,53,223.16
+          XXL,SKU-UA196KIR,0,216.13
+          XL,SKU-5VYOKT6I,88,206.92
+          M,SKU-V0FH9YBW,17,214.04
     dimensions:
-      width: 82.1
-      height: 76.6
-      depth: 26.5
-      weight: 45.86
-    createdAt: "2025-09-02T12:31:56.481Z"
-    updatedAt: "2025-09-05T07:03:33.407Z"
-  - id: P00012
-    name: Electronic Gold Salad
-    category: Books
-    basePrice: 276.15
-    rating: 2.8
-    reviewCount: 2
+      width: 79.4
+      height: 44.1
+      depth: 17.6
+      weight: 16.05
+    createdAt: "2025-05-26T03:22:38.102Z"
+    updatedAt: "2025-06-21T08:02:45.039Z"
+  - id: P00003
+    name: Elegant Ceramic Computer
+    category: Clothing
+    basePrice: 248.6
+    rating: 2.7
+    reviewCount: 486
     tags[2]: new-arrival,clearance
-    colors[4]:
+    colors[2]:
+      - name: Gray
+        hex: #808080
+        sizes[4]{size,sku,inStock,price}:
+          XS,SKU-7SA2UGZ6,3,261.94
+          S,SKU-6KAC9OSZ,41,250.01
+          L,SKU-CU7CX985,20,262.8
+          M,SKU-5E1JR06M,67,262.16
       - name: Beige
         hex: #F5F5DC
-        sizes[5]{size,sku,inStock,price}:
-          S,SKU-5I0SFY1B,58,279.76
-          L,SKU-C7L0Q3BP,91,286.49
-          M,SKU-PBQ84N8I,38,290.64
-          XL,SKU-FZ58UTYC,58,292.2
-          XS,SKU-WXAY04RH,84,280.49
-      - name: White
-        hex: #FFFFFF
-        sizes[5]{size,sku,inStock,price}:
-          M,SKU-2CA3I8B2,92,292.2
-          XL,SKU-JSE2CSBM,27,281.58
-          S,SKU-3QAYBIZR,88,291.09
-          XS,SKU-CS6HQMLT,71,284.65
-          L,SKU-S50E5N68,28,292.84
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-WNM0ZX5N,1,251.09
+          S,SKU-XP8YYQMV,3,253.08
+          XL,SKU-EQT8D02W,49,259.07
+    dimensions:
+      width: 39.3
+      height: 81
+      depth: 57.4
+      weight: 43.83
+    createdAt: "2025-07-29T13:05:37.038Z"
+    updatedAt: "2025-08-22T00:24:30.360Z"
+  - id: P00004
+    name: Handcrafted Gold Cheese
+    category: Books
+    basePrice: 213.09
+    rating: 1
+    reviewCount: 17
+    tags[3]: limited-edition,on-sale,new-arrival
+    colors[3]:
+      - name: Navy
+        hex: #000080
+        sizes[4]{size,sku,inStock,price}:
+          XL,SKU-L3839YL8,62,224.47
+          L,SKU-6HTRHSXJ,18,215.53
+          XXL,SKU-1UNKMV84,11,220.44
+          M,SKU-H3Z0BZCC,0,225.27
       - name: Blue
         hex: #0000FF
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-1KT62QQ2,58,222.22
+          S,SKU-JU5RCTNS,58,223.98
+          M,SKU-D4D8W823,100,213.18
+          XS,SKU-GBVYCEGT,32,218.13
+          L,SKU-V9T8QGLH,7,226.47
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-5YFPIYM5,30,227.65
+          XXL,SKU-8M5FV9YR,33,232.99
+          L,SKU-YUW0Z27U,16,224.25
+    dimensions:
+      width: 11.1
+      height: 85.7
+      depth: 75.6
+      weight: 17.37
+    createdAt: "2025-02-16T20:07:04.661Z"
+    updatedAt: "2025-04-23T07:46:21.995Z"
+  - id: P00005
+    name: Electronic Gold Table
+    category: Sports
+    basePrice: 476.39
+    rating: 4.3
+    reviewCount: 100
+    tags[3]: premium,bestseller,limited-edition
+    colors[2]:
+      - name: Navy
+        hex: #000080
         sizes[6]{size,sku,inStock,price}:
-          S,SKU-JSMPKUAV,100,289.39
-          XS,SKU-R9PP5BSG,17,281.89
-          M,SKU-2DWGWJ6U,56,288.88
-          XL,SKU-2OFHIQDM,31,295.69
-          XXL,SKU-YT04NM6B,26,289.92
-          L,SKU-RHR3GJRX,61,285.04
+          S,SKU-0I11ZCP4,68,484.31
+          L,SKU-999FM1IS,54,477.25
+          XL,SKU-IQNZ7TNL,78,486.31
+          XS,SKU-ACLA67RH,8,481.82
+          M,SKU-A8S2CTY4,92,493.71
+          XXL,SKU-GUFJEBJE,49,493.76
+      - name: Black
+        hex: #000000
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-LAIRTDKH,14,480.48
+          XXL,SKU-Q57AXXZO,39,495.82
+          XL,SKU-FIQKV8GP,70,484.68
+          XS,SKU-PMQXB73Q,30,479.91
+          L,SKU-7YQ74UUG,88,483.45
+    dimensions:
+      width: 19.6
+      height: 30.3
+      depth: 20.4
+      weight: 37.72
+    createdAt: "2024-11-29T10:00:17.928Z"
+    updatedAt: "2025-02-12T07:24:18.946Z"
+  - id: P00006
+    name: Recycled Rubber Keyboard
+    category: Home & Garden
+    basePrice: 365.79
+    rating: 4.8
+    reviewCount: 85
+    tags[2]: limited-edition,premium
+    colors[3]:
+      - name: Blue
+        hex: #0000FF
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-84B14D4J,43,369.04
+          S,SKU-A6OOFBJB,31,382.43
+          L,SKU-TNE9W57B,62,366.92
+          M,SKU-9STFVCPO,15,365.83
+          XS,SKU-28SGK4IG,72,368.39
+      - name: Red
+        hex: #FF0000
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-5P6T90UC,91,382.03
+          XL,SKU-NB2VARMI,52,383.4
+          XS,SKU-JDMD7YPC,42,379.19
+      - name: Pink
+        hex: #FFC0CB
+        sizes[6]{size,sku,inStock,price}:
+          S,SKU-BBYS6HES,0,369.19
+          XS,SKU-5L65EV9P,93,380.91
+          M,SKU-5JBL01FS,10,384.84
+          L,SKU-2GMGBZ0P,10,371.58
+          XL,SKU-I5NZD464,58,384.93
+          XXL,SKU-6D5WHM9H,22,371.81
+    dimensions:
+      width: 54.6
+      height: 37
+      depth: 33.3
+      weight: 35.03
+    createdAt: "2025-03-02T05:07:49.057Z"
+    updatedAt: "2025-10-31T09:59:52.621Z"
+  - id: P00007
+    name: Sleek Silk Tuna
+    category: Toys
+    basePrice: 35.65
+    rating: 4.3
+    reviewCount: 377
+    tags[3]: limited-edition,clearance,new-arrival
+    colors[2]:
+      - name: Navy
+        hex: #000080
+        sizes[5]{size,sku,inStock,price}:
+          XS,SKU-5E8FIFE3,27,52.52
+          XXL,SKU-162WELV7,95,44.12
+          M,SKU-W768AZZ5,94,35.81
+          XL,SKU-YSK6YRBG,97,47.87
+          S,SKU-S0696WS1,64,50.87
       - name: Green
         hex: #008000
         sizes[5]{size,sku,inStock,price}:
-          L,SKU-B5UTU3VI,3,278.08
-          XL,SKU-QZSDBD46,39,282.13
-          XS,SKU-D3X530QO,85,278.84
-          XXL,SKU-SERP251N,44,290.58
-          M,SKU-7AR1ULUM,31,278.42
+          S,SKU-LP84JJUL,0,45.98
+          M,SKU-YZWBZ7JE,26,37.2
+          L,SKU-1UI4HK25,50,49.31
+          XL,SKU-D5RA5EUP,87,44.28
+          XXL,SKU-MUHPYCJJ,90,50.82
     dimensions:
-      width: 84.4
-      height: 20.2
-      depth: 30.3
-      weight: 6.46
-    createdAt: "2025-09-23T01:12:53.588Z"
-    updatedAt: "2025-10-08T02:14:53.272Z"
+      width: 35.3
+      height: 13.8
+      depth: 31.1
+      weight: 6.91
+    createdAt: "2025-09-24T21:59:00.992Z"
+    updatedAt: "2025-09-30T07:05:14.158Z"
+  - id: P00008
+    name: Bespoke Bronze Bike
+    category: Food & Beverage
+    basePrice: 435.6
+    rating: 1.5
+    reviewCount: 312
+    tags[1]: bestseller
+    colors[2]:
+      - name: Beige
+        hex: #F5F5DC
+        sizes[4]{size,sku,inStock,price}:
+          XS,SKU-TNDVP2WG,95,446.78
+          XXL,SKU-PR7SKH04,74,444.81
+          XL,SKU-GGKWF56Q,70,436.18
+          L,SKU-L3GTGBTL,94,448.78
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-UUDETQTK,86,448.41
+          L,SKU-EH1TYZ0B,38,447.84
+          XS,SKU-XKDZMF6C,11,454.53
+          XL,SKU-NOQBP1JT,39,454.94
+          XXL,SKU-1X3J0ZFN,62,442.53
+          S,SKU-5H427WD2,96,446.22
+    dimensions:
+      width: 13
+      height: 46.7
+      depth: 42.9
+      weight: 32.31
+    createdAt: "2025-11-01T09:05:40.685Z"
+    updatedAt: "2025-11-05T14:41:25.932Z"
+  - id: P00009
+    name: Generic Rubber Keyboard
+    category: Electronics
+    basePrice: 380.05
+    rating: 2.2
+    reviewCount: 412
+    tags[3]: limited-edition,eco-friendly,new-arrival
+    colors[4]:
+      - name: Black
+        hex: #000000
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-XL3366X3,47,397.19
+          XL,SKU-LER7S28E,92,395.49
+          M,SKU-NI881WQS,61,384.05
+      - name: Green
+        hex: #008000
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-62UQZEQ9,72,395.9
+          S,SKU-W66ARNH4,33,390.4
+          XL,SKU-2FDDVNPB,94,399.23
+          XXL,SKU-7BEUMBNS,74,391.46
+      - name: Beige
+        hex: #F5F5DC
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-D3HLBKD9,11,384.09
+          XL,SKU-GDCZV5C0,19,384.2
+          S,SKU-XVVEA5DV,58,387.31
+      - name: Blue
+        hex: #0000FF
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-HMXI8ZPT,85,398.61
+          M,SKU-I9WOD7DK,30,391.31
+          XS,SKU-2WGVX7XN,25,390.98
+          L,SKU-9EINDX54,38,387.78
+          XXL,SKU-QL257RU2,82,384.04
+    dimensions:
+      width: 49.5
+      height: 11.4
+      depth: 68.2
+      weight: 15.24
+    createdAt: "2025-06-01T10:39:45.853Z"
+    updatedAt: "2025-10-18T05:20:40.747Z"
+  - id: P00010
+    name: Refined Marble Salad
+    category: Furniture
+    basePrice: 476.09
+    rating: 4.7
+    reviewCount: 396
+    tags[3]: eco-friendly,new-arrival,limited-edition
+    colors[4]:
+      - name: Navy
+        hex: #000080
+        sizes[3]{size,sku,inStock,price}:
+          XXL,SKU-6BJICX2P,2,492.8
+          M,SKU-6F1DUEVJ,14,488.78
+          L,SKU-5L3NIKHE,46,481.29
+      - name: Black
+        hex: #000000
+        sizes[6]{size,sku,inStock,price}:
+          XXL,SKU-QSN518R1,32,489.82
+          M,SKU-RQT7OX5P,89,487.23
+          S,SKU-M9W4LDCV,18,488.02
+          L,SKU-C33M4A6D,72,493.01
+          XL,SKU-DQ28D5BZ,95,481.33
+          XS,SKU-KCF1HI3O,54,478.56
+      - name: Beige
+        hex: #F5F5DC
+        sizes[4]{size,sku,inStock,price}:
+          XL,SKU-KX36B53X,15,482.08
+          XXL,SKU-ZIZHRMNN,93,479.01
+          L,SKU-ACNADX24,98,486.48
+          S,SKU-4MI0SGMD,42,477.12
+      - name: Blue
+        hex: #0000FF
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-R4MYNOMU,49,485.55
+          XL,SKU-ZNGMLQ0Q,71,486.48
+          XS,SKU-LW5JVAPS,78,492.5
+    dimensions:
+      width: 85.8
+      height: 45.7
+      depth: 6.7
+      weight: 29.94
+    createdAt: "2025-06-03T11:17:05.649Z"
+    updatedAt: "2025-09-30T01:55:39.729Z"
+  - id: P00011
+    name: Oriental Marble Chicken
+    category: Clothing
+    basePrice: 473.75
+    rating: 4.4
+    reviewCount: 292
+    tags[2]: new-arrival,bestseller
+    colors[3]:
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          XXL,SKU-0R72Z51H,17,476.47
+          XS,SKU-UZPXHRQV,66,481.68
+          L,SKU-V5612MSH,76,478.67
+      - name: Beige
+        hex: #F5F5DC
+        sizes[3]{size,sku,inStock,price}:
+          XXL,SKU-FLVX0JIR,50,493.49
+          XS,SKU-1BP9EZY3,29,474.9
+          M,SKU-UJ7WAWT8,67,493.29
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          XL,SKU-WMT49XZ8,53,492.71
+          XXL,SKU-XP5BZ1TE,60,474.04
+          S,SKU-V1X0MM4S,44,482.74
+          M,SKU-GY8R3NW7,18,491.98
+          L,SKU-JLH2FX7N,75,491.1
+          XS,SKU-IB695RN5,75,492.57
+    dimensions:
+      width: 66.3
+      height: 26.6
+      depth: 10.4
+      weight: 14.27
+    createdAt: "2025-08-08T17:03:11.459Z"
+    updatedAt: "2025-09-09T05:30:47.926Z"
+  - id: P00012
+    name: Oriental Metal Chair
+    category: Books
+    basePrice: 369.65
+    rating: 4.9
+    reviewCount: 430
+    tags[1]: new-arrival
+    colors[2]:
+      - name: White
+        hex: #FFFFFF
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-03JXA3HZ,2,385.18
+          L,SKU-YRBHEM88,75,371.59
+          XS,SKU-DDP4SN9E,21,370.02
+          XL,SKU-6BI93FU2,70,371.51
+      - name: Brown
+        hex: #A52A2A
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-SAL597IV,88,387.18
+          XXL,SKU-3QF5E840,39,381.27
+          XL,SKU-4PG1QSWN,63,381.95
+          L,SKU-GJVTLBEF,41,374.78
+    dimensions:
+      width: 22.9
+      height: 80.9
+      depth: 99.4
+      weight: 19.2
+    createdAt: "2025-10-24T23:34:36.318Z"
+    updatedAt: "2025-10-26T18:49:20.646Z"
+  - id: P00013
+    name: Practical Wooden Tuna
+    category: Sports
+    basePrice: 462.49
+    rating: 3.5
+    reviewCount: 63
+    tags[2]: clearance,bestseller
+    colors[4]:
+      - name: Red
+        hex: #FF0000
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-AWZJ4JDP,98,464.47
+          XXL,SKU-E9FZRJTS,38,466.53
+          M,SKU-BYQTXVQJ,18,479.46
+      - name: Gray
+        hex: #808080
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-JDFA7TIB,49,463.36
+          M,SKU-D4CLHEPC,15,479.05
+          XS,SKU-NZKT50VI,82,472.93
+          XL,SKU-N02ZV4WM,23,470.27
+          S,SKU-4NKM5I4T,90,472.4
+      - name: Pink
+        hex: #FFC0CB
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-KB2B7INP,27,481.38
+          S,SKU-RR5S7RPZ,21,462.75
+          XS,SKU-GLS5A8HB,57,478.42
+          L,SKU-7ZBPVS2O,69,469.48
+      - name: Brown
+        hex: #A52A2A
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-TRT2QG1R,69,474.52
+          S,SKU-AE91Z7FS,75,467.69
+          M,SKU-U9W3NGAY,36,468.58
+          XS,SKU-AOCO767N,38,465.68
+          L,SKU-33QS3HPV,52,471.41
+    dimensions:
+      width: 22
+      height: 55.8
+      depth: 53.9
+      weight: 44.75
+    createdAt: "2025-03-27T23:57:54.667Z"
+    updatedAt: "2025-09-01T02:24:43.502Z"
+  - id: P00014
+    name: Generic Ceramic Pizza
+    category: Home & Garden
+    basePrice: 208.05
+    rating: 4.3
+    reviewCount: 368
+    tags[1]: bestseller
+    colors[2]:
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-I4GV0KN3,83,209.87
+          XXL,SKU-ZJQA9WKJ,7,220.61
+          S,SKU-7LCKCRZB,65,212.65
+      - name: Green
+        hex: #008000
+        sizes[4]{size,sku,inStock,price}:
+          L,SKU-71KWRYZB,18,218.12
+          S,SKU-2V9VD92R,96,211.33
+          XS,SKU-UZ30IVA1,38,226.98
+          XXL,SKU-55IVJSHD,37,217.42
+    dimensions:
+      width: 10.9
+      height: 40.5
+      depth: 64.1
+      weight: 4.94
+    createdAt: "2025-04-26T21:31:42.096Z"
+    updatedAt: "2025-06-03T17:28:56.654Z"
+  - id: P00015
+    name: Tasty Bronze Pants
+    category: Toys
+    basePrice: 39.35
+    rating: 1.7
+    reviewCount: 212
+    tags[3]: premium,on-sale,eco-friendly
+    colors[2]:
+      - name: Black
+        hex: #000000
+        sizes[3]{size,sku,inStock,price}:
+          XXL,SKU-AKEQDJ64,83,47.73
+          XS,SKU-2UZAD0CL,58,56.27
+          M,SKU-R4F4NH87,77,57.15
+      - name: Red
+        hex: #FF0000
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-MACAPBKY,40,55
+          XS,SKU-23WY7U6S,95,51.38
+          M,SKU-Y8PVT574,63,40.94
+          XXL,SKU-PCCQWPQV,38,44.19
+          L,SKU-US36651X,62,51.63
+    dimensions:
+      width: 19.4
+      height: 69.2
+      depth: 65.1
+      weight: 7.22
+    createdAt: "2025-10-12T01:46:50.081Z"
+    updatedAt: "2025-10-21T16:57:38.313Z"
+  - id: P00016
+    name: Luxurious Rubber Chair
+    category: Food & Beverage
+    basePrice: 207.32
+    rating: 4
+    reviewCount: 6
+    tags[2]: limited-edition,on-sale
+    colors[3]:
+      - name: Navy
+        hex: #000080
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-QP2J3LV6,97,220.22
+          XS,SKU-DB6WJE57,43,223.77
+          XL,SKU-EQNT7ATN,47,209.21
+          S,SKU-XDF5SP8C,47,220.64
+          L,SKU-2R4TH610,30,222.39
+          XXL,SKU-8EDX210O,40,222.02
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-3LG64IRI,17,218.1
+          L,SKU-AWKLXEHF,34,209
+          XL,SKU-8G6HP0G7,92,226.51
+      - name: Beige
+        hex: #F5F5DC
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-6TYB6FCW,91,224.38
+          M,SKU-9VQDFWGC,85,227.32
+          S,SKU-TOODE1UQ,26,216.13
+          XXL,SKU-54D9ZHN2,60,210.48
+          XS,SKU-A6FJVNQY,71,216.4
+    dimensions:
+      width: 20.1
+      height: 75.2
+      depth: 94.3
+      weight: 48.02
+    createdAt: "2024-11-29T08:16:06.309Z"
+    updatedAt: "2025-06-08T20:41:01.156Z"
+  - id: P00017
+    name: Electronic Aluminum Car
+    category: Electronics
+    basePrice: 375.89
+    rating: 2
+    reviewCount: 158
+    tags[1]: bestseller
+    colors[2]:
+      - name: Green
+        hex: #008000
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-UJJW9WDE,81,385.45
+          XXL,SKU-HRK0EO0U,85,389.45
+          XL,SKU-NRXTDG8Y,8,378.48
+          S,SKU-9I23RMO0,33,394.12
+          M,SKU-BYR1JFJ2,2,388.51
+      - name: Blue
+        hex: #0000FF
+        sizes[4]{size,sku,inStock,price}:
+          XXL,SKU-8M4TCB42,49,386.44
+          L,SKU-U8YTMUEM,68,382.56
+          XL,SKU-0RRFTUPF,0,376.78
+          XS,SKU-2TIKEOCJ,7,387.45
+    dimensions:
+      width: 7.5
+      height: 14.7
+      depth: 98.4
+      weight: 14.99
+    createdAt: "2025-04-21T21:34:13.334Z"
+    updatedAt: "2025-06-16T17:50:27.746Z"
+  - id: P00018
+    name: Handmade Steel Chair
+    category: Furniture
+    basePrice: 239.7
+    rating: 2.7
+    reviewCount: 282
+    tags[1]: new-arrival
+    colors[2]:
+      - name: Green
+        hex: #008000
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-MOO6QUWI,30,246.11
+          L,SKU-H51SRKV5,43,247.97
+          XS,SKU-T9CPRQV4,14,240.94
+      - name: Brown
+        hex: #A52A2A
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-ZWMWGUIV,33,250.36
+          M,SKU-ARK5J74U,20,246.3
+          XXL,SKU-XICX1KBI,72,246.64
+          XS,SKU-E1ZK8HHS,100,244.9
+          L,SKU-1MFE61YT,16,250.75
+    dimensions:
+      width: 51
+      height: 27.7
+      depth: 47.2
+      weight: 42.09
+    createdAt: "2025-09-19T23:10:52.290Z"
+    updatedAt: "2025-10-26T18:44:24.732Z"
+  - id: P00019
+    name: Licensed Bamboo Mouse
+    category: Clothing
+    basePrice: 429.05
+    rating: 4.4
+    reviewCount: 31
+    tags[2]: eco-friendly,premium
+    colors[2]:
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-CQFV18BE,76,435.99
+          XS,SKU-NYNP617Z,69,447.83
+          M,SKU-LNB4ZYHS,14,437.86
+          XXL,SKU-2GFRX89C,81,439.55
+          L,SKU-H53N1T54,24,445.09
+      - name: Black
+        hex: #000000
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-VA4KL71G,0,443.38
+          S,SKU-METKAJU9,40,438.36
+          XL,SKU-TUWNU86V,71,430.12
+    dimensions:
+      width: 26.4
+      height: 26.1
+      depth: 72.3
+      weight: 39.28
+    createdAt: "2025-03-05T12:31:24.943Z"
+    updatedAt: "2025-03-22T14:48:12.555Z"
+  - id: P00020
+    name: Licensed Bamboo Bacon
+    category: Books
+    basePrice: 228.25
+    rating: 3.5
+    reviewCount: 411
+    tags[2]: premium,new-arrival
+    colors[2]:
+      - name: Blue
+        hex: #0000FF
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-F6T5W8X4,16,241.75
+          XL,SKU-VCNK33F3,16,243.21
+          XS,SKU-DHQWBHN3,65,248
+          M,SKU-87OODYWK,63,234.53
+          XXL,SKU-95DO3OB5,70,242.52
+          S,SKU-BF2WBROF,97,237.88
+      - name: Pink
+        hex: #FFC0CB
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-X0242SKR,70,231.72
+          XS,SKU-WA97T7RU,64,229.22
+          M,SKU-7WPLVEQ0,38,240.79
+          L,SKU-AZHL58S1,26,243.49
+          XL,SKU-JR7KT8VS,64,237.21
+    dimensions:
+      width: 88.9
+      height: 58.4
+      depth: 65.5
+      weight: 4.87
+    createdAt: "2025-07-16T19:58:44.674Z"
+    updatedAt: "2025-10-23T21:01:45.822Z"
+  - id: P00021
+    name: Incredible Concrete Shoes
+    category: Sports
+    basePrice: 450.39
+    rating: 4.5
+    reviewCount: 161
+    tags[1]: eco-friendly
+    colors[2]:
+      - name: White
+        hex: #FFFFFF
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-ZQO27XVV,3,451.72
+          XS,SKU-VOWNQ6ID,45,461.53
+          XXL,SKU-0D7HUM5D,15,458.94
+          S,SKU-YWVPTCAK,47,463.89
+      - name: Pink
+        hex: #FFC0CB
+        sizes[6]{size,sku,inStock,price}:
+          S,SKU-GO0VN3N6,72,457.39
+          L,SKU-H6YQZDDH,96,467.36
+          XS,SKU-0WD8NZUA,72,468.77
+          XL,SKU-LLTKOPOK,64,453.3
+          XXL,SKU-WZDS05YO,57,454.35
+          M,SKU-IWAWAKD4,65,458.27
+    dimensions:
+      width: 43.5
+      height: 91.9
+      depth: 72.8
+      weight: 1.93
+    createdAt: "2024-12-21T18:39:58.980Z"
+    updatedAt: "2025-01-12T03:24:46.625Z"
+  - id: P00022
+    name: Luxurious Rubber Soap
+    category: Home & Garden
+    basePrice: 351.09
+    rating: 4.7
+    reviewCount: 8
+    tags[3]: bestseller,premium,limited-edition
+    colors[4]:
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-YQVQGHV8,89,353.57
+          S,SKU-0WXLDC1Q,11,370.79
+          XXL,SKU-3NLS8N57,35,369.93
+      - name: Pink
+        hex: #FFC0CB
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-UIYNFZDA,99,366.12
+          XL,SKU-K6J7XL5A,68,366.96
+          S,SKU-HJKXZVZQ,89,356.69
+          XS,SKU-6510L2C7,93,369.17
+          XXL,SKU-C7QXPZCA,22,361.14
+          M,SKU-TT8Z19FE,73,356.06
+      - name: Green
+        hex: #008000
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-PH3174ZT,92,370.28
+          M,SKU-TE6YCDM5,73,365.69
+          XXL,SKU-B29CGMZO,39,361.68
+      - name: Beige
+        hex: #F5F5DC
+        sizes[4]{size,sku,inStock,price}:
+          XL,SKU-1YUIG2AH,98,360.29
+          L,SKU-KUX4V6PW,55,352.61
+          M,SKU-DVK6AZJY,33,353.23
+          XXL,SKU-VQFH5KZ5,35,353.38
+    dimensions:
+      width: 8.5
+      height: 82.2
+      depth: 99.8
+      weight: 15.45
+    createdAt: "2025-02-05T03:39:26.220Z"
+    updatedAt: "2025-09-16T01:04:27.729Z"
+  - id: P00023
+    name: Handmade Bronze Hat
+    category: Toys
+    basePrice: 367.99
+    rating: 3.9
+    reviewCount: 426
+    tags[2]: eco-friendly,clearance
+    colors[4]:
+      - name: Navy
+        hex: #000080
+        sizes[4]{size,sku,inStock,price}:
+          XS,SKU-FOA11TEP,76,373.91
+          L,SKU-1JWKEUSZ,97,385.47
+          S,SKU-KRK44W34,48,385.3
+          XXL,SKU-XB3YGL5U,35,387.43
+      - name: Beige
+        hex: #F5F5DC
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-ZZQ5GWYD,41,383.47
+          XL,SKU-RBV8ESBB,62,386.96
+          S,SKU-XXE14G2L,95,373.56
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-EX0K9VDX,25,378.06
+          S,SKU-PQEOLE6M,42,369.45
+          XS,SKU-MYYWUXSM,76,369.43
+          M,SKU-830SDIP9,51,371.43
+          XXL,SKU-J9P97Z38,18,385.87
+      - name: Blue
+        hex: #0000FF
+        sizes[4]{size,sku,inStock,price}:
+          XXL,SKU-6Q7RKU74,53,374.3
+          M,SKU-OY0RW1OC,37,373.82
+          L,SKU-FLRGNRKO,11,372.86
+          S,SKU-RLCZ1S28,23,384.19
+    dimensions:
+      width: 92.5
+      height: 26.5
+      depth: 89.6
+      weight: 30.59
+    createdAt: "2025-02-27T01:21:43.219Z"
+    updatedAt: "2025-03-05T02:09:51.922Z"
+  - id: P00024
+    name: Awesome Silk Cheese
+    category: Food & Beverage
+    basePrice: 358.75
+    rating: 3.3
+    reviewCount: 350
+    tags[1]: new-arrival
+    colors[4]:
+      - name: Beige
+        hex: #F5F5DC
+        sizes[3]{size,sku,inStock,price}:
+          XXL,SKU-NFIT22VT,72,367.61
+          S,SKU-DR3Z4D44,52,376.78
+          M,SKU-7NFOM0LG,21,361.27
+      - name: Green
+        hex: #008000
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-QGM7KPBS,90,374.1
+          XS,SKU-9GPP7ZCJ,44,363.59
+          XL,SKU-38G6X70Y,29,362.91
+          L,SKU-IT9AB1EG,22,378.47
+          XXL,SKU-7Q9M5JZ3,38,360.44
+      - name: Red
+        hex: #FF0000
+        sizes[4]{size,sku,inStock,price}:
+          XS,SKU-88FZR8VD,50,378.42
+          XXL,SKU-R8AJK98K,90,368.24
+          L,SKU-9PLJ1OJL,15,372.16
+          S,SKU-1GNQLFDQ,28,373.67
+      - name: Brown
+        hex: #A52A2A
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-Y93ZAAGM,60,370.62
+          XXL,SKU-8HM65RW3,88,377.93
+          L,SKU-K6G96WH9,74,363.92
+    dimensions:
+      width: 29.5
+      height: 44
+      depth: 19.6
+      weight: 2.88
+    createdAt: "2025-08-18T18:46:11.819Z"
+    updatedAt: "2025-10-06T08:31:24.205Z"
+  - id: P00025
+    name: Frozen Ceramic Tuna
+    category: Electronics
+    basePrice: 195.15
+    rating: 2.3
+    reviewCount: 281
+    tags[2]: clearance,eco-friendly
+    colors[3]:
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-BC4OKFLO,68,210.89
+          S,SKU-8WALH3JF,94,212.67
+          XXL,SKU-UZ6SRO6V,31,213.23
+          XL,SKU-MP95M332,62,203.11
+          XS,SKU-WFAR49GZ,22,211.97
+          L,SKU-9E6UYEU4,54,198.75
+      - name: Navy
+        hex: #000080
+        sizes[3]{size,sku,inStock,price}:
+          XXL,SKU-E0TI2RH2,11,214.01
+          L,SKU-KKPXDQDV,12,203.22
+          XL,SKU-3DBLK4CK,74,210.79
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-K5CFNFEG,14,198.45
+          XXL,SKU-7A7HDMZP,74,203.09
+          M,SKU-PYBQAZTE,78,200.38
+    dimensions:
+      width: 94.6
+      height: 97.1
+      depth: 16.6
+      weight: 44.79
+    createdAt: "2024-11-18T10:33:49.630Z"
+    updatedAt: "2025-02-22T00:56:54.692Z"
+  - id: P00026
+    name: Handcrafted Gold Pants
+    category: Furniture
+    basePrice: 222.45
+    rating: 4.2
+    reviewCount: 199
+    tags[1]: new-arrival
+    colors[3]:
+      - name: Navy
+        hex: #000080
+        sizes[4]{size,sku,inStock,price}:
+          L,SKU-A2MP7CBO,23,230.01
+          S,SKU-LLLNJRC6,68,224.69
+          XL,SKU-T8ME87TV,81,241.02
+          M,SKU-24ZWYP04,20,239.61
+      - name: Gray
+        hex: #808080
+        sizes[4]{size,sku,inStock,price}:
+          XL,SKU-L86ZJHBF,81,236.43
+          M,SKU-MAB1W5L3,76,225.45
+          S,SKU-7ZT7CZ4Q,39,227.58
+          L,SKU-O64XSOD7,74,233.22
+      - name: Pink
+        hex: #FFC0CB
+        sizes[5]{size,sku,inStock,price}:
+          XS,SKU-VQJ76QXZ,80,241.53
+          L,SKU-84037GQQ,43,224.29
+          XL,SKU-95PZB9OC,47,224.52
+          XXL,SKU-U1FLAMXL,61,237.99
+          S,SKU-EH8KZ1M2,6,234.75
+    dimensions:
+      width: 86.8
+      height: 98.5
+      depth: 36.6
+      weight: 36.6
+    createdAt: "2025-01-29T10:04:27.424Z"
+    updatedAt: "2025-05-13T15:00:27.239Z"
+  - id: P00027
+    name: Unbranded Cotton Chicken
+    category: Clothing
+    basePrice: 464.49
+    rating: 2.5
+    reviewCount: 127
+    tags[1]: limited-edition
+    colors[3]:
+      - name: Green
+        hex: #008000
+        sizes[6]{size,sku,inStock,price}:
+          XL,SKU-M49NGMMJ,80,468.12
+          XXL,SKU-Q0Y21U7H,67,472.89
+          XS,SKU-4BTP1C99,36,469.8
+          S,SKU-3SU3Z7QB,32,477.4
+          M,SKU-JULUFOG1,71,474.57
+          L,SKU-YSMRTO1M,89,470.19
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-17353JZP,65,469.19
+          XXL,SKU-LN0483BU,31,477.12
+          S,SKU-JCPI16OO,86,476.46
+          XS,SKU-CZZNINZY,83,478.39
+          M,SKU-ABDQ23OC,76,478.56
+      - name: Brown
+        hex: #A52A2A
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-HHZNF8K0,99,476.09
+          S,SKU-BNPFA5D9,75,484.14
+          L,SKU-OCDOHMX6,71,475
+          XL,SKU-UW0N2LT2,66,477.33
+          M,SKU-XLE1K5Z3,39,476.29
+          XXL,SKU-0MGW0UTZ,79,484.15
+    dimensions:
+      width: 95.4
+      height: 71.2
+      depth: 48.9
+      weight: 45.12
+    createdAt: "2024-11-08T02:14:35.691Z"
+    updatedAt: "2024-12-29T19:22:18.601Z"
+  - id: P00028
+    name: Luxurious Ceramic Car
+    category: Books
+    basePrice: 349.8
+    rating: 4.6
+    reviewCount: 157
+    tags[3]: clearance,premium,new-arrival
+    colors[2]:
+      - name: Beige
+        hex: #F5F5DC
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-F80J0V4K,2,351.92
+          XS,SKU-MLPVI35V,87,367.7
+          S,SKU-G6LRMDO8,38,351.31
+          XL,SKU-ZI2187EX,30,359.58
+          L,SKU-XUFH6N9T,53,350.93
+          XXL,SKU-Y149Z3Y5,48,352.56
+      - name: Gray
+        hex: #808080
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-YDEROGRE,9,350.07
+          XL,SKU-2W1TIA1G,89,350.91
+          L,SKU-Y587RYVH,9,363.57
+          XS,SKU-WMAMGLX5,85,350.68
+    dimensions:
+      width: 45.1
+      height: 82.8
+      depth: 89.8
+      weight: 24.59
+    createdAt: "2025-01-04T14:42:29.861Z"
+    updatedAt: "2025-06-14T11:19:05.313Z"
+  - id: P00029
+    name: Elegant Cotton Cheese
+    category: Sports
+    basePrice: 417.95
+    rating: 4.7
+    reviewCount: 473
+    tags[2]: eco-friendly,new-arrival
+    colors[2]:
+      - name: Red
+        hex: #FF0000
+        sizes[4]{size,sku,inStock,price}:
+          S,SKU-DPWYM5JV,14,436.07
+          XL,SKU-HOCMDDT6,64,432.7
+          M,SKU-61F3DKGO,27,429.89
+          XXL,SKU-9MII49ET,10,426.5
+      - name: Green
+        hex: #008000
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-8B5F54ZC,61,434.58
+          XXL,SKU-ZFCRM21Q,4,433.68
+          XL,SKU-2K19XY5R,43,433.74
+          XS,SKU-NAXYCN6P,35,437.26
+          L,SKU-BBNPWFQ4,12,433.76
+    dimensions:
+      width: 75.4
+      height: 79.1
+      depth: 57.1
+      weight: 45.13
+    createdAt: "2024-12-09T11:17:29.545Z"
+    updatedAt: "2024-12-23T00:11:46.384Z"
+  - id: P00030
+    name: Oriental Rubber Bacon
+    category: Home & Garden
+    basePrice: 366.59
+    rating: 1.9
+    reviewCount: 20
+    tags[2]: eco-friendly,bestseller
+    colors[2]:
+      - name: Blue
+        hex: #0000FF
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-NDTGEY3N,9,377.89
+          XXL,SKU-WH62PU5P,62,377.11
+          L,SKU-7IBIZOXL,18,373.47
+          M,SKU-9C8MG1F0,25,368.44
+          XL,SKU-N98OTXQR,0,374.82
+          S,SKU-NYNQXG9F,13,366.85
+      - name: Black
+        hex: #000000
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-BFV6G0W6,49,378.48
+          XXL,SKU-PBD1YPHL,90,369.16
+          XS,SKU-ZTP4SVM6,10,385.67
+    dimensions:
+      width: 99.7
+      height: 42.3
+      depth: 98.9
+      weight: 24.66
+    createdAt: "2025-05-10T20:23:27.068Z"
+    updatedAt: "2025-08-11T13:54:14.229Z"
+  - id: P00031
+    name: Bespoke Concrete Gloves
+    category: Toys
+    basePrice: 107.99
+    rating: 4.6
+    reviewCount: 127
+    tags[2]: limited-edition,eco-friendly
+    colors[4]:
+      - name: Pink
+        hex: #FFC0CB
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-EYL9H5BI,35,124.12
+          XXL,SKU-V8Q4TC7U,19,117.27
+          M,SKU-B6OAOQ1K,18,121.46
+      - name: Green
+        hex: #008000
+        sizes[4]{size,sku,inStock,price}:
+          XL,SKU-R46I1VQT,16,108.64
+          XXL,SKU-L5RU235R,93,113.72
+          L,SKU-P7VKVRW2,22,127.68
+          S,SKU-ZR51YFI2,21,108.41
+      - name: Navy
+        hex: #000080
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-3KXG8BOX,98,115.04
+          XS,SKU-GDK1JX17,14,119.11
+          XXL,SKU-82AJ5DHC,15,108.93
+          S,SKU-LEQLR20S,65,111.9
+          XL,SKU-B25O7R5U,73,115.98
+      - name: Beige
+        hex: #F5F5DC
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-NOX9CF4C,84,123.53
+          XL,SKU-TC5EFHXY,38,114.44
+          XXL,SKU-BS6LCFDL,99,119.54
+          XS,SKU-2HJMML7M,45,109.14
+          S,SKU-CWFJ7MH7,54,112.17
+          M,SKU-RDWDNTXQ,75,120.37
+    dimensions:
+      width: 6.9
+      height: 99.8
+      depth: 41.3
+      weight: 0.46
+    createdAt: "2025-08-07T15:43:27.021Z"
+    updatedAt: "2025-08-25T02:11:18.136Z"
+  - id: P00032
+    name: Handcrafted Aluminum Towels
+    category: Food & Beverage
+    basePrice: 174.18
+    rating: 4.8
+    reviewCount: 350
+    tags[1]: premium
+    colors[3]:
+      - name: Pink
+        hex: #FFC0CB
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-0UF9XT9G,41,175.28
+          XS,SKU-FK1H6LQC,4,192.53
+          S,SKU-0FEP67GX,82,186.94
+      - name: Navy
+        hex: #000080
+        sizes[6]{size,sku,inStock,price}:
+          XXL,SKU-TMXOTSB7,25,190.56
+          S,SKU-OKRXF8WM,6,175.86
+          L,SKU-PE1JP5J2,43,184.71
+          XS,SKU-LX50NQCJ,21,191.25
+          M,SKU-V0O6X4T0,7,180.77
+          XL,SKU-6NNR01OS,31,191.02
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-SKTKSBUU,65,193.69
+          XS,SKU-K83QAHRR,82,192.81
+          XL,SKU-8MJRUVZU,31,179.07
+          XXL,SKU-VCVE3S24,50,182.55
+          M,SKU-GCIRWXGW,69,193.81
+          S,SKU-2FFVQMCH,93,191.01
+    dimensions:
+      width: 65.6
+      height: 65.3
+      depth: 16
+      weight: 13.33
+    createdAt: "2024-12-06T05:38:34.176Z"
+    updatedAt: "2025-06-02T12:06:42.041Z"
+  - id: P00033
+    name: Frozen Marble Shoes
+    category: Electronics
+    basePrice: 412.39
+    rating: 1.4
+    reviewCount: 369
+    tags[2]: on-sale,limited-edition
+    colors[4]:
+      - name: Beige
+        hex: #F5F5DC
+        sizes[6]{size,sku,inStock,price}:
+          XXL,SKU-KPVGGH9I,17,415.03
+          M,SKU-IFCVYSH2,59,423.66
+          S,SKU-ST4JL2RB,56,427.78
+          XL,SKU-FVZ30UNF,51,416.95
+          L,SKU-M2OXLEPV,14,420.48
+          XS,SKU-70454NTH,11,431.44
+      - name: Pink
+        hex: #FFC0CB
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-MKI7BKBT,40,430.64
+          L,SKU-7TLIKT5J,69,426.51
+          XXL,SKU-2TYQ2M5Y,77,416.51
+          XS,SKU-6YVUAD6L,91,417.48
+          XL,SKU-MGSPWZYW,3,422.58
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-XEW7ZMW1,78,413.06
+          XL,SKU-VBGXW6ZL,35,429.54
+          L,SKU-YVO0YBWO,52,413.42
+          S,SKU-8JV6L82N,21,423.57
+          XXL,SKU-RQIZJHJ4,71,430.96
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-Z2S3GGUG,30,423.54
+          XXL,SKU-D3SL7HX1,87,415.61
+          XS,SKU-SEDT5QSB,76,430.66
+          XL,SKU-JBXE1EVZ,70,415.9
+          M,SKU-O56RGRW9,56,421.74
+          S,SKU-JYUOWN31,75,426.04
+    dimensions:
+      width: 15.3
+      height: 11.5
+      depth: 75.7
+      weight: 5.48
+    createdAt: "2024-12-17T13:42:13.167Z"
+    updatedAt: "2025-05-19T08:08:05.846Z"
+  - id: P00034
+    name: Fresh Metal Fish
+    category: Furniture
+    basePrice: 69.1
+    rating: 2.9
+    reviewCount: 326
+    tags[3]: premium,eco-friendly,clearance
+    colors[3]:
+      - name: Black
+        hex: #000000
+        sizes[4]{size,sku,inStock,price}:
+          XXL,SKU-FRQP0A3L,98,76.54
+          XL,SKU-NWPR8JIJ,9,72.72
+          XS,SKU-EDHYTQDR,23,71
+          S,SKU-A87Y5NOC,64,79.46
+      - name: Pink
+        hex: #FFC0CB
+        sizes[5]{size,sku,inStock,price}:
+          XS,SKU-H37EO358,80,79.19
+          L,SKU-ZIE0QGB5,50,88.04
+          XL,SKU-H542AYYR,91,77.45
+          M,SKU-HKYLNU78,78,83.24
+          XXL,SKU-JB6TOZFE,22,75.85
+      - name: Beige
+        hex: #F5F5DC
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-M82GDEUY,8,85.27
+          XXL,SKU-S6LG5M7F,57,87.66
+          XL,SKU-1R686R21,89,88.61
+          S,SKU-VUEW0WY3,31,74.87
+          XS,SKU-ISO1695Z,90,84.77
+          L,SKU-2V63S2P9,59,80.92
+    dimensions:
+      width: 27.3
+      height: 38.2
+      depth: 32.4
+      weight: 15.23
+    createdAt: "2025-10-31T20:08:30.903Z"
+    updatedAt: "2025-11-04T02:26:30.189Z"
+  - id: P00035
+    name: Awesome Cotton Shoes
+    category: Clothing
+    basePrice: 152.82
+    rating: 2.8
+    reviewCount: 411
+    tags[2]: premium,limited-edition
+    colors[4]:
+      - name: Navy
+        hex: #000080
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-6RM55D1R,69,170.47
+          XS,SKU-K8WSDI2L,35,162.19
+          M,SKU-BF72XOIF,27,153.57
+          L,SKU-DQBOHVYK,61,166.91
+          S,SKU-6BO4W2E6,95,164.81
+      - name: Blue
+        hex: #0000FF
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-GBBJGW5H,39,167.4
+          M,SKU-1UHB2EG0,29,171.89
+          XXL,SKU-EV8DJPVF,33,164.71
+          S,SKU-TOQ76W5N,60,159.76
+          XS,SKU-FLSVUBBG,44,155.16
+      - name: Brown
+        hex: #A52A2A
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-96C13QJJ,100,153.4
+          XS,SKU-YHQ3RCLC,14,162.81
+          XL,SKU-V0WKBBU3,1,171.05
+          L,SKU-XQMB30OB,50,163.76
+          M,SKU-OMGLBJYK,79,162.58
+      - name: Green
+        hex: #008000
+        sizes[3]{size,sku,inStock,price}:
+          XL,SKU-FSC99NBF,36,160.57
+          S,SKU-Z5WX1JPC,45,155.73
+          XS,SKU-IKH79S6K,96,170.96
+    dimensions:
+      width: 22.5
+      height: 81.4
+      depth: 63.6
+      weight: 14.82
+    createdAt: "2025-07-06T07:39:20.208Z"
+    updatedAt: "2025-10-27T18:47:10.092Z"
+  - id: P00036
+    name: Handcrafted Marble Chair
+    category: Books
+    basePrice: 210.59
+    rating: 2.5
+    reviewCount: 123
+    tags[1]: eco-friendly
+    colors[3]:
+      - name: Gray
+        hex: #808080
+        sizes[4]{size,sku,inStock,price}:
+          XS,SKU-NQEGQ6JA,68,218.05
+          XXL,SKU-4XCANG5X,29,220.43
+          XL,SKU-X05UJWBO,42,212.6
+          S,SKU-JGZQU01A,65,217.88
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-M192EPIZ,9,225.19
+          S,SKU-8DHPD2FS,86,226.77
+          XXL,SKU-OUHYJYUC,58,222.04
+          XS,SKU-9UC0ZW5J,45,225.33
+          L,SKU-0XY28HRC,21,217.79
+          XL,SKU-UWXXO3O5,68,213.21
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-VZNNHSTI,80,224.13
+          M,SKU-T7GWX086,19,223.38
+          XXL,SKU-3JLU45G7,16,213.49
+    dimensions:
+      width: 59.5
+      height: 34
+      depth: 47.6
+      weight: 1.34
+    createdAt: "2025-09-06T15:40:22.013Z"
+    updatedAt: "2025-10-26T10:56:55.111Z"
+  - id: P00037
+    name: Modern Concrete Fish
+    category: Sports
+    basePrice: 371.49
+    rating: 1.5
+    reviewCount: 56
+    tags[3]: bestseller,clearance,new-arrival
+    colors[4]:
+      - name: Pink
+        hex: #FFC0CB
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-UD7VK0O0,78,387.49
+          S,SKU-8LB7E4SU,53,377.4
+          M,SKU-HZRSEUSW,18,372.99
+      - name: Brown
+        hex: #A52A2A
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-K11LK3YP,36,381.68
+          XL,SKU-DG9XEXDF,49,391.33
+          M,SKU-RIAHWVFE,48,385.82
+      - name: Red
+        hex: #FF0000
+        sizes[4]{size,sku,inStock,price}:
+          L,SKU-LUQUBLLU,95,389.85
+          XS,SKU-IX4ZSA0P,40,372.33
+          XXL,SKU-Q4MHPRL9,100,390.87
+          XL,SKU-7LJA6LYA,90,374.47
+      - name: Blue
+        hex: #0000FF
+        sizes[6]{size,sku,inStock,price}:
+          XXL,SKU-X7OB6AHE,92,377.71
+          M,SKU-A0FXN1ST,28,378.94
+          S,SKU-5EFWR6KT,53,376.06
+          XS,SKU-Y11C4GU2,31,376.39
+          XL,SKU-1CVRKP1Q,38,374.5
+          L,SKU-XRCEXZIB,11,376.62
+    dimensions:
+      width: 16.7
+      height: 53.9
+      depth: 59.2
+      weight: 36.5
+    createdAt: "2025-02-05T04:44:35.559Z"
+    updatedAt: "2025-08-13T02:08:22.361Z"
+  - id: P00038
+    name: Tasty Steel Pants
+    category: Home & Garden
+    basePrice: 203.65
+    rating: 2
+    reviewCount: 58
+    tags[1]: premium
+    colors[3]:
+      - name: Gray
+        hex: #808080
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-2MH9BOVP,89,215.37
+          XL,SKU-ZV9VQU3P,38,218.08
+          S,SKU-7PNM3R4A,49,221.73
+          XS,SKU-XF11OUZA,38,217.65
+          XXL,SKU-JFKFWHRS,62,218.78
+      - name: Navy
+        hex: #000080
+        sizes[6]{size,sku,inStock,price}:
+          XL,SKU-12MRAKI3,7,207.32
+          S,SKU-2OXN2OLQ,64,210.88
+          XS,SKU-9RM35KST,14,204.03
+          M,SKU-QT5A5F8E,21,209.77
+          L,SKU-LKL9W0BK,80,216.39
+          XXL,SKU-9O5YBKA7,43,205.49
+      - name: Blue
+        hex: #0000FF
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-P32HL591,72,213.7
+          XL,SKU-QKB6LVVI,7,216.48
+          XXL,SKU-8YTX0GRO,59,222.01
+    dimensions:
+      width: 92.6
+      height: 37.4
+      depth: 43.6
+      weight: 47.98
+    createdAt: "2025-08-09T16:59:49.096Z"
+    updatedAt: "2025-09-22T05:32:11.081Z"
+  - id: P00039
+    name: Small Ceramic Hat
+    category: Toys
+    basePrice: 226.59
+    rating: 1.5
+    reviewCount: 456
+    tags[2]: new-arrival,eco-friendly
+    colors[3]:
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-LUJCXNS8,37,242.61
+          M,SKU-916ECSEE,86,235.29
+          L,SKU-TL3I1J00,83,230.58
+          S,SKU-JY6OW2UH,22,233.36
+          XXL,SKU-Z31FDZAV,7,242.67
+      - name: Navy
+        hex: #000080
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-WR17XB2G,67,227.62
+          XS,SKU-TK6E8B15,41,234.22
+          L,SKU-VZ9YY99H,52,243.47
+      - name: Gray
+        hex: #808080
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-QJHYKRAL,90,243.84
+          XS,SKU-UYFKS1X0,91,244.31
+          XL,SKU-HON4GSGA,15,242.91
+    dimensions:
+      width: 78.8
+      height: 92.8
+      depth: 53.1
+      weight: 38.87
+    createdAt: "2025-02-16T07:33:27.675Z"
+    updatedAt: "2025-05-05T06:44:31.493Z"
+  - id: P00040
+    name: Generic Bamboo Chicken
+    category: Food & Beverage
+    basePrice: 140.65
+    rating: 3.7
+    reviewCount: 196
+    tags[1]: limited-edition
+    colors[4]:
+      - name: Blue
+        hex: #0000FF
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-CS0MFFXZ,22,157.91
+          M,SKU-8AP46F1Q,33,159.4
+          S,SKU-4PDUCQEI,47,154.29
+          XL,SKU-1X9NQZ8B,42,158.59
+          L,SKU-C9VU5NIB,19,157.48
+          XXL,SKU-HZ8C9DNM,93,145.25
+      - name: Black
+        hex: #000000
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-16X2HGXN,82,152.73
+          L,SKU-O03E9A6O,18,154.1
+          XL,SKU-KTHFNDMQ,37,147.91
+          M,SKU-3VEWKMFV,87,157.31
+          XS,SKU-CIJWMT57,88,143.22
+      - name: Beige
+        hex: #F5F5DC
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-15HCOU6D,45,149.13
+          XL,SKU-UUPPHFC4,58,155.51
+          XS,SKU-XPAT2ZDV,73,149.05
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-XD6BZ7RW,12,143.25
+          S,SKU-INWT28B5,56,143.57
+          M,SKU-KFLJB4GX,29,149.28
+          L,SKU-6FBQ0I59,28,151.83
+          XL,SKU-5IOSTPS0,88,144.28
+          XXL,SKU-SL8CK6OI,49,148.2
+    dimensions:
+      width: 55.6
+      height: 40.5
+      depth: 14.5
+      weight: 14.9
+    createdAt: "2025-03-05T07:52:28.516Z"
+    updatedAt: "2025-08-24T21:05:36.933Z"
+  - id: P00041
+    name: Luxurious Metal Pants
+    category: Electronics
+    basePrice: 106.55
+    rating: 4.7
+    reviewCount: 65
+    tags[3]: clearance,on-sale,bestseller
+    colors[4]:
+      - name: Gray
+        hex: #808080
+        sizes[3]{size,sku,inStock,price}:
+          XL,SKU-O213OGHO,70,114.06
+          S,SKU-V34LLDK2,73,120.8
+          XXL,SKU-I4FYULOC,13,110.15
+      - name: Navy
+        hex: #000080
+        sizes[6]{size,sku,inStock,price}:
+          S,SKU-HVRX5W55,32,123.67
+          L,SKU-14AMQD68,56,124.32
+          M,SKU-H8XIGDL2,91,121.18
+          XL,SKU-TBITNQ9J,77,120.92
+          XS,SKU-N806ELCD,53,115.11
+          XXL,SKU-BYTDIJSH,34,121.53
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          XS,SKU-ZXB7XATG,3,116.33
+          XL,SKU-D4QP98XB,58,118.67
+          XXL,SKU-5YW8PCT1,80,117.5
+          L,SKU-V3M149IO,35,115.9
+          M,SKU-Z4X5EFRV,31,113.46
+      - name: Blue
+        hex: #0000FF
+        sizes[6]{size,sku,inStock,price}:
+          S,SKU-KT3VSMJC,47,116.06
+          L,SKU-548HREM7,93,108.8
+          M,SKU-GS78WI4I,99,111.9
+          XL,SKU-N9NNU3JN,32,110.85
+          XS,SKU-XCVGXVIJ,47,125.39
+          XXL,SKU-A7M6FTXZ,38,109.95
+    dimensions:
+      width: 63.1
+      height: 51.3
+      depth: 41.3
+      weight: 32.49
+    createdAt: "2024-11-14T11:12:31.944Z"
+    updatedAt: "2025-10-22T08:13:43.192Z"
+  - id: P00042
+    name: Sleek Gold Sausages
+    category: Furniture
+    basePrice: 160.29
+    rating: 3.3
+    reviewCount: 384
+    tags[2]: bestseller,premium
+    colors[2]:
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-ZAC8U2UF,69,179.81
+          XXL,SKU-T9BADKQW,83,175.11
+          L,SKU-1EMRXCIZ,4,169.28
+          M,SKU-CRCWG4SS,40,166.25
+          S,SKU-P8TF1DKS,51,171.31
+          XL,SKU-SOZZBFVY,8,170.87
+      - name: Blue
+        hex: #0000FF
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-SOCRITF4,10,172.87
+          M,SKU-HLRQRBD6,78,175.93
+          XXL,SKU-F988I44S,47,173.46
+    dimensions:
+      width: 16.7
+      height: 12.4
+      depth: 17.7
+      weight: 4.98
+    createdAt: "2025-01-21T17:57:34.457Z"
+    updatedAt: "2025-03-08T16:08:49.247Z"
+  - id: P00043
+    name: Generic Cotton Tuna
+    category: Clothing
+    basePrice: 210.59
+    rating: 3.3
+    reviewCount: 267
+    tags[2]: bestseller,new-arrival
+    colors[2]:
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-E5OC9B4M,80,219.96
+          S,SKU-JSW7S1S6,64,219.84
+          XS,SKU-F48D0NHR,32,220.2
+          L,SKU-0VTRTEX9,41,212.06
+          M,SKU-5K3MMUZ2,63,217.44
+      - name: Gray
+        hex: #808080
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-8UEI97LM,70,222.86
+          S,SKU-UAO0X4BO,0,220.44
+          M,SKU-SVFF4BKL,33,215.99
+          XXL,SKU-2GUORNE3,63,219.38
+          XS,SKU-39OM78HP,30,215.08
+    dimensions:
+      width: 87.9
+      height: 52.4
+      depth: 20.5
+      weight: 23.93
+    createdAt: "2025-08-28T23:35:22.743Z"
+    updatedAt: "2025-09-14T14:12:55.464Z"
+  - id: P00044
+    name: Incredible Rubber Bacon
+    category: Books
+    basePrice: 310.05
+    rating: 3.4
+    reviewCount: 427
+    tags[3]: clearance,premium,eco-friendly
+    colors[3]:
+      - name: Red
+        hex: #FF0000
+        sizes[5]{size,sku,inStock,price}:
+          XS,SKU-98B5ZVTA,21,319.36
+          XXL,SKU-ESIKPI0G,30,317.11
+          S,SKU-D5Z0NBXU,37,323.05
+          M,SKU-UY1GIO9L,55,315.09
+          XL,SKU-LFNKCIGI,46,313.88
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-WYMBL0D0,94,311.52
+          XL,SKU-XULDR5T0,22,325
+          XS,SKU-Q1JM11ZE,39,317.99
+      - name: Gray
+        hex: #808080
+        sizes[4]{size,sku,inStock,price}:
+          XXL,SKU-2KFJWBK4,100,310.48
+          S,SKU-GE35SI8Z,28,328.47
+          XL,SKU-QGJOS8KD,5,323.26
+          XS,SKU-Z28U575U,52,329.29
+    dimensions:
+      width: 33.5
+      height: 96.3
+      depth: 37.4
+      weight: 3
+    createdAt: "2024-12-06T05:16:26.035Z"
+    updatedAt: "2025-03-11T13:37:28.756Z"
+  - id: P00045
+    name: Soft Cotton Gloves
+    category: Sports
+    basePrice: 345.72
+    rating: 3.4
+    reviewCount: 324
+    tags[1]: eco-friendly
+    colors[3]:
+      - name: White
+        hex: #FFFFFF
+        sizes[3]{size,sku,inStock,price}:
+          XL,SKU-RIFBY17K,62,356.53
+          M,SKU-JKVV6JZ9,37,356.53
+          XS,SKU-V0J9ULS5,85,358.81
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          S,SKU-4AH61JIP,50,352.57
+          XL,SKU-1E2XKGVC,38,353.5
+          XXL,SKU-M8J27NHG,32,364.01
+          L,SKU-AORWGRC5,31,352.69
+          M,SKU-4AHGZK1H,54,349.99
+          XS,SKU-MWGN1K7F,90,357.49
+      - name: Black
+        hex: #000000
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-YZJ45ZBM,46,346.49
+          S,SKU-Q6V33LJU,86,350.51
+          XL,SKU-TBS0H460,88,364.2
+    dimensions:
+      width: 20.2
+      height: 56.2
+      depth: 83.7
+      weight: 8.61
+    createdAt: "2025-10-15T00:17:38.445Z"
+    updatedAt: "2025-11-02T15:36:07.551Z"
+  - id: P00046
+    name: Frozen Rubber Fish
+    category: Home & Garden
+    basePrice: 80.29
+    rating: 4.5
+    reviewCount: 76
+    tags[1]: bestseller
+    colors[3]:
+      - name: Green
+        hex: #008000
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-CDTVCMVN,25,97.59
+          M,SKU-3EMB7M04,60,92.78
+          XS,SKU-MOPO3DBZ,36,99.02
+          XL,SKU-4FKCL6A4,68,89.35
+          S,SKU-THXFMH1Q,34,88.84
+      - name: Black
+        hex: #000000
+        sizes[4]{size,sku,inStock,price}:
+          S,SKU-2WHDJMJV,55,82.84
+          XS,SKU-QU7447QZ,41,85.76
+          XXL,SKU-GD5D4TH4,90,97
+          M,SKU-ZJP2I4B7,54,90.33
+      - name: Pink
+        hex: #FFC0CB
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-8R0ROQKC,13,99.38
+          L,SKU-HYSKNGQ7,90,86.7
+          S,SKU-9JS935MD,45,84.84
+          XS,SKU-NFVIAI60,39,80.74
+          XL,SKU-OZM5ESH9,55,94.62
+    dimensions:
+      width: 82.2
+      height: 66.2
+      depth: 31.3
+      weight: 0.88
+    createdAt: "2025-05-27T00:11:26.597Z"
+    updatedAt: "2025-08-12T04:19:57.481Z"
+  - id: P00047
+    name: Electronic Cotton Shoes
+    category: Toys
+    basePrice: 309.59
+    rating: 2.1
+    reviewCount: 140
+    tags[1]: bestseller
+    colors[2]:
+      - name: Navy
+        hex: #000080
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-AZCXDKS0,96,310.2
+          XL,SKU-602IHJ8A,39,328.77
+          S,SKU-B40D2OD7,75,310.61
+          L,SKU-Q9Y6LBIF,79,328.39
+          XS,SKU-3QENWDMG,87,326.69
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          S,SKU-SDRCNH20,93,326.11
+          XS,SKU-M8R658R0,22,321.61
+          XL,SKU-CD7A4NRX,63,328.07
+          L,SKU-U5N85111,27,311.17
+          XXL,SKU-Q5SJZIVA,16,310.23
+          M,SKU-2E3FCSPW,40,323.85
+    dimensions:
+      width: 95.9
+      height: 47.9
+      depth: 63.3
+      weight: 43.95
+    createdAt: "2025-08-15T01:33:01.236Z"
+    updatedAt: "2025-08-23T14:18:47.148Z"
+  - id: P00048
+    name: Intelligent Wooden Hat
+    category: Food & Beverage
+    basePrice: 398.75
+    rating: 2.1
+    reviewCount: 35
+    tags[1]: bestseller
+    colors[4]:
+      - name: Red
+        hex: #FF0000
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-Z1R1T80D,31,398.87
+          S,SKU-EXZ8B2AU,60,418.06
+          XS,SKU-UJX3TKG5,33,398.79
+      - name: Brown
+        hex: #A52A2A
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-5M0EQTZS,60,414.11
+          L,SKU-POL39ISS,73,405.49
+          XXL,SKU-YBZ6HMUP,5,418.68
+          S,SKU-TW8K04XD,50,415.36
+          XL,SKU-MEBM4RUW,2,404.55
+          XS,SKU-EIUGZMKM,71,411.19
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          XXL,SKU-5EVKAUYQ,63,403.51
+          XS,SKU-Y2HK39KE,19,402.97
+          M,SKU-YWELS2L0,74,414.46
+          S,SKU-255RN1GO,83,414.13
+          XL,SKU-RM9L4OC8,92,415.51
+          L,SKU-ZRTAVALU,96,416.62
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-BVNLU1HV,32,403.33
+          L,SKU-NBZ1T0XD,84,409.45
+          M,SKU-2PNSXB9S,73,412.85
+          S,SKU-ISINV9N4,81,399.82
+          XS,SKU-R596SM54,69,413.83
+    dimensions:
+      width: 42.9
+      height: 7.7
+      depth: 55.6
+      weight: 40.48
+    createdAt: "2025-07-22T19:54:18.146Z"
+    updatedAt: "2025-09-08T23:43:29.092Z"
+  - id: P00049
+    name: Generic Silk Shoes
+    category: Electronics
+    basePrice: 313.75
+    rating: 2
+    reviewCount: 333
+    tags[3]: eco-friendly,clearance,on-sale
+    colors[2]:
+      - name: Black
+        hex: #000000
+        sizes[6]{size,sku,inStock,price}:
+          XXL,SKU-ST5SFRSJ,0,313.87
+          XS,SKU-TGO39MZF,61,326.68
+          XL,SKU-47K3GV9E,35,315.26
+          L,SKU-2ESR03FG,84,321.83
+          M,SKU-A3G5KW4Q,51,329.27
+          S,SKU-X3OWUNJ6,54,330.29
+      - name: White
+        hex: #FFFFFF
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-OWZT4EYB,71,332.52
+          L,SKU-DIVJ42SF,6,323.86
+          XS,SKU-GZCP2T2Q,44,323.43
+          XL,SKU-5218IEXL,55,322.66
+          S,SKU-X2474SC6,0,323.34
+    dimensions:
+      width: 48.3
+      height: 52.1
+      depth: 67.9
+      weight: 2.43
+    createdAt: "2025-11-04T16:02:05.100Z"
+    updatedAt: "2025-11-06T02:13:50.666Z"
+  - id: P00050
+    name: Recycled Silk Chicken
+    category: Furniture
+    basePrice: 268.64
+    rating: 2.6
+    reviewCount: 118
+    tags[1]: clearance
+    colors[4]:
+      - name: Black
+        hex: #000000
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-4N3PYM6Q,72,271.55
+          S,SKU-0VJNFX18,83,282.18
+          XXL,SKU-BDDQOYV5,50,284.98
+          XS,SKU-GGN56N38,60,283.69
+          M,SKU-IB9NI4W8,23,277.63
+          XL,SKU-QV7ILERL,37,271.14
+      - name: Pink
+        hex: #FFC0CB
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-W59BTBG6,31,284.8
+          M,SKU-AZE8U8BZ,73,278.05
+          XXL,SKU-BT36Z8WG,31,269.93
+          XS,SKU-QMAWUIVG,30,271.97
+          L,SKU-ISG122QS,88,281.44
+      - name: Red
+        hex: #FF0000
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-NTYMCUUE,95,285.18
+          XS,SKU-3EW44IRE,59,286.55
+          M,SKU-KMX9BYD7,91,280.58
+      - name: Gray
+        hex: #808080
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-T63AC5TB,38,286.85
+          XXL,SKU-XREM5MLS,55,269.88
+          XS,SKU-O68OAWX0,6,282.48
+          S,SKU-X0LOIY7A,54,273.97
+          M,SKU-3DDTLNUZ,5,280.92
+    dimensions:
+      width: 37.2
+      height: 18.6
+      depth: 55.4
+      weight: 2.03
+    createdAt: "2025-01-23T08:20:49.703Z"
+    updatedAt: "2025-09-10T18:25:37.694Z"
+  - id: P00051
+    name: Sleek Marble Bike
+    category: Clothing
+    basePrice: 116.29
+    rating: 3.5
+    reviewCount: 405
+    tags[2]: limited-edition,clearance
+    colors[3]:
+      - name: Brown
+        hex: #A52A2A
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-BM9CL5CJ,90,126.67
+          XL,SKU-4FQR5G2H,26,127.43
+          XS,SKU-WO5QAONL,91,126.89
+          L,SKU-WV5S3WB9,43,127.61
+      - name: Green
+        hex: #008000
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-4VB61LJL,9,123.35
+          XXL,SKU-X1CYSZF9,52,127.13
+          L,SKU-ZK6DPRCS,18,131.62
+          XL,SKU-NAVZJ330,34,117.86
+      - name: Navy
+        hex: #000080
+        sizes[5]{size,sku,inStock,price}:
+          L,SKU-3FH51D2V,49,130.02
+          XL,SKU-RMP872ZE,62,133.02
+          M,SKU-F5ZKLPHH,51,117.98
+          XS,SKU-BUTJSISH,93,117.61
+          S,SKU-FP36BJQB,38,117.9
+    dimensions:
+      width: 65.5
+      height: 74
+      depth: 36.5
+      weight: 21.45
+    createdAt: "2025-09-01T16:41:06.475Z"
+    updatedAt: "2025-09-25T10:02:16.064Z"
+  - id: P00052
+    name: Fantastic Metal Salad
+    category: Books
+    basePrice: 396.69
+    rating: 4.4
+    reviewCount: 388
+    tags[3]: limited-edition,bestseller,new-arrival
+    colors[3]:
+      - name: Black
+        hex: #000000
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-DIHLRXOH,40,404.21
+          XXL,SKU-2WYZDLKM,46,415.58
+          XS,SKU-AVJUIMY2,24,416.55
+          L,SKU-4FVI0EAE,17,411.64
+          XL,SKU-9RBCA6GJ,70,416.34
+      - name: Gray
+        hex: #808080
+        sizes[4]{size,sku,inStock,price}:
+          XS,SKU-366RP7AV,87,402.09
+          XXL,SKU-QK2P8OBW,7,409.75
+          L,SKU-Y2AI2XCA,75,408.78
+          XL,SKU-ZE7O9DEY,10,415.68
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          XL,SKU-6VS10TDW,92,408.96
+          M,SKU-BCNYODWZ,91,413.32
+          XXL,SKU-N9FW9I87,78,399.98
+          L,SKU-F960LYQ0,30,402.11
+          S,SKU-IWNR2GDT,95,403.25
+          XS,SKU-UZ1G1S49,86,411.22
+    dimensions:
+      width: 57.5
+      height: 53.4
+      depth: 19.2
+      weight: 2.99
+    createdAt: "2024-12-10T08:49:55.405Z"
+    updatedAt: "2025-01-19T17:54:31.735Z"
+  - id: P00053
+    name: Gorgeous Metal Towels
+    category: Sports
+    basePrice: 95.59
+    rating: 4.6
+    reviewCount: 393
+    tags[2]: bestseller,premium
+    colors[4]:
+      - name: Gray
+        hex: #808080
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-YOFFR2XY,70,103.1
+          XS,SKU-TYAH96QQ,76,100.7
+          XL,SKU-RC5LDJZW,9,113.23
+      - name: Red
+        hex: #FF0000
+        sizes[6]{size,sku,inStock,price}:
+          XL,SKU-AYSKG2C3,48,112.17
+          XXL,SKU-JE43TGVT,95,96.1
+          S,SKU-QJ9VKUUJ,53,96.88
+          XS,SKU-C9LNJATO,55,96
+          L,SKU-8E892H1G,100,112.53
+          M,SKU-5XZGKLYP,25,107.67
+      - name: Pink
+        hex: #FFC0CB
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-HADB9E4L,34,102.35
+          S,SKU-AIYXZUML,67,101.96
+          XXL,SKU-D7YI9XFX,49,110.15
+          XS,SKU-RB6RJQOH,77,112.49
+      - name: Navy
+        hex: #000080
+        sizes[4]{size,sku,inStock,price}:
+          M,SKU-OICGDHNN,22,107.79
+          L,SKU-0FMT6SX9,30,101.39
+          XL,SKU-FHCEI0QE,86,96.82
+          XS,SKU-SF1BX4Y2,99,111.11
+    dimensions:
+      width: 61.1
+      height: 45.3
+      depth: 71.2
+      weight: 42.36
+    createdAt: "2025-03-28T20:46:12.256Z"
+    updatedAt: "2025-10-21T12:58:07.393Z"
+  - id: P00054
+    name: Fresh Metal Soap
+    category: Home & Garden
+    basePrice: 36.89
+    rating: 4.4
+    reviewCount: 272
+    tags[3]: limited-edition,bestseller,premium
+    colors[3]:
+      - name: Navy
+        hex: #000080
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-N8TN674O,79,54.51
+          XXL,SKU-G5DGI04Y,58,37.79
+          S,SKU-XNGBA9UQ,32,53.43
+          XL,SKU-M5F7SVAI,6,39.12
+          XS,SKU-49IHA6I5,35,40.35
+          L,SKU-9Y60NZZY,54,43.31
+      - name: Gray
+        hex: #808080
+        sizes[5]{size,sku,inStock,price}:
+          XS,SKU-D16NFE7V,1,51.2
+          S,SKU-Y0MNFW3V,56,54.06
+          XL,SKU-35X4YVBG,19,47.58
+          L,SKU-3KY07J38,46,39.03
+          XXL,SKU-YWHE1FUB,9,40.22
+      - name: Blue
+        hex: #0000FF
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-JHBAK6WH,72,43.01
+          XXL,SKU-FQVKGK5H,19,39.96
+          XL,SKU-F4K4I23N,54,56.14
+          S,SKU-WGBQYCG6,6,47.14
+          XS,SKU-9BC8AEQN,82,42.5
+    dimensions:
+      width: 13.6
+      height: 97.3
+      depth: 36.3
+      weight: 4.29
+    createdAt: "2025-10-31T23:27:27.540Z"
+    updatedAt: "2025-11-05T08:20:51.860Z"
+  - id: P00055
+    name: Gorgeous Marble Shirt
+    category: Toys
+    basePrice: 456.59
+    rating: 4.7
+    reviewCount: 387
+    tags[3]: bestseller,limited-edition,new-arrival
+    colors[4]:
+      - name: Blue
+        hex: #0000FF
+        sizes[3]{size,sku,inStock,price}:
+          XL,SKU-6CKUZAS6,12,472.06
+          XS,SKU-G8KZWW17,47,470.78
+          L,SKU-LRWXSRD6,23,473.72
+      - name: Green
+        hex: #008000
+        sizes[4]{size,sku,inStock,price}:
+          XL,SKU-PCKTOSQT,27,467.84
+          XS,SKU-39N8DAWP,44,476.01
+          L,SKU-ZCO5XMIJ,39,460.75
+          M,SKU-C9AQCVUK,57,469.69
+      - name: Beige
+        hex: #F5F5DC
+        sizes[5]{size,sku,inStock,price}:
+          S,SKU-EO47ULMY,59,458.94
+          XS,SKU-CR8HIMDZ,11,466.05
+          XL,SKU-68RKBZJA,39,465.08
+          XXL,SKU-VC53VRXC,15,458.83
+          L,SKU-9D4K0DC3,27,463.07
+      - name: Navy
+        hex: #000080
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-4A7RGTQ8,10,474.38
+          S,SKU-BG0102W0,43,459.7
+          XS,SKU-F4OZ5GVV,78,474.73
+          L,SKU-RP43BN1H,26,460.09
+          M,SKU-KSMXOPSN,30,459.94
+    dimensions:
+      width: 28.3
+      height: 16.7
+      depth: 98.4
+      weight: 7.26
+    createdAt: "2024-11-27T02:23:06.999Z"
+    updatedAt: "2025-01-25T04:29:47.926Z"
+  - id: P00056
+    name: Small Metal Mouse
+    category: Food & Beverage
+    basePrice: 326.4
+    rating: 1.4
+    reviewCount: 257
+    tags[2]: on-sale,clearance
+    colors[4]:
+      - name: Navy
+        hex: #000080
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-XEOZDQZS,85,328.45
+          L,SKU-FCFFBH1O,73,329.83
+          M,SKU-MYTNKJPX,59,335.12
+      - name: Red
+        hex: #FF0000
+        sizes[4]{size,sku,inStock,price}:
+          S,SKU-NCEI1M9D,28,332.78
+          XXL,SKU-8UIGCF5B,45,329.2
+          XL,SKU-9YLQMWK3,79,334.89
+          XS,SKU-GU9Y1ZHT,41,331.11
+      - name: Green
+        hex: #008000
+        sizes[6]{size,sku,inStock,price}:
+          XS,SKU-2ZQ9RY16,22,338.05
+          M,SKU-9AZF68FT,72,336.55
+          S,SKU-KU5P8944,43,333.93
+          L,SKU-12O0MM3P,76,343.57
+          XXL,SKU-2GFA141S,74,339.28
+          XL,SKU-RS5OBN48,92,335.09
+      - name: Brown
+        hex: #A52A2A
+        sizes[5]{size,sku,inStock,price}:
+          M,SKU-BWWANVZJ,35,329.52
+          S,SKU-LZPWUX92,2,334.22
+          XXL,SKU-13PKDCWL,50,341.37
+          XS,SKU-VSOBMP06,44,343.29
+          L,SKU-GZITITCH,3,335.95
+    dimensions:
+      width: 10.6
+      height: 98.9
+      depth: 50
+      weight: 16.3
+    createdAt: "2024-11-12T04:31:28.041Z"
+    updatedAt: "2025-06-04T17:06:43.722Z"
+  - id: P00057
+    name: Electronic Rubber Computer
+    category: Electronics
+    basePrice: 357.09
+    rating: 4.3
+    reviewCount: 378
+    tags[3]: premium,clearance,eco-friendly
+    colors[2]:
+      - name: Navy
+        hex: #000080
+        sizes[4]{size,sku,inStock,price}:
+          XXL,SKU-3CRMQGXS,85,358.14
+          XS,SKU-2ZZY4V4X,4,369.64
+          S,SKU-BPGC9J0V,87,357.67
+          L,SKU-E0FRNLHZ,89,359.32
+      - name: Green
+        hex: #008000
+        sizes[5]{size,sku,inStock,price}:
+          XXL,SKU-PZTUAPR5,85,368.26
+          L,SKU-MRWS7Z27,99,361.39
+          XL,SKU-RVPUJS8E,15,367.73
+          M,SKU-W6LP872A,77,361.68
+          XS,SKU-QLCL03VW,57,360.51
+    dimensions:
+      width: 60.8
+      height: 89.2
+      depth: 34.1
+      weight: 2.83
+    createdAt: "2025-05-04T03:55:54.934Z"
+    updatedAt: "2025-08-16T19:09:33.623Z"
+  - id: P00058
+    name: Sleek Rubber Bike
+    category: Furniture
+    basePrice: 153.59
+    rating: 3.4
+    reviewCount: 0
+    tags[3]: eco-friendly,on-sale,bestseller
+    colors[3]:
+      - name: Pink
+        hex: #FFC0CB
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-MT6XMX4B,55,159.36
+          XL,SKU-NQYTWXN8,20,165.89
+          S,SKU-ZM49Y4FL,25,160.14
+      - name: Navy
+        hex: #000080
+        sizes[3]{size,sku,inStock,price}:
+          XS,SKU-6CMQOHZ7,18,168.06
+          L,SKU-25G3GF2H,62,164.14
+          M,SKU-2ROLPPR3,91,164.47
+      - name: Blue
+        hex: #0000FF
+        sizes[3]{size,sku,inStock,price}:
+          L,SKU-PO3VG85I,59,163.92
+          XS,SKU-1Q1T4QPO,67,158.03
+          S,SKU-QGYD7WS3,75,154.04
+    dimensions:
+      width: 8.7
+      height: 26.6
+      depth: 69.1
+      weight: 14.34
+    createdAt: "2025-03-01T03:56:57.023Z"
+    updatedAt: "2025-05-27T17:14:29.280Z"
+  - id: P00059
+    name: Generic Concrete Keyboard
+    category: Clothing
+    basePrice: 155.39
+    rating: 2.4
+    reviewCount: 8
+    tags[2]: limited-edition,new-arrival
+    colors[3]:
+      - name: Gray
+        hex: #808080
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-X1F95KTO,25,169.96
+          XS,SKU-ZP9W2H3Q,85,172.79
+          XXL,SKU-9RZEKZAO,3,155.58
+      - name: Blue
+        hex: #0000FF
+        sizes[5]{size,sku,inStock,price}:
+          XL,SKU-68DYOV4V,39,166.4
+          S,SKU-T5U080WR,77,167.64
+          XS,SKU-CPDJ6RRA,14,171.92
+          L,SKU-KE99UB0N,3,170.65
+          XXL,SKU-P74PKGS2,30,163.35
+      - name: Navy
+        hex: #000080
+        sizes[3]{size,sku,inStock,price}:
+          S,SKU-01876DNW,63,160.15
+          XS,SKU-QO58W12L,43,173.6
+          M,SKU-D5EJEVCW,7,169.57
+    dimensions:
+      width: 35.7
+      height: 24.6
+      depth: 77.5
+      weight: 24.72
+    createdAt: "2025-08-26T13:19:30.159Z"
+    updatedAt: "2025-10-29T11:30:36.650Z"
+  - id: P00060
+    name: Elegant Marble Fish
+    category: Books
+    basePrice: 339.09
+    rating: 2.3
+    reviewCount: 491
+    tags[1]: new-arrival
+    colors[3]:
+      - name: Green
+        hex: #008000
+        sizes[3]{size,sku,inStock,price}:
+          M,SKU-X70BSUFZ,78,347.6
+          L,SKU-EODUSVJA,81,347.11
+          S,SKU-STZJBX39,6,345.89
+      - name: White
+        hex: #FFFFFF
+        sizes[6]{size,sku,inStock,price}:
+          L,SKU-MR1JHVEL,17,352.64
+          M,SKU-8BXVK4TF,87,354.83
+          XL,SKU-14GCZIUT,80,351.5
+          XXL,SKU-STA61CRI,81,355.12
+          XS,SKU-L3QPDXKY,73,341.7
+          S,SKU-X5QWNM5Q,3,359.09
+      - name: Gray
+        hex: #808080
+        sizes[6]{size,sku,inStock,price}:
+          M,SKU-TTX94ER5,19,350.99
+          XS,SKU-8CJQPD4W,67,350.05
+          S,SKU-GRKDKKE2,67,357.98
+          XXL,SKU-Y1IL9UQI,7,356.17
+          L,SKU-93MZQLWT,63,351.71
+          XL,SKU-16A0XTX1,39,353.82
+    dimensions:
+      width: 31.9
+      height: 55.6
+      depth: 17.9
+      weight: 20.81
+    createdAt: "2025-06-10T17:06:10.257Z"
+    updatedAt: "2025-09-11T08:53:15.740Z"
